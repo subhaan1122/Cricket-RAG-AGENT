@@ -220,6 +220,4 @@ This project uses cricket data from public ICC sources. AI responses generated u
 python server.py
 # Then open http://localhost:8000
 ```
-#   C r i c k e t - R A G - A G E N T 
- 
- 
+#
