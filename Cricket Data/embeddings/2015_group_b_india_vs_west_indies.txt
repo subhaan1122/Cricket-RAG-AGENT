@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: India vs West Indies
+Stage: Group B
+Date: 2015-03-06
+Venue: Western Australia Cricket Association Ground, Perth
+Captain India: MS Dhoni
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Group B: India vs West Indies (2015-03-06) at Perth.
+
+West Indies: 182 all out (44.2 ov)
+  JO Holder: 57 (64b, 4x4, 3x6, SR 89.06)
+  DJG Sammy: 26 (55b, 2x4, 0x6, SR 47.27)
+  CH Gayle: 21 (27b, 2x4, 1x6, SR 77.78)
+  JL Carter: 21 (43b, 3x4, 0x6, SR 48.84)
+  JE Taylor: 11 (18b, 1x4, 0x6, SR 61.11)
+  Mohammed Shami: 3/35 (8.0 ov, Econ 4.38)
+  RA Jadeja: 2/27 (8.2 ov, Econ 3.24)
+  UT Yadav: 2/42 (10.0 ov, Econ 4.2)
+  MM Sharma: 1/35 (9.0 ov, Econ 3.89)
+  R Ashwin: 1/38 (9.0 ov, Econ 4.22)
+  Extras: 21
+
+India: 185/6 (39.1 ov)
+  MS Dhoni: 45 (56b, 3x4, 1x6, SR 80.36)
+  V Kohli: 33 (36b, 5x4, 0x6, SR 91.67)
+  SK Raina: 22 (25b, 2x4, 0x6, SR 88.0)
+  R Ashwin: 16 (32b, 0x4, 0x6, SR 50.0)
+  AM Rahane: 14 (34b, 2x4, 0x6, SR 41.18)
+  JE Taylor: 2/33 (8.0 ov, Econ 4.12)
+  AD Russell: 2/43 (8.0 ov, Econ 5.38)
+  DR Smith: 1/22 (5.0 ov, Econ 4.4)
+  KAJ Roach: 1/44 (8.0 ov, Econ 5.5)
+  MN Samuels: 0/10 (3.1 ov, Econ 3.16)
+  Extras: 26
+
+Batting Highlights:
+  Half-century: JO Holder scored 57 off 64 balls (SR 89.06)
+
+Bowling Highlights:
+  Key spell: Mohammed Shami took 3/35
+  Economical spell: RA Jadeja conceded 27 runs in 8.2 overs (Econ 3.24)
+
+Captain Performance:
+  Jason Holder (West Indies): scored 57 off 64 balls
+  MS Dhoni (India): scored 45 off 56 balls
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  India lost 6 early wickets.
+  West Indies lost 4 wickets in the powerplay.
+
+Result: India won by 4 wickets
+Toss: West Indies won and chose to bat
+Player of the Match: Mohammed Shami

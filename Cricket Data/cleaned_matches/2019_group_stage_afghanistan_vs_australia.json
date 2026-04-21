@@ -1,0 +1,54 @@
+{
+  "match_id": "f34f56c64f9c",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "County Ground, Bristol",
+  "city": "Bristol",
+  "date": "2019-06-01",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Aaron Finch"
+  },
+  "player_of_match": "DA Warner",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 207,
+      "wickets": 10,
+      "overs": 38.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 209,
+      "wickets": 3,
+      "overs": 34.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_australia.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Australia (2019-06-01) at Bristol.\nAfghanistan: 207 all out (38.2 ov)\nAustralia: 209/3 (34.5 ov)\nAustralia won by 7 wickets."
+}

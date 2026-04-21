@@ -1,0 +1,374 @@
+{
+  "match_id": "c584246e3a79",
+  "world_cup_year": 2007,
+  "stage": "Group D",
+  "venue": "Sabina Park, Kingston",
+  "city": "Jamaica",
+  "date": "2007-03-13",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "54 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brian Lara",
+    "team2": "Inzamam-ul-Haq"
+  },
+  "player_of_match": "DR Smith",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 241,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "MN Samuels",
+          "runs": 63,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 90.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 49,
+          "balls": 65,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 75.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BC Lara",
+          "runs": 37,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 66.07,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DR Smith",
+          "runs": 32,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 213.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 19,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.16,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Iftikhar Anjum",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 44,
+          "wickets": 3,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Umar Gul",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 4.22,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 2,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Danish Kaneria",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Naved-ul-Hasan",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 5.44,
+          "wides": 0,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 64,
+          "wickets": 2,
+          "overs": "19.2"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 77,
+          "wickets": 3,
+          "overs": "23.5"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 168,
+          "wickets": 4,
+          "overs": "41.1"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 181,
+          "wickets": 5,
+          "overs": "43.6"
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 183,
+          "wickets": 6,
+          "overs": "44.5"
+        },
+        {
+          "player": "DR Smith",
+          "runs": 223,
+          "wickets": 7,
+          "overs": "48.2"
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 228,
+          "wickets": 8,
+          "overs": "49.1"
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 232,
+          "wickets": 9,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 187,
+      "wickets": 10,
+      "overs": 47.2,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "Shoaib Malik",
+          "runs": 62,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 114.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Yousuf",
+          "runs": 37,
+          "balls": 72,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Inzamam-ul-Haq",
+          "runs": 36,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.38,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Iftikhar Anjum",
+          "runs": 11,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 11,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DR Smith",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Bravo",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 4.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DBL Powell",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CD Collymore",
+          "overs": "8.2",
+          "maidens": 3,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 3.24,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imran Nazir",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 17,
+          "wickets": 2,
+          "overs": "3.6"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 39,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 99,
+          "wickets": 4,
+          "overs": "28.6"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 116,
+          "wickets": 5,
+          "overs": "32.4"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 116,
+          "wickets": 6,
+          "overs": "32.5"
+        },
+        {
+          "player": "Naved-ul-Hasan",
+          "runs": 144,
+          "wickets": 7,
+          "overs": "40.2"
+        },
+        {
+          "player": "Iftikhar Anjum",
+          "runs": 187,
+          "wickets": 8,
+          "overs": "46.5"
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 187,
+          "wickets": 9,
+          "overs": "46.6"
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 187,
+          "wickets": 10,
+          "overs": "47.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_d_pakistan_vs_west_indies.json",
+  "match_summary": "2007 World Cup Group D: West Indies vs Pakistan (2007-03-13) at Jamaica.\nWest Indies: 241/9 (50.0 ov)\n  MN Samuels: 63 (70b, 5x4, 3x6)\n  RR Sarwan: 49 (65b, 9x4, 0x6)\n  BC Lara: 37 (56b, 3x4, 1x6)\n  Iftikhar Anjum: 3/44 (10.0 ov)\n  Umar Gul: 2/38 (9.0 ov)\n  Mohammad Hafeez: 2/39 (9.0 ov)\nPakistan: 187 all out (47.2 ov)\n  Shoaib Malik: 62 (54b, 6x4, 1x6)\n  Mohammad Yousuf: 37 (72b, 1x4, 0x6)\n  Inzamam-ul-Haq: 36 (65b, 4x4, 0x6)\n  DR Smith: 3/36 (10.0 ov)\n  DJ Bravo: 3/42 (9.0 ov)\n  DBL Powell: 2/42 (10.0 ov)\nWest Indies won by 54 runs.\nPlayer of the Match: DR Smith."
+}

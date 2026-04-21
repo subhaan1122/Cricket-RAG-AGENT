@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: Netherlands vs South Africa
+Stage: Group B
+Date: 2011-03-03
+Venue: Punjab Cricket Association Stadium, Mohali, Chandigarh
+Captain Netherlands: Peter Borren
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2011 World Cup Group B: Netherlands vs South Africa (2011-03-03) at Chandigarh.
+
+South Africa: 351/5 (50.0 ov)
+  AB de Villiers: 134 (98b, 13x4, 4x6, SR 136.73)
+  HM Amla: 113 (130b, 8x4, 0x6, SR 86.92)
+  JP Duminy: 40 (15b, 2x4, 4x6, SR 266.67)
+  GC Smith: 20 (32b, 1x4, 0x6, SR 62.5)
+  F du Plessis: 18 (14b, 1x4, 0x6, SR 128.57)
+  RN ten Doeschate: 3/72 (10.0 ov, Econ 7.2)
+  BP Loots: 1/60 (9.0 ov, Econ 6.67)
+  Mudassar Bukhari: 0/44 (10.0 ov, Econ 4.4)
+  PM Seelaar: 0/74 (10.0 ov, Econ 7.4)
+  BA Westdijk: 0/76 (9.0 ov, Econ 8.44)
+  Extras: 24
+
+Netherlands: 120 all out (34.5 ov)
+  W Barresi: 44 (66b, 5x4, 0x6, SR 66.67)
+  B Zuiderent: 15 (26b, 1x4, 1x6, SR 57.69)
+  TN de Grooth: 12 (26b, 0x4, 0x6, SR 46.15)
+  RN ten Doeschate: 11 (21b, 0x4, 0x6, SR 52.38)
+  AN Kervezee: 10 (18b, 1x4, 0x6, SR 55.56)
+  Imran Tahir: 3/19 (6.5 ov, Econ 2.78)
+  JH Kallis: 2/19 (6.0 ov, Econ 3.17)
+  RJ Peterson: 2/22 (5.0 ov, Econ 4.4)
+  JP Duminy: 1/16 (6.0 ov, Econ 2.67)
+  DW Steyn: 1/26 (6.0 ov, Econ 4.33)
+  Extras: 8
+
+Batting Highlights:
+  Century: AB de Villiers scored 134 off 98 balls (SR 136.73, 13 fours, 4 sixes)
+  Century: HM Amla scored 113 off 130 balls (SR 86.92, 8 fours, 0 sixes)
+  Quickfire innings: JP Duminy smashed 40 off 15 balls at SR 266.67
+
+Bowling Highlights:
+  Key spell: RN ten Doeschate took 3/72
+  Key spell: Imran Tahir took 3/19
+  Economical spell: JH Kallis conceded 19 runs in 6.0 overs (Econ 3.17)
+  Economical spell: JP Duminy conceded 16 runs in 6.0 overs (Econ 2.67)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 20 off 32 balls
+
+Key Moments:
+  South Africa lost 5 early wickets.
+  Netherlands lost 10 early wickets.
+  South Africa exploded in the death overs (136 runs at 13.6 RPO).
+
+Result: South Africa won by 231 runs
+Toss: Netherlands won and chose to field
+Player of the Match: AB de Villiers

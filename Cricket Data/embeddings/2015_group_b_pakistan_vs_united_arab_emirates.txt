@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2015
+Match: Pakistan vs United Arab Emirates
+Stage: Group B
+Date: 2015-03-04
+Venue: McLean Park, Napier
+Captain Pakistan: Misbah-ul-Haq
+Captain United Arab Emirates: Mohammad Tauqir
+
+Match Summary:
+  2015 World Cup Group B: Pakistan vs United Arab Emirates (2015-03-04) at Napier.
+
+Pakistan: 339/6 (50.0 ov)
+  Ahmed Shehzad: 93 (105b, 8x4, 1x6, SR 88.57)
+  Haris Sohail: 70 (83b, 5x4, 1x6, SR 84.34)
+  Misbah-ul-Haq: 65 (49b, 3x4, 2x6, SR 132.65)
+  Sohaib Maqsood: 45 (31b, 4x4, 2x6, SR 145.16)
+  Shahid Afridi: 21 (7b, 1x4, 2x6, SR 300.0)
+  AM Guruge: 4/56 (8.0 ov, Econ 7.0)
+  Mohammad Naveed: 1/50 (10.0 ov, Econ 5.0)
+  Mohammad Tauqir: 0/52 (10.0 ov, Econ 5.2)
+  Khurram Khan: 0/21 (3.0 ov, Econ 7.0)
+  Krishna Chandran: 0/58 (8.0 ov, Econ 7.25)
+  Extras: 16
+
+United Arab Emirates: 210/8 (50.0 ov)
+  Shaiman Anwar: 62 (88b, 4x4, 2x6, SR 70.45)
+  Khurram Khan: 43 (54b, 3x4, 1x6, SR 79.63)
+  Amjad Javed: 40 (33b, 5x4, 2x6, SR 121.21)
+  SP Patil: 36 (68b, 2x4, 0x6, SR 52.94)
+  Amjad Ali: 14 (30b, 2x4, 0x6, SR 46.67)
+  Shahid Afridi: 2/35 (10.0 ov, Econ 3.5)
+  Wahab Riaz: 2/54 (10.0 ov, Econ 5.4)
+  Sohail Khan: 2/54 (9.0 ov, Econ 6.0)
+  Rahat Ali: 1/30 (10.0 ov, Econ 3.0)
+  Sohaib Maqsood: 1/16 (5.0 ov, Econ 3.2)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: Ahmed Shehzad scored 93 off 105 balls (SR 88.57)
+  Half-century: Haris Sohail scored 70 off 83 balls (SR 84.34)
+  Half-century: Misbah-ul-Haq scored 65 off 49 balls (SR 132.65)
+  Half-century: Shaiman Anwar scored 62 off 88 balls (SR 70.45)
+
+Bowling Highlights:
+  Match-changing spell: AM Guruge took 4/56
+  Economical spell: Shahid Afridi conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: Rahat Ali conceded 30 runs in 10.0 overs (Econ 3.0)
+  Economical spell: Sohaib Maqsood conceded 16 runs in 5.0 overs (Econ 3.2)
+
+Captain Performance:
+  Misbah-ul-Haq (Pakistan): scored 65 off 49 balls
+
+Key Moments:
+  Pakistan lost 6 early wickets.
+  United Arab Emirates lost 8 early wickets.
+  Pakistan exploded in the death overs (124 runs at 12.4 RPO).
+  United Arab Emirates lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 129 runs
+Toss: United Arab Emirates won and chose to field
+Player of the Match: Ahmed Shehzad

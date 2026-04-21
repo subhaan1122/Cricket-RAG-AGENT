@@ -1,0 +1,320 @@
+{
+  "match_id": "a436e4961bff",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "Pallekele International Cricket Stadium",
+  "city": "",
+  "date": "2011-03-14",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "7 wickets",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Shahid Afridi",
+    "team2": "Elton Chigumbura"
+  },
+  "player_of_match": "Umar Gul",
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "runs": 151,
+      "wickets": 7,
+      "overs": 39.4,
+      "extras": 5,
+      "top_batters": [
+        {
+          "name": "CR Ervine",
+          "runs": 52,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.41,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "E Chigumbura",
+          "runs": 32,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "T Taibu",
+          "runs": 19,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "P Utseya",
+          "runs": 18,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GA Lamb",
+          "runs": 16,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Umar Gul",
+          "overs": "7.4",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 4.7,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BRM Taylor",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 5,
+          "wickets": 2,
+          "overs": "1.6"
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 13,
+          "wickets": 3,
+          "overs": "5.2"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 43,
+          "wickets": 4,
+          "overs": "12.4"
+        },
+        {
+          "player": "GA Lamb",
+          "runs": 84,
+          "wickets": 5,
+          "overs": "23.5"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 103,
+          "wickets": 6,
+          "overs": "29.3"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 151,
+          "wickets": 7,
+          "overs": "39.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 164,
+      "wickets": 3,
+      "overs": 34.1,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "Asad Shafiq",
+          "runs": 78,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 80.41,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 49,
+          "balls": 65,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 13,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "runs": 8,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RW Price",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 2.62,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AG Cremer",
+          "overs": "6.1",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 5.03,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Lamb",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 6.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Masakadza",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 7.33,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 17,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 99,
+          "wickets": 2,
+          "overs": "22.2"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "23.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_pakistan_vs_zimbabwe.json",
+  "match_summary": "2011 World Cup Group A: Pakistan vs Zimbabwe (2011-03-14) at Pallekele International Cricket Stadium.\nZimbabwe: 151/7 (39.4 ov)\n  CR Ervine: 52 (82b, 5x4, 0x6)\n  E Chigumbura: 32* (46b, 2x4, 0x6)\n  Umar Gul: 3/36 (7.4 ov)\nPakistan: 164/3 (34.1 ov)\n  Asad Shafiq: 78* (97b, 7x4, 0x6)\n  Mohammad Hafeez: 49 (65b, 6x4, 0x6)\n  RW Price: 2/21 (8.0 ov)\nPakistan won by 7 wickets (D/L).\nPlayer of the Match: Umar Gul."
+}

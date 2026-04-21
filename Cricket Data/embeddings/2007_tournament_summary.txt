@@ -1,0 +1,50 @@
+ICC Cricket World Cup 2007 — Tournament Summary
+Host(s): West Indies
+Format: 16 teams – 4 groups of 4, Super Eight, Semi-finals, Final
+Teams: Australia, Bangladesh, Bermuda, Canada, England, India, Ireland, Kenya, Netherlands, New Zealand, Pakistan, Scotland, South Africa, Sri Lanka, West Indies, Zimbabwe
+Total Matches: 51
+Winner: Australia
+Runner-up: Sri Lanka
+Player of the Tournament: Glenn McGrath
+Top Run Scorer: ML Hayden (659 runs)
+Top Wicket Taker: GD McGrath (26 wickets)
+Highest Individual Score: Imran Nazir — 160 vs Zimbabwe (Group D)
+
+Semi-finalists: Australia, New Zealand, South Africa, Sri Lanka
+Finalists: Australia, Sri Lanka
+
+Team Standings:
+  Australia: P11 W11 L0 (Win% 100.0)
+  Sri Lanka: P11 W8 L3 (Win% 72.7)
+  New Zealand: P10 W7 L3 (Win% 70.0)
+  South Africa: P10 W6 L4 (Win% 60.0)
+  England: P9 W5 L4 (Win% 55.6)
+  West Indies: P9 W4 L5 (Win% 44.4)
+  Bangladesh: P9 W3 L6 (Win% 33.3)
+  Ireland: P9 W2 L7 (Win% 22.2)
+  India: P3 W1 L2 (Win% 33.3)
+  Kenya: P3 W1 L2 (Win% 33.3)
+  Netherlands: P3 W1 L2 (Win% 33.3)
+  Pakistan: P3 W1 L2 (Win% 33.3)
+  Zimbabwe: P3 W1 L2 (Win% 33.3)
+  Bermuda: P3 W0 L3 (Win% 0.0)
+  Canada: P3 W0 L3 (Win% 0.0)
+  Scotland: P3 W0 L3 (Win% 0.0)
+
+Captains:
+  Australia: Ricky Ponting
+  Bangladesh: Habibul Bashar
+  Bermuda: Irving Romaine
+  Canada: John Davison
+  England: Michael Vaughan
+  India: Rahul Dravid
+  Ireland: Trent Johnston
+  Kenya: Steve Tikolo
+  Netherlands: Luuk van Troost
+  New Zealand: Stephen Fleming
+  Pakistan: Inzamam-ul-Haq
+  Scotland: Craig Wright
+  South Africa: Graeme Smith
+  Sri Lanka: Mahela Jayawardene
+  West Indies: Brian Lara
+  Zimbabwe: Prosper Utseya

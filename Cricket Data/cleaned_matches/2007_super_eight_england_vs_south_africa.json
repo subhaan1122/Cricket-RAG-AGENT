@@ -1,0 +1,306 @@
+{
+  "match_id": "a7024e27621b",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Kensington Oval, Bridgetown",
+  "city": "Barbados",
+  "date": "2007-04-17",
+  "teams": {
+    "team1": "England",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Vaughan",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "AJ Hall",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 154,
+      "wickets": 10,
+      "overs": 48.0,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "AJ Strauss",
+          "runs": 46,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 68.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PD Collingwood",
+          "runs": 30,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 27,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.36,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MP Vaughan",
+          "runs": 17,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.74,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AJ Hall",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 18,
+          "wickets": 5,
+          "economy": 1.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Nel",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 3.5,
+          "wides": 4,
+          "no_balls": 2
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 2.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 1.7,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "IR Bell",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "7.3"
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "12.2"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 53,
+          "wickets": 3,
+          "overs": "16.2"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 111,
+          "wickets": 4,
+          "overs": "32.4"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 115,
+          "wickets": 5,
+          "overs": "33.5"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 119,
+          "wickets": 6,
+          "overs": "35.1"
+        },
+        {
+          "player": "PA Nixon",
+          "runs": 121,
+          "wickets": 7,
+          "overs": "35.6"
+        },
+        {
+          "player": "SI Mahmood",
+          "runs": 121,
+          "wickets": 8,
+          "overs": "37.1"
+        },
+        {
+          "player": "MS Panesar",
+          "runs": 144,
+          "wickets": 9,
+          "overs": "44.3"
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 154,
+          "wickets": 10,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 157,
+      "wickets": 1,
+      "overs": 19.2,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "GC Smith",
+          "runs": 89,
+          "balls": 58,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 153.45,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 42,
+          "balls": 35,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 17,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Flintoff",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SI Mahmood",
+          "overs": "4.2",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 11.31,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "MS Panesar",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 12.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AB de Villiers",
+          "runs": 85,
+          "wickets": 1,
+          "overs": "9.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_england_vs_south_africa.json",
+  "match_summary": "2007 World Cup Super Eight: England vs South Africa (2007-04-17) at Barbados.\nEngland: 154 all out (48.0 ov)\n  AJ Strauss: 46 (67b, 2x4, 1x6)\n  PD Collingwood: 30 (57b, 3x4, 0x6)\n  AJ Hall: 5/18 (10.0 ov)\n  A Nel: 3/35 (10.0 ov)\nSouth Africa: 157/1 (19.2 ov)\n  GC Smith: 89* (58b, 13x4, 0x6)\n  AB de Villiers: 42 (35b, 8x4, 0x6)\nSouth Africa won by 9 wickets.\nPlayer of the Match: AJ Hall."
+}

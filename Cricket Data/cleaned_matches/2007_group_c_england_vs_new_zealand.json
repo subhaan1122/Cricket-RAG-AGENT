@@ -1,0 +1,326 @@
+{
+  "match_id": "0bb8839b8d22",
+  "world_cup_year": 2007,
+  "stage": "Group C",
+  "venue": "Beausejour Stadium, Gros Islet",
+  "city": "St Lucia",
+  "date": "2007-03-16",
+  "teams": {
+    "team1": "England",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Vaughan",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "SB Styris",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 209,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "KP Pietersen",
+          "runs": 60,
+          "balls": 92,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 65.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PA Nixon",
+          "runs": 42,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 102.44,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "PD Collingwood",
+          "runs": 31,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LE Plunkett",
+          "runs": 29,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 85.29,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MP Vaughan",
+          "runs": 26,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 1.9,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 2,
+          "economy": 3.57,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "JEC Franklin",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 1,
+          "no_balls": 4
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 4.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JS Patel",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "EC Joyce",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 30,
+          "wickets": 2,
+          "overs": "8.5"
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 52,
+          "wickets": 3,
+          "overs": "15.3"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "34.6"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 133,
+          "wickets": 5,
+          "overs": "35.3"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 134,
+          "wickets": 6,
+          "overs": "35.6"
+        },
+        {
+          "player": "JWM Dalrymple",
+          "runs": 138,
+          "wickets": 7,
+          "overs": "38.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 210,
+      "wickets": 4,
+      "overs": 41.0,
+      "extras": 26,
+      "top_batters": [
+        {
+          "name": "SB Styris",
+          "runs": 87,
+          "balls": 113,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 76.99,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JDP Oram",
+          "runs": 63,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 75.9,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 27,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JM Anderson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 2,
+          "economy": 4.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MS Panesar",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 6.14,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "KP Pietersen",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 2,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Flintoff",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 2.12,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "L Vincent",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 3,
+          "wickets": 2,
+          "overs": "1.2"
+        },
+        {
+          "player": "SP Fleming",
+          "runs": 19,
+          "wickets": 3,
+          "overs": "4.6"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 72,
+          "wickets": 4,
+          "overs": "15.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_c_england_vs_new_zealand.json",
+  "match_summary": "2007 World Cup Group C: England vs New Zealand (2007-03-16) at St Lucia.\nEngland: 209/7 (50.0 ov)\n  KP Pietersen: 60 (92b, 4x4, 1x6)\n  PA Nixon: 42* (41b, 4x4, 0x6)\n  PD Collingwood: 31 (54b, 2x4, 0x6)\n  SE Bond: 2/19 (10.0 ov)\n  SB Styris: 2/25 (7.0 ov)\n  JEC Franklin: 2/43 (9.0 ov)\nNew Zealand: 210/4 (41.0 ov)\n  SB Styris: 87* (113b, 9x4, 0x6)\n  JDP Oram: 63* (83b, 4x4, 1x6)\n  JM Anderson: 2/39 (8.0 ov)\nNew Zealand won by 6 wickets.\nPlayer of the Match: SB Styris."
+}

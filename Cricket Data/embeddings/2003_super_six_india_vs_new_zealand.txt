@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2003
+Match: New Zealand vs India
+Stage: Super Six
+Date: 2003-03-14
+Venue: SuperSport Park, Centurion, Centurion
+Captain New Zealand: Stephen Fleming
+Captain India: Sourav Ganguly
+
+Match Summary:
+  2003 World Cup Super Six: New Zealand vs India (2003-03-14) at Centurion.
+
+New Zealand: 146 all out (45.1 ov)
+  SP Fleming: 30 (59b, 4x4, 0x6, SR 50.85)
+  JDP Oram: 23 (54b, 1x4, 0x6, SR 42.59)
+  CL Cairns: 20 (26b, 1x4, 0x6, SR 76.92)
+  CZ Harris: 17 (37b, 2x4, 0x6, SR 45.95)
+  SB Styris: 15 (21b, 1x4, 0x6, SR 71.43)
+  Z Khan: 4/42 (8.0 ov, Econ 5.25)
+  Harbhajan Singh: 2/28 (10.0 ov, Econ 2.8)
+  D Mongia: 1/0 (0.1 ov, Econ 0.0)
+  V Sehwag: 1/3 (2.0 ov, Econ 1.5)
+  A Nehra: 1/24 (10.0 ov, Econ 2.4)
+  Extras: 13
+
+India: 150/3 (40.4 ov)
+  M Kaif: 68 (129b, 8x4, 0x6, SR 52.71)
+  R Dravid: 53 (89b, 7x4, 0x6, SR 59.55)
+  SR Tendulkar: 15 (16b, 3x4, 0x6, SR 93.75)
+  SC Ganguly: 3 (6b, 0x4, 0x6, SR 50.0)
+  V Sehwag: 1 (6b, 0x4, 0x6, SR 16.67)
+  SE Bond: 2/23 (8.0 ov, Econ 2.88)
+  DR Tuffey: 1/41 (10.0 ov, Econ 4.1)
+  CD McMillan: 0/4 (2.0 ov, Econ 2.0)
+  DL Vettori: 0/18 (5.0 ov, Econ 3.6)
+  CZ Harris: 0/15 (4.0 ov, Econ 3.75)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: M Kaif scored 68 off 129 balls (SR 52.71)
+  Half-century: R Dravid scored 53 off 89 balls (SR 59.55)
+
+Bowling Highlights:
+  Match-changing spell: Z Khan took 4/42
+  Economical spell: Harbhajan Singh conceded 28 runs in 10.0 overs (Econ 2.8)
+  Economical spell: A Nehra conceded 24 runs in 10.0 overs (Econ 2.4)
+  Economical spell: SE Bond conceded 23 runs in 8.0 overs (Econ 2.88)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 30 off 59 balls
+  Sourav Ganguly (India): scored 3 off 6 balls
+
+Key Moments:
+  New Zealand lost 10 early wickets.
+  India lost 3 early wickets.
+  New Zealand lost 3 wickets in the powerplay.
+  India lost 3 wickets in the powerplay.
+  India exploded in the death overs (9 runs at 13.5 RPO).
+
+Result: India won by 7 wickets
+Toss: India won and chose to field
+Player of the Match: Z Khan

@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Scotland
+Stage: Group A
+Date: 2007-03-14
+Venue: Warner Park, Basseterre, St Kitts
+Captain Australia: Ricky Ponting
+Captain Scotland: Craig Wright
+
+Match Summary:
+  2007 World Cup Group A: Australia vs Scotland (2007-03-14) at St Kitts.
+
+Australia: 334/6 (50.0 ov)
+  RT Ponting: 113 (93b, 9x4, 5x6, SR 121.51)
+  ML Hayden: 60 (73b, 6x4, 1x6, SR 82.19)
+  AC Gilchrist: 46 (55b, 7x4, 0x6, SR 83.64)
+  GB Hogg: 40 (15b, 3x4, 3x6, SR 266.67)
+  BJ Hodge: 29 (28b, 3x4, 0x6, SR 103.57)
+  RM Haq: 2/49 (7.0 ov, Econ 7.0)
+  GA Rogers: 1/52 (10.0 ov, Econ 5.2)
+  PJC Hoffmann: 1/57 (10.0 ov, Econ 5.7)
+  CM Wright: 1/58 (10.0 ov, Econ 5.8)
+  DR Brown: 1/86 (9.0 ov, Econ 9.56)
+  Extras: 9
+
+Scotland: 131/9 (40.1 ov)
+  CJO Smith: 51 (76b, 7x4, 0x6, SR 67.11)
+  DR Brown: 19 (37b, 3x4, 0x6, SR 51.35)
+  RM Haq: 16 (22b, 2x4, 0x6, SR 72.73)
+  DF Watts: 9 (25b, 0x4, 0x6, SR 36.0)
+  GA Rogers: 6 (19b, 0x4, 0x6, SR 31.58)
+  GD McGrath: 3/14 (6.0 ov, Econ 2.33)
+  SW Tait: 2/45 (8.0 ov, Econ 5.62)
+  GB Hogg: 1/16 (7.1 ov, Econ 2.23)
+  BJ Hodge: 1/17 (6.0 ov, Econ 2.83)
+  NW Bracken: 0/12 (6.0 ov, Econ 2.0)
+  Extras: 16
+
+Batting Highlights:
+  Century: RT Ponting scored 113 off 93 balls (SR 121.51, 9 fours, 5 sixes)
+  Half-century: ML Hayden scored 60 off 73 balls (SR 82.19)
+  Quickfire innings: GB Hogg smashed 40 off 15 balls at SR 266.67
+  Half-century: CJO Smith scored 51 off 76 balls (SR 67.11)
+
+Bowling Highlights:
+  Key spell: GD McGrath took 3/14
+  Economical spell: GB Hogg conceded 16 runs in 7.1 overs (Econ 2.23)
+  Economical spell: BJ Hodge conceded 17 runs in 6.0 overs (Econ 2.83)
+  Economical spell: NW Bracken conceded 12 runs in 6.0 overs (Econ 2.0)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 113 off 93 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  Scotland lost 9 early wickets.
+  Scotland lost 3 wickets in the powerplay.
+
+Result: Australia won by 203 runs
+Toss: Scotland won and chose to field
+Player of the Match: RT Ponting

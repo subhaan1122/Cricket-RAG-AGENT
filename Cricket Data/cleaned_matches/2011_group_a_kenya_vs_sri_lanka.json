@@ -1,0 +1,306 @@
+{
+  "match_id": "753f88ac1e40",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-01",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "Kenya"
+  },
+  "toss": {
+    "winner": "Kenya",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kumar Sangakkara",
+    "team2": "Jimmy Kamande"
+  },
+  "player_of_match": "SL Malinga",
+  "innings": [
+    {
+      "team": "Kenya",
+      "runs": 142,
+      "wickets": 10,
+      "overs": 43.4,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "CO Obuya",
+          "runs": 52,
+          "balls": 100,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DO Obuya",
+          "runs": 51,
+          "balls": 106,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NN Odhiambo",
+          "runs": 8,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Waters",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "7.4",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 6,
+          "economy": 4.96,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 2.86,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BAW Mendis",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 2.56,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MA Ouma",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.2"
+        },
+        {
+          "player": "SR Waters",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "2.1"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 102,
+          "wickets": 3,
+          "overs": "31.4"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 120,
+          "wickets": 4,
+          "overs": "36.2"
+        },
+        {
+          "player": "DO Obuya",
+          "runs": 127,
+          "wickets": 5,
+          "overs": "40.1"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 128,
+          "wickets": 6,
+          "overs": "41.1"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 137,
+          "wickets": 7,
+          "overs": "41.6"
+        },
+        {
+          "player": "PJ Ongondo",
+          "runs": 137,
+          "wickets": 8,
+          "overs": "43.1"
+        },
+        {
+          "player": "SO Ngoche",
+          "runs": 137,
+          "wickets": 9,
+          "overs": "43.2"
+        },
+        {
+          "player": "E Otieno",
+          "runs": 142,
+          "wickets": 10,
+          "overs": "43.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 146,
+      "wickets": 1,
+      "overs": 18.4,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "WU Tharanga",
+          "runs": 67,
+          "balls": 59,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 113.56,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 44,
+          "balls": 30,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 146.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 27,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "E Otieno",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "NN Odhiambo",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "1.4",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 7.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Ongondo",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 9.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Ngoche",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 9.75,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Dilshan",
+          "runs": 72,
+          "wickets": 1,
+          "overs": "8.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_kenya_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Group A: Sri Lanka vs Kenya (2011-03-01) at Colombo.\nKenya: 142 all out (43.4 ov)\n  CO Obuya: 52 (100b, 4x4, 0x6)\n  DO Obuya: 51 (106b, 3x4, 0x6)\n  SL Malinga: 6/38 (7.4 ov)\nSri Lanka: 146/1 (18.4 ov)\n  WU Tharanga: 67* (59b, 12x4, 0x6)\n  TM Dilshan: 44 (30b, 8x4, 0x6)\nSri Lanka won by 9 wickets.\nPlayer of the Match: SL Malinga."
+}

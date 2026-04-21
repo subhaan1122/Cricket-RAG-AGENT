@@ -1,0 +1,753 @@
+{
+  "match_info": {
+    "match_id": "5a4999bd698b",
+    "world_cup_year": 2007,
+    "stage": "Semi-Final",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "date": "2007-04-24",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "81 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Stephen Fleming",
+      "team2": "Mahela Jayawardene"
+    },
+    "player_of_match": "DPMD Jayawardene",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Semi-Final: New Zealand vs Sri Lanka (2007-04-24) at Jamaica.\nSri Lanka: 289/5 (50.0 ov)\n  DPMD Jayawardene: 115* (109b, 10x4, 3x6)\n  WU Tharanga: 73 (74b, 9x4, 1x6)\n  TM Dilshan: 30 (27b, 3x4, 0x6)\n  JEC Franklin: 2/46 (9.0 ov)\nNew Zealand: 208 all out (41.4 ov)\n  PG Fulton: 46 (77b, 2x4, 1x6)\n  SB Styris: 37 (38b, 2x4, 3x6)\n  JS Patel: 34 (38b, 2x4, 1x6)\n  M Muralitharan: 4/31 (8.0 ov)\n  TM Dilshan: 2/22 (4.4 ov)\n  ST Jayasuriya: 2/57 (9.0 ov)\nSri Lanka won by 81 runs.\nPlayer of the Match: DPMD Jayawardene.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 497,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 5.43,
+    "highest_individual_score": 115,
+    "best_bowling_figures": "4/31",
+    "total_sixes": 12,
+    "total_fours": 33
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 289,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 5.78,
+      "top_batters": [
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 115,
+          "balls": 109,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 105.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 73,
+          "balls": 74,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 98.65,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 30,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 21,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 18,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JEC Franklin",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 5.11,
+          "wides": 2,
+          "no_balls": 2
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 1,
+          "economy": 5.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 5.9,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "JS Patel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 0,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 13,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "13.1"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 111,
+          "wickets": 3,
+          "overs": "25.1"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 152,
+          "wickets": 4,
+          "overs": "34.3"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 233,
+          "wickets": 5,
+          "overs": "45.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 1,
+        "run_rate": 4.6,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 102,
+        "wickets": 1,
+        "run_rate": 10.2,
+        "fours": 10,
+        "sixes": 3,
+        "dot_balls": 12,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 208,
+      "total_wickets": 10,
+      "total_overs": 41.4,
+      "run_rate": 5.07,
+      "top_batters": [
+        {
+          "name": "PG Fulton",
+          "runs": 46,
+          "balls": 77,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 59.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 37,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 97.37,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JS Patel",
+          "runs": 34,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JEC Franklin",
+          "runs": 30,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 25,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 125.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Muralitharan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 4,
+          "economy": 3.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "4.4",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 2,
+          "economy": 6.33,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 3.12,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SP Fleming",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 32,
+          "wickets": 2,
+          "overs": "10.3"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 105,
+          "wickets": 3,
+          "overs": "21.5"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 114,
+          "wickets": 4,
+          "overs": "23.5"
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 114,
+          "wickets": 5,
+          "overs": "23.6"
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 115,
+          "wickets": 6,
+          "overs": "24.3"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 116,
+          "wickets": 7,
+          "overs": "25.4"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 144,
+          "wickets": 8,
+          "overs": "30.2"
+        },
+        {
+          "player": "SE Bond",
+          "runs": 149,
+          "wickets": 9,
+          "overs": "31.4"
+        },
+        {
+          "player": "JS Patel",
+          "runs": 208,
+          "wickets": 10,
+          "overs": "41.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 30,
+        "wickets": 1,
+        "run_rate": 3.0,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "1.4",
+        "balls": 10,
+        "runs": 13,
+        "wickets": 1,
+        "run_rate": 7.8,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 3,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "DPMD Jayawardene": {
+      "batting": {
+        "runs": 115,
+        "balls": 109,
+        "fours": 10,
+        "sixes": 3,
+        "strike_rate": 105.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WU Tharanga": {
+      "batting": {
+        "runs": 73,
+        "balls": 74,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 98.65
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Dilshan": {
+      "batting": {
+        "runs": 30,
+        "balls": 27,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 111.11
+      },
+      "bowling": {
+        "overs": 4.666666666666667,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 4.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LPC Silva": {
+      "batting": {
+        "runs": 21,
+        "balls": 33,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 63.64
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 18,
+        "balls": 42,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 42.86
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JEC Franklin": {
+      "batting": {
+        "runs": 30,
+        "balls": 38,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 78.95
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 2,
+        "economy": 5.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 1,
+        "economy": 5.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SE Bond": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JS Patel": {
+      "batting": {
+        "runs": 34,
+        "balls": 38,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 89.47
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 0,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PG Fulton": {
+      "batting": {
+        "runs": 46,
+        "balls": 77,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 59.74
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 37,
+        "balls": 38,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 97.37
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CD McMillan": {
+      "batting": {
+        "runs": 25,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 125.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 4,
+        "economy": 3.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 2,
+        "economy": 6.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SL Malinga": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 3.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 289 in 50.0 overs at 5.78 RPO",
+    "vs New Zealand scored 208 in 41.4 overs at 5.07 RPO",
+    "Top batsman: DPMD Jayawardene with 115 runs",
+    "Top bowler: M Muralitharan with 4 wickets"
+  ]
+}

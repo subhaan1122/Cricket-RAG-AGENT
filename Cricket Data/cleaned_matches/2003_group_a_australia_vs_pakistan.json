@@ -1,0 +1,368 @@
+{
+  "match_id": "ad28cd1a307e",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "New Wanderers Stadium, Johannesburg",
+  "city": "Johannesburg",
+  "date": "2003-02-11",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "82 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Waqar Younis"
+  },
+  "player_of_match": "A Symonds",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 310,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 31,
+      "top_batters": [
+        {
+          "name": "A Symonds",
+          "runs": 143,
+          "balls": 125,
+          "fours": 18,
+          "sixes": 2,
+          "strike_rate": 114.4,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 53,
+          "balls": 67,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.1,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 27,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.85,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "IJ Harvey",
+          "runs": 24,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 126.32,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GB Hogg",
+          "runs": 14,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Wasim Akram",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 3,
+          "economy": 6.4,
+          "wides": 5,
+          "no_balls": 2
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Waqar Younis",
+          "overs": "8.3",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 5.88,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "Younis Khan",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 0,
+          "economy": 6.63,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 52,
+          "wickets": 2,
+          "overs": "10.2"
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 52,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "JP Maher",
+          "runs": 86,
+          "wickets": 4,
+          "overs": "15.5"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 146,
+          "wickets": 5,
+          "overs": "29.3"
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 216,
+          "wickets": 6,
+          "overs": "38.5"
+        },
+        {
+          "player": "IJ Harvey",
+          "runs": 270,
+          "wickets": 7,
+          "overs": "46.3"
+        },
+        {
+          "player": "B Lee",
+          "runs": 292,
+          "wickets": 8,
+          "overs": "48.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 228,
+      "wickets": 10,
+      "overs": 44.3,
+      "extras": 27,
+      "top_batters": [
+        {
+          "name": "Rashid Latif",
+          "runs": 33,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 143.48,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Wasim Akram",
+          "runs": 33,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 106.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Saleem Elahi",
+          "runs": 30,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yousuf Youhana",
+          "runs": 27,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Abdul Razzaq",
+          "runs": 25,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.76,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "IJ Harvey",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 4,
+          "economy": 6.11,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 3,
+          "economy": 5.4,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "JN Gillespie",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 3.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 5.29,
+          "wides": 0,
+          "no_balls": 5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shahid Afridi",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 38,
+          "wickets": 2,
+          "overs": "11.2"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 49,
+          "wickets": 3,
+          "overs": "14.2"
+        },
+        {
+          "player": "Saleem Elahi",
+          "runs": 81,
+          "wickets": 4,
+          "overs": "19.1"
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 103,
+          "wickets": 5,
+          "overs": "25.1"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 125,
+          "wickets": 6,
+          "overs": "30.1"
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 147,
+          "wickets": 7,
+          "overs": "34.1"
+        },
+        {
+          "player": "Rashid Latif",
+          "runs": 201,
+          "wickets": 8,
+          "overs": "38.6"
+        },
+        {
+          "player": "Wasim Akram",
+          "runs": 223,
+          "wickets": 9,
+          "overs": "42.6"
+        },
+        {
+          "player": "Waqar Younis",
+          "runs": 228,
+          "wickets": 10,
+          "overs": "44.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_australia_vs_pakistan.json",
+  "match_summary": "2003 World Cup Group A: Australia vs Pakistan (2003-02-11) at Johannesburg.\nAustralia: 310/8 (50.0 ov)\n  A Symonds: 143* (125b, 18x4, 2x6)\n  RT Ponting: 53 (67b, 7x4, 0x6)\n  Wasim Akram: 3/64 (10.0 ov)\n  Shoaib Akhtar: 2/45 (10.0 ov)\n  Waqar Younis: 2/50 (8.3 ov)\nPakistan: 228 all out (44.3 ov)\n  Rashid Latif: 33 (23b, 1x4, 3x6)\n  Wasim Akram: 33 (31b, 4x4, 1x6)\n  Saleem Elahi: 30 (40b, 3x4, 0x6)\n  IJ Harvey: 4/58 (9.3 ov)\n  GB Hogg: 3/54 (10.0 ov)\nAustralia won by 82 runs.\nPlayer of the Match: A Symonds."
+}

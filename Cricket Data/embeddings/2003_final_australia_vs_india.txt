@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Australia vs India
+Stage: Final
+Date: 2003-03-23
+Venue: New Wanderers Stadium, Johannesburg, Johannesburg
+Captain Australia: Ricky Ponting
+Captain India: Sourav Ganguly
+
+Match Summary:
+  2003 World Cup Final: Australia vs India (2003-03-23) at Johannesburg.
+
+Australia: 359/2 (50.0 ov)
+  RT Ponting: 140 (121b, 4x4, 8x6, SR 115.7)
+  DR Martyn: 88 (84b, 7x4, 1x6, SR 104.76)
+  AC Gilchrist: 57 (48b, 7x4, 1x6, SR 118.75)
+  ML Hayden: 37 (54b, 5x4, 0x6, SR 68.52)
+  Harbhajan Singh: 2/49 (8.0 ov, Econ 6.12)
+  V Sehwag: 0/14 (3.0 ov, Econ 4.67)
+  D Mongia: 0/39 (7.0 ov, Econ 5.57)
+  A Nehra: 0/57 (10.0 ov, Econ 5.7)
+  Yuvraj Singh: 0/12 (2.0 ov, Econ 6.0)
+  Extras: 37
+
+India: 234 all out (39.2 ov)
+  V Sehwag: 82 (81b, 10x4, 3x6, SR 101.23)
+  R Dravid: 47 (57b, 2x4, 0x6, SR 82.46)
+  SC Ganguly: 24 (25b, 3x4, 1x6, SR 96.0)
+  Yuvraj Singh: 24 (34b, 1x4, 0x6, SR 70.59)
+  D Mongia: 12 (11b, 2x4, 0x6, SR 109.09)
+  GD McGrath: 3/52 (8.2 ov, Econ 6.24)
+  A Symonds: 2/7 (2.0 ov, Econ 3.5)
+  B Lee: 2/31 (7.0 ov, Econ 4.43)
+  AJ Bichel: 1/57 (10.0 ov, Econ 5.7)
+  GB Hogg: 1/61 (10.0 ov, Econ 6.1)
+  Extras: 21
+
+Batting Highlights:
+  Century: RT Ponting scored 140 off 121 balls (SR 115.7, 4 fours, 8 sixes)
+  Half-century: DR Martyn scored 88 off 84 balls (SR 104.76)
+  Half-century: AC Gilchrist scored 57 off 48 balls (SR 118.75)
+  Half-century: V Sehwag scored 82 off 81 balls (SR 101.23)
+
+Bowling Highlights:
+  Key spell: GD McGrath took 3/52
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 140 off 121 balls
+  Sourav Ganguly (India): scored 24 off 25 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  Australia scored aggressively in the powerplay (80 runs at 8.0 RPO).
+  Australia exploded in the death overs (109 runs at 10.9 RPO).
+
+Result: Australia won by 125 runs
+Toss: India won and chose to field
+Player of the Match: RT Ponting

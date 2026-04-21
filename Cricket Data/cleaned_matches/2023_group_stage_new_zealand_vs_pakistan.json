@@ -1,0 +1,282 @@
+{
+  "match_id": "53e0c2b8e3fa",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "M Chinnaswamy Stadium, Bengaluru",
+  "city": "Bengaluru",
+  "date": "2023-11-04",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "21 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kane Williamson",
+    "team2": "Babar Azam"
+  },
+  "player_of_match": "Fakhar Zaman",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 401,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 26,
+      "top_batters": [
+        {
+          "name": "R Ravindra",
+          "runs": 108,
+          "balls": 94,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 114.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 95,
+          "balls": 79,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 120.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GD Phillips",
+          "runs": 41,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 164.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MS Chapman",
+          "runs": 39,
+          "balls": 27,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DP Conway",
+          "runs": 35,
+          "balls": 39,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 89.74,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Wasim",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 3,
+          "economy": 6.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 82,
+          "wickets": 1,
+          "economy": 8.2,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 85,
+          "wickets": 1,
+          "economy": 8.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 90,
+          "wickets": 0,
+          "economy": 9.0,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 68,
+          "wickets": 1,
+          "overs": "10.5"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 248,
+          "wickets": 2,
+          "overs": "34.2"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 261,
+          "wickets": 3,
+          "overs": "35.5"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 318,
+          "wickets": 4,
+          "overs": "41.1"
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 345,
+          "wickets": 5,
+          "overs": "44.3"
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 388,
+          "wickets": 6,
+          "overs": "48.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 200,
+      "wickets": 1,
+      "overs": 25.3,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "Fakhar Zaman",
+          "runs": 126,
+          "balls": 81,
+          "fours": 8,
+          "sixes": 11,
+          "strike_rate": 155.56,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 66,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 104.76,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Abdullah Shafique",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 5.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Mitchell",
+          "overs": "0.3",
+          "maidens": 0,
+          "runs_conceded": 1,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 0,
+          "economy": 8.33,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GD Phillips",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 8.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "1.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_new_zealand_vs_pakistan.json",
+  "match_summary": "2023 World Cup Group Stage: New Zealand vs Pakistan (2023-11-04) at Bengaluru.\nNew Zealand: 401/6 (50.0 ov)\n  R Ravindra: 108 (94b, 15x4, 1x6)\n  KS Williamson: 95 (79b, 10x4, 2x6)\n  GD Phillips: 41 (25b, 4x4, 2x6)\n  Mohammad Wasim: 3/60 (10.0 ov)\nPakistan: 200/1 (25.3 ov)\n  Fakhar Zaman: 126* (81b, 8x4, 11x6)\n  Babar Azam: 66* (63b, 6x4, 2x6)\nPakistan won by 21 runs (D/L).\nPlayer of the Match: Fakhar Zaman."
+}

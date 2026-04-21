@@ -1,0 +1,54 @@
+{
+  "match_id": "b66beb3f0a3a",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "M. A. Chidambaram Stadium, Chennai",
+  "city": "Chennai",
+  "date": "2023-10-18",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "149 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "Naveen-ul-Haq",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 288,
+      "wickets": 6,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 139,
+      "wickets": 10,
+      "overs": 34.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_new_zealand.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs New Zealand (2023-10-18) at Chennai.\nNew Zealand: 288/6 (50 ov)\nAfghanistan: 139 all out (34.4 ov)\nNew Zealand won by 149 runs. Player of the Match: Naveen-ul-Haq."
+}

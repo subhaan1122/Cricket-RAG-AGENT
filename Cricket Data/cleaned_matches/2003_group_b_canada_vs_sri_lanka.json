@@ -1,0 +1,266 @@
+{
+  "match_id": "810b676736bd",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "Boland Bank Park, Paarl",
+  "city": "Paarl",
+  "date": "2003-02-19",
+  "teams": {
+    "team1": "Canada",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Joe Harris",
+    "team2": "Sanath Jayasuriya"
+  },
+  "player_of_match": "RAP Nissanka",
+  "innings": [
+    {
+      "team": "Canada",
+      "runs": 36,
+      "wickets": 10,
+      "overs": 18.4,
+      "extras": 5,
+      "top_batters": [
+        {
+          "name": "JV Harris",
+          "runs": 9,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true,
+          "dismissal": "hit wicket"
+        },
+        {
+          "name": "DR Chumney",
+          "runs": 9,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Thuraisingam",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 6,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IS Billcliff",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RAP Nissanka",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 12,
+          "wickets": 4,
+          "economy": 1.71,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "7.0",
+          "maidens": 4,
+          "runs_conceded": 15,
+          "wickets": 3,
+          "economy": 2.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 4,
+          "wickets": 2,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "2.4",
+          "maidens": 0,
+          "runs_conceded": 3,
+          "wickets": 1,
+          "economy": 1.12,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Davison",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "AF Sattaur",
+          "runs": 6,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "DR Chumney",
+          "runs": 11,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 12,
+          "wickets": 4,
+          "overs": "8.1"
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 12,
+          "wickets": 5,
+          "overs": "9.1"
+        },
+        {
+          "player": "I Maraj",
+          "runs": 12,
+          "wickets": 6,
+          "overs": "9.2"
+        },
+        {
+          "player": "JV Harris",
+          "runs": 21,
+          "wickets": 7,
+          "overs": "11.2"
+        },
+        {
+          "player": "S Thuraisingam",
+          "runs": 31,
+          "wickets": 8,
+          "overs": "15.1"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 36,
+          "wickets": 9,
+          "overs": "17.6"
+        },
+        {
+          "player": "A Codrington",
+          "runs": 36,
+          "wickets": 10,
+          "overs": "18.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 37,
+      "wickets": 1,
+      "overs": 4.4,
+      "extras": 0,
+      "top_batters": [
+        {
+          "name": "MS Atapattu",
+          "runs": 24,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "S Thuraisingam",
+          "overs": "2.4",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 8.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 7.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 23,
+          "wickets": 1,
+          "overs": "2.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_canada_vs_sri_lanka.json",
+  "match_summary": "2003 World Cup Group B: Canada vs Sri Lanka (2003-02-19) at Paarl.\nCanada: 36 all out (18.4 ov)\n  RAP Nissanka: 4/12 (7.0 ov)\n  WPUJC Vaas: 3/15 (7.0 ov)\n  CRD Fernando: 2/4 (2.0 ov)\nSri Lanka: 37/1 (4.4 ov)\nSri Lanka won by 9 wickets.\nPlayer of the Match: RAP Nissanka."
+}

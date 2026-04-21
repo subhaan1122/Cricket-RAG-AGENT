@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: Kenya vs Zimbabwe
+Stage: Group A
+Date: 2011-03-20
+Venue: Eden Gardens, Kolkata
+Captain Kenya: Jimmy Kamande
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2011 World Cup Group A: Kenya vs Zimbabwe (2011-03-20) at Kolkata.
+
+Zimbabwe: 308/6 (50.0 ov)
+  CR Ervine: 66 (54b, 9x4, 1x6, SR 122.22)
+  V Sibanda: 61 (57b, 7x4, 1x6, SR 107.02)
+  T Taibu: 53 (74b, 7x4, 0x6, SR 71.62)
+  E Chigumbura: 38 (41b, 3x4, 2x6, SR 92.68)
+  BRM Taylor: 26 (36b, 5x4, 0x6, SR 72.22)
+  E Otieno: 2/61 (10.0 ov, Econ 6.1)
+  PJ Ongondo: 1/53 (10.0 ov, Econ 5.3)
+  NN Odhiambo: 1/58 (10.0 ov, Econ 5.8)
+  JO Ngoche: 1/68 (10.0 ov, Econ 6.8)
+  CO Obuya: 0/14 (3.0 ov, Econ 4.67)
+  Extras: 19
+
+Kenya: 147 all out (36.0 ov)
+  NN Odhiambo: 44 (47b, 5x4, 0x6, SR 93.62)
+  RR Patel: 24 (37b, 3x4, 0x6, SR 64.86)
+  AA Obanda: 23 (36b, 4x4, 0x6, SR 63.89)
+  TM Odoyo: 14 (29b, 2x4, 0x6, SR 48.28)
+  SO Tikolo: 10 (14b, 2x4, 0x6, SR 71.43)
+  RW Price: 2/20 (7.0 ov, Econ 2.86)
+  GA Lamb: 2/21 (7.0 ov, Econ 3.0)
+  AG Cremer: 2/28 (7.0 ov, Econ 4.0)
+  CB Mpofu: 1/27 (6.0 ov, Econ 4.5)
+  P Utseya: 1/47 (9.0 ov, Econ 5.22)
+  Extras: 7
+
+Batting Highlights:
+  Half-century: CR Ervine scored 66 off 54 balls (SR 122.22)
+  Half-century: V Sibanda scored 61 off 57 balls (SR 107.02)
+  Half-century: T Taibu scored 53 off 74 balls (SR 71.62)
+
+Bowling Highlights:
+  Economical spell: RW Price conceded 20 runs in 7.0 overs (Econ 2.86)
+  Economical spell: GA Lamb conceded 21 runs in 7.0 overs (Econ 3.0)
+
+Captain Performance:
+  Elton Chigumbura (Zimbabwe): scored 38 off 41 balls
+
+Key Moments:
+  Zimbabwe lost 6 early wickets.
+  Kenya lost 10 early wickets.
+  Zimbabwe exploded in the death overs (104 runs at 10.4 RPO).
+  Kenya lost 3 wickets in the powerplay.
+
+Result: Zimbabwe won by 161 runs
+Toss: Zimbabwe won and chose to bat
+Player of the Match: CR Ervine

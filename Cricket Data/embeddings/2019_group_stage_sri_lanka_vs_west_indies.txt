@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: Sri Lanka vs West Indies
+Stage: Group Stage
+Date: 2019-07-01
+Venue: Riverside Ground, Chester-le-Street
+Captain Sri Lanka: Dimuth Karunaratne
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: Sri Lanka vs West Indies (2019-07-01) at Chester-le-Street.
+
+Sri Lanka: 338/6 (50.0 ov)
+  WIA Fernando: 104 (103b, 9x4, 2x6, SR 100.97)
+  MDKJ Perera: 64 (51b, 8x4, 0x6, SR 125.49)
+  HDRL Thirimanne: 45 (33b, 4x4, 0x6, SR 136.36)
+  BKG Mendis: 39 (41b, 4x4, 0x6, SR 95.12)
+  FDM Karunaratne: 32 (48b, 4x4, 0x6, SR 66.67)
+  JO Holder: 2/59 (10.0 ov, Econ 5.9)
+  FA Allen: 1/44 (8.0 ov, Econ 5.5)
+  O Thomas: 1/58 (10.0 ov, Econ 5.8)
+  SS Cottrell: 1/69 (10.0 ov, Econ 6.9)
+  CR Brathwaite: 0/53 (7.0 ov, Econ 7.57)
+  Extras: 19
+
+West Indies: 315/9 (50.0 ov)
+  N Pooran: 118 (103b, 11x4, 4x6, SR 114.56)
+  FA Allen: 51 (32b, 7x4, 1x6, SR 159.38)
+  CH Gayle: 35 (48b, 1x4, 2x6, SR 72.92)
+  SO Hetmyer: 29 (38b, 2x4, 0x6, SR 76.32)
+  JO Holder: 26 (26b, 4x4, 0x6, SR 100.0)
+  SL Malinga: 3/55 (10.0 ov, Econ 5.5)
+  AD Mathews: 1/6 (2.0 ov, Econ 3.0)
+  JDF Vandersay: 1/50 (7.0 ov, Econ 7.14)
+  CAK Rajitha: 1/76 (10.0 ov, Econ 7.6)
+  DM de Silva: 0/49 (10.0 ov, Econ 4.9)
+  Extras: 27
+
+Batting Highlights:
+  Century: WIA Fernando scored 104 off 103 balls (SR 100.97, 9 fours, 2 sixes)
+  Half-century: MDKJ Perera scored 64 off 51 balls (SR 125.49)
+  Century: N Pooran scored 118 off 103 balls (SR 114.56, 11 fours, 4 sixes)
+  Half-century: FA Allen scored 51 off 32 balls (SR 159.38)
+
+Bowling Highlights:
+  Key spell: SL Malinga took 3/55
+
+Captain Performance:
+  Dimuth Karunaratne (Sri Lanka): scored 32 off 48 balls
+  Jason Holder (West Indies): scored 26 off 26 balls
+
+Key Moments:
+  Sri Lanka lost 6 early wickets.
+  West Indies lost 9 early wickets.
+
+Result: Sri Lanka won by 23 runs
+Toss: West Indies won and chose to field
+Player of the Match: WIA Fernando

@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: New Zealand vs Bangladesh
+Stage: Group A
+Date: 2015-03-13
+Venue: Seddon Park, Hamilton
+Captain New Zealand: Brendon McCullum
+Captain Bangladesh: Mashrafe Mortaza
+
+Match Summary:
+  2015 World Cup Group A: New Zealand vs Bangladesh (2015-03-13) at Hamilton.
+
+Bangladesh: 288/7 (50.0 ov)
+  Mahmudullah: 128 (123b, 12x4, 3x6, SR 104.07)
+  Soumya Sarkar: 51 (58b, 7x4, 0x6, SR 87.93)
+  Sabbir Rahman: 40 (23b, 5x4, 2x6, SR 173.91)
+  Shakib Al Hasan: 23 (18b, 3x4, 0x6, SR 127.78)
+  Mushfiqur Rahim: 15 (25b, 2x4, 0x6, SR 60.0)
+  CJ Anderson: 2/43 (10.0 ov, Econ 4.3)
+  TA Boult: 2/56 (10.0 ov, Econ 5.6)
+  GD Elliott: 2/27 (2.0 ov, Econ 13.5)
+  DL Vettori: 1/42 (10.0 ov, Econ 4.2)
+  TG Southee: 0/51 (10.0 ov, Econ 5.1)
+  Extras: 5
+
+New Zealand: 290/7 (48.5 ov)
+  MJ Guptill: 105 (100b, 11x4, 2x6, SR 105.0)
+  LRPL Taylor: 56 (97b, 5x4, 0x6, SR 57.73)
+  CJ Anderson: 39 (26b, 3x4, 3x6, SR 150.0)
+  GD Elliott: 39 (34b, 5x4, 1x6, SR 114.71)
+  DL Vettori: 16 (10b, 1x4, 1x6, SR 160.0)
+  Shakib Al Hasan: 4/55 (8.5 ov, Econ 6.23)
+  Nasir Hossain: 2/32 (5.0 ov, Econ 6.4)
+  Rubel Hossain: 1/40 (8.0 ov, Econ 5.0)
+  Soumya Sarkar: 0/19 (4.0 ov, Econ 4.75)
+  Taijul Islam: 0/58 (10.0 ov, Econ 5.8)
+  Extras: 5
+
+Batting Highlights:
+  Century: Mahmudullah scored 128 off 123 balls (SR 104.07, 12 fours, 3 sixes)
+  Half-century: Soumya Sarkar scored 51 off 58 balls (SR 87.93)
+  Quickfire innings: Sabbir Rahman smashed 40 off 23 balls at SR 173.91
+  Century: MJ Guptill scored 105 off 100 balls (SR 105.0, 11 fours, 2 sixes)
+  Half-century: LRPL Taylor scored 56 off 97 balls (SR 57.73)
+  Quickfire innings: CJ Anderson smashed 39 off 26 balls at SR 150.0
+
+Bowling Highlights:
+  Match-changing spell: Shakib Al Hasan took 4/55
+
+Captain Performance:
+  New Zealand captain: Brendon McCullum
+  Bangladesh captain: Mashrafe Mortaza
+
+Key Moments:
+  Bangladesh lost 7 early wickets.
+  New Zealand lost 7 early wickets.
+  Bangladesh exploded in the death overs (104 runs at 10.4 RPO).
+
+Result: New Zealand won by 3 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: MJ Guptill

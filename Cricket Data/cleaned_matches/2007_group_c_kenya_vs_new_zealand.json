@@ -1,0 +1,362 @@
+{
+  "match_id": "07f692344b44",
+  "world_cup_year": 2007,
+  "stage": "Group C",
+  "venue": "Beausejour Stadium, Gros Islet",
+  "city": "St Lucia",
+  "date": "2007-03-20",
+  "teams": {
+    "team1": "Kenya",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "Kenya",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "148 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Steve Tikolo",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "LRPL Taylor",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 331,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 29,
+      "top_batters": [
+        {
+          "name": "LRPL Taylor",
+          "runs": 85,
+          "balls": 107,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 79.44,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 71,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 147.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 63,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 101.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 60,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 98.36,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DL Vettori",
+          "runs": 14,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TM Odoyo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 2,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PJ Ongondo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 3
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 7.5,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "LN Onyango",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 7.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "HA Varaiya",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 5.71,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "L Vincent",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "SP Fleming",
+          "runs": 105,
+          "wickets": 2,
+          "overs": "20.1"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 192,
+          "wickets": 3,
+          "overs": "33.4"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 274,
+          "wickets": 4,
+          "overs": "43.1"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 280,
+          "wickets": 5,
+          "overs": "44.4"
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 307,
+          "wickets": 6,
+          "overs": "47.6"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 321,
+          "wickets": 7,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "runs": 183,
+      "wickets": 10,
+      "overs": 49.2,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "RD Shah",
+          "runs": 71,
+          "balls": 89,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 79.78,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "TM Odoyo",
+          "runs": 42,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 62.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 21,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 67.74,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "JK Kamande",
+          "runs": 12,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 7,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JEC Franklin",
+          "overs": "7.2",
+          "maidens": 2,
+          "runs_conceded": 20,
+          "wickets": 2,
+          "economy": 2.73,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Mason",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 3.22,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 4
+        },
+        {
+          "name": "SE Bond",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 2.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CD McMillan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 3.9,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DO Obuya",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "MA Ouma",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "5.2"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 26,
+          "wickets": 3,
+          "overs": "10.5"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 29,
+          "wickets": 4,
+          "overs": "11.4"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 76,
+          "wickets": 5,
+          "overs": "20.3"
+        },
+        {
+          "player": "RD Shah",
+          "runs": 122,
+          "wickets": 6,
+          "overs": "29.6"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 149,
+          "wickets": 7,
+          "overs": "35.3"
+        },
+        {
+          "player": "LN Onyango",
+          "runs": 167,
+          "wickets": 8,
+          "overs": "41.6"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 179,
+          "wickets": 9,
+          "overs": "44.2"
+        },
+        {
+          "player": "PJ Ongondo",
+          "runs": 183,
+          "wickets": 10,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_c_kenya_vs_new_zealand.json",
+  "match_summary": "2007 World Cup Group C: Kenya vs New Zealand (2007-03-20) at St Lucia.\nNew Zealand: 331/7 (50.0 ov)\n  LRPL Taylor: 85 (107b, 8x4, 1x6)\n  CD McMillan: 71 (48b, 3x4, 5x6)\n  SB Styris: 63 (62b, 3x4, 3x6)\n  TM Odoyo: 2/55 (10.0 ov)\n  PJ Ongondo: 2/64 (10.0 ov)\nKenya: 183 all out (49.2 ov)\n  RD Shah: 71 (89b, 8x4, 2x6)\n  TM Odoyo: 42 (67b, 4x4, 1x6)\n  JEC Franklin: 2/20 (7.2 ov)\n  MJ Mason: 2/29 (9.0 ov)\n  DL Vettori: 2/45 (10.0 ov)\nNew Zealand won by 148 runs.\nPlayer of the Match: LRPL Taylor."
+}

@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "419773d71cb1",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "city": "Chennai",
+    "date": "2023-10-08",
+    "teams": {
+      "team1": "Australia",
+      "team2": "India"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Pat Cummins",
+      "team2": "Rohit Sharma"
+    },
+    "player_of_match": "KL Rahul",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Australia vs India (2023-10-08) at Chennai.\nAustralia: 199 all out (49.3 ov)\n  SPD Smith: 46 (71b, 5x4, 0x6)\n  DA Warner: 41 (52b, 6x4, 0x6)\n  RA Jadeja: 3/28 (10.0 ov)\n  JJ Bumrah: 2/35 (10.0 ov)\n  Kuldeep Yadav: 2/42 (10.0 ov)\nIndia: 201/4 (41.2 ov)\n  KL Rahul: 97* (115b, 8x4, 2x6)\n  V Kohli: 85 (116b, 6x4, 0x6)\n  JR Hazlewood: 3/38 (9.0 ov)\nIndia won by 6 wickets.\nPlayer of the Match: KL Rahul.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 400,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 4.48,
+    "highest_individual_score": 97,
+    "best_bowling_figures": "3/38",
+    "total_sixes": 5,
+    "total_fours": 29
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 199,
+      "total_wickets": 10,
+      "total_overs": 49.3,
+      "run_rate": 4.06,
+      "top_batters": [
+        {
+          "name": "SPD Smith",
+          "runs": 46,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 64.79,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 41,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.85,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "MA Starc",
+          "runs": 28,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 27,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PJ Cummins",
+          "runs": 15,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 62.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 3,
+          "economy": 2.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "6.3",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MR Marsh",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 74,
+          "wickets": 2,
+          "overs": "16.3"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "27.1"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 119,
+          "wickets": 4,
+          "overs": "29.2"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 119,
+          "wickets": 5,
+          "overs": "29.4"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 140,
+          "wickets": 6,
+          "overs": "35.5"
+        },
+        {
+          "player": "C Green",
+          "runs": 140,
+          "wickets": 7,
+          "overs": "36.2"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 165,
+          "wickets": 8,
+          "overs": "42.2"
+        },
+        {
+          "player": "A Zampa",
+          "runs": 189,
+          "wickets": 9,
+          "overs": "48.2"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 199,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 1,
+        "run_rate": 4.3,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "9.3",
+        "balls": 57,
+        "runs": 43,
+        "wickets": 3,
+        "run_rate": 4.53,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 36,
+        "extras": 9
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 201,
+      "total_wickets": 4,
+      "total_overs": 41.2,
+      "run_rate": 4.9,
+      "top_batters": [
+        {
+          "name": "KL Rahul",
+          "runs": 97,
+          "balls": 115,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 84.35,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 85,
+          "balls": 116,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.28,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HH Pandya",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Ishan Kishan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JR Hazlewood",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 3,
+          "economy": 4.22,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.88,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 5.21,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "C Green",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Ishan Kishan",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 2,
+          "wickets": 2,
+          "overs": "1.3"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 2,
+          "wickets": 3,
+          "overs": "1.6"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 167,
+          "wickets": 4,
+          "overs": "37.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 27,
+        "wickets": 3,
+        "run_rate": 2.7,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "1.2",
+        "balls": 8,
+        "runs": 19,
+        "wickets": 0,
+        "run_rate": 14.25,
+        "fours": 1,
+        "sixes": 2,
+        "dot_balls": 2,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SPD Smith": {
+      "batting": {
+        "runs": 46,
+        "balls": 71,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 64.79
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 41,
+        "balls": 52,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 78.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 28,
+        "balls": 35,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 3.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Labuschagne": {
+      "batting": {
+        "runs": 27,
+        "balls": 41,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 65.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 15,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 62.5
+      },
+      "bowling": {
+        "overs": 6.333333333333333,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 5.21
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 3,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ashwin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Siraj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.5,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KL Rahul": {
+      "batting": {
+        "runs": 97,
+        "balls": 115,
+        "fours": 8,
+        "sixes": 2,
+        "strike_rate": 84.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 85,
+        "balls": 116,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 73.28
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Pandya": {
+      "batting": {
+        "runs": 11,
+        "balls": 8,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 137.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Ishan Kishan": {
+      "batting": {
+        "runs": 0,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SS Iyer": {
+      "batting": {
+        "runs": 0,
+        "balls": 3,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 3,
+        "economy": 4.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C Green": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 199 in 49.3 overs at 4.06 RPO",
+    "vs India scored 201 in 41.2 overs at 4.9 RPO",
+    "Top batsman: KL Rahul with 97 runs",
+    "Top bowler: RA Jadeja with 3 wickets"
+  ]
+}

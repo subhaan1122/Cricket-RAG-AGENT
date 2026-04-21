@@ -1,0 +1,368 @@
+{
+  "match_id": "f8dbdb7deafd",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Providence Stadium",
+  "city": "Guyana",
+  "date": "2007-04-09",
+  "teams": {
+    "team1": "Ireland",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "129 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Trent Johnston",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "PG Fulton",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 263,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "PG Fulton",
+          "runs": 83,
+          "balls": 110,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 75.45,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 47,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 127.03,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JEC Franklin",
+          "runs": 34,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 22,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JDP Oram",
+          "runs": 20,
+          "balls": 48,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WK McCallan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "D Langford-Smith",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AR White",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WB Rankin",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.88,
+          "wides": 7,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SP Fleming",
+          "runs": 35,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 59,
+          "wickets": 2,
+          "overs": "10.6"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 83,
+          "wickets": 3,
+          "overs": "16.3"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 118,
+          "wickets": 4,
+          "overs": "24.4"
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 172,
+          "wickets": 5,
+          "overs": "38.1"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 181,
+          "wickets": 6,
+          "overs": "40.4"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 189,
+          "wickets": 7,
+          "overs": "42.3"
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 260,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Ireland",
+      "runs": 134,
+      "wickets": 10,
+      "overs": 37.4,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "KJ O'Brien",
+          "runs": 49,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 108.89,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 30,
+          "balls": 75,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 15,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DT Johnston",
+          "runs": 13,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 11,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DL Vettori",
+          "overs": "8.4",
+          "maidens": 1,
+          "runs_conceded": 23,
+          "wickets": 4,
+          "economy": 2.65,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 3.6,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "JS Patel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 4.57,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "6.0",
+          "maidens": 2,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JEC Franklin",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 0,
+          "economy": 3.38,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JP Bray",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.6"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 22,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 35,
+          "wickets": 3,
+          "overs": "12.5"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 110,
+          "wickets": 4,
+          "overs": "28.4"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 125,
+          "wickets": 5,
+          "overs": "32.3"
+        },
+        {
+          "player": "AR White",
+          "runs": 127,
+          "wickets": 6,
+          "overs": "33.3"
+        },
+        {
+          "player": "DT Johnston",
+          "runs": 133,
+          "wickets": 7,
+          "overs": "34.4"
+        },
+        {
+          "player": "PG Gillespie",
+          "runs": 133,
+          "wickets": 8,
+          "overs": "35.5"
+        },
+        {
+          "player": "WK McCallan",
+          "runs": 134,
+          "wickets": 9,
+          "overs": "37.3"
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 134,
+          "wickets": 10,
+          "overs": "37.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_ireland_vs_new_zealand.json",
+  "match_summary": "2007 World Cup Super Eight: Ireland vs New Zealand (2007-04-09) at Guyana.\nNew Zealand: 263/8 (50.0 ov)\n  PG Fulton: 83 (110b, 9x4, 0x6)\n  BB McCullum: 47 (37b, 2x4, 1x6)\n  JEC Franklin: 34* (22b, 3x4, 1x6)\n  WK McCallan: 2/35 (10.0 ov)\n  D Langford-Smith: 2/41 (10.0 ov)\n  AR White: 2/45 (10.0 ov)\nIreland: 134 all out (37.4 ov)\n  KJ O'Brien: 49 (45b, 2x4, 3x6)\n  NJ O'Brien: 30 (75b, 2x4, 0x6)\n  DL Vettori: 4/23 (8.4 ov)\n  SE Bond: 2/18 (5.0 ov)\n  JS Patel: 2/32 (7.0 ov)\nNew Zealand won by 129 runs.\nPlayer of the Match: PG Fulton."
+}

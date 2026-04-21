@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2015
+Match: Ireland vs Zimbabwe
+Stage: Group B
+Date: 2015-03-07
+Venue: Bellerive Oval, Hobart
+Captain Ireland: William Porterfield
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2015 World Cup Group B: Ireland vs Zimbabwe (2015-03-07) at Hobart.
+
+Ireland: 331/8 (50.0 ov)
+  EC Joyce: 112 (103b, 8x4, 3x6, SR 108.74)
+  A Balbirnie: 97 (79b, 7x4, 4x6, SR 122.78)
+  WTS Porterfield: 29 (61b, 1x4, 0x6, SR 47.54)
+  GC Wilson: 25 (13b, 3x4, 1x6, SR 192.31)
+  KJ O'Brien: 24 (22b, 3x4, 0x6, SR 109.09)
+  TL Chatara: 3/61 (10.0 ov, Econ 6.1)
+  SC Williams: 3/72 (9.0 ov, Econ 8.0)
+  T Panyangara: 1/69 (9.0 ov, Econ 7.67)
+  T Mupariwa: 0/56 (10.0 ov, Econ 5.6)
+  Sikandar Raza: 0/51 (9.0 ov, Econ 5.67)
+  Extras: 15
+
+Zimbabwe: 326 all out (49.3 ov)
+  BRM Taylor: 121 (91b, 10x4, 4x6, SR 132.97)
+  SC Williams: 96 (83b, 7x4, 2x6, SR 115.66)
+  T Mupariwa: 18 (7b, 2x4, 1x6, SR 257.14)
+  CJ Chibhabha: 18 (32b, 3x4, 0x6, SR 56.25)
+  RW Chakabva: 17 (16b, 1x4, 0x6, SR 106.25)
+  AR Cusack: 4/32 (9.3 ov, Econ 3.37)
+  JF Mooney: 2/58 (10.0 ov, Econ 5.8)
+  KJ O'Brien: 2/90 (10.0 ov, Econ 9.0)
+  GH Dockrell: 1/56 (10.0 ov, Econ 5.6)
+  AR McBrine: 1/56 (8.0 ov, Econ 7.0)
+  Extras: 11
+
+Batting Highlights:
+  Century: EC Joyce scored 112 off 103 balls (SR 108.74, 8 fours, 3 sixes)
+  Half-century: A Balbirnie scored 97 off 79 balls (SR 122.78)
+  Century: BRM Taylor scored 121 off 91 balls (SR 132.97, 10 fours, 4 sixes)
+  Half-century: SC Williams scored 96 off 83 balls (SR 115.66)
+
+Bowling Highlights:
+  Key spell: TL Chatara took 3/61
+  Key spell: SC Williams took 3/72
+  Match-changing spell: AR Cusack took 4/32
+
+Captain Performance:
+  William Porterfield (Ireland): scored 29 off 61 balls
+
+Key Moments:
+  Ireland lost 8 early wickets.
+  Zimbabwe lost 10 early wickets.
+  Ireland exploded in the death overs (108 runs at 10.8 RPO).
+
+Result: Ireland won by 5 runs
+Toss: Zimbabwe won and chose to field
+Player of the Match: EC Joyce

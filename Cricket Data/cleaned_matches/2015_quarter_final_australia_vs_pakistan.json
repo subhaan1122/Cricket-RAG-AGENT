@@ -1,0 +1,344 @@
+{
+  "match_id": "4ba670b2f702",
+  "world_cup_year": 2015,
+  "stage": "Quarter-Final",
+  "venue": "Adelaide Oval",
+  "city": "",
+  "date": "2015-03-20",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "Misbah-ul-Haq"
+  },
+  "player_of_match": "JR Hazlewood",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 213,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "Haris Sohail",
+          "runs": 41,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Misbah-ul-Haq",
+          "runs": 34,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 57.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sohaib Maqsood",
+          "runs": 29,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 23,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 153.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Akmal",
+          "runs": 20,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 6.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Faulkner",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.96,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 20,
+          "wickets": 1,
+          "overs": "4.4"
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "5.1"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 97,
+          "wickets": 3,
+          "overs": "23.2"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 112,
+          "wickets": 4,
+          "overs": "26.4"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 124,
+          "wickets": 5,
+          "overs": "29.1"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 158,
+          "wickets": 6,
+          "overs": "33.6"
+        },
+        {
+          "player": "Sohaib Maqsood",
+          "runs": 188,
+          "wickets": 7,
+          "overs": "41.3"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 188,
+          "wickets": 8,
+          "overs": "42.2"
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 195,
+          "wickets": 9,
+          "overs": "43.6"
+        },
+        {
+          "player": "Ehsan Adil",
+          "runs": 213,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 216,
+      "wickets": 4,
+      "overs": 33.5,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "SPD Smith",
+          "runs": 65,
+          "balls": 69,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 94.2,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 64,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.97,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 44,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 151.72,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 24,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Wahab Riaz",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "Ehsan Adil",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Sohail Khan",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 7.28,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Haris Sohail",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rahat Ali",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 6.17,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 49,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 59,
+          "wickets": 3,
+          "overs": "10.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 148,
+          "wickets": 4,
+          "overs": "26.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_quarter_final_australia_vs_pakistan.json",
+  "match_summary": "2015 World Cup Quarter-Final: Australia vs Pakistan (2015-03-20) at Adelaide Oval.\nPakistan: 213 all out (49.5 ov)\n  Haris Sohail: 41 (57b, 4x4, 0x6)\n  Misbah-ul-Haq: 34 (59b, 1x4, 2x6)\n  JR Hazlewood: 4/35 (10.0 ov)\n  MA Starc: 2/40 (10.0 ov)\n  GJ Maxwell: 2/43 (7.0 ov)\nAustralia: 216/4 (33.5 ov)\n  SPD Smith: 65 (69b, 7x4, 0x6)\n  SR Watson: 64* (66b, 7x4, 1x6)\n  GJ Maxwell: 44* (29b, 5x4, 2x6)\n  Wahab Riaz: 2/54 (9.0 ov)\nAustralia won by 6 wickets.\nPlayer of the Match: JR Hazlewood."
+}

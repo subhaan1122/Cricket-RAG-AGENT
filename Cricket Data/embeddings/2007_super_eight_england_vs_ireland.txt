@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: England vs Ireland
+Stage: Super Eight
+Date: 2007-03-30
+Venue: Providence Stadium, Guyana
+Captain England: Michael Vaughan
+Captain Ireland: Trent Johnston
+
+Match Summary:
+  2007 World Cup Super Eight: England vs Ireland (2007-03-30) at Guyana.
+
+England: 266/7 (50.0 ov)
+  PD Collingwood: 90 (82b, 8x4, 3x6, SR 109.76)
+  KP Pietersen: 48 (47b, 5x4, 0x6, SR 102.13)
+  A Flintoff: 43 (62b, 4x4, 0x6, SR 69.35)
+  IR Bell: 31 (74b, 2x4, 0x6, SR 41.89)
+  PA Nixon: 19 (15b, 1x4, 1x6, SR 126.67)
+  WB Rankin: 2/28 (7.0 ov, Econ 4.0)
+  WK McCallan: 1/38 (10.0 ov, Econ 3.8)
+  AC Botha: 1/56 (10.0 ov, Econ 5.6)
+  KJ O'Brien: 1/26 (4.0 ov, Econ 6.5)
+  DT Johnston: 1/70 (10.0 ov, Econ 7.0)
+  Extras: 18
+
+Ireland: 218 all out (48.1 ov)
+  NJ O'Brien: 63 (88b, 4x4, 0x6, SR 71.59)
+  AR White: 38 (35b, 4x4, 0x6, SR 108.57)
+  WTS Porterfield: 31 (68b, 1x4, 0x6, SR 45.59)
+  DT Johnston: 27 (21b, 1x4, 2x6, SR 128.57)
+  AC Botha: 18 (39b, 1x4, 0x6, SR 46.15)
+  A Flintoff: 4/43 (8.1 ov, Econ 5.27)
+  MS Panesar: 2/31 (10.0 ov, Econ 3.1)
+  MP Vaughan: 1/34 (9.0 ov, Econ 3.78)
+  JM Anderson: 1/35 (7.0 ov, Econ 5.0)
+  PD Collingwood: 1/38 (6.0 ov, Econ 6.33)
+  Extras: 17
+
+Batting Highlights:
+  Half-century: PD Collingwood scored 90 off 82 balls (SR 109.76)
+  Half-century: NJ O'Brien scored 63 off 88 balls (SR 71.59)
+
+Bowling Highlights:
+  Match-changing spell: A Flintoff took 4/43
+  Economical spell: MS Panesar conceded 31 runs in 10.0 overs (Econ 3.1)
+
+Captain Performance:
+  Trent Johnston (Ireland): scored 27 off 21 balls
+
+Key Moments:
+  England lost 7 early wickets.
+  Ireland lost 10 early wickets.
+
+Result: England won by 48 runs
+Toss: England won and chose to bat
+Player of the Match: PD Collingwood

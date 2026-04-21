@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2015
+Match: Australia vs England
+Stage: Group A
+Date: 2015-02-14
+Venue: Melbourne Cricket Ground
+Captain Australia: Michael Clarke
+Captain England: Eoin Morgan
+
+Match Summary:
+  2015 World Cup Group A: Australia vs England (2015-02-14) at Melbourne Cricket Ground.
+
+Australia: 342/9 (50.0 ov)
+  AJ Finch: 135 (128b, 12x4, 3x6, SR 105.47)
+  GJ Maxwell: 66 (40b, 11x4, 0x6, SR 165.0)
+  GJ Bailey: 55 (69b, 3x4, 0x6, SR 79.71)
+  BJ Haddin: 31 (14b, 5x4, 0x6, SR 221.43)
+  MR Marsh: 23 (20b, 3x4, 0x6, SR 115.0)
+  ST Finn: 5/71 (10.0 ov, Econ 7.1)
+  SCJ Broad: 2/66 (10.0 ov, Econ 6.6)
+  CR Woakes: 1/65 (10.0 ov, Econ 6.5)
+  MM Ali: 0/60 (9.0 ov, Econ 6.67)
+  JM Anderson: 0/67 (10.0 ov, Econ 6.7)
+  Extras: 5
+
+England: 231 all out (41.5 ov)
+  JWA Taylor: 98 (90b, 11x4, 2x6, SR 108.89)
+  CR Woakes: 37 (42b, 2x4, 0x6, SR 88.1)
+  IR Bell: 36 (45b, 4x4, 0x6, SR 80.0)
+  JC Buttler: 10 (12b, 1x4, 0x6, SR 83.33)
+  MM Ali: 10 (13b, 2x4, 0x6, SR 76.92)
+  MR Marsh: 5/33 (9.0 ov, Econ 3.67)
+  MG Johnson: 2/36 (8.0 ov, Econ 4.5)
+  MA Starc: 2/47 (9.0 ov, Econ 5.22)
+  SR Watson: 0/13 (3.0 ov, Econ 4.33)
+  JR Hazlewood: 0/45 (6.5 ov, Econ 6.59)
+  Extras: 16
+
+Batting Highlights:
+  Century: AJ Finch scored 135 off 128 balls (SR 105.47, 12 fours, 3 sixes)
+  Half-century: GJ Maxwell scored 66 off 40 balls (SR 165.0)
+  Half-century: GJ Bailey scored 55 off 69 balls (SR 79.71)
+  Half-century: JWA Taylor scored 98 off 90 balls (SR 108.89)
+
+Bowling Highlights:
+  Match-changing spell: ST Finn took 5/71
+  Match-changing spell: MR Marsh took 5/33
+
+Captain Performance:
+  Australia captain: Michael Clarke
+  England captain: Eoin Morgan
+
+Key Moments:
+  Australia lost 9 early wickets.
+  England lost 10 early wickets.
+  Australia exploded in the death overs (105 runs at 10.5 RPO).
+
+Result: Australia won by 111 runs
+Toss: England won and chose to field
+Player of the Match: AJ Finch

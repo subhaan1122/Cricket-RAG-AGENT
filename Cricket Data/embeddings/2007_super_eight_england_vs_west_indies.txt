@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs England
+Stage: Super Eight
+Date: 2007-04-21
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain West Indies: Brian Lara
+Captain England: Michael Vaughan
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs England (2007-04-21) at Barbados.
+
+West Indies: 300 all out (49.5 ov)
+  CH Gayle: 79 (58b, 10x4, 3x6, SR 136.21)
+  DS Smith: 61 (106b, 6x4, 0x6, SR 57.55)
+  MN Samuels: 51 (39b, 5x4, 1x6, SR 130.77)
+  S Chanderpaul: 34 (39b, 5x4, 0x6, SR 87.18)
+  BC Lara: 18 (17b, 3x4, 0x6, SR 105.88)
+  MP Vaughan: 3/39 (10.0 ov, Econ 3.9)
+  A Flintoff: 2/59 (9.5 ov, Econ 6.0)
+  PD Collingwood: 1/40 (8.0 ov, Econ 5.0)
+  LE Plunkett: 1/71 (7.0 ov, Econ 10.14)
+  SCJ Broad: 0/32 (6.0 ov, Econ 5.33)
+  Extras: 18
+
+England: 301/9 (49.5 ov)
+  KP Pietersen: 100 (91b, 10x4, 1x6, SR 109.89)
+  MP Vaughan: 79 (68b, 6x4, 2x6, SR 116.18)
+  PA Nixon: 38 (39b, 4x4, 0x6, SR 97.44)
+  RS Bopara: 26 (43b, 3x4, 0x6, SR 60.47)
+  A Flintoff: 15 (20b, 2x4, 0x6, SR 75.0)
+  DJ Bravo: 2/47 (9.5 ov, Econ 4.78)
+  JE Taylor: 2/65 (10.0 ov, Econ 6.5)
+  RR Sarwan: 1/21 (5.0 ov, Econ 4.2)
+  CD Collymore: 1/61 (10.0 ov, Econ 6.1)
+  DBL Powell: 0/58 (10.0 ov, Econ 5.8)
+  Extras: 22
+
+Batting Highlights:
+  Half-century: CH Gayle scored 79 off 58 balls (SR 136.21)
+  Half-century: DS Smith scored 61 off 106 balls (SR 57.55)
+  Half-century: MN Samuels scored 51 off 39 balls (SR 130.77)
+  Century: KP Pietersen scored 100 off 91 balls (SR 109.89, 10 fours, 1 sixes)
+  Half-century: MP Vaughan scored 79 off 68 balls (SR 116.18)
+
+Bowling Highlights:
+  Key spell: MP Vaughan took 3/39
+
+Captain Performance:
+  Brian Lara (West Indies): scored 18 off 17 balls
+  Michael Vaughan (England): scored 79 off 68 balls
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  England lost 9 early wickets.
+
+Result: England won by 1 wickets
+Toss: England won and chose to field
+Player of the Match: KP Pietersen

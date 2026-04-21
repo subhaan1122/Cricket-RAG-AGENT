@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: West Indies vs Zimbabwe
+Stage: Group B
+Date: 2015-02-24
+Venue: Manuka Oval, Canberra
+Captain West Indies: Jason Holder
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2015 World Cup Group B: West Indies vs Zimbabwe (2015-02-24) at Canberra.
+
+West Indies: 372/2 (50.0 ov)
+  CH Gayle: 215 (147b, 10x4, 16x6, SR 146.26)
+  MN Samuels: 133 (156b, 11x4, 3x6, SR 85.26)
+  DR Smith: 0 (2b, 0x4, 0x6, SR 0.0)
+  H Masakadza: 1/39 (6.2 ov, Econ 6.16)
+  T Panyangara: 1/82 (9.0 ov, Econ 9.11)
+  Sikandar Raza: 0/45 (10.0 ov, Econ 4.5)
+  E Chigumbura: 0/44 (7.0 ov, Econ 6.29)
+  TL Chatara: 0/74 (9.4 ov, Econ 7.66)
+  Extras: 24
+
+Zimbabwe: 289 all out (44.3 ov)
+  SC Williams: 76 (61b, 9x4, 0x6, SR 124.59)
+  CR Ervine: 52 (41b, 7x4, 1x6, SR 126.83)
+  BRM Taylor: 37 (48b, 2x4, 1x6, SR 77.08)
+  Sikandar Raza: 26 (20b, 5x4, 0x6, SR 130.0)
+  E Chigumbura: 21 (20b, 1x4, 1x6, SR 105.0)
+  JE Taylor: 3/38 (10.0 ov, Econ 3.8)
+  JO Holder: 3/48 (7.0 ov, Econ 6.86)
+  CH Gayle: 2/35 (6.0 ov, Econ 5.83)
+  MN Samuels: 1/59 (9.0 ov, Econ 6.56)
+  NO Miller: 1/48 (6.3 ov, Econ 7.38)
+  Extras: 25
+
+Batting Highlights:
+  Century: CH Gayle scored 215 off 147 balls (SR 146.26, 10 fours, 16 sixes)
+  Century: MN Samuels scored 133 off 156 balls (SR 85.26, 11 fours, 3 sixes)
+  Half-century: SC Williams scored 76 off 61 balls (SR 124.59)
+  Half-century: CR Ervine scored 52 off 41 balls (SR 126.83)
+
+Bowling Highlights:
+  Key spell: JE Taylor took 3/38
+  Key spell: JO Holder took 3/48
+
+Captain Performance:
+  Elton Chigumbura (Zimbabwe): scored 21 off 20 balls
+
+Key Moments:
+  Zimbabwe lost 10 early wickets.
+  West Indies exploded in the death overs (152 runs at 15.2 RPO).
+  Zimbabwe lost 3 wickets in the powerplay.
+
+Result: West Indies won by 73 runs (D/L)
+Toss: West Indies won and chose to bat
+Player of the Match: CH Gayle

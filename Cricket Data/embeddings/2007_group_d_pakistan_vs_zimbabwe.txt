@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: Pakistan vs Zimbabwe
+Stage: Group D
+Date: 2007-03-21
+Venue: Sabina Park, Kingston, Jamaica
+Captain Pakistan: Inzamam-ul-Haq
+Captain Zimbabwe: Prosper Utseya
+
+Match Summary:
+  2007 World Cup Group D: Pakistan vs Zimbabwe (2007-03-21) at Jamaica.
+
+Pakistan: 349 all out (49.5 ov)
+  Imran Nazir: 160 (121b, 14x4, 8x6, SR 132.23)
+  Inzamam-ul-Haq: 37 (35b, 2x4, 3x6, SR 105.71)
+  Iftikhar Anjum: 32 (16b, 2x4, 2x6, SR 200.0)
+  Younis Khan: 28 (31b, 1x4, 1x6, SR 90.32)
+  Shoaib Malik: 21 (32b, 2x4, 1x6, SR 65.62)
+  GB Brent: 3/68 (10.0 ov, Econ 6.8)
+  E Chigumbura: 3/50 (6.5 ov, Econ 7.32)
+  T Mupariwa: 1/57 (10.0 ov, Econ 5.7)
+  SC Williams: 1/41 (6.0 ov, Econ 6.83)
+  CB Mpofu: 1/74 (10.0 ov, Econ 7.4)
+  Extras: 16
+
+Zimbabwe: 99 all out (19.1 ov)
+  E Chigumbura: 27 (11b, 0x4, 4x6, SR 245.45)
+  S Matsikenyeri: 18 (25b, 3x4, 0x6, SR 72.0)
+  BRM Taylor: 13 (17b, 1x4, 0x6, SR 76.47)
+  SC Williams: 11 (9b, 0x4, 1x6, SR 122.22)
+  GB Brent: 9 (9b, 0x4, 1x6, SR 100.0)
+  Shahid Afridi: 3/20 (4.0 ov, Econ 5.0)
+  Umar Gul: 2/10 (5.0 ov, Econ 2.0)
+  Danish Kaneria: 2/48 (4.0 ov, Econ 12.0)
+  Mohammad Yousuf: 1/0 (0.1 ov, Econ 0.0)
+  Mohammad Sami: 1/15 (5.0 ov, Econ 3.0)
+  Extras: 4
+
+Batting Highlights:
+  Century: Imran Nazir scored 160 off 121 balls (SR 132.23, 14 fours, 8 sixes)
+  Quickfire innings: Iftikhar Anjum smashed 32 off 16 balls at SR 200.0
+
+Bowling Highlights:
+  Key spell: GB Brent took 3/68
+  Key spell: E Chigumbura took 3/50
+  Key spell: Shahid Afridi took 3/20
+  Economical spell: Umar Gul conceded 10 runs in 5.0 overs (Econ 2.0)
+  Economical spell: Mohammad Sami conceded 15 runs in 5.0 overs (Econ 3.0)
+
+Captain Performance:
+  Inzamam-ul-Haq (Pakistan): scored 37 off 35 balls
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  Zimbabwe lost 10 early wickets.
+  Zimbabwe lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 93 runs (D/L)
+Toss: Zimbabwe won and chose to field
+Player of the Match: Imran Nazir

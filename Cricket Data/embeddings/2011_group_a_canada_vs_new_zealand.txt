@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: Canada vs New Zealand
+Stage: Group A
+Date: 2011-03-13
+Venue: Wankhede Stadium, Mumbai
+Captain Canada: Ashish Bagai
+Captain New Zealand: Daniel Vettori
+
+Match Summary:
+  2011 World Cup Group A: Canada vs New Zealand (2011-03-13) at Mumbai.
+
+New Zealand: 358/6 (50.0 ov)
+  BB McCullum: 101 (109b, 12x4, 2x6, SR 92.66)
+  LRPL Taylor: 74 (44b, 6x4, 5x6, SR 168.18)
+  JD Ryder: 38 (56b, 3x4, 0x6, SR 67.86)
+  SB Styris: 35 (20b, 3x4, 2x6, SR 175.0)
+  KS Williamson: 34 (27b, 4x4, 0x6, SR 125.93)
+  HS Baidwan: 3/84 (9.1 ov, Econ 9.16)
+  WD Balaji Rao: 2/62 (10.0 ov, Econ 6.2)
+  JM Davison: 1/30 (10.0 ov, Econ 3.0)
+  Khurram Chohan: 0/40 (7.0 ov, Econ 5.71)
+  H Osinde: 0/52 (7.0 ov, Econ 7.43)
+  Extras: 18
+
+Canada: 261/9 (50.0 ov)
+  A Bagai: 84 (87b, 10x4, 0x6, SR 96.55)
+  AS Hansra: 70 (105b, 4x4, 1x6, SR 66.67)
+  H Patel: 31 (35b, 5x4, 1x6, SR 88.57)
+  Khurram Chohan: 22 (16b, 2x4, 1x6, SR 137.5)
+  JM Davison: 15 (21b, 2x4, 0x6, SR 71.43)
+  JDP Oram: 3/47 (10.0 ov, Econ 4.7)
+  KD Mills: 2/2 (2.4 ov, Econ 0.75)
+  TG Southee: 1/36 (10.0 ov, Econ 3.6)
+  NL McCullum: 1/56 (8.0 ov, Econ 7.0)
+  JD Ryder: 1/15 (1.2 ov, Econ 11.25)
+  Extras: 17
+
+Batting Highlights:
+  Century: BB McCullum scored 101 off 109 balls (SR 92.66, 12 fours, 2 sixes)
+  Half-century: LRPL Taylor scored 74 off 44 balls (SR 168.18)
+  Quickfire innings: SB Styris smashed 35 off 20 balls at SR 175.0
+  Half-century: A Bagai scored 84 off 87 balls (SR 96.55)
+  Half-century: AS Hansra scored 70 off 105 balls (SR 66.67)
+
+Bowling Highlights:
+  Key spell: HS Baidwan took 3/84
+  Economical spell: JM Davison conceded 30 runs in 10.0 overs (Econ 3.0)
+  Key spell: JDP Oram took 3/47
+
+Captain Performance:
+  Ashish Bagai (Canada): scored 84 off 87 balls
+
+Key Moments:
+  New Zealand lost 6 early wickets.
+  Canada lost 9 early wickets.
+  New Zealand exploded in the death overs (122 runs at 12.2 RPO).
+
+Result: New Zealand won by 97 runs
+Toss: Canada won and chose to field
+Player of the Match: BB McCullum

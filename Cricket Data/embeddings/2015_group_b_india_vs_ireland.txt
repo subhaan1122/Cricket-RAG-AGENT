@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2015
+Match: India vs Ireland
+Stage: Group B
+Date: 2015-03-10
+Venue: Seddon Park, Hamilton
+Captain India: MS Dhoni
+Captain Ireland: William Porterfield
+
+Match Summary:
+  2015 World Cup Group B: India vs Ireland (2015-03-10) at Hamilton.
+
+Ireland: 259 all out (49.0 ov)
+  NJ O'Brien: 75 (75b, 7x4, 3x6, SR 100.0)
+  WTS Porterfield: 67 (93b, 5x4, 1x6, SR 72.04)
+  PR Stirling: 42 (41b, 4x4, 2x6, SR 102.44)
+  A Balbirnie: 24 (24b, 3x4, 0x6, SR 100.0)
+  JF Mooney: 12 (16b, 1x4, 0x6, SR 75.0)
+  Mohammed Shami: 3/41 (9.0 ov, Econ 4.56)
+  R Ashwin: 2/38 (10.0 ov, Econ 3.8)
+  SK Raina: 1/40 (10.0 ov, Econ 4.0)
+  MM Sharma: 1/38 (6.0 ov, Econ 6.33)
+  RA Jadeja: 1/45 (7.0 ov, Econ 6.43)
+  Extras: 11
+
+India: 260/2 (36.5 ov)
+  S Dhawan: 100 (85b, 11x4, 5x6, SR 117.65)
+  RG Sharma: 64 (66b, 3x4, 3x6, SR 96.97)
+  V Kohli: 44 (42b, 4x4, 1x6, SR 104.76)
+  AM Rahane: 33 (28b, 6x4, 0x6, SR 117.86)
+  SR Thompson: 2/45 (6.0 ov, Econ 7.5)
+  AR Cusack: 0/43 (8.0 ov, Econ 5.38)
+  KJ O'Brien: 0/42 (6.5 ov, Econ 6.15)
+  PR Stirling: 0/36 (5.0 ov, Econ 7.2)
+  JF Mooney: 0/44 (6.0 ov, Econ 7.33)
+  Extras: 19
+
+Batting Highlights:
+  Half-century: NJ O'Brien scored 75 off 75 balls (SR 100.0)
+  Half-century: WTS Porterfield scored 67 off 93 balls (SR 72.04)
+  Century: S Dhawan scored 100 off 85 balls (SR 117.65, 11 fours, 5 sixes)
+  Half-century: RG Sharma scored 64 off 66 balls (SR 96.97)
+
+Bowling Highlights:
+  Key spell: Mohammed Shami took 3/41
+
+Captain Performance:
+  William Porterfield (Ireland): scored 67 off 93 balls
+
+Key Moments:
+  Ireland lost 10 early wickets.
+  India scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: India won by 8 wickets
+Toss: Ireland won and chose to bat
+Player of the Match: S Dhawan

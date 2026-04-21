@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: Australia vs England
+Stage: Super Eight
+Date: 2007-04-08
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain Australia: Ricky Ponting
+Captain England: Michael Vaughan
+
+Match Summary:
+  2007 World Cup Super Eight: Australia vs England (2007-04-08) at Antigua.
+
+England: 247 all out (49.5 ov)
+  KP Pietersen: 104 (122b, 5x4, 1x6, SR 85.25)
+  IR Bell: 77 (90b, 9x4, 0x6, SR 85.56)
+  RS Bopara: 21 (36b, 2x4, 0x6, SR 58.33)
+  PA Nixon: 8 (6b, 0x4, 1x6, SR 133.33)
+  AJ Strauss: 7 (10b, 0x4, 0x6, SR 70.0)
+  NW Bracken: 3/33 (10.0 ov, Econ 3.3)
+  SW Tait: 3/41 (10.0 ov, Econ 4.1)
+  GD McGrath: 3/62 (9.5 ov, Econ 6.31)
+  GB Hogg: 1/36 (10.0 ov, Econ 3.6)
+  A Symonds: 0/40 (6.0 ov, Econ 6.67)
+  Extras: 18
+
+Australia: 248/3 (47.2 ov)
+  RT Ponting: 86 (106b, 11x4, 0x6, SR 81.13)
+  MJ Clarke: 55 (63b, 2x4, 0x6, SR 87.3)
+  ML Hayden: 41 (50b, 6x4, 0x6, SR 82.0)
+  A Symonds: 28 (28b, 4x4, 1x6, SR 100.0)
+  AC Gilchrist: 27 (37b, 5x4, 0x6, SR 72.97)
+  A Flintoff: 1/35 (10.0 ov, Econ 3.5)
+  PD Collingwood: 1/50 (9.0 ov, Econ 5.56)
+  JM Anderson: 0/49 (10.0 ov, Econ 4.9)
+  MS Panesar: 0/48 (9.0 ov, Econ 5.33)
+  SI Mahmood: 0/60 (9.2 ov, Econ 6.43)
+  Extras: 11
+
+Batting Highlights:
+  Century: KP Pietersen scored 104 off 122 balls (SR 85.25, 5 fours, 1 sixes)
+  Half-century: IR Bell scored 77 off 90 balls (SR 85.56)
+  Half-century: RT Ponting scored 86 off 106 balls (SR 81.13)
+  Half-century: MJ Clarke scored 55 off 63 balls (SR 87.3)
+
+Bowling Highlights:
+  Key spell: NW Bracken took 3/33
+  Key spell: SW Tait took 3/41
+  Key spell: GD McGrath took 3/62
+  Economical spell: A Flintoff conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 86 off 106 balls
+
+Key Moments:
+  England lost 10 early wickets.
+  Australia lost 3 early wickets.
+
+Result: Australia won by 7 wickets
+Toss: England won and chose to bat
+Player of the Match: SW Tait

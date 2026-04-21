@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: England vs Ireland
+Stage: Group B
+Date: 2011-03-02
+Venue: M Chinnaswamy Stadium, Bangalore
+Captain England: Andrew Strauss
+Captain Ireland: William Porterfield
+
+Match Summary:
+  2011 World Cup Group B: England vs Ireland (2011-03-02) at Bangalore.
+
+England: 327/8 (50.0 ov)
+  IJL Trott: 92 (92b, 9x4, 0x6, SR 100.0)
+  IR Bell: 81 (86b, 6x4, 1x6, SR 94.19)
+  KP Pietersen: 59 (50b, 7x4, 2x6, SR 118.0)
+  AJ Strauss: 34 (37b, 2x4, 1x6, SR 91.89)
+  PD Collingwood: 16 (11b, 0x4, 1x6, SR 145.45)
+  JF Mooney: 4/63 (9.0 ov, Econ 7.0)
+  DT Johnston: 2/58 (10.0 ov, Econ 5.8)
+  PR Stirling: 1/45 (10.0 ov, Econ 4.5)
+  GH Dockrell: 1/68 (10.0 ov, Econ 6.8)
+  WB Rankin: 0/51 (7.0 ov, Econ 7.29)
+  Extras: 23
+
+Ireland: 329/7 (49.1 ov)
+  KJ O'Brien: 113 (63b, 13x4, 6x6, SR 179.37)
+  AR Cusack: 47 (58b, 3x4, 1x6, SR 81.03)
+  JF Mooney: 33 (30b, 6x4, 0x6, SR 110.0)
+  PR Stirling: 32 (28b, 5x4, 1x6, SR 114.29)
+  EC Joyce: 32 (61b, 3x4, 0x6, SR 52.46)
+  GP Swann: 3/47 (10.0 ov, Econ 4.7)
+  JM Anderson: 1/49 (8.1 ov, Econ 6.0)
+  TT Bresnan: 1/64 (10.0 ov, Econ 6.4)
+  PD Collingwood: 0/26 (5.0 ov, Econ 5.2)
+  MH Yardy: 0/49 (7.0 ov, Econ 7.0)
+  Extras: 33
+
+Batting Highlights:
+  Half-century: IJL Trott scored 92 off 92 balls (SR 100.0)
+  Half-century: IR Bell scored 81 off 86 balls (SR 94.19)
+  Half-century: KP Pietersen scored 59 off 50 balls (SR 118.0)
+  Century: KJ O'Brien scored 113 off 63 balls (SR 179.37, 13 fours, 6 sixes)
+
+Bowling Highlights:
+  Match-changing spell: JF Mooney took 4/63
+  Key spell: GP Swann took 3/47
+
+Captain Performance:
+  Andrew Strauss (England): scored 34 off 37 balls
+
+Key Moments:
+  England lost 8 early wickets.
+  Ireland lost 7 early wickets.
+  England scored aggressively in the powerplay (72 runs at 7.2 RPO).
+
+Result: Ireland won by 3 wickets
+Toss: England won and chose to bat
+Player of the Match: KJ O'Brien

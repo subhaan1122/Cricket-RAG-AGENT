@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2003
+Match: India vs Namibia
+Stage: Group A
+Date: 2003-02-23
+Venue: City Oval, Pietermaritzburg, Pietermaritzburg
+Captain India: Sourav Ganguly
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: India vs Namibia (2003-02-23) at Pietermaritzburg.
+
+India: 311/2 (50.0 ov)
+  SR Tendulkar: 152 (151b, 18x4, 0x6, SR 100.66)
+  SC Ganguly: 112 (119b, 6x4, 4x6, SR 94.12)
+  V Sehwag: 24 (24b, 4x4, 0x6, SR 100.0)
+  Yuvraj Singh: 7 (7b, 1x4, 0x6, SR 100.0)
+  RJ van Vuuren: 2/53 (10.0 ov, Econ 5.3)
+  G Snyman: 0/57 (10.0 ov, Econ 5.7)
+  BO van Rooi: 0/36 (6.0 ov, Econ 6.0)
+  DB Kotze: 0/50 (8.0 ov, Econ 6.25)
+  BL Kotze: 0/64 (10.0 ov, Econ 6.4)
+  Extras: 16
+
+Namibia: 130 all out (42.3 ov)
+  AJ Burger: 29 (30b, 4x4, 1x6, SR 96.67)
+  DB Kotze: 27 (50b, 1x4, 1x6, SR 54.0)
+  M van Schoor: 24 (61b, 1x4, 0x6, SR 39.34)
+  BO van Rooi: 17 (31b, 2x4, 0x6, SR 54.84)
+  SJ Swanepoel: 9 (21b, 1x4, 0x6, SR 42.86)
+  Yuvraj Singh: 4/6 (4.3 ov, Econ 1.33)
+  D Mongia: 2/24 (10.0 ov, Econ 2.4)
+  Z Khan: 2/24 (7.5 ov, Econ 3.06)
+  Harbhajan Singh: 2/34 (10.0 ov, Econ 3.4)
+  A Nehra: 0/0 (0.1 ov, Econ 0.0)
+  Extras: 12
+
+Batting Highlights:
+  Century: SR Tendulkar scored 152 off 151 balls (SR 100.66, 18 fours, 0 sixes)
+  Century: SC Ganguly scored 112 off 119 balls (SR 94.12, 6 fours, 4 sixes)
+
+Bowling Highlights:
+  Match-changing spell: Yuvraj Singh took 4/6
+  Economical spell: D Mongia conceded 24 runs in 10.0 overs (Econ 2.4)
+  Economical spell: Z Khan conceded 24 runs in 7.5 overs (Econ 3.06)
+  Economical spell: Harbhajan Singh conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  Sourav Ganguly (India): scored 112 off 119 balls
+  Deon Kotze (Namibia): scored 27 off 50 balls
+
+Key Moments:
+  Namibia lost 10 early wickets.
+
+Result: India won by 181 runs
+Toss: Namibia won and chose to field
+Player of the Match: SR Tendulkar

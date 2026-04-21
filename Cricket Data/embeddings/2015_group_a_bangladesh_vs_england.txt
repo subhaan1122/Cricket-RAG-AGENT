@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: Bangladesh vs England
+Stage: Group A
+Date: 2015-03-09
+Venue: Adelaide Oval
+Captain Bangladesh: Mashrafe Mortaza
+Captain England: Eoin Morgan
+
+Match Summary:
+  2015 World Cup Group A: Bangladesh vs England (2015-03-09) at Adelaide Oval.
+
+Bangladesh: 275/7 (50.0 ov)
+  Mahmudullah: 103 (138b, 7x4, 2x6, SR 74.64)
+  Mushfiqur Rahim: 89 (77b, 8x4, 1x6, SR 115.58)
+  Soumya Sarkar: 40 (52b, 5x4, 1x6, SR 76.92)
+  Sabbir Rahman: 14 (12b, 0x4, 1x6, SR 116.67)
+  Mashrafe Mortaza: 6 (4b, 1x4, 0x6, SR 150.0)
+  JM Anderson: 2/45 (10.0 ov, Econ 4.5)
+  CJ Jordan: 2/59 (10.0 ov, Econ 5.9)
+  MM Ali: 1/44 (9.0 ov, Econ 4.89)
+  SCJ Broad: 1/52 (10.0 ov, Econ 5.2)
+  JE Root: 0/6 (1.0 ov, Econ 6.0)
+  Extras: 14
+
+England: 260 all out (48.3 ov)
+  JC Buttler: 65 (52b, 6x4, 1x6, SR 125.0)
+  IR Bell: 63 (82b, 7x4, 0x6, SR 76.83)
+  CR Woakes: 42 (40b, 3x4, 0x6, SR 105.0)
+  JE Root: 29 (47b, 2x4, 0x6, SR 61.7)
+  AD Hales: 27 (34b, 4x4, 0x6, SR 79.41)
+  Rubel Hossain: 4/53 (9.3 ov, Econ 5.58)
+  Mashrafe Mortaza: 2/48 (10.0 ov, Econ 4.8)
+  Taskin Ahmed: 2/59 (9.0 ov, Econ 6.56)
+  Shakib Al Hasan: 0/41 (10.0 ov, Econ 4.1)
+  Arafat Sunny: 0/42 (8.0 ov, Econ 5.25)
+  Extras: 5
+
+Batting Highlights:
+  Century: Mahmudullah scored 103 off 138 balls (SR 74.64, 7 fours, 2 sixes)
+  Half-century: Mushfiqur Rahim scored 89 off 77 balls (SR 115.58)
+  Half-century: JC Buttler scored 65 off 52 balls (SR 125.0)
+  Half-century: IR Bell scored 63 off 82 balls (SR 76.83)
+
+Bowling Highlights:
+  Match-changing spell: Rubel Hossain took 4/53
+
+Captain Performance:
+  Mashrafe Mortaza (Bangladesh): scored 6 off 4 balls
+
+Key Moments:
+  Bangladesh lost 7 early wickets.
+  England lost 10 early wickets.
+
+Result: Bangladesh won by 15 runs
+Toss: England won and chose to field
+Player of the Match: Mahmudullah

@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs Ireland
+Stage: Super Eight
+Date: 2007-04-15
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain Bangladesh: Habibul Bashar
+Captain Ireland: Trent Johnston
+
+Match Summary:
+  2007 World Cup Super Eight: Bangladesh vs Ireland (2007-04-15) at Barbados.
+
+Ireland: 243/7 (50.0 ov)
+  WTS Porterfield: 85 (136b, 3x4, 0x6, SR 62.5)
+  KJ O'Brien: 48 (44b, 2x4, 2x6, SR 109.09)
+  JP Bray: 31 (70b, 1x4, 0x6, SR 44.29)
+  DT Johnston: 30 (23b, 2x4, 1x6, SR 130.43)
+  NJ O'Brien: 10 (14b, 0x4, 0x6, SR 71.43)
+  Mashrafe Mortaza: 2/38 (10.0 ov, Econ 3.8)
+  Shakib Al Hasan: 1/44 (10.0 ov, Econ 4.4)
+  Aftab Ahmed: 0/8 (2.0 ov, Econ 4.0)
+  Mohammad Rafique: 0/42 (10.0 ov, Econ 4.2)
+  Abdur Razzak: 0/48 (9.0 ov, Econ 5.33)
+  Extras: 23
+
+Bangladesh: 169 all out (41.2 ov)
+  Mohammad Ashraful: 35 (36b, 5x4, 1x6, SR 97.22)
+  Habibul Bashar: 32 (57b, 2x4, 0x6, SR 56.14)
+  Tamim Iqbal: 29 (59b, 4x4, 0x6, SR 49.15)
+  Mushfiqur Rahim: 16 (26b, 2x4, 0x6, SR 61.54)
+  Aftab Ahmed: 12 (9b, 1x4, 1x6, SR 133.33)
+  D Langford-Smith: 2/27 (10.0 ov, Econ 2.7)
+  WK McCallan: 2/25 (8.0 ov, Econ 3.12)
+  WB Rankin: 2/42 (8.0 ov, Econ 5.25)
+  DT Johnston: 2/40 (7.2 ov, Econ 5.45)
+  AC Botha: 1/31 (8.0 ov, Econ 3.88)
+  Extras: 22
+
+Batting Highlights:
+  Half-century: WTS Porterfield scored 85 off 136 balls (SR 62.5)
+
+Bowling Highlights:
+  Economical spell: D Langford-Smith conceded 27 runs in 10.0 overs (Econ 2.7)
+  Economical spell: WK McCallan conceded 25 runs in 8.0 overs (Econ 3.12)
+
+Captain Performance:
+  Trent Johnston (Ireland): scored 30 off 23 balls
+  Habibul Bashar (Bangladesh): scored 32 off 57 balls
+
+Key Moments:
+  Ireland lost 7 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: Ireland won by 74 runs
+Toss: Ireland won and chose to bat
+Player of the Match: WTS Porterfield

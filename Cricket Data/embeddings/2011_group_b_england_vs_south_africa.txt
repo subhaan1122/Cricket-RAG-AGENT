@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2011
+Match: England vs South Africa
+Stage: Group B
+Date: 2011-03-06
+Venue: MA Chidambaram Stadium, Chepauk, Chennai
+Captain England: Andrew Strauss
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2011 World Cup Group B: England vs South Africa (2011-03-06) at Chennai.
+
+England: 171 all out (45.4 ov)
+  RS Bopara: 60 (98b, 3x4, 1x6, SR 61.22)
+  IJL Trott: 52 (94b, 3x4, 0x6, SR 55.32)
+  GP Swann: 16 (20b, 3x4, 0x6, SR 80.0)
+  MJ Prior: 10 (19b, 1x4, 0x6, SR 52.63)
+  IR Bell: 5 (7b, 1x4, 0x6, SR 71.43)
+  Imran Tahir: 4/38 (8.4 ov, Econ 4.38)
+  RJ Peterson: 3/22 (8.0 ov, Econ 2.75)
+  M Morkel: 2/16 (7.0 ov, Econ 2.29)
+  DW Steyn: 1/37 (9.0 ov, Econ 4.11)
+  F du Plessis: 0/16 (5.0 ov, Econ 3.2)
+  Extras: 20
+
+South Africa: 165 all out (47.4 ov)
+  HM Amla: 42 (51b, 3x4, 0x6, SR 82.35)
+  AB de Villiers: 25 (44b, 0x4, 0x6, SR 56.82)
+  GC Smith: 22 (41b, 2x4, 0x6, SR 53.66)
+  DW Steyn: 20 (31b, 3x4, 0x6, SR 64.52)
+  F du Plessis: 17 (38b, 2x4, 0x6, SR 44.74)
+  SCJ Broad: 4/15 (6.4 ov, Econ 2.25)
+  JM Anderson: 2/16 (6.0 ov, Econ 2.67)
+  GP Swann: 1/29 (10.0 ov, Econ 2.9)
+  TT Bresnan: 1/27 (8.0 ov, Econ 3.38)
+  MH Yardy: 1/46 (9.0 ov, Econ 5.11)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: RS Bopara scored 60 off 98 balls (SR 61.22)
+  Half-century: IJL Trott scored 52 off 94 balls (SR 55.32)
+
+Bowling Highlights:
+  Match-changing spell: Imran Tahir took 4/38
+  Key spell: RJ Peterson took 3/22
+  Economical spell: M Morkel conceded 16 runs in 7.0 overs (Econ 2.29)
+  Economical spell: F du Plessis conceded 16 runs in 5.0 overs (Econ 3.2)
+  Match-changing spell: SCJ Broad took 4/15
+  Economical spell: JM Anderson conceded 16 runs in 6.0 overs (Econ 2.67)
+  Economical spell: GP Swann conceded 29 runs in 10.0 overs (Econ 2.9)
+  Economical spell: TT Bresnan conceded 27 runs in 8.0 overs (Econ 3.38)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 22 off 41 balls
+
+Key Moments:
+  England lost 10 early wickets.
+  South Africa lost 10 early wickets.
+  England lost 3 wickets in the powerplay.
+
+Result: England won by 6 runs
+Toss: England won and chose to bat
+Player of the Match: RS Bopara

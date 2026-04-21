@@ -1,0 +1,783 @@
+{
+  "match_info": {
+    "match_id": "9b08a92882de",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "date": "2011-03-17",
+    "teams": {
+      "team1": "England",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "England",
+      "margin": "18 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Andrew Strauss",
+      "team2": "Darren Sammy"
+    },
+    "player_of_match": "JC Tredwell",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: England vs West Indies (2011-03-17) at Chennai.\nEngland: 243 all out (48.4 ov)\n  IJL Trott: 47 (38b, 7x4, 0x6)\n  LJ Wright: 44 (57b, 5x4, 0x6)\n  AJ Strauss: 31 (39b, 3x4, 1x6)\n  AD Russell: 4/49 (8.0 ov)\n  D Bishoo: 3/34 (10.0 ov)\n  KAJ Roach: 2/34 (9.4 ov)\nWest Indies: 225 all out (44.4 ov)\n  AD Russell: 49 (46b, 2x4, 3x6)\n  CH Gayle: 43 (21b, 8x4, 1x6)\n  DJG Sammy: 41 (29b, 2x4, 3x6)\n  JC Tredwell: 4/48 (10.0 ov)\n  GP Swann: 3/36 (10.0 ov)\n  RS Bopara: 2/22 (8.4 ov)\nEngland won by 18 runs.\nPlayer of the Match: JC Tredwell.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 468,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 5.08,
+    "highest_individual_score": 49,
+    "best_bowling_figures": "4/49",
+    "total_sixes": 10,
+    "total_fours": 35
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 243,
+      "total_wickets": 10,
+      "total_overs": 48.4,
+      "run_rate": 5.06,
+      "top_batters": [
+        {
+          "name": "IJL Trott",
+          "runs": 47,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 123.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LJ Wright",
+          "runs": 44,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.19,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Strauss",
+          "runs": 31,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 79.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 27,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Prior",
+          "runs": 21,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AD Russell",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 4,
+          "economy": 6.12,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "D Bishoo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "9.4",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.52,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "KA Pollard",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SJ Benn",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Prior",
+          "runs": 48,
+          "wickets": 1,
+          "overs": "9.1"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 79,
+          "wickets": 2,
+          "overs": "11.5"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 121,
+          "wickets": 3,
+          "overs": "21.6"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 134,
+          "wickets": 4,
+          "overs": "26.1"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 134,
+          "wickets": 5,
+          "overs": "27.2"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "32.2"
+        },
+        {
+          "player": "JC Tredwell",
+          "runs": 192,
+          "wickets": 7,
+          "overs": "39.2"
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 216,
+          "wickets": 8,
+          "overs": "43.4"
+        },
+        {
+          "player": "GP Swann",
+          "runs": 238,
+          "wickets": 9,
+          "overs": "47.1"
+        },
+        {
+          "player": "CT Tremlett",
+          "runs": 243,
+          "wickets": 10,
+          "overs": "48.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 60,
+        "wickets": 1,
+        "run_rate": 6.0,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 35,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "8.4",
+        "balls": 52,
+        "runs": 47,
+        "wickets": 3,
+        "run_rate": 5.42,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 25,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 225,
+      "total_wickets": 10,
+      "total_overs": 44.4,
+      "run_rate": 5.11,
+      "top_batters": [
+        {
+          "name": "AD Russell",
+          "runs": 49,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 106.52,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 43,
+          "balls": 21,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 204.76,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DJG Sammy",
+          "runs": 41,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 141.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 31,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KA Pollard",
+          "runs": 24,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 88.89,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JC Tredwell",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 48,
+          "wickets": 4,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GP Swann",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RS Bopara",
+          "overs": "8.4",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 2,
+          "economy": 2.54,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LJ Wright",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TT Bresnan",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 6.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 58,
+          "wickets": 1,
+          "overs": "6.5"
+        },
+        {
+          "player": "DS Smith",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "8.6"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 91,
+          "wickets": 3,
+          "overs": "12.6"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 113,
+          "wickets": 4,
+          "overs": "17.1"
+        },
+        {
+          "player": "DC Thomas",
+          "runs": 118,
+          "wickets": 5,
+          "overs": "19.4"
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 150,
+          "wickets": 6,
+          "overs": "27.4"
+        },
+        {
+          "player": "AD Russell",
+          "runs": 222,
+          "wickets": 7,
+          "overs": "41.2"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 223,
+          "wickets": 8,
+          "overs": "43.1"
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 223,
+          "wickets": 9,
+          "overs": "43.3"
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 225,
+          "wickets": 10,
+          "overs": "44.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 78,
+        "wickets": 2,
+        "run_rate": 7.8,
+        "fours": 10,
+        "sixes": 2,
+        "dot_balls": 33,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "4.4",
+        "balls": 28,
+        "runs": 8,
+        "wickets": 4,
+        "run_rate": 1.71,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 24,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "IJL Trott": {
+      "batting": {
+        "runs": 47,
+        "balls": 38,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 123.68
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LJ Wright": {
+      "batting": {
+        "runs": 44,
+        "balls": 57,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 77.19
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Strauss": {
+      "batting": {
+        "runs": 31,
+        "balls": 39,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 79.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IR Bell": {
+      "batting": {
+        "runs": 27,
+        "balls": 48,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 56.25
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Prior": {
+      "batting": {
+        "runs": 21,
+        "balls": 21,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Russell": {
+      "batting": {
+        "runs": 49,
+        "balls": 46,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 106.52
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 4,
+        "economy": 6.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Bishoo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 3,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KAJ Roach": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.52
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Pollard": {
+      "batting": {
+        "runs": 24,
+        "balls": 27,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 88.89
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 4.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SJ Benn": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 0,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 43,
+        "balls": 21,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 204.76
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJG Sammy": {
+      "batting": {
+        "runs": 41,
+        "balls": 29,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 141.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 31,
+        "balls": 68,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 45.59
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Tredwell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 4,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GP Swann": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 3,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RS Bopara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.666666666666666,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 2.54
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TT Bresnan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 0,
+        "economy": 6.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 243 in 48.4 overs at 5.06 RPO",
+    "vs West Indies scored 225 in 44.4 overs at 5.11 RPO",
+    "Top batsman: AD Russell with 49 runs",
+    "Top bowler: AD Russell with 4 wickets"
+  ]
+}

@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: Bangladesh vs Sri Lanka
+Stage: Group A
+Date: 2015-02-26
+Venue: Melbourne Cricket Ground
+Captain Bangladesh: Mashrafe Mortaza
+Captain Sri Lanka: Angelo Mathews
+
+Match Summary:
+  2015 World Cup Group A: Bangladesh vs Sri Lanka (2015-02-26) at Melbourne Cricket Ground.
+
+Sri Lanka: 332/1 (50.0 ov)
+  TM Dilshan: 161 (146b, 22x4, 0x6, SR 110.27)
+  KC Sangakkara: 105 (76b, 13x4, 1x6, SR 138.16)
+  HDRL Thirimanne: 52 (78b, 3x4, 0x6, SR 66.67)
+  Rubel Hossain: 1/62 (9.0 ov, Econ 6.89)
+  Mashrafe Mortaza: 0/53 (10.0 ov, Econ 5.3)
+  Shakib Al Hasan: 0/55 (10.0 ov, Econ 5.5)
+  Sabbir Rahman: 0/26 (4.0 ov, Econ 6.5)
+  Mahmudullah: 0/49 (7.0 ov, Econ 7.0)
+  Extras: 14
+
+Bangladesh: 240 all out (47.0 ov)
+  Sabbir Rahman: 53 (62b, 7x4, 0x6, SR 85.48)
+  Shakib Al Hasan: 46 (59b, 4x4, 1x6, SR 77.97)
+  Mushfiqur Rahim: 36 (39b, 2x4, 1x6, SR 92.31)
+  Anamul Haque: 29 (43b, 1x4, 1x6, SR 67.44)
+  Mahmudullah: 28 (46b, 3x4, 0x6, SR 60.87)
+  SL Malinga: 3/35 (9.0 ov, Econ 3.89)
+  TM Dilshan: 2/35 (8.0 ov, Econ 4.38)
+  RAS Lakmal: 2/49 (8.0 ov, Econ 6.12)
+  NLTC Perera: 1/33 (6.2 ov, Econ 5.21)
+  AD Mathews: 1/36 (5.4 ov, Econ 6.35)
+  Extras: 15
+
+Batting Highlights:
+  Century: TM Dilshan scored 161 off 146 balls (SR 110.27, 22 fours, 0 sixes)
+  Century: KC Sangakkara scored 105 off 76 balls (SR 138.16, 13 fours, 1 sixes)
+  Half-century: HDRL Thirimanne scored 52 off 78 balls (SR 66.67)
+  Half-century: Sabbir Rahman scored 53 off 62 balls (SR 85.48)
+
+Bowling Highlights:
+  Key spell: SL Malinga took 3/35
+
+Captain Performance:
+  Bangladesh captain: Mashrafe Mortaza
+  Sri Lanka captain: Angelo Mathews
+
+Key Moments:
+  Bangladesh lost 10 early wickets.
+  Sri Lanka exploded in the death overs (115 runs at 11.5 RPO).
+  Bangladesh lost 3 wickets in the powerplay.
+
+Result: Sri Lanka won by 92 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: TM Dilshan

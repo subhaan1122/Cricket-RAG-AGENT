@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2011
+Match: Sri Lanka vs Pakistan
+Stage: Group A
+Date: 2011-02-26
+Venue: R Premadasa Stadium, Colombo
+Captain Sri Lanka: Kumar Sangakkara
+Captain Pakistan: Shahid Afridi
+
+Match Summary:
+  2011 World Cup Group A: Sri Lanka vs Pakistan (2011-02-26) at Colombo.
+
+Pakistan: 277/7 (50.0 ov)
+  Misbah-ul-Haq: 83 (91b, 6x4, 0x6, SR 91.21)
+  Younis Khan: 72 (76b, 4x4, 0x6, SR 94.74)
+  Kamran Akmal: 39 (48b, 5x4, 0x6, SR 81.25)
+  Mohammad Hafeez: 32 (31b, 4x4, 1x6, SR 103.23)
+  Shahid Afridi: 16 (12b, 3x4, 0x6, SR 133.33)
+  HMRKB Herath: 2/46 (10.0 ov, Econ 4.6)
+  NLTC Perera: 2/62 (9.0 ov, Econ 6.89)
+  M Muralitharan: 1/35 (10.0 ov, Econ 3.5)
+  AD Mathews: 1/56 (10.0 ov, Econ 5.6)
+  KMDN Kulasekara: 0/64 (10.0 ov, Econ 6.4)
+  Extras: 9
+
+Sri Lanka: 266/9 (50.0 ov)
+  LPC Silva: 57 (78b, 5x4, 0x6, SR 73.08)
+  KC Sangakkara: 49 (61b, 2x4, 1x6, SR 80.33)
+  TM Dilshan: 41 (55b, 5x4, 0x6, SR 74.55)
+  WU Tharanga: 33 (43b, 6x4, 0x6, SR 76.74)
+  KMDN Kulasekara: 24 (14b, 2x4, 1x6, SR 171.43)
+  Shahid Afridi: 4/34 (10.0 ov, Econ 3.4)
+  Shoaib Akhtar: 2/42 (10.0 ov, Econ 4.2)
+  Mohammad Hafeez: 1/33 (6.0 ov, Econ 5.5)
+  Abdur Rehman: 1/63 (10.0 ov, Econ 6.3)
+  Umar Gul: 1/60 (9.0 ov, Econ 6.67)
+  Extras: 29
+
+Batting Highlights:
+  Half-century: Misbah-ul-Haq scored 83 off 91 balls (SR 91.21)
+  Half-century: Younis Khan scored 72 off 76 balls (SR 94.74)
+  Half-century: LPC Silva scored 57 off 78 balls (SR 73.08)
+
+Bowling Highlights:
+  Economical spell: M Muralitharan conceded 35 runs in 10.0 overs (Econ 3.5)
+  Match-changing spell: Shahid Afridi took 4/34
+
+Captain Performance:
+  Shahid Afridi (Pakistan): scored 16 off 12 balls
+  Kumar Sangakkara (Sri Lanka): scored 49 off 61 balls
+
+Key Moments:
+  Pakistan lost 7 early wickets.
+  Sri Lanka lost 9 early wickets.
+
+Result: Pakistan won by 11 runs
+Toss: Pakistan won and chose to bat
+Player of the Match: Shahid Afridi

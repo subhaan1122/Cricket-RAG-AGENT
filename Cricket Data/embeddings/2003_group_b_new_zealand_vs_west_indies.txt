@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: New Zealand vs West Indies
+Stage: Group B
+Date: 2003-02-13
+Venue: St George's Park, Port Elizabeth, Gqeberha
+Captain New Zealand: Stephen Fleming
+Captain West Indies: Brian Lara
+
+Match Summary:
+  2003 World Cup Group B: New Zealand vs West Indies (2003-02-13) at Gqeberha.
+
+New Zealand: 241/7 (50.0 ov)
+  NJ Astle: 46 (70b, 6x4, 0x6, SR 65.71)
+  CL Cairns: 37 (44b, 2x4, 1x6, SR 84.09)
+  BB McCullum: 36 (53b, 1x4, 0x6, SR 67.92)
+  AR Adams: 35 (24b, 1x4, 2x6, SR 145.83)
+  SP Fleming: 25 (25b, 4x4, 1x6, SR 100.0)
+  WW Hinds: 3/35 (10.0 ov, Econ 3.5)
+  VC Drakes: 2/49 (10.0 ov, Econ 4.9)
+  M Dillon: 1/30 (10.0 ov, Econ 3.0)
+  CH Gayle: 1/37 (5.0 ov, Econ 7.4)
+  CL Hooper: 0/42 (9.0 ov, Econ 4.67)
+  Extras: 16
+
+West Indies: 221 all out (49.4 ov)
+  RR Sarwan: 75 (99b, 6x4, 0x6, SR 75.76)
+  RD Jacobs: 50 (73b, 3x4, 1x6, SR 68.49)
+  CH Gayle: 22 (29b, 5x4, 0x6, SR 75.86)
+  VC Drakes: 16 (18b, 1x4, 0x6, SR 88.89)
+  RL Powell: 14 (14b, 1x4, 1x6, SR 100.0)
+  AR Adams: 4/44 (9.4 ov, Econ 4.55)
+  JDP Oram: 2/26 (10.0 ov, Econ 2.6)
+  DL Vettori: 1/38 (10.0 ov, Econ 3.8)
+  SB Styris: 1/31 (5.0 ov, Econ 6.2)
+  NJ Astle: 0/14 (4.0 ov, Econ 3.5)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: RR Sarwan scored 75 off 99 balls (SR 75.76)
+  Half-century: RD Jacobs scored 50 off 73 balls (SR 68.49)
+
+Bowling Highlights:
+  Key spell: WW Hinds took 3/35
+  Economical spell: M Dillon conceded 30 runs in 10.0 overs (Econ 3.0)
+  Match-changing spell: AR Adams took 4/44
+  Economical spell: JDP Oram conceded 26 runs in 10.0 overs (Econ 2.6)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 25 off 25 balls
+
+Key Moments:
+  New Zealand lost 7 early wickets.
+  West Indies lost 10 early wickets.
+
+Result: New Zealand won by 20 runs
+Toss: West Indies won and chose to field
+Player of the Match: AR Adams

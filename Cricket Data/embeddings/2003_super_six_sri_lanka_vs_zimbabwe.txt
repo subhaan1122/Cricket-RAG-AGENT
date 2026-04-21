@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2003
+Match: Sri Lanka vs Zimbabwe
+Stage: Super Six
+Date: 2003-03-15
+Venue: Buffalo Park, East London, East London
+Captain Sri Lanka: Sanath Jayasuriya
+Captain Zimbabwe: Heath Streak
+
+Match Summary:
+  2003 World Cup Super Six: Sri Lanka vs Zimbabwe (2003-03-15) at East London.
+
+Sri Lanka: 256/5 (50.0 ov)
+  MS Atapattu: 103 (127b, 7x4, 0x6, SR 81.1)
+  DA Gunawardene: 41 (62b, 2x4, 0x6, SR 66.13)
+  KC Sangakkara: 35 (25b, 4x4, 0x6, SR 140.0)
+  PA de Silva: 25 (31b, 2x4, 0x6, SR 80.65)
+  ST Jayasuriya: 22 (44b, 2x4, 0x6, SR 50.0)
+  HH Streak: 2/40 (10.0 ov, Econ 4.0)
+  DA Marillier: 1/43 (10.0 ov, Econ 4.3)
+  DT Hondo: 1/36 (5.0 ov, Econ 7.2)
+  SM Ervine: 1/24 (3.0 ov, Econ 8.0)
+  GW Flower: 0/44 (10.0 ov, Econ 4.4)
+  Extras: 18
+
+Zimbabwe: 182 all out (41.5 ov)
+  CB Wishart: 43 (71b, 3x4, 0x6, SR 60.56)
+  A Flower: 38 (51b, 1x4, 0x6, SR 74.51)
+  GW Flower: 31 (52b, 4x4, 0x6, SR 59.62)
+  TJ Friend: 21 (20b, 4x4, 0x6, SR 105.0)
+  DA Marillier: 19 (14b, 2x4, 0x6, SR 135.71)
+  ST Jayasuriya: 3/30 (6.0 ov, Econ 5.0)
+  WPUJC Vaas: 2/46 (9.5 ov, Econ 4.68)
+  PW Gunaratne: 2/33 (7.0 ov, Econ 4.71)
+  M Muralitharan: 1/22 (7.0 ov, Econ 3.14)
+  CRD Fernando: 1/10 (3.0 ov, Econ 3.33)
+  Extras: 12
+
+Batting Highlights:
+  Century: MS Atapattu scored 103 off 127 balls (SR 81.1, 7 fours, 0 sixes)
+
+Bowling Highlights:
+  Key spell: ST Jayasuriya took 3/30
+  Economical spell: M Muralitharan conceded 22 runs in 7.0 overs (Econ 3.14)
+
+Captain Performance:
+  Sanath Jayasuriya (Sri Lanka): scored 22 off 44 balls
+
+Key Moments:
+  Sri Lanka lost 5 early wickets.
+  Zimbabwe lost 10 early wickets.
+
+Result: Sri Lanka won by 74 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: MS Atapattu

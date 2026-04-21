@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cricket World Cup Companion | ICC 2003–2023</title>
+  <meta name="description" content="Your intelligent cricket knowledge hub. Explore ICC World Cup history from 2003 to 2023." />
+  <meta name="theme-color" content="hsl(220, 25%, 6%)" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+  </script>
+</head>
+<body>
+
+  <!-- Page Transition Overlay -->
+  <div class="page-transition-overlay" id="page-overlay">
+    <div class="transition-spinner">
+      <svg viewBox="0 0 100 100" width="48" height="48">
+        <circle cx="50" cy="50" r="45" fill="hsl(0,60%,35%)" />
+        <circle cx="50" cy="50" r="45" fill="none" stroke="hsl(0,0%,90%)" stroke-width="2" />
+        <path d="M 20 50 Q 35 20, 50 50 Q 65 80, 80 50" fill="none" stroke="hsl(0,0%,95%)" stroke-width="2.5" stroke-linecap="round" />
+      </svg>
+    </div>
+  </div>
+
+  <!-- ========== NAVBAR ========== -->
+  <nav id="navbar" class="navbar">
+    <div class="container navbar-inner">
+      <a href="#hero" class="navbar-brand">
+        <span class="navbar-emoji">🏏</span>
+        <span class="navbar-title">CricketWC</span>
+      </a>
+      <!-- Mobile hamburger toggle -->
+      <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-links" id="navbar-links">
+        <a href="#hero">Home</a>
+        <a href="#timeline">Timeline</a>
+        <a href="#players">Players</a>
+        <a href="#matches">Matches</a>
+        <a href="#chat">Chat</a>
+        <a href="chatbot.html" class="navbar-cta-link">Chatbot</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ========== HERO SECTION ========== -->
+  <section id="hero" class="hero-section">
+    <div class="hero-bg">
+      <div class="hero-bg-overlay"></div>
+    </div>
+    <canvas id="particle-canvas" class="particle-canvas"></canvas>
+
+    <div class="hero-content container">
+      <div class="hero-inner anim-fade-up">
+        <div class="hero-badge glass anim-scale-in" style="--delay:0.3s">
+          <i data-lucide="sparkles" class="icon-sm text-secondary"></i>
+          <span>ICC World Cup 2003 – 2023</span>
+        </div>
+
+        <h1 class="hero-title">
+          <span class="text-foreground">Cricket</span>
+          <span class="text-gradient-gold">World Cup</span>
+          <br />
+          <span class="text-foreground">Companion</span>
+        </h1>
+
+        <div class="hero-subtitle anim-fade-up" style="--delay:0.5s">
+          <p>Your intelligent cricket knowledge hub. Ask me anything:</p>
+        </div>
+
+        <div class="hero-typewriter anim-fade-up" style="--delay:0.7s">
+          <span id="typewriter-text" class="text-secondary"></span><span id="typewriter-cursor" class="typewriter-cursor text-secondary">|</span>
+        </div>
+
+        <div class="hero-cta anim-fade-up" style="--delay:0.9s">
+          <a href="#chat" class="btn btn-primary glow-gold">
+            <i data-lucide="message-circle" class="icon-sm"></i>
+            Start Chatting
+          </a>
+          <a href="#timeline" class="btn btn-glass glass">
+            <i data-lucide="calendar" class="icon-sm"></i>
+            Explore Tournaments
+          </a>
+        </div>
+      </div>
+
+      <div class="scroll-indicator anim-fade-up" style="--delay:1.4s">
+        <div class="scroll-indicator-inner">
+          <i data-lucide="chevron-down" class="scroll-arrow"></i>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== STATS SECTION ========== -->
+  <section class="section" id="stats">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">By The <span class="text-gradient-gold">Numbers</span></h2>
+        <p class="section-subtitle">Two decades of World Cup excellence</p>
+      </div>
+      <div class="stats-grid">
+        <div class="stats-card anim-on-scroll" data-delay="0">
+          <div class="stats-icon-wrap"><i data-lucide="trophy" class="icon-md text-secondary"></i></div>
+          <span class="stats-value" data-target="6">0</span>
+          <span class="stats-label">World Cups</span>
+        </div>
+        <div class="stats-card anim-on-scroll" data-delay="200">
+          <div class="stats-icon-wrap"><i data-lucide="users" class="icon-md text-secondary"></i></div>
+          <span class="stats-value" data-target="14">0</span>
+          <span class="stats-label">Teams</span>
+        </div>
+        <div class="stats-card anim-on-scroll" data-delay="400">
+          <div class="stats-icon-wrap"><i data-lucide="bar-chart-3" class="icon-md text-secondary"></i></div>
+          <span class="stats-value" data-target="293" data-suffix="+">0</span>
+          <span class="stats-label">Matches Played</span>
+        </div>
+        <div class="stats-card anim-on-scroll" data-delay="600">
+          <div class="stats-icon-wrap"><i data-lucide="award" class="icon-md text-secondary"></i></div>
+          <span class="stats-value" data-target="87">0</span>
+          <span class="stats-label">Centuries Scored</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="container"><div class="divider"></div></div>
+
+  <!-- ========== TOURNAMENT TIMELINE ========== -->
+  <section id="timeline" class="section bg-stadium-gradient">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">Tournament <span class="text-gradient-gold">Timeline</span></h2>
+        <p class="section-subtitle">Select a World Cup year to explore its story</p>
+      </div>
+      <div class="timeline-selector" id="timeline-selector"></div>
+      <div id="tournament-details" class="tournament-details hidden"></div>
+    </div>
+  </section>
+
+  <!-- ========== FEATURES ========== -->
+  <section class="section" id="features">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">Everything <span class="text-gradient-green">Cricket</span></h2>
+        <p class="section-subtitle">Deep knowledge at your fingertips</p>
+      </div>
+      <div class="features-grid">
+        <div class="feature-card anim-on-scroll" data-delay="0">
+          <div class="feature-icon-wrap"><i data-lucide="trophy" class="icon-md text-accent"></i></div>
+          <h3 class="feature-title">Tournament Explorer</h3>
+          <p class="feature-desc">Discover winners, runners-up, and final match highlights from every ICC World Cup since 2003.</p>
+        </div>
+        <div class="feature-card anim-on-scroll" data-delay="150">
+          <div class="feature-icon-wrap"><i data-lucide="users" class="icon-md text-accent"></i></div>
+          <h3 class="feature-title">Player Spotlight</h3>
+          <p class="feature-desc">Compare batting and bowling legends across tournaments. From Sachin to Kohli — every stat at your fingertips.</p>
+        </div>
+        <div class="feature-card anim-on-scroll" data-delay="300">
+          <div class="feature-icon-wrap"><i data-lucide="bar-chart-3" class="icon-md text-accent"></i></div>
+          <h3 class="feature-title">Match Insights</h3>
+          <p class="feature-desc">Relive exciting matches with detailed summaries, team strategies, and key turning points.</p>
+        </div>
+        <div class="feature-card anim-on-scroll" data-delay="450">
+          <div class="feature-icon-wrap"><i data-lucide="globe" class="icon-md text-accent"></i></div>
+          <h3 class="feature-title">Global Cricket Stories</h3>
+          <p class="feature-desc">Explore how cricket has evolved through the World Cup lens across continents and cultures.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== PLAYERS SECTION ========== -->
+  <section id="players" class="section bg-stadium-gradient">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">Legendary <span class="text-gradient-gold">Players</span></h2>
+        <p class="section-subtitle">The icons who defined World Cup cricket</p>
+      </div>
+      <div class="players-grid" id="players-grid"></div>
+    </div>
+  </section>
+
+  <!-- ========== MATCH HIGHLIGHTS ========== -->
+  <section id="matches" class="section">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">Unforgettable <span class="text-gradient-green">Matches</span></h2>
+        <p class="section-subtitle">The moments that made history</p>
+      </div>
+      <div class="match-timeline" id="match-timeline">
+        <div class="match-timeline-line"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== CHAT SECTION ========== -->
+  <section id="chat" class="section bg-stadium-gradient">
+    <div class="container">
+      <div class="section-header anim-on-scroll">
+        <h2 class="section-title">Chat with Your <span class="text-gradient-gold">Cricket Expert</span></h2>
+        <p class="section-subtitle">Ask anything about ICC World Cups 2003–2023</p>
+      </div>
+      <div class="chat-container">
+        <div class="chat-header glass">
+          <div class="chat-avatar glow-green">
+            <i data-lucide="bot" class="icon-sm text-accent"></i>
+          </div>
+          <div>
+            <h3 class="chat-header-title"><span class="text-gradient-green">Cric</span> <span class="text-gradient-gold">AI</span> <span style="color:var(--accent);font-weight:400;font-size:0.85rem;">— Your Cricket Companion</span></h3>
+          </div>
+        </div>
+
+        <div class="chat-messages" id="chat-messages"></div>
+
+        <div class="chat-suggestions" id="chat-suggestions"></div>
+
+        <div class="chat-input-area">
+          <form id="chat-form" class="chat-form">
+            <input type="text" id="chat-input" class="chat-input" placeholder="Ask about any World Cup moment..." autocomplete="off" />
+            <button type="submit" id="chat-send-btn" class="chat-send-btn" disabled>
+              <i data-lucide="send" class="icon-sm"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== CTA SECTION ========== -->
+  <section class="cta-section">
+    <div class="cta-gradient-bg"></div>
+    <canvas id="particle-canvas-2" class="particle-canvas"></canvas>
+    <div class="container cta-content anim-on-scroll">
+      <h2 class="section-title">Ready to Relive the <span class="text-gradient-gold">Magic</span>?</h2>
+      <p class="section-subtitle">From legendary innings to dramatic finals, every World Cup story is waiting for you.</p>
+      <a href="#chat" class="btn btn-primary btn-lg glow-gold">
+        <i data-lucide="message-circle" class="icon-md"></i>
+        Start Your Cricket Journey
+      </a>
+    </div>
+  </section>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <div class="cricket-ball-spinner" id="footer-spinner">
+          <svg viewBox="0 0 100 100" width="20" height="20">
+            <circle cx="50" cy="50" r="45" fill="hsl(0,60%,35%)" />
+            <circle cx="50" cy="50" r="45" fill="none" stroke="hsl(0,0%,90%)" stroke-width="2" />
+            <path d="M 20 50 Q 35 20, 50 50 Q 65 80, 80 50" fill="none" stroke="hsl(0,0%,95%)" stroke-width="2.5" stroke-linecap="round" />
+          </svg>
+        </div>
+        <span class="footer-title">Cricket World Cup Companion</span>
+      </div>
+      <div class="footer-links">
+        <a href="#timeline">Timeline</a>
+        <a href="#players">Players</a>
+        <a href="#matches">Matches</a>
+        <a href="#chat">Chat</a>
+      </div>
+      <p class="footer-copy">Built with passion 🏏 • ICC World Cups 2003–2023</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    // Smooth page transition: fade out overlay on load
+    window.addEventListener('load', function() {
+      var overlay = document.getElementById('page-overlay');
+      if (overlay) {
+        setTimeout(function() {
+          overlay.classList.add('fade-out');
+          setTimeout(function() { overlay.remove(); }, 600);
+        }, 300);
+      }
+    });
+
+    // Redirect to chatbot with smooth transition
+    window.redirectToChatbot = function(message) {
+      var overlay = document.createElement('div');
+      overlay.className = 'page-transition-overlay fade-in';
+      overlay.innerHTML = '<div class="transition-spinner"><svg viewBox="0 0 100 100" width="48" height="48"><circle cx="50" cy="50" r="45" fill="hsl(0,60%,35%)" /><circle cx="50" cy="50" r="45" fill="none" stroke="hsl(0,0%,90%)" stroke-width="2" /><path d="M 20 50 Q 35 20, 50 50 Q 65 80, 80 50" fill="none" stroke="hsl(0,0%,95%)" stroke-width="2.5" stroke-linecap="round" /></svg></div>';
+      document.body.appendChild(overlay);
+      
+      setTimeout(function() {
+        window.location.href = 'chatbot.html?q=' + encodeURIComponent(message);
+      }, 400);
+    };
+
+    /*
+     * FIX: Override chat form & suggestions ONCE for redirect.
+     * No longer conflicts with initChatInterface since we removed
+     * the API-calling chat from the index page entirely.
+     * The chat section on index page is now redirect-only.
+     */
+  </script>
+</body>
+</html>

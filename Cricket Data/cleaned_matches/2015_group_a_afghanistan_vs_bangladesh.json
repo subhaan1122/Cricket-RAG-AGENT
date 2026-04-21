@@ -1,0 +1,54 @@
+{
+  "match_id": "183cd7e3531e",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Manuka Oval, Canberra",
+  "city": "Canberra",
+  "date": "2015-02-18",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Bangladesh"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "105 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Mashrafe Mortaza"
+  },
+  "player_of_match": "Mushfiqur Rahim",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 267,
+      "wickets": 10,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 162,
+      "wickets": 10,
+      "overs": 42.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_bangladesh.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Bangladesh (2015-02-18) at Canberra.\nBangladesh: 267 all out (50 ov)\nAfghanistan: 162 all out (42.5 ov)\nBangladesh won by 105 runs. Player of the Match: Mushfiqur Rahim."
+}

@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Sri Lanka
+Stage: Final
+Date: 2007-04-28
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain Australia: Ricky Ponting
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Final: Australia vs Sri Lanka (2007-04-28) at Barbados.
+
+Australia: 281/4 (38.0 ov)
+  AC Gilchrist: 149 (104b, 13x4, 8x6, SR 143.27)
+  ML Hayden: 38 (55b, 3x4, 1x6, SR 69.09)
+  RT Ponting: 37 (42b, 1x4, 1x6, SR 88.1)
+  A Symonds: 23 (21b, 2x4, 0x6, SR 109.52)
+  MJ Clarke: 8 (6b, 1x4, 0x6, SR 133.33)
+  SL Malinga: 2/49 (8.0 ov, Econ 6.12)
+  CRD Fernando: 1/74 (8.0 ov, Econ 9.25)
+  M Muralitharan: 0/44 (7.0 ov, Econ 6.29)
+  ST Jayasuriya: 0/33 (5.0 ov, Econ 6.6)
+  WPUJC Vaas: 0/54 (8.0 ov, Econ 6.75)
+  Extras: 23
+
+Sri Lanka: 215/8 (36.0 ov)
+  ST Jayasuriya: 63 (67b, 9x4, 0x6, SR 94.03)
+  KC Sangakkara: 54 (52b, 6x4, 1x6, SR 103.85)
+  LPC Silva: 21 (22b, 1x4, 1x6, SR 95.45)
+  DPMD Jayawardene: 19 (19b, 1x4, 0x6, SR 100.0)
+  TM Dilshan: 14 (13b, 2x4, 0x6, SR 107.69)
+  MJ Clarke: 2/33 (5.0 ov, Econ 6.6)
+  A Symonds: 1/6 (2.0 ov, Econ 3.0)
+  GD McGrath: 1/31 (7.0 ov, Econ 4.43)
+  NW Bracken: 1/34 (6.0 ov, Econ 5.67)
+  GB Hogg: 1/19 (3.0 ov, Econ 6.33)
+  Extras: 15
+
+Batting Highlights:
+  Century: AC Gilchrist scored 149 off 104 balls (SR 143.27, 13 fours, 8 sixes)
+  Half-century: ST Jayasuriya scored 63 off 67 balls (SR 94.03)
+  Half-century: KC Sangakkara scored 54 off 52 balls (SR 103.85)
+
+Bowling Highlights:
+  Best bowling: SL Malinga with 2/49
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 37 off 42 balls
+  Mahela Jayawardene (Sri Lanka): scored 19 off 19 balls
+
+Key Moments:
+  Australia lost 4 early wickets.
+  Sri Lanka lost 8 early wickets.
+
+Result: Australia won by 53 runs (D/L)
+Toss: Australia won and chose to bat
+Player of the Match: AC Gilchrist

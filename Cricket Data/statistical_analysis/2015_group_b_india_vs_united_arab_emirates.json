@@ -1,0 +1,689 @@
+{
+  "match_info": {
+    "match_id": "92acfd2c92be",
+    "world_cup_year": 2015,
+    "stage": "Group B",
+    "venue": "Western Australia Cricket Association Ground",
+    "city": "Perth",
+    "date": "2015-02-28",
+    "teams": {
+      "team1": "India",
+      "team2": "United Arab Emirates"
+    },
+    "toss": {
+      "winner": "United Arab Emirates",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "9 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "MS Dhoni",
+      "team2": "Mohammad Tauqir"
+    },
+    "player_of_match": "R Ashwin",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group B: India vs United Arab Emirates (2015-02-28) at Perth.\nUnited Arab Emirates: 102 all out (31.3 ov)\n  Shaiman Anwar: 35 (49b, 6x4, 0x6)\n  R Ashwin: 4/25 (10.0 ov)\n  UT Yadav: 2/15 (6.3 ov)\n  RA Jadeja: 2/23 (5.0 ov)\nIndia: 104/1 (18.5 ov)\n  RG Sharma: 57* (55b, 10x4, 1x6)\n  V Kohli: 33* (41b, 5x4, 0x6)\nIndia won by 9 wickets.\nPlayer of the Match: R Ashwin.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 206,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 4.54,
+    "highest_individual_score": 57,
+    "best_bowling_figures": "4/25",
+    "total_sixes": 2,
+    "total_fours": 27
+  },
+  "innings_analysis": [
+    {
+      "team": "United Arab Emirates",
+      "total_runs": 102,
+      "total_wickets": 10,
+      "total_overs": 31.3,
+      "run_rate": 3.29,
+      "top_batters": [
+        {
+          "name": "Shaiman Anwar",
+          "runs": 35,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Khurram Khan",
+          "runs": 14,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AM Guruge",
+          "runs": 10,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SP Patil",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Naveed",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 4,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "UT Yadav",
+          "overs": "6.3",
+          "maidens": 2,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 2.31,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "B Kumar",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 3.8,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AR Berenger",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "Amjad Ali",
+          "runs": 13,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "Krishna Chandran",
+          "runs": 28,
+          "wickets": 3,
+          "overs": "10.2"
+        },
+        {
+          "player": "SP Patil",
+          "runs": 41,
+          "wickets": 4,
+          "overs": "14.5"
+        },
+        {
+          "player": "Khurram Khan",
+          "runs": 44,
+          "wickets": 5,
+          "overs": "16.4"
+        },
+        {
+          "player": "Rohan Mustafa",
+          "runs": 52,
+          "wickets": 6,
+          "overs": "19.5"
+        },
+        {
+          "player": "Amjad Javed",
+          "runs": 61,
+          "wickets": 7,
+          "overs": "21.1"
+        },
+        {
+          "player": "Mohammad Naveed",
+          "runs": 68,
+          "wickets": 8,
+          "overs": "22.3"
+        },
+        {
+          "player": "Mohammad Tauqir",
+          "runs": 71,
+          "wickets": 9,
+          "overs": "23.6"
+        },
+        {
+          "player": "Shaiman Anwar",
+          "runs": 102,
+          "wickets": 10,
+          "overs": "31.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 2,
+        "run_rate": 2.8,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 47,
+        "extras": 8
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 104,
+      "total_wickets": 1,
+      "total_overs": 18.5,
+      "run_rate": 5.78,
+      "top_batters": [
+        {
+          "name": "RG Sharma",
+          "runs": 57,
+          "balls": 55,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 103.64,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 33,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.49,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "S Dhawan",
+          "runs": 14,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Naveed",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AM Guruge",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 3.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Krishna Chandran",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Amjad Javed",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Tauqir",
+          "overs": "2.5",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 7.41,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Dhawan",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "6.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 52,
+        "wickets": 1,
+        "run_rate": 5.2,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 44,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Shaiman Anwar": {
+      "batting": {
+        "runs": 35,
+        "balls": 49,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Khurram Khan": {
+      "batting": {
+        "runs": 14,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AM Guruge": {
+      "batting": {
+        "runs": 10,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 62.5
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 0,
+        "economy": 3.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SP Patil": {
+      "batting": {
+        "runs": 7,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 36.84
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Naveed": {
+      "batting": {
+        "runs": 6,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ashwin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 4,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "UT Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.5,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 2,
+        "economy": 2.31
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Sharma": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 1,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Kumar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 1,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 57,
+        "balls": 55,
+        "fours": 10,
+        "sixes": 1,
+        "strike_rate": 103.64
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 33,
+        "balls": 41,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 80.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Dhawan": {
+      "batting": {
+        "runs": 14,
+        "balls": 17,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 82.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Krishna Chandran": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Amjad Javed": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Tauqir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.8333333333333335,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 7.41
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: United Arab Emirates scored 102 in 31.3 overs at 3.29 RPO",
+    "vs India scored 104 in 18.5 overs at 5.78 RPO",
+    "Top batsman: RG Sharma with 57 runs",
+    "Top bowler: R Ashwin with 4 wickets"
+  ]
+}

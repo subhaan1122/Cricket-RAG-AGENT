@@ -1,0 +1,741 @@
+{
+  "match_info": {
+    "match_id": "b3f6689fdf80",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Buffalo Park, East London",
+    "city": "East London",
+    "date": "2003-02-27",
+    "teams": {
+      "team1": "South Africa",
+      "team2": "Canada"
+    },
+    "toss": {
+      "winner": "Canada",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "118 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shaun Pollock",
+      "team2": "Joe Harris"
+    },
+    "player_of_match": "HH Dippenaar",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: South Africa vs Canada (2003-02-27) at East London.\nSouth Africa: 254/8 (50.0 ov)\n  HH Dippenaar: 80 (118b, 7x4, 0x6)\n  GC Smith: 63 (79b, 6x4, 0x6)\n  SM Pollock: 32 (23b, 0x4, 2x6)\n  A Patel: 3/41 (7.0 ov)\n  D Joseph: 2/42 (9.0 ov)\n  NA de Groot: 2/45 (7.0 ov)\nCanada: 136/5 (50.0 ov)\n  I Maraj: 53* (155b, 6x4, 0x6)\n  M Ntini: 2/19 (10.0 ov)\nSouth Africa won by 118 runs.\nPlayer of the Match: HH Dippenaar.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 390,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 3.9,
+    "highest_individual_score": 80,
+    "best_bowling_figures": "3/41",
+    "total_sixes": 3,
+    "total_fours": 30
+  },
+  "innings_analysis": [
+    {
+      "team": "South Africa",
+      "total_runs": 254,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 5.08,
+      "top_batters": [
+        {
+          "name": "HH Dippenaar",
+          "runs": 80,
+          "balls": 118,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 67.8,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 63,
+          "balls": 79,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 79.75,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SM Pollock",
+          "runs": 32,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 139.13,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Hall",
+          "runs": 22,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MV Boucher",
+          "runs": 21,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Patel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 5.86,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "D Joseph",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "NA de Groot",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BB Seebaran",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HH Gibbs",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "5.2"
+        },
+        {
+          "player": "G Kirsten",
+          "runs": 22,
+          "wickets": 2,
+          "overs": "6.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 23,
+          "wickets": 3,
+          "overs": "7.2"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 132,
+          "wickets": 4,
+          "overs": "29.1"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 174,
+          "wickets": 5,
+          "overs": "39.2"
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 197,
+          "wickets": 6,
+          "overs": "45.2"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 227,
+          "wickets": 7,
+          "overs": "48.1"
+        },
+        {
+          "player": "M Ntini",
+          "runs": 249,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 3,
+        "run_rate": 3.6,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 77,
+        "wickets": 3,
+        "run_rate": 7.7,
+        "fours": 3,
+        "sixes": 4,
+        "dot_balls": 20,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Canada",
+      "total_runs": 136,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 2.72,
+      "top_batters": [
+        {
+          "name": "I Maraj",
+          "runs": 53,
+          "balls": 155,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.19,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 28,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.68,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "NA de Groot",
+          "runs": 16,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JV Harris",
+          "runs": 15,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IS Billcliff",
+          "runs": 9,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Ntini",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 1.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "8.0",
+          "maidens": 4,
+          "runs_conceded": 13,
+          "wickets": 1,
+          "economy": 1.62,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Zondeki",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Hall",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 3.71,
+          "wides": 2,
+          "no_balls": 2
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 2.2,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Davison",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "DR Chumney",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "6.3"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 28,
+          "wickets": 3,
+          "overs": "15.1"
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 58,
+          "wickets": 4,
+          "overs": "27.1"
+        },
+        {
+          "player": "JV Harris",
+          "runs": 84,
+          "wickets": 5,
+          "overs": "37.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 15,
+        "wickets": 2,
+        "run_rate": 1.5,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 51,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 0,
+        "run_rate": 4.6,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 4
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "HH Dippenaar": {
+      "batting": {
+        "runs": 80,
+        "balls": 118,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 67.8
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 63,
+        "balls": 79,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 79.75
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 32,
+        "balls": 23,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 139.13
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 1,
+        "economy": 1.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Hall": {
+      "batting": {
+        "runs": 22,
+        "balls": 11,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 200.0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 3.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MV Boucher": {
+      "batting": {
+        "runs": 21,
+        "balls": 36,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 58.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Patel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 3,
+        "economy": 5.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Joseph": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NA de Groot": {
+      "batting": {
+        "runs": 16,
+        "balls": 36,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 44.44
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 6.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Davison": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BB Seebaran": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 0,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "I Maraj": {
+      "batting": {
+        "runs": 53,
+        "balls": 155,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 34.19
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Bagai": {
+      "batting": {
+        "runs": 28,
+        "balls": 37,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 75.68
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JV Harris": {
+      "batting": {
+        "runs": 15,
+        "balls": 32,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 46.88
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IS Billcliff": {
+      "batting": {
+        "runs": 9,
+        "balls": 24,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 37.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 1.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Zondeki": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 2.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 2.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: South Africa scored 254 in 50.0 overs at 5.08 RPO",
+    "vs Canada scored 136 in 50.0 overs at 2.72 RPO",
+    "Top batsman: HH Dippenaar with 80 runs",
+    "Top bowler: A Patel with 3 wickets"
+  ]
+}

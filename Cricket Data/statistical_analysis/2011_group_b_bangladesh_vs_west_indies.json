@@ -1,0 +1,629 @@
+{
+  "match_info": {
+    "match_id": "992544306128",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "date": "2011-03-04",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "West Indies",
+      "margin": "9 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shakib Al Hasan",
+      "team2": "Darren Sammy"
+    },
+    "player_of_match": "KAJ Roach",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: Bangladesh vs West Indies (2011-03-04) at Mirpur.\nBangladesh: 58 all out (18.5 ov)\n  SJ Benn: 4/18 (5.5 ov)\n  DJG Sammy: 3/21 (7.0 ov)\n  KAJ Roach: 3/19 (6.0 ov)\nWest Indies: 59/1 (12.2 ov)\n  CH Gayle: 37* (36b, 6x4, 0x6)\nWest Indies won by 9 wickets.\nPlayer of the Match: KAJ Roach.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 117,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 4.07,
+    "highest_individual_score": 37,
+    "best_bowling_figures": "4/18",
+    "total_sixes": 0,
+    "total_fours": 15
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 58,
+      "total_wickets": 10,
+      "total_overs": 18.5,
+      "run_rate": 3.22,
+      "top_batters": [
+        {
+          "name": "Junaid Siddique",
+          "runs": 25,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 92.59,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 11,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Imrul Kayes",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Raqibul Hasan",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SJ Benn",
+          "overs": "5.5",
+          "maidens": 2,
+          "runs_conceded": 18,
+          "wickets": 4,
+          "economy": 3.09,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJG Sammy",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 3,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 3,
+          "economy": 3.17,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 16,
+          "wickets": 2,
+          "overs": "3.3"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 25,
+          "wickets": 3,
+          "overs": "5.1"
+        },
+        {
+          "player": "Junaid Siddique",
+          "runs": 36,
+          "wickets": 4,
+          "overs": "8.2"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 41,
+          "wickets": 5,
+          "overs": "10.2"
+        },
+        {
+          "player": "Raqibul Hasan",
+          "runs": 51,
+          "wickets": 6,
+          "overs": "13.6"
+        },
+        {
+          "player": "Naeem Islam",
+          "runs": 56,
+          "wickets": 7,
+          "overs": "16.2"
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 56,
+          "wickets": 8,
+          "overs": "17.1"
+        },
+        {
+          "player": "Shafiul Islam",
+          "runs": 58,
+          "wickets": 9,
+          "overs": "18.3"
+        },
+        {
+          "player": "Rubel Hossain",
+          "runs": 58,
+          "wickets": 10,
+          "overs": "18.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 40,
+        "wickets": 4,
+        "run_rate": 4.0,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 59,
+      "total_wickets": 1,
+      "total_overs": 12.2,
+      "run_rate": 4.92,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 37,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 102.78,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DM Bravo",
+          "runs": 9,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DS Smith",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Naeem Islam",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 2.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "0.2",
+          "maidens": 0,
+          "runs_conceded": 1,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shafiul Islam",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Ashraful",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 8.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DS Smith",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "5.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 49,
+        "wickets": 1,
+        "run_rate": 4.9,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Junaid Siddique": {
+      "batting": {
+        "runs": 25,
+        "balls": 27,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 92.59
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Ashraful": {
+      "batting": {
+        "runs": 11,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 52.38
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 8,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0.3333333333333333,
+        "maidens": 0,
+        "runs": 1,
+        "wickets": 0,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imrul Kayes": {
+      "batting": {
+        "runs": 5,
+        "balls": 8,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 62.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Raqibul Hasan": {
+      "batting": {
+        "runs": 4,
+        "balls": 17,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 23.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SJ Benn": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.833333333333333,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 4,
+        "economy": 3.09
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJG Sammy": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 3,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KAJ Roach": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 3,
+        "economy": 3.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 37,
+        "balls": 36,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 102.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM Bravo": {
+      "batting": {
+        "runs": 9,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 34.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Smith": {
+      "batting": {
+        "runs": 6,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Naeem Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 1,
+        "economy": 2.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shafiul Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Razzak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 58 in 18.5 overs at 3.22 RPO",
+    "vs West Indies scored 59 in 12.2 overs at 4.92 RPO",
+    "Top batsman: CH Gayle with 37 runs",
+    "Top bowler: SJ Benn with 4 wickets"
+  ]
+}

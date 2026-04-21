@@ -1,0 +1,368 @@
+{
+  "match_id": "9836d790e178",
+  "world_cup_year": 2011,
+  "stage": "Quarter-Final",
+  "venue": "Shere Bangla National Stadium",
+  "city": "Mirpur",
+  "date": "2011-03-25",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "49 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Daniel Vettori",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "JDP Oram",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 221,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "JD Ryder",
+          "runs": 83,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 68.6,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 43,
+          "balls": 72,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 59.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 38,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 92.68,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JDP Oram",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Morkel",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 3,
+          "economy": 5.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 3.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RJ Peterson",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 5.44,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 16,
+          "wickets": 2,
+          "overs": "5.6"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 130,
+          "wickets": 3,
+          "overs": "32.6"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 153,
+          "wickets": 4,
+          "overs": "37.2"
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 156,
+          "wickets": 5,
+          "overs": "38.5"
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 188,
+          "wickets": 6,
+          "overs": "45.3"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 204,
+          "wickets": 7,
+          "overs": "48.1"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 210,
+          "wickets": 8,
+          "overs": "48.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 172,
+      "wickets": 10,
+      "overs": 43.2,
+      "extras": 3,
+      "top_batters": [
+        {
+          "name": "JH Kallis",
+          "runs": 47,
+          "balls": 75,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 36,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 83.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 35,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 28,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DW Steyn",
+          "runs": 8,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JDP Oram",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 4,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NL McCullum",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 3,
+          "economy": 2.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LJ Woodcock",
+          "overs": "5.2",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 3.9,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 69,
+          "wickets": 2,
+          "overs": "14.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 108,
+          "wickets": 3,
+          "overs": "24.1"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 121,
+          "wickets": 4,
+          "overs": "27.4"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 121,
+          "wickets": 5,
+          "overs": "27.6"
+        },
+        {
+          "player": "J Botha",
+          "runs": 128,
+          "wickets": 6,
+          "overs": "32.5"
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 132,
+          "wickets": 7,
+          "overs": "34.2"
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 146,
+          "wickets": 8,
+          "overs": "37.4"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 172,
+          "wickets": 9,
+          "overs": "42.5"
+        },
+        {
+          "player": "M Morkel",
+          "runs": 172,
+          "wickets": 10,
+          "overs": "43.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_quarter_final_new_zealand_vs_south_africa.json",
+  "match_summary": "2011 World Cup Quarter-Final: New Zealand vs South Africa (2011-03-25) at Mirpur.\nNew Zealand: 221/8 (50.0 ov)\n  JD Ryder: 83 (121b, 8x4, 0x6)\n  LRPL Taylor: 43 (72b, 1x4, 1x6)\n  KS Williamson: 38* (41b, 1x4, 1x6)\n  M Morkel: 3/46 (8.0 ov)\n  Imran Tahir: 2/32 (9.0 ov)\n  DW Steyn: 2/42 (10.0 ov)\nSouth Africa: 172 all out (43.2 ov)\n  JH Kallis: 47 (75b, 3x4, 0x6)\n  F du Plessis: 36 (43b, 3x4, 1x6)\n  AB de Villiers: 35 (40b, 4x4, 0x6)\n  JDP Oram: 4/39 (9.0 ov)\n  NL McCullum: 3/24 (10.0 ov)\nNew Zealand won by 49 runs.\nPlayer of the Match: JDP Oram."
+}

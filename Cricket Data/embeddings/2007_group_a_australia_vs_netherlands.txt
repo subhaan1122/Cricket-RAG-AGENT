@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Netherlands
+Stage: Group A
+Date: 2007-03-18
+Venue: Warner Park, Basseterre, St Kitts
+Captain Australia: Ricky Ponting
+Captain Netherlands: Luuk van Troost
+
+Match Summary:
+  2007 World Cup Group A: Australia vs Netherlands (2007-03-18) at St Kitts.
+
+Australia: 358/5 (50.0 ov)
+  BJ Hodge: 123 (89b, 8x4, 7x6, SR 138.2)
+  MJ Clarke: 93 (85b, 6x4, 3x6, SR 109.41)
+  AC Gilchrist: 57 (64b, 11x4, 0x6, SR 89.06)
+  ML Hayden: 29 (34b, 4x4, 1x6, SR 85.29)
+  RT Ponting: 23 (22b, 4x4, 1x6, SR 104.55)
+  TBM de Leede: 2/40 (10.0 ov, Econ 4.0)
+  RN ten Doeschate: 2/76 (10.0 ov, Econ 7.6)
+  PW Borren: 1/89 (10.0 ov, Econ 8.9)
+  MBS Jonkman: 0/35 (6.1 ov, Econ 5.68)
+  Adeel Raja: 0/61 (7.5 ov, Econ 7.79)
+  Extras: 19
+
+Netherlands: 129 all out (26.5 ov)
+  DLS van Bunge: 33 (33b, 4x4, 1x6, SR 100.0)
+  DJ Reekers: 25 (19b, 5x4, 0x6, SR 131.58)
+  PW Borren: 24 (18b, 4x4, 1x6, SR 133.33)
+  TBM de Leede: 14 (22b, 2x4, 0x6, SR 63.64)
+  B Zuiderent: 9 (29b, 1x4, 0x6, SR 31.03)
+  GB Hogg: 4/27 (4.5 ov, Econ 5.59)
+  GD McGrath: 2/33 (8.0 ov, Econ 4.12)
+  NW Bracken: 2/33 (7.0 ov, Econ 4.71)
+  SW Tait: 1/29 (7.0 ov, Econ 4.14)
+  Extras: 12
+
+Batting Highlights:
+  Century: BJ Hodge scored 123 off 89 balls (SR 138.2, 8 fours, 7 sixes)
+  Half-century: MJ Clarke scored 93 off 85 balls (SR 109.41)
+  Half-century: AC Gilchrist scored 57 off 64 balls (SR 89.06)
+
+Bowling Highlights:
+  Match-changing spell: GB Hogg took 4/27
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 23 off 22 balls
+
+Key Moments:
+  Australia lost 5 early wickets.
+  Netherlands lost 10 early wickets.
+  Australia exploded in the death overs (130 runs at 13.0 RPO).
+  Netherlands lost 4 wickets in the powerplay.
+
+Result: Australia won by 229 runs
+Toss: Australia won and chose to bat
+Player of the Match: BJ Hodge

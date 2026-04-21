@@ -1,0 +1,380 @@
+{
+  "match_id": "4e01baa2e8ce",
+  "world_cup_year": 2007,
+  "stage": "Group D",
+  "venue": "Sabina Park, Kingston",
+  "city": "Jamaica",
+  "date": "2007-03-21",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "93 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Inzamam-ul-Haq",
+    "team2": "Prosper Utseya"
+  },
+  "player_of_match": "Imran Nazir",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 349,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "Imran Nazir",
+          "runs": 160,
+          "balls": 121,
+          "fours": 14,
+          "sixes": 8,
+          "strike_rate": 132.23,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Inzamam-ul-Haq",
+          "runs": 37,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 105.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Iftikhar Anjum",
+          "runs": 32,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 28,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 90.32,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Shoaib Malik",
+          "runs": 21,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 65.62,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GB Brent",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 3,
+          "economy": 6.8,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "6.5",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 3,
+          "economy": 7.32,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "T Mupariwa",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 5.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SC Williams",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 6.83,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "CB Mpofu",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 74,
+          "wickets": 1,
+          "economy": 7.4,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Kamran Akmal",
+          "runs": 31,
+          "wickets": 1,
+          "overs": "6.3"
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 88,
+          "wickets": 2,
+          "overs": "17.4"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 158,
+          "wickets": 3,
+          "overs": "27.4"
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 170,
+          "wickets": 4,
+          "overs": "30.4"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 252,
+          "wickets": 5,
+          "overs": "40.1"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 285,
+          "wickets": 6,
+          "overs": "43.1"
+        },
+        {
+          "player": "Imran Nazir",
+          "runs": 295,
+          "wickets": 7,
+          "overs": "44.1"
+        },
+        {
+          "player": "Mohammad Sami",
+          "runs": 301,
+          "wickets": 8,
+          "overs": "45.5"
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 324,
+          "wickets": 9,
+          "overs": "47.5"
+        },
+        {
+          "player": "Iftikhar Anjum",
+          "runs": 349,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 99,
+      "wickets": 10,
+      "overs": 19.1,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "E Chigumbura",
+          "runs": 27,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 245.45,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "S Matsikenyeri",
+          "runs": 18,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 13,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Williams",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GB Brent",
+          "runs": 9,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shahid Afridi",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Umar Gul",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 10,
+          "wickets": 2,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Danish Kaneria",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 12.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Yousuf",
+          "overs": "0.1",
+          "maidens": 0,
+          "runs_conceded": 0,
+          "wickets": 1,
+          "economy": 0.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Sami",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sibanda",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 12,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "F Kasteni",
+          "runs": 14,
+          "wickets": 3,
+          "overs": "5.3"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 45,
+          "wickets": 4,
+          "overs": "12.1"
+        },
+        {
+          "player": "S Matsikenyeri",
+          "runs": 45,
+          "wickets": 5,
+          "overs": "12.2"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 77,
+          "wickets": 6,
+          "overs": "15.1"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 93,
+          "wickets": 7,
+          "overs": "16.6"
+        },
+        {
+          "player": "GB Brent",
+          "runs": 94,
+          "wickets": 8,
+          "overs": "17.2"
+        },
+        {
+          "player": "T Mupariwa",
+          "runs": 94,
+          "wickets": 9,
+          "overs": "17.5"
+        },
+        {
+          "player": "CB Mpofu",
+          "runs": 99,
+          "wickets": 10,
+          "overs": "19.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_d_pakistan_vs_zimbabwe.json",
+  "match_summary": "2007 World Cup Group D: Pakistan vs Zimbabwe (2007-03-21) at Jamaica.\nPakistan: 349 all out (49.5 ov)\n  Imran Nazir: 160 (121b, 14x4, 8x6)\n  Inzamam-ul-Haq: 37 (35b, 2x4, 3x6)\n  Iftikhar Anjum: 32 (16b, 2x4, 2x6)\n  GB Brent: 3/68 (10.0 ov)\n  E Chigumbura: 3/50 (6.5 ov)\nZimbabwe: 99 all out (19.1 ov)\n  Shahid Afridi: 3/20 (4.0 ov)\n  Umar Gul: 2/10 (5.0 ov)\n  Danish Kaneria: 2/48 (4.0 ov)\nPakistan won by 93 runs (D/L).\nPlayer of the Match: Imran Nazir."
+}

@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "4ba670b2f702",
+    "world_cup_year": 2015,
+    "stage": "Quarter-Final",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "date": "2015-03-20",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Michael Clarke",
+      "team2": "Misbah-ul-Haq"
+    },
+    "player_of_match": "JR Hazlewood",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Quarter-Final: Australia vs Pakistan (2015-03-20) at Adelaide Oval.\nPakistan: 213 all out (49.5 ov)\n  Haris Sohail: 41 (57b, 4x4, 0x6)\n  Misbah-ul-Haq: 34 (59b, 1x4, 2x6)\n  JR Hazlewood: 4/35 (10.0 ov)\n  MA Starc: 2/40 (10.0 ov)\n  GJ Maxwell: 2/43 (7.0 ov)\nAustralia: 216/4 (33.5 ov)\n  SPD Smith: 65 (69b, 7x4, 0x6)\n  SR Watson: 64* (66b, 7x4, 1x6)\n  GJ Maxwell: 44* (29b, 5x4, 2x6)\n  Wahab Riaz: 2/54 (9.0 ov)\nAustralia won by 6 wickets.\nPlayer of the Match: JR Hazlewood.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 429,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.45,
+    "highest_individual_score": 65,
+    "best_bowling_figures": "4/35",
+    "total_sixes": 6,
+    "total_fours": 33
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 213,
+      "total_wickets": 10,
+      "total_overs": 49.5,
+      "run_rate": 4.35,
+      "top_batters": [
+        {
+          "name": "Haris Sohail",
+          "runs": 41,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Misbah-ul-Haq",
+          "runs": 34,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 57.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sohaib Maqsood",
+          "runs": 29,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 23,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 153.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Akmal",
+          "runs": 20,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 6.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Faulkner",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.96,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 20,
+          "wickets": 1,
+          "overs": "4.4"
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "5.1"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 97,
+          "wickets": 3,
+          "overs": "23.2"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 112,
+          "wickets": 4,
+          "overs": "26.4"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 124,
+          "wickets": 5,
+          "overs": "29.1"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 158,
+          "wickets": 6,
+          "overs": "33.6"
+        },
+        {
+          "player": "Sohaib Maqsood",
+          "runs": 188,
+          "wickets": 7,
+          "overs": "41.3"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 188,
+          "wickets": 8,
+          "overs": "42.2"
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 195,
+          "wickets": 9,
+          "overs": "43.6"
+        },
+        {
+          "player": "Ehsan Adil",
+          "runs": 213,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 37,
+        "wickets": 2,
+        "run_rate": 3.7,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "9.5",
+        "balls": 59,
+        "runs": 31,
+        "wickets": 4,
+        "run_rate": 3.15,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 216,
+      "total_wickets": 4,
+      "total_overs": 33.5,
+      "run_rate": 6.55,
+      "top_batters": [
+        {
+          "name": "SPD Smith",
+          "runs": 65,
+          "balls": 69,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 94.2,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 64,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.97,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 44,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 151.72,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 24,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Wahab Riaz",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "Ehsan Adil",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Sohail Khan",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 7.28,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Haris Sohail",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rahat Ali",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 6.17,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 49,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 59,
+          "wickets": 3,
+          "overs": "10.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 148,
+          "wickets": 4,
+          "overs": "26.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 56,
+        "wickets": 2,
+        "run_rate": 5.6,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Haris Sohail": {
+      "batting": {
+        "runs": 41,
+        "balls": 57,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 71.93
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 0,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Misbah-ul-Haq": {
+      "batting": {
+        "runs": 34,
+        "balls": 59,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 57.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sohaib Maqsood": {
+      "batting": {
+        "runs": 29,
+        "balls": 44,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 65.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 23,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 153.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Akmal": {
+      "batting": {
+        "runs": 20,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 4,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 44,
+        "balls": 29,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 151.72
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 6.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Faulkner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.833333333333333,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 3.96
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 65,
+        "balls": 69,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 94.2
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 64,
+        "balls": 66,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 96.97
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 24,
+        "balls": 23,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 104.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Clarke": {
+      "batting": {
+        "runs": 8,
+        "balls": 11,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wahab Riaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Ehsan Adil": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sohail Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.833333333333333,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 1,
+        "economy": 7.28
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rahat Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 6.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 213 in 49.5 overs at 4.35 RPO",
+    "vs Australia scored 216 in 33.5 overs at 6.55 RPO",
+    "Top batsman: SPD Smith with 65 runs",
+    "Top bowler: JR Hazlewood with 4 wickets"
+  ]
+}

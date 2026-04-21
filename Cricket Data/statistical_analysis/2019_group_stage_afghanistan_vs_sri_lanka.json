@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "47f489c8e315",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Sophia Gardens, Cardiff",
+    "city": "Cardiff",
+    "date": "2019-06-04",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Afghanistan",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "34 runs",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Gulbadin Naib",
+      "team2": "Dimuth Karunaratne"
+    },
+    "player_of_match": "NLTC Perera",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Sri Lanka (2019-06-04) at Cardiff.\nSri Lanka: 201 all out (36.5 ov)\nAfghanistan: 152 all out (32.4 ov)\nSri Lanka won by 34 runs (D/L).",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 353,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 5.17,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 201,
+      "total_wickets": 10,
+      "total_overs": 36.5,
+      "run_rate": 5.58,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "total_runs": 152,
+      "total_wickets": 10,
+      "total_overs": 32.4,
+      "run_rate": 4.75,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 201 in 36.5 overs at 5.58 RPO",
+    "vs Afghanistan scored 152 in 32.4 overs at 4.75 RPO"
+  ]
+}

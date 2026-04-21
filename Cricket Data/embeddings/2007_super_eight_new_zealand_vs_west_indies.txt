@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs New Zealand
+Stage: Super Eight
+Date: 2007-03-29
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain West Indies: Brian Lara
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs New Zealand (2007-03-29) at Antigua.
+
+West Indies: 177 all out (44.4 ov)
+  CH Gayle: 44 (56b, 8x4, 0x6, SR 78.57)
+  BC Lara: 37 (49b, 1x4, 0x6, SR 75.51)
+  RR Sarwan: 19 (27b, 2x4, 0x6, SR 70.37)
+  DJ Bravo: 18 (30b, 0x4, 0x6, SR 60.0)
+  D Ramdin: 15 (22b, 2x4, 0x6, SR 68.18)
+  JDP Oram: 3/23 (8.0 ov, Econ 2.88)
+  SE Bond: 3/31 (8.4 ov, Econ 3.58)
+  DL Vettori: 3/39 (9.0 ov, Econ 4.33)
+  SB Styris: 1/35 (10.0 ov, Econ 3.5)
+  MJ Mason: 0/14 (6.0 ov, Econ 2.33)
+  Extras: 9
+
+New Zealand: 179/3 (39.2 ov)
+  SB Styris: 80 (90b, 7x4, 0x6, SR 88.89)
+  SP Fleming: 45 (66b, 6x4, 1x6, SR 68.18)
+  CD McMillan: 33 (57b, 3x4, 0x6, SR 57.89)
+  HJH Marshall: 15 (23b, 2x4, 0x6, SR 65.22)
+  PG Fulton: 0 (2b, 0x4, 0x6, SR 0.0)
+  DBL Powell: 2/39 (10.0 ov, Econ 3.9)
+  DJ Bravo: 0/32 (8.0 ov, Econ 4.0)
+  CD Collymore: 0/43 (9.0 ov, Econ 4.78)
+  DR Smith: 0/24 (5.0 ov, Econ 4.8)
+  RR Sarwan: 0/5 (1.0 ov, Econ 5.0)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: SB Styris scored 80 off 90 balls (SR 88.89)
+
+Bowling Highlights:
+  Key spell: JDP Oram took 3/23
+  Key spell: SE Bond took 3/31
+  Key spell: DL Vettori took 3/39
+  Economical spell: SB Styris conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: MJ Mason conceded 14 runs in 6.0 overs (Econ 2.33)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 37 off 49 balls
+  Stephen Fleming (New Zealand): scored 45 off 66 balls
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  New Zealand lost 3 early wickets.
+
+Result: New Zealand won by 7 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: JDP Oram

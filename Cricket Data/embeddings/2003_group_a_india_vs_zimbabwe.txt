@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: India vs Zimbabwe
+Stage: Group A
+Date: 2003-02-19
+Venue: Harare Sports Club, Harare
+Captain India: Sourav Ganguly
+Captain Zimbabwe: Heath Streak
+
+Match Summary:
+  2003 World Cup Group A: India vs Zimbabwe (2003-02-19) at Harare.
+
+India: 255/7 (49.5 ov)
+  SR Tendulkar: 81 (91b, 10x4, 0x6, SR 89.01)
+  R Dravid: 43 (55b, 2x4, 0x6, SR 78.18)
+  V Sehwag: 36 (38b, 6x4, 0x6, SR 94.74)
+  M Kaif: 25 (24b, 1x4, 1x6, SR 104.17)
+  SC Ganguly: 24 (36b, 0x4, 1x6, SR 66.67)
+  GW Flower: 2/14 (6.0 ov, Econ 2.33)
+  BA Murphy: 1/40 (10.0 ov, Econ 4.0)
+  HH Streak: 1/46 (8.5 ov, Econ 5.21)
+  AM Blignaut: 1/54 (10.0 ov, Econ 5.4)
+  GJ Whittall: 1/37 (6.0 ov, Econ 6.17)
+  Extras: 17
+
+Zimbabwe: 172 all out (44.4 ov)
+  T Taibu: 29 (44b, 0x4, 0x6, SR 65.91)
+  GJ Whittall: 28 (26b, 3x4, 0x6, SR 107.69)
+  GW Flower: 23 (39b, 1x4, 0x6, SR 58.97)
+  A Flower: 22 (54b, 1x4, 0x6, SR 40.74)
+  HH Streak: 20 (33b, 1x4, 0x6, SR 60.61)
+  SC Ganguly: 3/22 (5.0 ov, Econ 4.4)
+  J Srinath: 2/14 (8.0 ov, Econ 1.75)
+  Z Khan: 2/23 (7.4 ov, Econ 3.0)
+  Harbhajan Singh: 2/42 (10.0 ov, Econ 4.2)
+  V Sehwag: 1/14 (3.0 ov, Econ 4.67)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: SR Tendulkar scored 81 off 91 balls (SR 89.01)
+
+Bowling Highlights:
+  Economical spell: GW Flower conceded 14 runs in 6.0 overs (Econ 2.33)
+  Key spell: SC Ganguly took 3/22
+  Economical spell: J Srinath conceded 14 runs in 8.0 overs (Econ 1.75)
+  Economical spell: Z Khan conceded 23 runs in 7.4 overs (Econ 3.0)
+
+Captain Performance:
+  Sourav Ganguly (India): scored 24 off 36 balls
+  Heath Streak (Zimbabwe): scored 20 off 33 balls
+
+Key Moments:
+  India lost 7 early wickets.
+  Zimbabwe lost 10 early wickets.
+
+Result: India won by 83 runs
+Toss: Zimbabwe won and chose to field
+Player of the Match: SR Tendulkar

@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2003
+Match: South Africa vs Canada
+Stage: Group B
+Date: 2003-02-27
+Venue: Buffalo Park, East London, East London
+Captain South Africa: Shaun Pollock
+Captain Canada: Joe Harris
+
+Match Summary:
+  2003 World Cup Group B: South Africa vs Canada (2003-02-27) at East London.
+
+South Africa: 254/8 (50.0 ov)
+  HH Dippenaar: 80 (118b, 7x4, 0x6, SR 67.8)
+  GC Smith: 63 (79b, 6x4, 0x6, SR 79.75)
+  SM Pollock: 32 (23b, 0x4, 2x6, SR 139.13)
+  AJ Hall: 22 (11b, 2x4, 1x6, SR 200.0)
+  MV Boucher: 21 (36b, 1x4, 0x6, SR 58.33)
+  A Patel: 3/41 (7.0 ov, Econ 5.86)
+  D Joseph: 2/42 (9.0 ov, Econ 4.67)
+  NA de Groot: 2/45 (7.0 ov, Econ 6.43)
+  JM Davison: 1/45 (10.0 ov, Econ 4.5)
+  BB Seebaran: 0/43 (10.0 ov, Econ 4.3)
+  Extras: 12
+
+Canada: 136/5 (50.0 ov)
+  I Maraj: 53 (155b, 6x4, 0x6, SR 34.19)
+  A Bagai: 28 (37b, 4x4, 0x6, SR 75.68)
+  NA de Groot: 16 (36b, 2x4, 0x6, SR 44.44)
+  JV Harris: 15 (32b, 2x4, 0x6, SR 46.88)
+  IS Billcliff: 9 (24b, 0x4, 0x6, SR 37.5)
+  M Ntini: 2/19 (10.0 ov, Econ 1.9)
+  SM Pollock: 1/13 (8.0 ov, Econ 1.62)
+  M Zondeki: 1/24 (9.0 ov, Econ 2.67)
+  AJ Hall: 1/26 (7.0 ov, Econ 3.71)
+  JH Kallis: 0/11 (5.0 ov, Econ 2.2)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: HH Dippenaar scored 80 off 118 balls (SR 67.8)
+  Half-century: GC Smith scored 63 off 79 balls (SR 79.75)
+  Half-century: I Maraj scored 53 off 155 balls (SR 34.19)
+
+Bowling Highlights:
+  Key spell: A Patel took 3/41
+  Economical spell: M Ntini conceded 19 runs in 10.0 overs (Econ 1.9)
+  Economical spell: SM Pollock conceded 13 runs in 8.0 overs (Econ 1.62)
+  Economical spell: M Zondeki conceded 24 runs in 9.0 overs (Econ 2.67)
+  Economical spell: JH Kallis conceded 11 runs in 5.0 overs (Econ 2.2)
+
+Captain Performance:
+  Shaun Pollock (South Africa): scored 32 off 23 balls
+  Joe Harris (Canada): scored 15 off 32 balls
+
+Key Moments:
+  South Africa lost 8 early wickets.
+  Canada lost 5 early wickets.
+  South Africa lost 3 wickets in the powerplay.
+
+Result: South Africa won by 118 runs
+Toss: Canada won and chose to field
+Player of the Match: HH Dippenaar

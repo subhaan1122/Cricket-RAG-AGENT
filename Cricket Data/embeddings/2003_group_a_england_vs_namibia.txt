@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2003
+Match: England vs Namibia
+Stage: Group A
+Date: 2003-02-19
+Venue: St George's Park, Port Elizabeth, Gqeberha
+Captain England: Nasser Hussain
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: England vs Namibia (2003-02-19) at Gqeberha.
+
+England: 272 all out (50.0 ov)
+  AJ Stewart: 60 (77b, 6x4, 1x6, SR 77.92)
+  ME Trescothick: 58 (66b, 8x4, 1x6, SR 87.88)
+  PD Collingwood: 38 (49b, 3x4, 0x6, SR 77.55)
+  C White: 35 (29b, 2x4, 0x6, SR 120.69)
+  A Flintoff: 21 (24b, 0x4, 2x6, SR 87.5)
+  RJ van Vuuren: 5/43 (10.0 ov, Econ 4.3)
+  G Snyman: 3/69 (10.0 ov, Econ 6.9)
+  DB Kotze: 1/35 (10.0 ov, Econ 3.5)
+  AJ Burger: 1/23 (2.0 ov, Econ 11.5)
+  LJ Burger: 0/45 (9.0 ov, Econ 5.0)
+  Extras: 8
+
+Namibia: 217/9 (49.5 ov)
+  AJ Burger: 85 (86b, 10x4, 1x6, SR 98.84)
+  D Keulder: 46 (66b, 6x4, 0x6, SR 69.7)
+  GB Murgatroyd: 24 (44b, 1x4, 1x6, SR 54.55)
+  RJ van Vuuren: 12 (12b, 0x4, 1x6, SR 100.0)
+  M van Schoor: 11 (23b, 1x4, 0x6, SR 47.83)
+  RC Irani: 3/30 (7.5 ov, Econ 3.83)
+  A Flintoff: 2/33 (10.0 ov, Econ 3.3)
+  C White: 2/46 (10.0 ov, Econ 4.6)
+  JM Anderson: 1/44 (8.0 ov, Econ 5.5)
+  AR Caddick: 0/28 (8.0 ov, Econ 3.5)
+  Extras: 14
+
+Batting Highlights:
+  Half-century: AJ Stewart scored 60 off 77 balls (SR 77.92)
+  Half-century: ME Trescothick scored 58 off 66 balls (SR 87.88)
+  Half-century: AJ Burger scored 85 off 86 balls (SR 98.84)
+
+Bowling Highlights:
+  Match-changing spell: RJ van Vuuren took 5/43
+  Key spell: G Snyman took 3/69
+  Economical spell: DB Kotze conceded 35 runs in 10.0 overs (Econ 3.5)
+  Key spell: RC Irani took 3/30
+  Economical spell: A Flintoff conceded 33 runs in 10.0 overs (Econ 3.3)
+  Economical spell: AR Caddick conceded 28 runs in 8.0 overs (Econ 3.5)
+
+Captain Performance:
+  England captain: Nasser Hussain
+  Namibia captain: Deon Kotze
+
+Key Moments:
+  England lost 10 early wickets.
+  Namibia lost 9 early wickets.
+
+Result: England won by 55 runs
+Toss: Namibia won and chose to field
+Player of the Match: AJ Burger

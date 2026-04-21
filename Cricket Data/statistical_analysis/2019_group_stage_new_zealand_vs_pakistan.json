@@ -1,0 +1,743 @@
+{
+  "match_info": {
+    "match_id": "375dbbb60433",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "date": "2019-06-26",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kane Williamson",
+      "team2": "Sarfaraz Ahmed"
+    },
+    "player_of_match": "Babar Azam",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: New Zealand vs Pakistan (2019-06-26) at Birmingham.\nNew Zealand: 237/6 (50.0 ov)\n  JDS Neesham: 97* (112b, 5x4, 3x6)\n  C de Grandhomme: 64 (71b, 6x4, 1x6)\n  KS Williamson: 41 (69b, 4x4, 0x6)\n  Shaheen Shah Afridi: 3/28 (10.0 ov)\nPakistan: 241/4 (49.1 ov)\n  Babar Azam: 101* (127b, 11x4, 0x6)\n  Haris Sohail: 68 (76b, 5x4, 2x6)\n  Mohammad Hafeez: 32 (50b, 5x4, 0x6)\nPakistan won by 6 wickets.\nPlayer of the Match: Babar Azam.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 478,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 4.83,
+    "highest_individual_score": 101,
+    "best_bowling_figures": "3/28",
+    "total_sixes": 6,
+    "total_fours": 44
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 237,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 4.74,
+      "top_batters": [
+        {
+          "name": "JDS Neesham",
+          "runs": 97,
+          "balls": 112,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 86.61,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "C de Grandhomme",
+          "runs": 64,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 90.14,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 41,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.42,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C Munro",
+          "runs": 12,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 28,
+          "wickets": 3,
+          "economy": 2.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Amir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 1,
+          "economy": 6.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 3.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "C Munro",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "6.2"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 38,
+          "wickets": 3,
+          "overs": "8.6"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 46,
+          "wickets": 4,
+          "overs": "12.3"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 83,
+          "wickets": 5,
+          "overs": "26.2"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 215,
+          "wickets": 6,
+          "overs": "47.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 44,
+        "wickets": 3,
+        "run_rate": 4.4,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 85,
+        "wickets": 1,
+        "run_rate": 8.5,
+        "fours": 6,
+        "sixes": 2,
+        "dot_balls": 18,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 241,
+      "total_wickets": 4,
+      "total_overs": 49.1,
+      "run_rate": 4.92,
+      "top_batters": [
+        {
+          "name": "Babar Azam",
+          "runs": 101,
+          "balls": 127,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 79.53,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Haris Sohail",
+          "runs": 68,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 32,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 19,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Fakhar Zaman",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KS Williamson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 4.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "8.1",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 6.12,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 3.57,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "2.6"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 44,
+          "wickets": 2,
+          "overs": "10.2"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "24.5"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 236,
+          "wickets": 4,
+          "overs": "48.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 1,
+        "run_rate": 4.3,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "9.1",
+        "balls": 55,
+        "runs": 58,
+        "wickets": 1,
+        "run_rate": 6.33,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 25,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "JDS Neesham": {
+      "batting": {
+        "runs": 97,
+        "balls": 112,
+        "fours": 5,
+        "sixes": 3,
+        "strike_rate": 86.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C de Grandhomme": {
+      "batting": {
+        "runs": 64,
+        "balls": 71,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 90.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 41,
+        "balls": 69,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 59.42
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C Munro": {
+      "batting": {
+        "runs": 12,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 70.59
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 5,
+        "balls": 4,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 125.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 3,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Amir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 1,
+        "economy": 6.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 32,
+        "balls": 50,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 64.0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 0,
+        "economy": 3.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wahab Riaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Babar Azam": {
+      "batting": {
+        "runs": 101,
+        "balls": 127,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 79.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Haris Sohail": {
+      "batting": {
+        "runs": 68,
+        "balls": 76,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 89.47
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imam-ul-Haq": {
+      "batting": {
+        "runs": 19,
+        "balls": 29,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 65.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Fakhar Zaman": {
+      "batting": {
+        "runs": 9,
+        "balls": 10,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 90.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.166666666666666,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 1,
+        "economy": 6.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 0,
+        "economy": 3.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 0,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 237 in 50.0 overs at 4.74 RPO",
+    "vs Pakistan scored 241 in 49.1 overs at 4.92 RPO",
+    "Top batsman: Babar Azam with 101 runs",
+    "Top bowler: Shaheen Shah Afridi with 3 wickets"
+  ]
+}

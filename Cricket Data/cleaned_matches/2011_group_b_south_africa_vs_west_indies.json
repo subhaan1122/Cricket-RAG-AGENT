@@ -1,0 +1,338 @@
+{
+  "match_id": "8922f82ad255",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "Feroz Shah Kotla",
+  "city": "Delhi",
+  "date": "2011-02-24",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Graeme Smith",
+    "team2": "Darren Sammy"
+  },
+  "player_of_match": "AB de Villiers",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 222,
+      "wickets": 10,
+      "overs": 47.3,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "DM Bravo",
+          "runs": 73,
+          "balls": 82,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 89.02,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DJ Bravo",
+          "runs": 40,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 108.11,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DS Smith",
+          "runs": 36,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 31,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 60.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DC Thomas",
+          "runs": 15,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 4,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "7.3",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 3,
+          "economy": 3.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "J Botha",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 5.33,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 4.38,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RJ Peterson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 113,
+          "wickets": 2,
+          "overs": "23.1"
+        },
+        {
+          "player": "DS Smith",
+          "runs": 117,
+          "wickets": 3,
+          "overs": "24.4"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 120,
+          "wickets": 4,
+          "overs": "26.1"
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "37.5"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 209,
+          "wickets": 6,
+          "overs": "42.2"
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 213,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "DC Thomas",
+          "runs": 213,
+          "wickets": 8,
+          "overs": "44.6"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 213,
+          "wickets": 9,
+          "overs": "45.1"
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 222,
+          "wickets": 10,
+          "overs": "47.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 223,
+      "wickets": 3,
+      "overs": 42.5,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "AB de Villiers",
+          "runs": 107,
+          "balls": 105,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 101.9,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 45,
+          "balls": 78,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JP Duminy",
+          "runs": 42,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 79.25,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "KA Pollard",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.72,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "SJ Benn",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 1,
+          "economy": 5.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 5.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJG Sammy",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 20,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 139,
+          "wickets": 3,
+          "overs": "28.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_south_africa_vs_west_indies.json",
+  "match_summary": "2011 World Cup Group B: South Africa vs West Indies (2011-02-24) at Delhi.\nWest Indies: 222 all out (47.3 ov)\n  DM Bravo: 73 (82b, 8x4, 1x6)\n  DJ Bravo: 40 (37b, 1x4, 3x6)\n  DS Smith: 36 (57b, 3x4, 0x6)\n  Imran Tahir: 4/41 (10.0 ov)\n  DW Steyn: 3/24 (7.3 ov)\n  J Botha: 2/48 (9.0 ov)\nSouth Africa: 223/3 (42.5 ov)\n  AB de Villiers: 107* (105b, 8x4, 2x6)\n  GC Smith: 45 (78b, 2x4, 0x6)\n  JP Duminy: 42* (53b, 1x4, 0x6)\nSouth Africa won by 7 wickets.\nPlayer of the Match: AB de Villiers."
+}

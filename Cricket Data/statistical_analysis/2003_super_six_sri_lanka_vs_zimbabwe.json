@@ -1,0 +1,753 @@
+{
+  "match_info": {
+    "match_id": "bb7b24a02abc",
+    "world_cup_year": 2003,
+    "stage": "Super Six",
+    "venue": "Buffalo Park, East London",
+    "city": "East London",
+    "date": "2003-03-15",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "74 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sanath Jayasuriya",
+      "team2": "Heath Streak"
+    },
+    "player_of_match": "MS Atapattu",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Super Six: Sri Lanka vs Zimbabwe (2003-03-15) at East London.\nSri Lanka: 256/5 (50.0 ov)\n  MS Atapattu: 103* (127b, 7x4, 0x6)\n  DA Gunawardene: 41 (62b, 2x4, 0x6)\n  KC Sangakkara: 35 (25b, 4x4, 0x6)\n  HH Streak: 2/40 (10.0 ov)\nZimbabwe: 182 all out (41.5 ov)\n  CB Wishart: 43 (71b, 3x4, 0x6)\n  A Flower: 38 (51b, 1x4, 0x6)\n  GW Flower: 31 (52b, 4x4, 0x6)\n  ST Jayasuriya: 3/30 (6.0 ov)\n  WPUJC Vaas: 2/46 (9.5 ov)\n  PW Gunaratne: 2/33 (7.0 ov)\nSri Lanka won by 74 runs.\nPlayer of the Match: MS Atapattu.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 438,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.78,
+    "highest_individual_score": 103,
+    "best_bowling_figures": "3/30",
+    "total_sixes": 0,
+    "total_fours": 31
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 256,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 5.12,
+      "top_batters": [
+        {
+          "name": "MS Atapattu",
+          "runs": 103,
+          "balls": 127,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 81.1,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Gunawardene",
+          "runs": 41,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.13,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 35,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PA de Silva",
+          "runs": 25,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 22,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HH Streak",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DA Marillier",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Ervine",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GW Flower",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 41,
+          "wickets": 1,
+          "overs": "12.2"
+        },
+        {
+          "player": "DA Gunawardene",
+          "runs": 124,
+          "wickets": 2,
+          "overs": "30.2"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 175,
+          "wickets": 3,
+          "overs": "40.2"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 227,
+          "wickets": 4,
+          "overs": "46.4"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 233,
+          "wickets": 5,
+          "overs": "47.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 29,
+        "wickets": 0,
+        "run_rate": 2.9,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 82,
+        "wickets": 3,
+        "run_rate": 8.2,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 15,
+        "extras": 10
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "total_runs": 182,
+      "total_wickets": 10,
+      "total_overs": 41.5,
+      "run_rate": 4.44,
+      "top_batters": [
+        {
+          "name": "CB Wishart",
+          "runs": 43,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.56,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "A Flower",
+          "runs": 38,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 74.51,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "GW Flower",
+          "runs": 31,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.62,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "TJ Friend",
+          "runs": 21,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DA Marillier",
+          "runs": 19,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "ST Jayasuriya",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 4.68,
+          "wides": 0,
+          "no_balls": 3
+        },
+        {
+          "name": "PW Gunaratne",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 3.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 1,
+          "economy": 3.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Marillier",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "5.2"
+        },
+        {
+          "player": "TJ Friend",
+          "runs": 68,
+          "wickets": 2,
+          "overs": "11.3"
+        },
+        {
+          "player": "CB Wishart",
+          "runs": 111,
+          "wickets": 3,
+          "overs": "21.3"
+        },
+        {
+          "player": "A Flower",
+          "runs": 140,
+          "wickets": 4,
+          "overs": "28.3"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 150,
+          "wickets": 5,
+          "overs": "32.1"
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "33.2"
+        },
+        {
+          "player": "SM Ervine",
+          "runs": 178,
+          "wickets": 7,
+          "overs": "39.2"
+        },
+        {
+          "player": "HH Streak",
+          "runs": 181,
+          "wickets": 8,
+          "overs": "40.4"
+        },
+        {
+          "player": "GW Flower",
+          "runs": 181,
+          "wickets": 9,
+          "overs": "40.6"
+        },
+        {
+          "player": "DT Hondo",
+          "runs": 182,
+          "wickets": 10,
+          "overs": "41.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 61,
+        "wickets": 1,
+        "run_rate": 6.1,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "1.5",
+        "balls": 11,
+        "runs": 3,
+        "wickets": 3,
+        "run_rate": 1.64,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 8,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MS Atapattu": {
+      "batting": {
+        "runs": 103,
+        "balls": 127,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 81.1
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Gunawardene": {
+      "batting": {
+        "runs": 41,
+        "balls": 62,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 66.13
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 35,
+        "balls": 25,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 140.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA de Silva": {
+      "batting": {
+        "runs": 25,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 80.65
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 22,
+        "balls": 44,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Streak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Marillier": {
+      "batting": {
+        "runs": 19,
+        "balls": 14,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 135.71
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Hondo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 1,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Ervine": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GW Flower": {
+      "batting": {
+        "runs": 31,
+        "balls": 52,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 59.62
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CB Wishart": {
+      "batting": {
+        "runs": 43,
+        "balls": 71,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 60.56
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Flower": {
+      "batting": {
+        "runs": 38,
+        "balls": 51,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 74.51
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TJ Friend": {
+      "batting": {
+        "runs": 21,
+        "balls": 20,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 105.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.833333333333334,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 2,
+        "economy": 4.68
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PW Gunaratne": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 2,
+        "economy": 4.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 3.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CRD Fernando": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 1,
+        "economy": 3.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 256 in 50.0 overs at 5.12 RPO",
+    "vs Zimbabwe scored 182 in 41.5 overs at 4.44 RPO",
+    "Top batsman: MS Atapattu with 103 runs",
+    "Top bowler: ST Jayasuriya with 3 wickets"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "match_id": "d4a33fbc8709",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+  "city": "Chennai",
+  "date": "2023-10-27",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Babar Azam",
+    "team2": "Temba Bavuma"
+  },
+  "player_of_match": "T Shamsi",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 270,
+      "wickets": 10,
+      "overs": 46.4,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "Saud Shakeel",
+          "runs": 52,
+          "balls": 52,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 50,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 76.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shadab Khan",
+          "runs": 43,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 119.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 31,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 114.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "runs": 24,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "T Shamsi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 4,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "M Jansen",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 4.78,
+          "wides": 6,
+          "no_balls": 2
+        },
+        {
+          "name": "G Coetzee",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "7.4",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.87,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "AK Markram",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 20,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 38,
+          "wickets": 2,
+          "overs": "6.3"
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 86,
+          "wickets": 3,
+          "overs": "15.5"
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 129,
+          "wickets": 4,
+          "overs": "25.1"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 141,
+          "wickets": 5,
+          "overs": "27.5"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 225,
+          "wickets": 6,
+          "overs": "39.4"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 240,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 259,
+          "wickets": 8,
+          "overs": "44.2"
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 268,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "Mohammad Wasim",
+          "runs": 270,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 271,
+      "wickets": 9,
+      "overs": 47.2,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "AK Markram",
+          "runs": 91,
+          "balls": 93,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 97.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 29,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 87.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "T Bavuma",
+          "runs": 28,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 103.7,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 24,
+          "balls": 14,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HE van der Dussen",
+          "runs": 21,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Wasim",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Usama Mir",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 5.62,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 6.32,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 34,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 121,
+          "wickets": 3,
+          "overs": "18.5"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 136,
+          "wickets": 4,
+          "overs": "21.4"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 206,
+          "wickets": 5,
+          "overs": "33.1"
+        },
+        {
+          "player": "M Jansen",
+          "runs": 235,
+          "wickets": 6,
+          "overs": "36.5"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 250,
+          "wickets": 7,
+          "overs": "40.2"
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 250,
+          "wickets": 8,
+          "overs": "41.1"
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 260,
+          "wickets": 9,
+          "overs": "45.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_pakistan_vs_south_africa.json",
+  "match_summary": "2023 World Cup Group Stage: Pakistan vs South Africa (2023-10-27) at Chennai.\nPakistan: 270 all out (46.4 ov)\n  Saud Shakeel: 52 (52b, 7x4, 0x6)\n  Babar Azam: 50 (65b, 3x4, 1x6)\n  Shadab Khan: 43 (36b, 3x4, 2x6)\n  T Shamsi: 4/60 (10.0 ov)\n  M Jansen: 3/43 (9.0 ov)\n  G Coetzee: 2/42 (7.0 ov)\nSouth Africa: 271/9 (47.2 ov)\n  AK Markram: 91 (93b, 7x4, 3x6)\n  Shaheen Shah Afridi: 3/45 (10.0 ov)\n  Mohammad Wasim: 2/50 (10.0 ov)\n  Usama Mir: 2/45 (8.0 ov)\nSouth Africa won by 1 wickets.\nPlayer of the Match: T Shamsi."
+}

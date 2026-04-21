@@ -1,0 +1,31 @@
+{
+  "match_id": "7b9bf9aee50f",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "County Ground, Bristol",
+  "city": "Bristol",
+  "date": "2019-06-11",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result"
+  },
+  "captains": {
+    "team1": "Mashrafe Mortaza",
+    "team2": "Dimuth Karunaratne"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_bangladesh_vs_sri_lanka.json",
+  "match_summary": "2019 World Cup Group Stage: Bangladesh vs Sri Lanka (2019-06-11) at Bristol.\nMatch had no result (abandoned / no play possible)."
+}

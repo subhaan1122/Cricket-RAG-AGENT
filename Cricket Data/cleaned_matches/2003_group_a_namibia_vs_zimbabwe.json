@@ -1,0 +1,292 @@
+{
+  "match_id": "d17ec2f60df7",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "Harare Sports Club",
+  "city": "Harare",
+  "date": "2003-02-10",
+  "teams": {
+    "team1": "Zimbabwe",
+    "team2": "Namibia"
+  },
+  "toss": {
+    "winner": "Namibia",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Zimbabwe",
+    "margin": "86 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Heath Streak",
+    "team2": "Deon Kotze"
+  },
+  "player_of_match": "CB Wishart",
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "runs": 340,
+      "wickets": 2,
+      "overs": 50.0,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "CB Wishart",
+          "runs": 172,
+          "balls": 151,
+          "fours": 18,
+          "sixes": 3,
+          "strike_rate": 113.91,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GW Flower",
+          "runs": 78,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 141.82,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "A Flower",
+          "runs": 39,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 134.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MA Vermeulen",
+          "runs": 39,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JL Louw",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Burger",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 7.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "G Snyman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "LJ Burger",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 70,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BL Kotze",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 75,
+          "wickets": 0,
+          "economy": 7.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MA Vermeulen",
+          "runs": 107,
+          "wickets": 1,
+          "overs": "21.4"
+        },
+        {
+          "player": "A Flower",
+          "runs": 174,
+          "wickets": 2,
+          "overs": "30.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Namibia",
+      "runs": 104,
+      "wickets": 5,
+      "overs": 25.1,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "D Keulder",
+          "runs": 27,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.7,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Burger",
+          "runs": 26,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SJ Swanepoel",
+          "runs": 23,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.94,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GB Murgatroyd",
+          "runs": 10,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DB Kotze",
+          "runs": 5,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GJ Whittall",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "HH Streak",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GW Flower",
+          "overs": "5.1",
+          "maidens": 1,
+          "runs_conceded": 13,
+          "wickets": 1,
+          "economy": 2.52,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HK Olonga",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 3.33,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "R Walters",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "AJ Burger",
+          "runs": 40,
+          "wickets": 2,
+          "overs": "6.6"
+        },
+        {
+          "player": "SJ Swanepoel",
+          "runs": 80,
+          "wickets": 3,
+          "overs": "16.4"
+        },
+        {
+          "player": "D Keulder",
+          "runs": 94,
+          "wickets": 4,
+          "overs": "22.4"
+        },
+        {
+          "player": "GB Murgatroyd",
+          "runs": 98,
+          "wickets": 5,
+          "overs": "23.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_namibia_vs_zimbabwe.json",
+  "match_summary": "2003 World Cup Group A: Zimbabwe vs Namibia (2003-02-10) at Harare.\nZimbabwe: 340/2 (50.0 ov)\n  CB Wishart: 172* (151b, 18x4, 3x6)\n  GW Flower: 78* (55b, 4x4, 2x6)\n  A Flower: 39 (29b, 3x4, 1x6)\nNamibia: 104/5 (25.1 ov)\n  GJ Whittall: 2/20 (5.0 ov)\n  HH Streak: 2/35 (5.0 ov)\nZimbabwe won by 86 runs (D/L).\nPlayer of the Match: CB Wishart."
+}

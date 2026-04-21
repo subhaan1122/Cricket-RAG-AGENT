@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2023
+Match: Australia vs Pakistan
+Stage: Group Stage
+Date: 2023-10-20
+Venue: M Chinnaswamy Stadium, Bengaluru, Bengaluru
+Captain Australia: Pat Cummins
+Captain Pakistan: Babar Azam
+
+Match Summary:
+  2023 World Cup Group Stage: Australia vs Pakistan (2023-10-20) at Bengaluru.
+
+Australia: 367/9 (50.0 ov)
+  DA Warner: 163 (124b, 14x4, 9x6, SR 131.45)
+  MR Marsh: 121 (108b, 10x4, 9x6, SR 112.04)
+  MP Stoinis: 21 (24b, 1x4, 1x6, SR 87.5)
+  JP Inglis: 13 (9b, 3x4, 0x6, SR 144.44)
+  M Labuschagne: 8 (12b, 1x4, 0x6, SR 66.67)
+  Shaheen Shah Afridi: 5/54 (10.0 ov, Econ 5.4)
+  Haris Rauf: 3/83 (8.0 ov, Econ 10.38)
+  Usama Mir: 1/82 (9.0 ov, Econ 9.11)
+  Iftikhar Ahmed: 0/37 (8.0 ov, Econ 4.62)
+  Mohammad Nawaz: 0/43 (7.0 ov, Econ 6.14)
+  Extras: 25
+
+Pakistan: 305 all out (45.3 ov)
+  Imam-ul-Haq: 70 (71b, 10x4, 0x6, SR 98.59)
+  Abdullah Shafique: 64 (61b, 7x4, 2x6, SR 104.92)
+  Mohammad Rizwan: 46 (40b, 5x4, 0x6, SR 115.0)
+  Saud Shakeel: 30 (31b, 5x4, 0x6, SR 96.77)
+  Iftikhar Ahmed: 26 (20b, 0x4, 3x6, SR 130.0)
+  A Zampa: 4/53 (10.0 ov, Econ 5.3)
+  MP Stoinis: 2/40 (5.0 ov, Econ 8.0)
+  PJ Cummins: 2/62 (7.3 ov, Econ 8.27)
+  JR Hazlewood: 1/37 (10.0 ov, Econ 3.7)
+  MA Starc: 1/65 (8.0 ov, Econ 8.12)
+  Extras: 19
+
+Batting Highlights:
+  Century: DA Warner scored 163 off 124 balls (SR 131.45, 14 fours, 9 sixes)
+  Century: MR Marsh scored 121 off 108 balls (SR 112.04, 10 fours, 9 sixes)
+  Half-century: Imam-ul-Haq scored 70 off 71 balls (SR 98.59)
+  Half-century: Abdullah Shafique scored 64 off 61 balls (SR 104.92)
+
+Bowling Highlights:
+  Match-changing spell: Shaheen Shah Afridi took 5/54
+  Key spell: Haris Rauf took 3/83
+  Match-changing spell: A Zampa took 4/53
+
+Captain Performance:
+  Australia captain: Pat Cummins
+  Pakistan captain: Babar Azam
+
+Key Moments:
+  Australia lost 9 early wickets.
+  Pakistan lost 10 early wickets.
+  Australia scored aggressively in the powerplay (82 runs at 8.2 RPO).
+
+Result: Australia won by 62 runs
+Toss: Pakistan won and chose to field
+Player of the Match: DA Warner

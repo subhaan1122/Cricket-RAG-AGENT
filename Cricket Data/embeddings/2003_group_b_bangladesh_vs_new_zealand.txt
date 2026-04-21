@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2003
+Match: Bangladesh vs New Zealand
+Stage: Group B
+Date: 2003-02-26
+Venue: De Beers Diamond Oval, Kimberley, Kimberley
+Captain Bangladesh: Khaled Mashud
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Group B: Bangladesh vs New Zealand (2003-02-26) at Kimberley.
+
+Bangladesh: 198/7 (50.0 ov)
+  Mohammad Ashraful: 56 (82b, 6x4, 1x6, SR 68.29)
+  Mohammad Rafique: 41 (42b, 3x4, 2x6, SR 97.62)
+  Khaled Mashud: 35 (54b, 5x4, 0x6, SR 64.81)
+  Akram Khan: 13 (38b, 0x4, 0x6, SR 34.21)
+  Khaled Mahmud: 12 (29b, 1x4, 0x6, SR 41.38)
+  JDP Oram: 3/32 (10.0 ov, Econ 3.2)
+  SE Bond: 3/33 (10.0 ov, Econ 3.3)
+  AR Adams: 1/50 (10.0 ov, Econ 5.0)
+  DL Vettori: 0/19 (10.0 ov, Econ 1.9)
+  KD Mills: 0/32 (6.0 ov, Econ 5.33)
+  Extras: 18
+
+New Zealand: 199/3 (33.3 ov)
+  CD McMillan: 75 (83b, 9x4, 2x6, SR 90.36)
+  SB Styris: 37 (36b, 2x4, 1x6, SR 102.78)
+  CL Cairns: 33 (21b, 3x4, 1x6, SR 157.14)
+  SP Fleming: 32 (40b, 4x4, 1x6, SR 80.0)
+  AR Adams: 18 (22b, 2x4, 1x6, SR 81.82)
+  Khaled Mahmud: 3/46 (10.0 ov, Econ 4.6)
+  Manjural Islam: 0/37 (7.0 ov, Econ 5.29)
+  Mohammad Ashraful: 0/3 (0.3 ov, Econ 6.0)
+  Alok Kapali: 0/38 (6.0 ov, Econ 6.33)
+  Tapash Baisya: 0/56 (8.0 ov, Econ 7.0)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: Mohammad Ashraful scored 56 off 82 balls (SR 68.29)
+  Half-century: CD McMillan scored 75 off 83 balls (SR 90.36)
+  Quickfire innings: CL Cairns smashed 33 off 21 balls at SR 157.14
+
+Bowling Highlights:
+  Key spell: JDP Oram took 3/32
+  Key spell: SE Bond took 3/33
+  Economical spell: DL Vettori conceded 19 runs in 10.0 overs (Econ 1.9)
+  Key spell: Khaled Mahmud took 3/46
+
+Captain Performance:
+  Khaled Mashud (Bangladesh): scored 35 off 54 balls
+  Stephen Fleming (New Zealand): scored 32 off 40 balls
+
+Key Moments:
+  Bangladesh lost 7 early wickets.
+  New Zealand lost 3 early wickets.
+
+Result: New Zealand won by 7 wickets
+Toss: Bangladesh won and chose to bat
+Player of the Match: CD McMillan

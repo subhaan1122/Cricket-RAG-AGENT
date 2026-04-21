@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: New Zealand vs West Indies
+Stage: Group Stage
+Date: 2019-06-22
+Venue: Old Trafford, Manchester
+Captain New Zealand: Kane Williamson
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: New Zealand vs West Indies (2019-06-22) at Manchester.
+
+New Zealand: 291/8 (50.0 ov)
+  KS Williamson: 148 (154b, 15x4, 1x6, SR 96.1)
+  LRPL Taylor: 69 (95b, 7x4, 0x6, SR 72.63)
+  JDS Neesham: 28 (23b, 1x4, 1x6, SR 121.74)
+  C de Grandhomme: 16 (6b, 1x4, 1x6, SR 266.67)
+  TWM Latham: 12 (16b, 0x4, 0x6, SR 75.0)
+  SS Cottrell: 4/56 (10.0 ov, Econ 5.6)
+  CR Brathwaite: 2/58 (6.0 ov, Econ 9.67)
+  CH Gayle: 1/8 (2.0 ov, Econ 4.0)
+  KAJ Roach: 0/38 (10.0 ov, Econ 3.8)
+  O Thomas: 0/30 (6.0 ov, Econ 5.0)
+  Extras: 8
+
+West Indies: 286 all out (49.0 ov)
+  CR Brathwaite: 101 (82b, 9x4, 5x6, SR 123.17)
+  CH Gayle: 87 (84b, 8x4, 6x6, SR 103.57)
+  SO Hetmyer: 54 (45b, 8x4, 1x6, SR 120.0)
+  SS Cottrell: 15 (26b, 2x4, 0x6, SR 57.69)
+  KAJ Roach: 14 (31b, 0x4, 1x6, SR 45.16)
+  TA Boult: 4/30 (10.0 ov, Econ 3.0)
+  LH Ferguson: 3/59 (10.0 ov, Econ 5.9)
+  C de Grandhomme: 1/22 (4.0 ov, Econ 5.5)
+  JDS Neesham: 1/35 (6.0 ov, Econ 5.83)
+  MJ Henry: 1/76 (9.0 ov, Econ 8.44)
+  Extras: 12
+
+Batting Highlights:
+  Century: KS Williamson scored 148 off 154 balls (SR 96.1, 15 fours, 1 sixes)
+  Half-century: LRPL Taylor scored 69 off 95 balls (SR 72.63)
+  Century: CR Brathwaite scored 101 off 82 balls (SR 123.17, 9 fours, 5 sixes)
+  Half-century: CH Gayle scored 87 off 84 balls (SR 103.57)
+  Half-century: SO Hetmyer scored 54 off 45 balls (SR 120.0)
+
+Bowling Highlights:
+  Match-changing spell: SS Cottrell took 4/56
+  Match-changing spell: TA Boult took 4/30
+  Key spell: LH Ferguson took 3/59
+
+Captain Performance:
+  Kane Williamson (New Zealand): scored 148 off 154 balls
+
+Key Moments:
+  New Zealand lost 8 early wickets.
+  West Indies lost 10 early wickets.
+
+Result: New Zealand won by 5 runs
+Toss: West Indies won and chose to field
+Player of the Match: KS Williamson

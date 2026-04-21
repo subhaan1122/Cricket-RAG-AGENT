@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: Pakistan vs South Africa
+Stage: Group Stage
+Date: 2019-06-23
+Venue: Lord's, London
+Captain Pakistan: Sarfaraz Ahmed
+Captain South Africa: Faf du Plessis
+
+Match Summary:
+  2019 World Cup Group Stage: Pakistan vs South Africa (2019-06-23) at London.
+
+Pakistan: 308/7 (50.1 ov)
+  Haris Sohail: 89 (59b, 9x4, 3x6, SR 150.85)
+  Babar Azam: 69 (80b, 7x4, 0x6, SR 86.25)
+  Fakhar Zaman: 44 (50b, 6x4, 1x6, SR 88.0)
+  Imam-ul-Haq: 44 (58b, 6x4, 0x6, SR 75.86)
+  Imad Wasim: 23 (15b, 3x4, 0x6, SR 153.33)
+  L Ngidi: 3/64 (9.0 ov, Econ 7.11)
+  Imran Tahir: 2/41 (10.0 ov, Econ 4.1)
+  AK Markram: 1/22 (4.0 ov, Econ 5.5)
+  AL Phehlukwayo: 1/49 (8.0 ov, Econ 6.12)
+  K Rabada: 0/65 (10.0 ov, Econ 6.5)
+  Extras: 12
+
+South Africa: 259/9 (50.0 ov)
+  F du Plessis: 63 (79b, 5x4, 0x6, SR 79.75)
+  Q de Kock: 47 (60b, 3x4, 2x6, SR 78.33)
+  AL Phehlukwayo: 46 (32b, 6x4, 0x6, SR 143.75)
+  HE van der Dussen: 36 (47b, 1x4, 1x6, SR 76.6)
+  DA Miller: 31 (37b, 3x4, 0x6, SR 83.78)
+  Wahab Riaz: 3/46 (10.0 ov, Econ 4.6)
+  Shadab Khan: 3/50 (10.0 ov, Econ 5.0)
+  Mohammad Amir: 2/49 (10.0 ov, Econ 4.9)
+  Shaheen Shah Afridi: 1/54 (8.0 ov, Econ 6.75)
+  Imad Wasim: 0/48 (10.0 ov, Econ 4.8)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: Haris Sohail scored 89 off 59 balls (SR 150.85)
+  Half-century: Babar Azam scored 69 off 80 balls (SR 86.25)
+  Quickfire innings: Imad Wasim smashed 23 off 15 balls at SR 153.33
+  Half-century: F du Plessis scored 63 off 79 balls (SR 79.75)
+
+Bowling Highlights:
+  Key spell: L Ngidi took 3/64
+  Key spell: Wahab Riaz took 3/46
+  Key spell: Shadab Khan took 3/50
+
+Captain Performance:
+  Faf du Plessis (South Africa): scored 63 off 79 balls
+
+Key Moments:
+  Pakistan lost 7 early wickets.
+  South Africa lost 9 early wickets.
+
+Result: Pakistan won by 49 runs
+Toss: Pakistan won and chose to bat
+Player of the Match: Haris Sohail

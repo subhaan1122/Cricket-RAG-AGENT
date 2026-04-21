@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: England vs India
+Stage: Group Stage
+Date: 2019-06-30
+Venue: Edgbaston, Birmingham
+Captain England: Eoin Morgan
+Captain India: Virat Kohli
+
+Match Summary:
+  2019 World Cup Group Stage: England vs India (2019-06-30) at Birmingham.
+
+England: 337/7 (50.0 ov)
+  JM Bairstow: 111 (109b, 10x4, 6x6, SR 101.83)
+  BA Stokes: 79 (54b, 6x4, 3x6, SR 146.3)
+  JJ Roy: 66 (57b, 7x4, 2x6, SR 115.79)
+  JE Root: 44 (54b, 2x4, 0x6, SR 81.48)
+  JC Buttler: 20 (8b, 1x4, 2x6, SR 250.0)
+  Mohammed Shami: 5/69 (10.0 ov, Econ 6.9)
+  JJ Bumrah: 1/44 (10.0 ov, Econ 4.4)
+  Kuldeep Yadav: 1/72 (10.0 ov, Econ 7.2)
+  HH Pandya: 0/60 (10.0 ov, Econ 6.0)
+  YS Chahal: 0/88 (10.0 ov, Econ 8.8)
+  Extras: 8
+
+India: 306/5 (50.0 ov)
+  RG Sharma: 102 (109b, 15x4, 0x6, SR 93.58)
+  V Kohli: 66 (76b, 7x4, 0x6, SR 86.84)
+  HH Pandya: 45 (33b, 4x4, 0x6, SR 136.36)
+  MS Dhoni: 42 (31b, 4x4, 1x6, SR 135.48)
+  RR Pant: 32 (29b, 4x4, 0x6, SR 110.34)
+  LE Plunkett: 3/55 (10.0 ov, Econ 5.5)
+  CR Woakes: 2/58 (10.0 ov, Econ 5.8)
+  JC Archer: 0/45 (10.0 ov, Econ 4.5)
+  AU Rashid: 0/40 (6.0 ov, Econ 6.67)
+  MA Wood: 0/73 (10.0 ov, Econ 7.3)
+  Extras: 7
+
+Batting Highlights:
+  Century: JM Bairstow scored 111 off 109 balls (SR 101.83, 10 fours, 6 sixes)
+  Half-century: BA Stokes scored 79 off 54 balls (SR 146.3)
+  Half-century: JJ Roy scored 66 off 57 balls (SR 115.79)
+  Century: RG Sharma scored 102 off 109 balls (SR 93.58, 15 fours, 0 sixes)
+  Half-century: V Kohli scored 66 off 76 balls (SR 86.84)
+
+Bowling Highlights:
+  Match-changing spell: Mohammed Shami took 5/69
+  Key spell: LE Plunkett took 3/55
+
+Captain Performance:
+  Virat Kohli (India): scored 66 off 76 balls
+
+Key Moments:
+  England lost 7 early wickets.
+  India lost 5 early wickets.
+
+Result: England won by 31 runs
+Toss: England won and chose to bat
+Player of the Match: JM Bairstow

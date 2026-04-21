@@ -1,0 +1,771 @@
+{
+  "match_info": {
+    "match_id": "fb70e6fc473a",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "date": "2011-02-28",
+    "teams": {
+      "team1": "Netherlands",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "West Indies",
+      "margin": "215 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Peter Borren",
+      "team2": "Darren Sammy"
+    },
+    "player_of_match": "KAJ Roach",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: Netherlands vs West Indies (2011-02-28) at Delhi.\nWest Indies: 330/8 (50.0 ov)\n  CH Gayle: 80 (110b, 7x4, 2x6)\n  KA Pollard: 60 (27b, 5x4, 4x6)\n  DS Smith: 53 (51b, 9x4, 0x6)\n  PM Seelaar: 3/45 (10.0 ov)\n  Mudassar Bukhari: 2/65 (10.0 ov)\nNetherlands: 115 all out (31.3 ov)\n  TLW Cooper: 55* (72b, 9x4, 0x6)\n  KAJ Roach: 6/27 (8.3 ov)\n  SJ Benn: 3/28 (8.0 ov)\nWest Indies won by 215 runs.\nPlayer of the Match: KAJ Roach.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 445,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 5.15,
+    "highest_individual_score": 80,
+    "best_bowling_figures": "6/27",
+    "total_sixes": 9,
+    "total_fours": 44
+  },
+  "innings_analysis": [
+    {
+      "team": "West Indies",
+      "total_runs": 330,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 6.6,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 80,
+          "balls": 110,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KA Pollard",
+          "runs": 60,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 222.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DS Smith",
+          "runs": 53,
+          "balls": 51,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 103.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 49,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DM Bravo",
+          "runs": 30,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 78.95,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PM Seelaar",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BP Loots",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 6.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 77,
+          "wickets": 1,
+          "economy": 7.7,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "BA Westdijk",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DS Smith",
+          "runs": 100,
+          "wickets": 1,
+          "overs": "16.3"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 168,
+          "wickets": 2,
+          "overs": "31.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 196,
+          "wickets": 3,
+          "overs": "36.2"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 261,
+          "wickets": 4,
+          "overs": "42.1"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 278,
+          "wickets": 5,
+          "overs": "43.4"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 290,
+          "wickets": 6,
+          "overs": "45.4"
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 312,
+          "wickets": 7,
+          "overs": "47.5"
+        },
+        {
+          "player": "DC Thomas",
+          "runs": 326,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 0,
+        "run_rate": 6.3,
+        "fours": 11,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 91,
+        "wickets": 5,
+        "run_rate": 9.1,
+        "fours": 9,
+        "sixes": 2,
+        "dot_balls": 16,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "total_runs": 115,
+      "total_wickets": 10,
+      "total_overs": 31.3,
+      "run_rate": 3.71,
+      "top_batters": [
+        {
+          "name": "TLW Cooper",
+          "runs": 55,
+          "balls": 72,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 76.39,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "runs": 24,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AN Kervezee",
+          "runs": 14,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RN ten Doeschate",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "KAJ Roach",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 6,
+          "economy": 3.18,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SJ Benn",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 3,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJG Sammy",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KA Pollard",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 2,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NO Miller",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 3.29,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "W Barresi",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 26,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 34,
+          "wickets": 3,
+          "overs": "8.1"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 35,
+          "wickets": 4,
+          "overs": "9.3"
+        },
+        {
+          "player": "TN de Grooth",
+          "runs": 36,
+          "wickets": 5,
+          "overs": "10.2"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 56,
+          "wickets": 6,
+          "overs": "18.2"
+        },
+        {
+          "player": "Mudassar Bukhari",
+          "runs": 113,
+          "wickets": 7,
+          "overs": "29.4"
+        },
+        {
+          "player": "PM Seelaar",
+          "runs": 115,
+          "wickets": 8,
+          "overs": "31.1"
+        },
+        {
+          "player": "BP Loots",
+          "runs": 115,
+          "wickets": 9,
+          "overs": "31.2"
+        },
+        {
+          "player": "BA Westdijk",
+          "runs": 115,
+          "wickets": 10,
+          "overs": "31.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 4,
+        "run_rate": 3.6,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "CH Gayle": {
+      "batting": {
+        "runs": 80,
+        "balls": 110,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Pollard": {
+      "batting": {
+        "runs": 60,
+        "balls": 27,
+        "fours": 5,
+        "sixes": 4,
+        "strike_rate": 222.22
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 2,
+        "wickets": 0,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Smith": {
+      "batting": {
+        "runs": 53,
+        "balls": 51,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 103.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 49,
+        "balls": 42,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM Bravo": {
+      "batting": {
+        "runs": 30,
+        "balls": 38,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 78.95
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PM Seelaar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 3,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mudassar Bukhari": {
+      "batting": {
+        "runs": 24,
+        "balls": 42,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 2,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BP Loots": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 6.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RN ten Doeschate": {
+      "batting": {
+        "runs": 7,
+        "balls": 6,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 77,
+        "wickets": 1,
+        "economy": 7.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Westdijk": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TLW Cooper": {
+      "batting": {
+        "runs": 55,
+        "balls": 72,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 76.39
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AN Kervezee": {
+      "batting": {
+        "runs": 14,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 70.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PW Borren": {
+      "batting": {
+        "runs": 10,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 35.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KAJ Roach": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.5,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 6,
+        "economy": 3.18
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SJ Benn": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 3,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJG Sammy": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NO Miller": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 0,
+        "economy": 3.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: West Indies scored 330 in 50.0 overs at 6.6 RPO",
+    "vs Netherlands scored 115 in 31.3 overs at 3.71 RPO",
+    "Top batsman: CH Gayle with 80 runs",
+    "Top bowler: KAJ Roach with 6 wickets"
+  ]
+}

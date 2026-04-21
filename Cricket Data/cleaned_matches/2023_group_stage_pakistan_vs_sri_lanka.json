@@ -1,0 +1,338 @@
+{
+  "match_id": "78892d5472b9",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+  "city": "Hyderabad",
+  "date": "2023-10-10",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kusal Mendis",
+    "team2": "Babar Azam"
+  },
+  "player_of_match": "Mohammad Rizwan",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 344,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "BKG Mendis",
+          "runs": 122,
+          "balls": 77,
+          "fours": 14,
+          "sixes": 6,
+          "strike_rate": 158.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Samarawickrama",
+          "runs": 108,
+          "balls": 89,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 121.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "P Nissanka",
+          "runs": 51,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 83.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 25,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MD Shanaka",
+          "runs": 12,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Hasan Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 4,
+          "economy": 7.1,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 1,
+          "economy": 6.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "P Nissanka",
+          "runs": 107,
+          "wickets": 2,
+          "overs": "17.2"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 218,
+          "wickets": 3,
+          "overs": "28.5"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 229,
+          "wickets": 4,
+          "overs": "30.1"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 294,
+          "wickets": 5,
+          "overs": "41.1"
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 324,
+          "wickets": 6,
+          "overs": "46.3"
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 335,
+          "wickets": 7,
+          "overs": "47.6"
+        },
+        {
+          "player": "M Theekshana",
+          "runs": 343,
+          "wickets": 8,
+          "overs": "49.2"
+        },
+        {
+          "player": "DN Wellalage",
+          "runs": 344,
+          "wickets": 9,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 345,
+      "wickets": 4,
+      "overs": 48.2,
+      "extras": 26,
+      "top_batters": [
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 131,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 108.26,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Abdullah Shafique",
+          "runs": 113,
+          "balls": 103,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 109.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Saud Shakeel",
+          "runs": 31,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 103.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "runs": 22,
+          "balls": 10,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 220.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 12,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Madushanka",
+          "overs": "9.2",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.43,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 5.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Pathirana",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 90,
+          "wickets": 1,
+          "economy": 10.0,
+          "wides": 9,
+          "no_balls": 0
+        },
+        {
+          "name": "MD Shanaka",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DN Wellalage",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 0,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "Abdullah Shafique",
+          "runs": 213,
+          "wickets": 3,
+          "overs": "33.1"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 308,
+          "wickets": 4,
+          "overs": "44.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_pakistan_vs_sri_lanka.json",
+  "match_summary": "2023 World Cup Group Stage: Sri Lanka vs Pakistan (2023-10-10) at Hyderabad.\nSri Lanka: 344/9 (50.0 ov)\n  BKG Mendis: 122 (77b, 14x4, 6x6)\n  S Samarawickrama: 108 (89b, 11x4, 2x6)\n  P Nissanka: 51 (61b, 7x4, 1x6)\n  Hasan Ali: 4/71 (10.0 ov)\n  Haris Rauf: 2/64 (10.0 ov)\nPakistan: 345/4 (48.2 ov)\n  Mohammad Rizwan: 131* (121b, 8x4, 3x6)\n  Abdullah Shafique: 113 (103b, 10x4, 3x6)\n  Saud Shakeel: 31 (30b, 2x4, 0x6)\n  D Madushanka: 2/60 (9.2 ov)\nPakistan won by 6 wickets.\nPlayer of the Match: Mohammad Rizwan."
+}

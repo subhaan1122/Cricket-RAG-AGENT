@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: India vs Zimbabwe
+Stage: Group B
+Date: 2015-03-14
+Venue: Eden Park, Auckland
+Captain India: MS Dhoni
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2015 World Cup Group B: India vs Zimbabwe (2015-03-14) at Auckland.
+
+Zimbabwe: 287 all out (48.5 ov)
+  BRM Taylor: 138 (110b, 15x4, 5x6, SR 125.45)
+  SC Williams: 50 (57b, 3x4, 3x6, SR 87.72)
+  Sikandar Raza: 28 (15b, 1x4, 3x6, SR 186.67)
+  CR Ervine: 27 (41b, 1x4, 1x6, SR 65.85)
+  RW Chakabva: 10 (13b, 0x4, 0x6, SR 76.92)
+  UT Yadav: 3/43 (9.5 ov, Econ 4.37)
+  MM Sharma: 3/48 (10.0 ov, Econ 4.8)
+  Mohammed Shami: 3/48 (9.0 ov, Econ 5.33)
+  R Ashwin: 1/75 (10.0 ov, Econ 7.5)
+  RA Jadeja: 0/71 (10.0 ov, Econ 7.1)
+  Extras: 9
+
+India: 288/4 (48.4 ov)
+  SK Raina: 110 (104b, 9x4, 4x6, SR 105.77)
+  MS Dhoni: 85 (76b, 7x4, 2x6, SR 111.84)
+  V Kohli: 38 (48b, 4x4, 0x6, SR 79.17)
+  AM Rahane: 19 (24b, 3x4, 0x6, SR 79.17)
+  RG Sharma: 16 (21b, 2x4, 0x6, SR 76.19)
+  T Panyangara: 2/53 (8.4 ov, Econ 6.12)
+  Sikandar Raza: 1/37 (8.0 ov, Econ 4.62)
+  SF Mire: 0/29 (5.0 ov, Econ 5.8)
+  TL Chatara: 0/59 (10.0 ov, Econ 5.9)
+  T Mupariwa: 0/61 (10.0 ov, Econ 6.1)
+  Extras: 16
+
+Batting Highlights:
+  Century: BRM Taylor scored 138 off 110 balls (SR 125.45, 15 fours, 5 sixes)
+  Half-century: SC Williams scored 50 off 57 balls (SR 87.72)
+  Quickfire innings: Sikandar Raza smashed 28 off 15 balls at SR 186.67
+  Century: SK Raina scored 110 off 104 balls (SR 105.77, 9 fours, 4 sixes)
+  Half-century: MS Dhoni scored 85 off 76 balls (SR 111.84)
+
+Bowling Highlights:
+  Key spell: UT Yadav took 3/43
+  Key spell: MM Sharma took 3/48
+  Key spell: Mohammed Shami took 3/48
+
+Captain Performance:
+  MS Dhoni (India): scored 85 off 76 balls
+
+Key Moments:
+  Zimbabwe lost 10 early wickets.
+  India lost 4 early wickets.
+  India exploded in the death overs (91 runs at 10.5 RPO).
+
+Result: India won by 6 wickets
+Toss: India won and chose to field
+Player of the Match: SK Raina

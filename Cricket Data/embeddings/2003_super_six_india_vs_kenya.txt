@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Kenya vs India
+Stage: Super Six
+Date: 2003-03-07
+Venue: Newlands, Cape Town, Cape Town
+Captain Kenya: Steve Tikolo
+Captain India: Sourav Ganguly
+
+Match Summary:
+  2003 World Cup Super Six: Kenya vs India (2003-03-07) at Cape Town.
+
+Kenya: 225/6 (50.0 ov)
+  KO Otieno: 79 (134b, 6x4, 2x6, SR 58.96)
+  MO Odumbe: 34 (24b, 2x4, 0x6, SR 141.67)
+  RD Shah: 34 (52b, 3x4, 0x6, SR 65.38)
+  TM Odoyo: 32 (55b, 2x4, 0x6, SR 58.18)
+  MA Suji: 11 (6b, 1x4, 0x6, SR 183.33)
+  Harbhajan Singh: 2/41 (10.0 ov, Econ 4.1)
+  J Srinath: 2/43 (10.0 ov, Econ 4.3)
+  D Mongia: 1/37 (8.0 ov, Econ 4.62)
+  A Nehra: 0/30 (10.0 ov, Econ 3.0)
+  Yuvraj Singh: 0/9 (2.0 ov, Econ 4.5)
+  Extras: 16
+
+India: 226/4 (47.5 ov)
+  SC Ganguly: 107 (120b, 11x4, 2x6, SR 89.17)
+  Yuvraj Singh: 58 (64b, 7x4, 0x6, SR 90.62)
+  R Dravid: 32 (73b, 3x4, 0x6, SR 43.84)
+  SR Tendulkar: 5 (12b, 1x4, 0x6, SR 41.67)
+  M Kaif: 5 (13b, 1x4, 0x6, SR 38.46)
+  TM Odoyo: 2/27 (7.0 ov, Econ 3.86)
+  MA Suji: 1/27 (10.0 ov, Econ 2.7)
+  CO Obuya: 1/50 (9.5 ov, Econ 5.08)
+  AO Suji: 0/25 (7.0 ov, Econ 3.57)
+  SO Tikolo: 0/36 (6.0 ov, Econ 6.0)
+  Extras: 16
+
+Batting Highlights:
+  Half-century: KO Otieno scored 79 off 134 balls (SR 58.96)
+  Century: SC Ganguly scored 107 off 120 balls (SR 89.17, 11 fours, 2 sixes)
+  Half-century: Yuvraj Singh scored 58 off 64 balls (SR 90.62)
+
+Bowling Highlights:
+  Economical spell: A Nehra conceded 30 runs in 10.0 overs (Econ 3.0)
+  Economical spell: MA Suji conceded 27 runs in 10.0 overs (Econ 2.7)
+
+Captain Performance:
+  Sourav Ganguly (India): scored 107 off 120 balls
+
+Key Moments:
+  Kenya lost 6 early wickets.
+  India lost 4 early wickets.
+  India lost 3 wickets in the powerplay.
+
+Result: India won by 6 wickets
+Toss: Kenya won and chose to bat
+Player of the Match: SC Ganguly

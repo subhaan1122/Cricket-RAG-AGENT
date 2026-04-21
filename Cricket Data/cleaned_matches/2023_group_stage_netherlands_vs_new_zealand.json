@@ -1,0 +1,362 @@
+{
+  "match_id": "e7d0ae15f881",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+  "city": "Hyderabad",
+  "date": "2023-10-09",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Netherlands",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kane Williamson",
+    "team2": "Scott Edwards"
+  },
+  "player_of_match": "MJ Santner",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 322,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "WA Young",
+          "runs": 70,
+          "balls": 80,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TWM Latham",
+          "runs": 53,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 115.22,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "R Ravindra",
+          "runs": 51,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Mitchell",
+          "runs": 48,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 102.13,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Santner",
+          "runs": 36,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 211.76,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Dutt",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RE van der Merwe",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 6.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "BFW de Leede",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "R Klein",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 5.86,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 67,
+          "wickets": 1,
+          "overs": "12.1"
+        },
+        {
+          "player": "WA Young",
+          "runs": 144,
+          "wickets": 2,
+          "overs": "26.1"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 185,
+          "wickets": 3,
+          "overs": "32.2"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 238,
+          "wickets": 4,
+          "overs": "40.1"
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 247,
+          "wickets": 5,
+          "overs": "41.4"
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 254,
+          "wickets": 6,
+          "overs": "44.1"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 293,
+          "wickets": 7,
+          "overs": "48.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 223,
+      "wickets": 10,
+      "overs": 46.3,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "CN Ackermann",
+          "runs": 69,
+          "balls": 73,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 94.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Edwards",
+          "runs": 30,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "SA Engelbrecht",
+          "runs": 29,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AT Nidamanuru",
+          "runs": 21,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 80.77,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "BFW de Leede",
+          "runs": 18,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 5,
+          "economy": 5.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 3,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ravindra",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 4.25,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Vikramjit Singh",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "5.6"
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "10.5"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 67,
+          "wickets": 3,
+          "overs": "16.4"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "25.4"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 157,
+          "wickets": 5,
+          "overs": "32.5"
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 174,
+          "wickets": 6,
+          "overs": "34.5"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 180,
+          "wickets": 7,
+          "overs": "36.3"
+        },
+        {
+          "player": "R Klein",
+          "runs": 198,
+          "wickets": 8,
+          "overs": "41.1"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 218,
+          "wickets": 9,
+          "overs": "44.6"
+        },
+        {
+          "player": "A Dutt",
+          "runs": 223,
+          "wickets": 10,
+          "overs": "46.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_netherlands_vs_new_zealand.json",
+  "match_summary": "2023 World Cup Group Stage: New Zealand vs Netherlands (2023-10-09) at Hyderabad.\nNew Zealand: 322/7 (50.0 ov)\n  WA Young: 70 (80b, 7x4, 2x6)\n  TWM Latham: 53 (46b, 6x4, 1x6)\n  R Ravindra: 51 (51b, 3x4, 1x6)\n  A Dutt: 2/62 (10.0 ov)\n  RE van der Merwe: 2/56 (9.0 ov)\n  PA van Meekeren: 2/59 (9.0 ov)\nNetherlands: 223 all out (46.3 ov)\n  CN Ackermann: 69 (73b, 5x4, 0x6)\n  SA Edwards: 30 (27b, 2x4, 1x6)\n  MJ Santner: 5/59 (10.0 ov)\n  MJ Henry: 3/40 (8.3 ov)\nNew Zealand won by 99 runs.\nPlayer of the Match: MJ Santner."
+}

@@ -1,0 +1,338 @@
+{
+  "match_id": "5bcc81dc6ba6",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Narendra Modi Stadium, Ahmedabad",
+  "city": "Ahmedabad",
+  "date": "2023-10-14",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Babar Azam",
+    "team2": "Rohit Sharma"
+  },
+  "player_of_match": "JJ Bumrah",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 191,
+      "wickets": 10,
+      "overs": 42.5,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "Babar Azam",
+          "runs": 50,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 49,
+          "balls": 69,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 71.01,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 36,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Abdullah Shafique",
+          "runs": 20,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Hasan Ali",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JJ Bumrah",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 2.71,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 3.86,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 6.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 41,
+          "wickets": 1,
+          "overs": "7.6"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 73,
+          "wickets": 2,
+          "overs": "12.3"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 155,
+          "wickets": 3,
+          "overs": "29.4"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 162,
+          "wickets": 4,
+          "overs": "32.2"
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 166,
+          "wickets": 5,
+          "overs": "32.6"
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 168,
+          "wickets": 6,
+          "overs": "33.6"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 171,
+          "wickets": 7,
+          "overs": "35.2"
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 187,
+          "wickets": 8,
+          "overs": "39.6"
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 187,
+          "wickets": 9,
+          "overs": "40.1"
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 191,
+          "wickets": 10,
+          "overs": "42.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 192,
+      "wickets": 3,
+      "overs": 30.3,
+      "extras": 2,
+      "top_batters": [
+        {
+          "name": "RG Sharma",
+          "runs": 86,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 6,
+          "strike_rate": 136.51,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 53,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 85.48,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 19,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shubman Gill",
+          "runs": 16,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 16,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 5.53,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 7.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 7.75,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shubman Gill",
+          "runs": 23,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 79,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 156,
+          "wickets": 3,
+          "overs": "21.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_india_vs_pakistan.json",
+  "match_summary": "2023 World Cup Group Stage: Pakistan vs India (2023-10-14) at Ahmedabad.\nPakistan: 191 all out (42.5 ov)\n  Babar Azam: 50 (58b, 7x4, 0x6)\n  Mohammad Rizwan: 49 (69b, 7x4, 0x6)\n  Imam-ul-Haq: 36 (38b, 6x4, 0x6)\n  JJ Bumrah: 2/19 (7.0 ov)\n  Kuldeep Yadav: 2/35 (10.0 ov)\n  RA Jadeja: 2/38 (9.5 ov)\nIndia: 192/3 (30.3 ov)\n  RG Sharma: 86 (63b, 6x4, 6x6)\n  SS Iyer: 53* (62b, 3x4, 2x6)\n  Shaheen Shah Afridi: 2/36 (6.0 ov)\nIndia won by 7 wickets.\nPlayer of the Match: JJ Bumrah."
+}

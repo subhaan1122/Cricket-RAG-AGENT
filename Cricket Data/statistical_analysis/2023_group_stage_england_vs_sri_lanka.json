@@ -1,0 +1,725 @@
+{
+  "match_info": {
+    "match_id": "7d95e21b5caa",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "date": "2023-10-26",
+    "teams": {
+      "team1": "England",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "8 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Jos Buttler",
+      "team2": "Kusal Mendis"
+    },
+    "player_of_match": "CBRLS Kumara",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: England vs Sri Lanka (2023-10-26) at Bengaluru.\nEngland: 156 all out (33.2 ov)\n  BA Stokes: 43 (73b, 6x4, 0x6)\n  JM Bairstow: 30 (31b, 3x4, 0x6)\n  CBRLS Kumara: 3/35 (7.0 ov)\n  AD Mathews: 2/14 (5.0 ov)\n  CAK Rajitha: 2/36 (7.0 ov)\nSri Lanka: 160/2 (25.4 ov)\n  P Nissanka: 77* (83b, 7x4, 2x6)\n  S Samarawickrama: 65* (54b, 7x4, 1x6)\n  DJ Willey: 2/30 (5.0 ov)\nSri Lanka won by 8 wickets.\nPlayer of the Match: CBRLS Kumara.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 316,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 5.57,
+    "highest_individual_score": 77,
+    "best_bowling_figures": "3/35",
+    "total_sixes": 4,
+    "total_fours": 34
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 156,
+      "total_wickets": 10,
+      "total_overs": 33.2,
+      "run_rate": 4.73,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 43,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 30,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Malan",
+          "runs": 28,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 112.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MM Ali",
+          "runs": 15,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Willey",
+          "runs": 14,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.35,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CBRLS Kumara",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 2,
+          "economy": 2.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CAK Rajitha",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 5.14,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "8.2",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 2.52,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "D Madushanka",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 7.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Malan",
+          "runs": 45,
+          "wickets": 1,
+          "overs": "6.3"
+        },
+        {
+          "player": "JE Root",
+          "runs": 57,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 68,
+          "wickets": 3,
+          "overs": "13.2"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 77,
+          "wickets": 4,
+          "overs": "14.5"
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 85,
+          "wickets": 5,
+          "overs": "16.6"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 122,
+          "wickets": 6,
+          "overs": "24.4"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 123,
+          "wickets": 7,
+          "overs": "25.5"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 137,
+          "wickets": 8,
+          "overs": "30.1"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 147,
+          "wickets": 9,
+          "overs": "31.5"
+        },
+        {
+          "player": "MA Wood",
+          "runs": 156,
+          "wickets": 10,
+          "overs": "33.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 59,
+        "wickets": 2,
+        "run_rate": 5.9,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 35,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 160,
+      "total_wickets": 2,
+      "total_overs": 25.4,
+      "run_rate": 6.4,
+      "top_batters": [
+        {
+          "name": "P Nissanka",
+          "runs": 77,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 92.77,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "S Samarawickrama",
+          "runs": 65,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 120.37,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 11,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MDKJ Perera",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DJ Willey",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "LS Livingstone",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 5.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "1.5"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 23,
+          "wickets": 2,
+          "overs": "5.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 56,
+        "wickets": 2,
+        "run_rate": 5.6,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 38,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BA Stokes": {
+      "batting": {
+        "runs": 43,
+        "balls": 73,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 58.9
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Bairstow": {
+      "batting": {
+        "runs": 30,
+        "balls": 31,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 96.77
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Malan": {
+      "batting": {
+        "runs": 28,
+        "balls": 25,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 112.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 15,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Willey": {
+      "batting": {
+        "runs": 14,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 82.35
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CBRLS Kumara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Mathews": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 2,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CAK Rajitha": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 2,
+        "economy": 5.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Theekshana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 2.52
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Madushanka": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Nissanka": {
+      "batting": {
+        "runs": 77,
+        "balls": 83,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 92.77
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Samarawickrama": {
+      "batting": {
+        "runs": 65,
+        "balls": 54,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 120.37
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BKG Mendis": {
+      "batting": {
+        "runs": 11,
+        "balls": 12,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 91.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MDKJ Perera": {
+      "batting": {
+        "runs": 4,
+        "balls": 5,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LS Livingstone": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Wood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 0,
+        "economy": 5.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 156 in 33.2 overs at 4.73 RPO",
+    "vs Sri Lanka scored 160 in 25.4 overs at 6.4 RPO",
+    "Top batsman: P Nissanka with 77 runs",
+    "Top bowler: CBRLS Kumara with 3 wickets"
+  ]
+}

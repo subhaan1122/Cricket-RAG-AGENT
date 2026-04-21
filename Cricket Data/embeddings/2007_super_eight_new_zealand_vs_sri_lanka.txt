@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: New Zealand vs Sri Lanka
+Stage: Super Eight
+Date: 2007-04-12
+Venue: National Cricket Stadium, St George's, Grenada
+Captain New Zealand: Stephen Fleming
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Super Eight: New Zealand vs Sri Lanka (2007-04-12) at Grenada.
+
+New Zealand: 219/7 (50.0 ov)
+  SB Styris: 111 (157b, 8x4, 0x6, SR 70.7)
+  JDP Oram: 31 (45b, 0x4, 1x6, SR 68.89)
+  PG Fulton: 28 (54b, 4x4, 0x6, SR 51.85)
+  JEC Franklin: 25 (27b, 0x4, 1x6, SR 92.59)
+  DL Vettori: 5 (7b, 0x4, 0x6, SR 71.43)
+  M Muralitharan: 3/32 (10.0 ov, Econ 3.2)
+  WPUJC Vaas: 3/33 (9.0 ov, Econ 3.67)
+  TM Dilshan: 1/44 (8.0 ov, Econ 5.5)
+  ST Jayasuriya: 0/44 (10.0 ov, Econ 4.4)
+  CRD Fernando: 0/31 (7.0 ov, Econ 4.43)
+  Extras: 17
+
+Sri Lanka: 222/4 (45.1 ov)
+  KC Sangakkara: 69 (104b, 3x4, 0x6, SR 66.35)
+  ST Jayasuriya: 64 (80b, 5x4, 1x6, SR 80.0)
+  LPC Silva: 23 (34b, 4x4, 0x6, SR 67.65)
+  DPMD Jayawardene: 15 (16b, 2x4, 0x6, SR 93.75)
+  TM Dilshan: 14 (24b, 0x4, 0x6, SR 58.33)
+  DL Vettori: 2/35 (10.0 ov, Econ 3.5)
+  JDP Oram: 1/31 (6.0 ov, Econ 5.17)
+  JEC Franklin: 1/49 (8.0 ov, Econ 6.12)
+  SE Bond: 0/26 (8.0 ov, Econ 3.25)
+  SB Styris: 0/28 (7.0 ov, Econ 4.0)
+  Extras: 26
+
+Batting Highlights:
+  Century: SB Styris scored 111 off 157 balls (SR 70.7, 8 fours, 0 sixes)
+  Half-century: KC Sangakkara scored 69 off 104 balls (SR 66.35)
+  Half-century: ST Jayasuriya scored 64 off 80 balls (SR 80.0)
+
+Bowling Highlights:
+  Key spell: M Muralitharan took 3/32
+  Key spell: WPUJC Vaas took 3/33
+  Economical spell: DL Vettori conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: SE Bond conceded 26 runs in 8.0 overs (Econ 3.25)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 15 off 16 balls
+
+Key Moments:
+  New Zealand lost 7 early wickets.
+  Sri Lanka lost 4 early wickets.
+
+Result: Sri Lanka won by 6 wickets
+Toss: New Zealand won and chose to bat
+Player of the Match: WPUJC Vaas

@@ -1,0 +1,817 @@
+{
+  "match_info": {
+    "match_id": "867c2acad48a",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "date": "2023-11-11",
+    "teams": {
+      "team1": "England",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "England",
+      "margin": "93 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Jos Buttler",
+      "team2": "Babar Azam"
+    },
+    "player_of_match": "DJ Willey",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: England vs Pakistan (2023-11-11) at Kolkata.\nEngland: 337/9 (50.0 ov)\n  BA Stokes: 84 (76b, 11x4, 2x6)\n  JE Root: 60 (72b, 4x4, 0x6)\n  JM Bairstow: 59 (61b, 7x4, 1x6)\n  Haris Rauf: 3/64 (10.0 ov)\n  Shaheen Shah Afridi: 2/72 (10.0 ov)\n  Mohammad Wasim: 2/74 (10.0 ov)\nPakistan: 244 all out (43.3 ov)\n  Agha Salman: 51 (45b, 6x4, 1x6)\n  Babar Azam: 38 (45b, 6x4, 0x6)\n  Mohammad Rizwan: 36 (51b, 2x4, 0x6)\n  DJ Willey: 3/56 (10.0 ov)\n  AU Rashid: 2/55 (10.0 ov)\n  AAP Atkinson: 2/45 (8.0 ov)\nEngland won by 93 runs.\nPlayer of the Match: DJ Willey.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 581,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 6.21,
+    "highest_individual_score": 84,
+    "best_bowling_figures": "3/64",
+    "total_sixes": 9,
+    "total_fours": 50
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 337,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 6.74,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 84,
+          "balls": 76,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 110.53,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JE Root",
+          "runs": 60,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 59,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Malan",
+          "runs": 31,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HC Brook",
+          "runs": 30,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 176.47,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Haris Rauf",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 3,
+          "economy": 6.4,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 72,
+          "wickets": 2,
+          "economy": 7.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Wasim",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 2,
+          "economy": 7.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 0,
+          "economy": 5.7,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Malan",
+          "runs": 82,
+          "wickets": 1,
+          "overs": "13.3"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 108,
+          "wickets": 2,
+          "overs": "18.2"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 240,
+          "wickets": 3,
+          "overs": "40.1"
+        },
+        {
+          "player": "JE Root",
+          "runs": 257,
+          "wickets": 4,
+          "overs": "42.2"
+        },
+        {
+          "player": "HC Brook",
+          "runs": 302,
+          "wickets": 5,
+          "overs": "46.4"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 308,
+          "wickets": 6,
+          "overs": "47.2"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 317,
+          "wickets": 7,
+          "overs": "48.4"
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 336,
+          "wickets": 8,
+          "overs": "49.4"
+        },
+        {
+          "player": "AAP Atkinson",
+          "runs": 336,
+          "wickets": 9,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 72,
+        "wickets": 0,
+        "run_rate": 7.2,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 35,
+        "extras": 11
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 97,
+        "wickets": 7,
+        "run_rate": 9.7,
+        "fours": 9,
+        "sixes": 5,
+        "dot_balls": 23,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 244,
+      "total_wickets": 10,
+      "total_overs": 43.3,
+      "run_rate": 5.67,
+      "top_batters": [
+        {
+          "name": "Agha Salman",
+          "runs": 51,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 113.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 38,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 84.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 36,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Haris Rauf",
+          "runs": 35,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 152.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Saud Shakeel",
+          "runs": 29,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.38,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DJ Willey",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 3,
+          "economy": 5.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 2,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AAP Atkinson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 5.62,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "5.3",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 4.91,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 10,
+          "wickets": 2,
+          "overs": "2.4"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 61,
+          "wickets": 3,
+          "overs": "13.6"
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 100,
+          "wickets": 4,
+          "overs": "22.3"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 126,
+          "wickets": 5,
+          "overs": "27.5"
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 145,
+          "wickets": 6,
+          "overs": "30.1"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 150,
+          "wickets": 7,
+          "overs": "31.4"
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 186,
+          "wickets": 8,
+          "overs": "36.4"
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 191,
+          "wickets": 9,
+          "overs": "37.4"
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 244,
+          "wickets": 10,
+          "overs": "43.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 2,
+        "run_rate": 4.3,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "3.3",
+        "balls": 21,
+        "runs": 35,
+        "wickets": 1,
+        "run_rate": 10.0,
+        "fours": 4,
+        "sixes": 2,
+        "dot_balls": 10,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BA Stokes": {
+      "batting": {
+        "runs": 84,
+        "balls": 76,
+        "fours": 11,
+        "sixes": 2,
+        "strike_rate": 110.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JE Root": {
+      "batting": {
+        "runs": 60,
+        "balls": 72,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Bairstow": {
+      "batting": {
+        "runs": 59,
+        "balls": 61,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 96.72
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Malan": {
+      "batting": {
+        "runs": 31,
+        "balls": 39,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 79.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HC Brook": {
+      "batting": {
+        "runs": 30,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 176.47
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Haris Rauf": {
+      "batting": {
+        "runs": 35,
+        "balls": 23,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 152.17
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 3,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 72,
+        "wickets": 2,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Wasim": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 2,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Iftikhar Ahmed": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 1,
+        "economy": 5.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 0,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Agha Salman": {
+      "batting": {
+        "runs": 51,
+        "balls": 45,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 113.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Babar Azam": {
+      "batting": {
+        "runs": 38,
+        "balls": 45,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 84.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rizwan": {
+      "batting": {
+        "runs": 36,
+        "balls": 51,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 70.59
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Saud Shakeel": {
+      "batting": {
+        "runs": 29,
+        "balls": 37,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 78.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Willey": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 3,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AU Rashid": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 2,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AAP Atkinson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 5.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.5,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 4.91
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 337 in 50.0 overs at 6.74 RPO",
+    "vs Pakistan scored 244 in 43.3 overs at 5.67 RPO",
+    "Top batsman: BA Stokes with 84 runs",
+    "Top bowler: Haris Rauf with 3 wickets"
+  ]
+}

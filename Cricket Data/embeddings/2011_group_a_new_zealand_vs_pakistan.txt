@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: New Zealand vs Pakistan
+Stage: Group A
+Date: 2011-03-08
+Venue: Pallekele International Cricket Stadium
+Captain New Zealand: Daniel Vettori
+Captain Pakistan: Shahid Afridi
+
+Match Summary:
+  2011 World Cup Group A: New Zealand vs Pakistan (2011-03-08) at Pallekele International Cricket Stadium.
+
+New Zealand: 302/7 (50.0 ov)
+  LRPL Taylor: 131 (124b, 8x4, 7x6, SR 105.65)
+  MJ Guptill: 57 (86b, 7x4, 0x6, SR 66.28)
+  SB Styris: 28 (37b, 1x4, 0x6, SR 75.68)
+  JDP Oram: 25 (9b, 1x4, 3x6, SR 277.78)
+  NL McCullum: 19 (10b, 1x4, 2x6, SR 190.0)
+  Umar Gul: 3/32 (10.0 ov, Econ 3.2)
+  Mohammad Hafeez: 1/26 (7.0 ov, Econ 3.71)
+  Shahid Afridi: 1/55 (10.0 ov, Econ 5.5)
+  Abdur Rehman: 1/60 (10.0 ov, Econ 6.0)
+  Shoaib Akhtar: 1/70 (9.0 ov, Econ 7.78)
+  Extras: 24
+
+Pakistan: 192 all out (41.4 ov)
+  Abdul Razzaq: 62 (74b, 9x4, 0x6, SR 83.78)
+  Umar Akmal: 38 (58b, 3x4, 0x6, SR 65.52)
+  Umar Gul: 34 (25b, 3x4, 1x6, SR 136.0)
+  Shahid Afridi: 17 (9b, 2x4, 1x6, SR 188.89)
+  Ahmed Shehzad: 10 (16b, 1x4, 0x6, SR 62.5)
+  TG Southee: 3/25 (8.0 ov, Econ 3.12)
+  SB Styris: 2/17 (4.4 ov, Econ 3.64)
+  NL McCullum: 2/28 (6.0 ov, Econ 4.67)
+  KD Mills: 2/43 (8.0 ov, Econ 5.38)
+  JDP Oram: 1/47 (10.0 ov, Econ 4.7)
+  Extras: 10
+
+Batting Highlights:
+  Century: LRPL Taylor scored 131 off 124 balls (SR 105.65, 8 fours, 7 sixes)
+  Half-century: MJ Guptill scored 57 off 86 balls (SR 66.28)
+  Half-century: Abdul Razzaq scored 62 off 74 balls (SR 83.78)
+
+Bowling Highlights:
+  Key spell: Umar Gul took 3/32
+  Key spell: TG Southee took 3/25
+
+Captain Performance:
+  Shahid Afridi (Pakistan): scored 17 off 9 balls
+
+Key Moments:
+  New Zealand lost 7 early wickets.
+  Pakistan lost 10 early wickets.
+  New Zealand exploded in the death overs (139 runs at 13.9 RPO).
+  Pakistan lost 4 wickets in the powerplay.
+
+Result: New Zealand won by 110 runs
+Toss: New Zealand won and chose to bat
+Player of the Match: LRPL Taylor

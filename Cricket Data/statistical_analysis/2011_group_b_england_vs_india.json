@@ -1,0 +1,791 @@
+{
+  "match_info": {
+    "match_id": "e76a063058ad",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "date": "2011-02-27",
+    "teams": {
+      "team1": "India",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "6 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "MS Dhoni",
+      "team2": "Andrew Strauss"
+    },
+    "player_of_match": "AJ Strauss",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: India vs England (2011-02-27) at Bangalore.\nIndia: 338 all out (49.5 ov)\n  SR Tendulkar: 120 (115b, 10x4, 5x6)\n  Yuvraj Singh: 58 (50b, 9x4, 0x6)\n  G Gambhir: 51 (61b, 5x4, 0x6)\n  TT Bresnan: 5/48 (10.0 ov)\nEngland: 338/8 (50.0 ov)\n  AJ Strauss: 158 (145b, 18x4, 1x6)\n  IR Bell: 69 (71b, 4x4, 1x6)\n  KP Pietersen: 31 (22b, 5x4, 0x6)\n  Z Khan: 3/64 (10.0 ov)\n  MM Patel: 2/70 (10.0 ov)\n  PP Chawla: 2/71 (10.0 ov)\nIndia won by 6 runs.\nPlayer of the Match: AJ Strauss.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 676,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 6.83,
+    "highest_individual_score": 158,
+    "best_bowling_figures": "5/48",
+    "total_sixes": 9,
+    "total_fours": 61
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 338,
+      "total_wickets": 10,
+      "total_overs": 49.5,
+      "run_rate": 6.9,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 120,
+          "balls": 115,
+          "fours": 10,
+          "sixes": 5,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 58,
+          "balls": 50,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "G Gambhir",
+          "runs": 51,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 83.61,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 35,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 134.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 31,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 124.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TT Bresnan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 5,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MH Yardy",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 6.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GP Swann",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 6.56,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 91,
+          "wickets": 1,
+          "economy": 9.25,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "A Shahzad",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 0,
+          "economy": 6.62,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 46,
+          "wickets": 1,
+          "overs": "7.5"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 180,
+          "wickets": 2,
+          "overs": "29.4"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 236,
+          "wickets": 3,
+          "overs": "38.2"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 305,
+          "wickets": 4,
+          "overs": "45.6"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 305,
+          "wickets": 5,
+          "overs": "46.1"
+        },
+        {
+          "player": "YK Pathan",
+          "runs": 327,
+          "wickets": 6,
+          "overs": "48.1"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 327,
+          "wickets": 7,
+          "overs": "48.2"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 328,
+          "wickets": 8,
+          "overs": "48.4"
+        },
+        {
+          "player": "PP Chawla",
+          "runs": 338,
+          "wickets": 9,
+          "overs": "49.4"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 338,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 58,
+        "wickets": 1,
+        "run_rate": 5.8,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 34,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "9.5",
+        "balls": 59,
+        "runs": 91,
+        "wickets": 7,
+        "run_rate": 9.25,
+        "fours": 9,
+        "sixes": 2,
+        "dot_balls": 15,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 338,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 6.76,
+      "top_batters": [
+        {
+          "name": "AJ Strauss",
+          "runs": 158,
+          "balls": 145,
+          "fours": 18,
+          "sixes": 1,
+          "strike_rate": 108.97,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 69,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 97.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KP Pietersen",
+          "runs": 31,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 140.91,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "IJL Trott",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "GP Swann",
+          "runs": 15,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 3,
+          "economy": 6.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PP Chawla",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 2,
+          "economy": 7.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 6.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KP Pietersen",
+          "runs": 68,
+          "wickets": 1,
+          "overs": "9.3"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 111,
+          "wickets": 2,
+          "overs": "16.4"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 281,
+          "wickets": 3,
+          "overs": "42.4"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 281,
+          "wickets": 4,
+          "overs": "42.5"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 285,
+          "wickets": 5,
+          "overs": "44.3"
+        },
+        {
+          "player": "MJ Prior",
+          "runs": 289,
+          "wickets": 6,
+          "overs": "45.2"
+        },
+        {
+          "player": "MH Yardy",
+          "runs": 307,
+          "wickets": 7,
+          "overs": "47.3"
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 325,
+          "wickets": 8,
+          "overs": "48.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 77,
+        "wickets": 1,
+        "run_rate": 7.7,
+        "fours": 10,
+        "sixes": 0,
+        "dot_balls": 27,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 66,
+        "wickets": 6,
+        "run_rate": 6.6,
+        "fours": 1,
+        "sixes": 3,
+        "dot_balls": 25,
+        "extras": 4
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 120,
+        "balls": 115,
+        "fours": 10,
+        "sixes": 5,
+        "strike_rate": 104.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 58,
+        "balls": 50,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 116.0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 0,
+        "economy": 6.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Gambhir": {
+      "batting": {
+        "runs": 51,
+        "balls": 61,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 83.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 35,
+        "balls": 26,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 134.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 31,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 124.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TT Bresnan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 5,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MH Yardy": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 1,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GP Swann": {
+      "batting": {
+        "runs": 15,
+        "balls": 9,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 166.67
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 6.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Anderson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.833333333333334,
+        "maidens": 0,
+        "runs": 91,
+        "wickets": 1,
+        "economy": 9.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Shahzad": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 0,
+        "economy": 6.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Strauss": {
+      "batting": {
+        "runs": 158,
+        "balls": 145,
+        "fours": 18,
+        "sixes": 1,
+        "strike_rate": 108.97
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IR Bell": {
+      "batting": {
+        "runs": 69,
+        "balls": 71,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 97.18
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KP Pietersen": {
+      "batting": {
+        "runs": 31,
+        "balls": 22,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 140.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IJL Trott": {
+      "batting": {
+        "runs": 16,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 84.21
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 3,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Patel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 70,
+        "wickets": 2,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PP Chawla": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 2,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Harbhajan Singh": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 1,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 338 in 49.5 overs at 6.9 RPO",
+    "vs England scored 338 in 50.0 overs at 6.76 RPO",
+    "Top batsman: AJ Strauss with 158 runs",
+    "Top bowler: TT Bresnan with 5 wickets"
+  ]
+}

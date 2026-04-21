@@ -1,0 +1,332 @@
+{
+  "match_id": "71e433ad4b93",
+  "world_cup_year": 2007,
+  "stage": "Group A",
+  "venue": "Warner Park, Basseterre",
+  "city": "St Kitts",
+  "date": "2007-03-16",
+  "teams": {
+    "team1": "Netherlands",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "Netherlands",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "221 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Luuk van Troost",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "HH Gibbs",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 353,
+      "wickets": 3,
+      "overs": 40.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "JH Kallis",
+          "runs": 128,
+          "balls": 109,
+          "fours": 11,
+          "sixes": 5,
+          "strike_rate": 117.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MV Boucher",
+          "runs": 75,
+          "balls": 31,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 241.94,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HH Gibbs",
+          "runs": 72,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 7,
+          "strike_rate": 180.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 67,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 113.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WF Stelling",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 5.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PW Borren",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LP van Troost",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 14.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Reekers",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 8.29,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AB de Villiers",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 114,
+          "wickets": 2,
+          "overs": "18.6"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 219,
+          "wickets": 3,
+          "overs": "30.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 132,
+      "wickets": 9,
+      "overs": 40.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "RN ten Doeschate",
+          "runs": 57,
+          "balls": 74,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 77.03,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "TBM de Leede",
+          "runs": 21,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AN Kervezee",
+          "runs": 17,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ES Szwarczynski",
+          "runs": 12,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "LP van Troost",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JM Kemp",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 4,
+          "wickets": 1,
+          "economy": 0.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Hall",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GC Smith",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Reekers",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 6,
+          "wickets": 2,
+          "overs": "4.1"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 33,
+          "wickets": 3,
+          "overs": "14.2"
+        },
+        {
+          "player": "DLS van Bunge",
+          "runs": 47,
+          "wickets": 4,
+          "overs": "19.2"
+        },
+        {
+          "player": "ES Szwarczynski",
+          "runs": 72,
+          "wickets": 5,
+          "overs": "26.5"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 114,
+          "wickets": 6,
+          "overs": "35.1"
+        },
+        {
+          "player": "TBM de Leede",
+          "runs": 124,
+          "wickets": 7,
+          "overs": "37.3"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 131,
+          "wickets": 8,
+          "overs": "38.6"
+        },
+        {
+          "player": "LP van Troost",
+          "runs": 132,
+          "wickets": 9,
+          "overs": "39.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_a_netherlands_vs_south_africa.json",
+  "match_summary": "2007 World Cup Group A: Netherlands vs South Africa (2007-03-16) at St Kitts.\nSouth Africa: 353/3 (40.0 ov)\n  JH Kallis: 128* (109b, 11x4, 5x6)\n  MV Boucher: 75* (31b, 9x4, 4x6)\n  HH Gibbs: 72 (40b, 4x4, 7x6)\nNetherlands: 132/9 (40.0 ov)\n  RN ten Doeschate: 57 (74b, 8x4, 1x6)\n  JM Kemp: 2/18 (4.0 ov)\nSouth Africa won by 221 runs.\nPlayer of the Match: HH Gibbs."
+}

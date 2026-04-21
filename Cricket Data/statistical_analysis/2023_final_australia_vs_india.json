@@ -1,0 +1,787 @@
+{
+  "match_info": {
+    "match_id": "b5b8d3223b44",
+    "world_cup_year": 2023,
+    "stage": "Final",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "date": "2023-11-19",
+    "teams": {
+      "team1": "India",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Rohit Sharma",
+      "team2": "Pat Cummins"
+    },
+    "player_of_match": "TM Head",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Final: India vs Australia (2023-11-19) at Ahmedabad.\nIndia: 240 all out (50.0 ov)\n  KL Rahul: 66 (107b, 1x4, 0x6)\n  V Kohli: 54 (63b, 4x4, 0x6)\n  RG Sharma: 47 (31b, 4x4, 3x6)\n  MA Starc: 3/55 (10.0 ov)\n  PJ Cummins: 2/34 (10.0 ov)\n  JR Hazlewood: 2/60 (10.0 ov)\nAustralia: 241/4 (43.0 ov)\n  TM Head: 137 (120b, 15x4, 4x6)\n  M Labuschagne: 58* (110b, 4x4, 0x6)\n  JJ Bumrah: 2/43 (9.0 ov)\nAustralia won by 6 wickets.\nPlayer of the Match: TM Head.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 481,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.2,
+    "highest_individual_score": 137,
+    "best_bowling_figures": "3/55",
+    "total_sixes": 8,
+    "total_fours": 32
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 240,
+      "total_wickets": 10,
+      "total_overs": 50.0,
+      "run_rate": 4.8,
+      "top_batters": [
+        {
+          "name": "KL Rahul",
+          "runs": 66,
+          "balls": 107,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 54,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 47,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 151.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Yadav",
+          "runs": 18,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "runs": 10,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 3,
+          "economy": 5.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shubman Gill",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 76,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 81,
+          "wickets": 3,
+          "overs": "10.2"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 148,
+          "wickets": 4,
+          "overs": "28.3"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "35.5"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 203,
+          "wickets": 6,
+          "overs": "41.3"
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 211,
+          "wickets": 7,
+          "overs": "43.4"
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 214,
+          "wickets": 8,
+          "overs": "44.5"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 226,
+          "wickets": 9,
+          "overs": "47.3"
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "runs": 240,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 80,
+        "wickets": 2,
+        "run_rate": 8.0,
+        "fours": 9,
+        "sixes": 3,
+        "dot_balls": 28,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 5,
+        "run_rate": 4.3,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 30,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 241,
+      "total_wickets": 4,
+      "total_overs": 43.0,
+      "run_rate": 5.6,
+      "top_batters": [
+        {
+          "name": "TM Head",
+          "runs": 137,
+          "balls": 120,
+          "fours": 15,
+          "sixes": 4,
+          "strike_rate": 114.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 58,
+          "balls": 110,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.73,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MR Marsh",
+          "runs": 15,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 7,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 233.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JJ Bumrah",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 6.71,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 4.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 41,
+          "wickets": 2,
+          "overs": "4.3"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 47,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "TM Head",
+          "runs": 239,
+          "wickets": 4,
+          "overs": "42.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 60,
+        "wickets": 3,
+        "run_rate": 6.0,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 44,
+        "extras": 15
+      },
+      "death_overs_stats": {
+        "overs": "3.0",
+        "balls": 18,
+        "runs": 16,
+        "wickets": 1,
+        "run_rate": 5.33,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 10,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "KL Rahul": {
+      "batting": {
+        "runs": 66,
+        "balls": 107,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 61.68
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 54,
+        "balls": 63,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 47,
+        "balls": 31,
+        "fours": 4,
+        "sixes": 3,
+        "strike_rate": 151.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SA Yadav": {
+      "batting": {
+        "runs": 18,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 64.29
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 10,
+        "balls": 18,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 55.56
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 0,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 3,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Zampa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 5.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Head": {
+      "batting": {
+        "runs": 137,
+        "balls": 120,
+        "fours": 15,
+        "sixes": 4,
+        "strike_rate": 114.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Labuschagne": {
+      "batting": {
+        "runs": 58,
+        "balls": 110,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 52.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MR Marsh": {
+      "batting": {
+        "runs": 15,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 7,
+        "balls": 3,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 233.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 4,
+        "balls": 9,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 44.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 4.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Siraj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 6.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Shami": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 6.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 0,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 240 in 50.0 overs at 4.8 RPO",
+    "vs Australia scored 241 in 43.0 overs at 5.6 RPO",
+    "Top batsman: TM Head with 137 runs",
+    "Top bowler: MA Starc with 3 wickets"
+  ]
+}

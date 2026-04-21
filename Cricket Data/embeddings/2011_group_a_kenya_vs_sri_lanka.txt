@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2011
+Match: Sri Lanka vs Kenya
+Stage: Group A
+Date: 2011-03-01
+Venue: R Premadasa Stadium, Colombo
+Captain Sri Lanka: Kumar Sangakkara
+Captain Kenya: Jimmy Kamande
+
+Match Summary:
+  2011 World Cup Group A: Sri Lanka vs Kenya (2011-03-01) at Colombo.
+
+Kenya: 142 all out (43.4 ov)
+  CO Obuya: 52 (100b, 4x4, 0x6, SR 52.0)
+  DO Obuya: 51 (106b, 3x4, 0x6, SR 48.11)
+  NN Odhiambo: 8 (10b, 2x4, 0x6, SR 80.0)
+  SO Tikolo: 7 (17b, 1x4, 0x6, SR 41.18)
+  SR Waters: 3 (4b, 0x4, 0x6, SR 75.0)
+  SL Malinga: 6/38 (7.4 ov, Econ 4.96)
+  KMDN Kulasekara: 1/18 (9.0 ov, Econ 2.0)
+  AD Mathews: 1/20 (7.0 ov, Econ 2.86)
+  M Muralitharan: 1/24 (8.0 ov, Econ 3.0)
+  BAW Mendis: 0/23 (9.0 ov, Econ 2.56)
+  Extras: 19
+
+Sri Lanka: 146/1 (18.4 ov)
+  WU Tharanga: 67 (59b, 12x4, 0x6, SR 113.56)
+  TM Dilshan: 44 (30b, 8x4, 0x6, SR 146.67)
+  KC Sangakkara: 27 (24b, 3x4, 0x6, SR 112.5)
+  E Otieno: 1/26 (4.0 ov, Econ 6.5)
+  NN Odhiambo: 0/26 (5.0 ov, Econ 5.2)
+  CO Obuya: 0/13 (1.4 ov, Econ 7.8)
+  PJ Ongondo: 0/28 (3.0 ov, Econ 9.33)
+  SO Ngoche: 0/39 (4.0 ov, Econ 9.75)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: CO Obuya scored 52 off 100 balls (SR 52.0)
+  Half-century: DO Obuya scored 51 off 106 balls (SR 48.11)
+  Half-century: WU Tharanga scored 67 off 59 balls (SR 113.56)
+
+Bowling Highlights:
+  Match-changing spell: SL Malinga took 6/38
+  Economical spell: KMDN Kulasekara conceded 18 runs in 9.0 overs (Econ 2.0)
+  Economical spell: AD Mathews conceded 20 runs in 7.0 overs (Econ 2.86)
+  Economical spell: M Muralitharan conceded 24 runs in 8.0 overs (Econ 3.0)
+  Economical spell: BAW Mendis conceded 23 runs in 9.0 overs (Econ 2.56)
+
+Captain Performance:
+  Kumar Sangakkara (Sri Lanka): scored 27 off 24 balls
+
+Key Moments:
+  Kenya lost 10 early wickets.
+  Sri Lanka scored aggressively in the powerplay (81 runs at 8.1 RPO).
+
+Result: Sri Lanka won by 9 wickets
+Toss: Kenya won and chose to bat
+Player of the Match: SL Malinga

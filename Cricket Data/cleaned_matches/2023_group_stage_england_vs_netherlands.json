@@ -1,0 +1,374 @@
+{
+  "match_id": "f61409b711f0",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Maharashtra Cricket Association Stadium, Pune",
+  "city": "Pune",
+  "date": "2023-11-08",
+  "teams": {
+    "team1": "England",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "160 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Jos Buttler",
+    "team2": "Scott Edwards"
+  },
+  "player_of_match": "BA Stokes",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 339,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 108,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 6,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Malan",
+          "runs": 87,
+          "balls": 74,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 117.57,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "CR Woakes",
+          "runs": 51,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 113.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Root",
+          "runs": 28,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 15,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "BFW de Leede",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 3,
+          "economy": 7.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Dutt",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 2,
+          "economy": 6.7,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "LV van Beek",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 88,
+          "wickets": 2,
+          "economy": 8.8,
+          "wides": 10,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 5.7,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 4.43,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Bairstow",
+          "runs": 48,
+          "wickets": 1,
+          "overs": "6.6"
+        },
+        {
+          "player": "JE Root",
+          "runs": 133,
+          "wickets": 2,
+          "overs": "20.2"
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 139,
+          "wickets": 3,
+          "overs": "21.6"
+        },
+        {
+          "player": "HC Brook",
+          "runs": 164,
+          "wickets": 4,
+          "overs": "26.5"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "30.1"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 192,
+          "wickets": 6,
+          "overs": "35.2"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 321,
+          "wickets": 7,
+          "overs": "48.4"
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 327,
+          "wickets": 8,
+          "overs": "48.6"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 334,
+          "wickets": 9,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 179,
+      "wickets": 10,
+      "overs": 37.2,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "AT Nidamanuru",
+          "runs": 41,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 120.59,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SA Edwards",
+          "runs": 38,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 90.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "W Barresi",
+          "runs": 37,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 59.68,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SA Engelbrecht",
+          "runs": 33,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 67.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BFW de Leede",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MM Ali",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 5.04,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 3,
+          "economy": 6.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Willey",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 2.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 2.71,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AAP Atkinson",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 5.86,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP O'Dowd",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "4.5"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 13,
+          "wickets": 2,
+          "overs": "5.4"
+        },
+        {
+          "player": "W Barresi",
+          "runs": 68,
+          "wickets": 3,
+          "overs": "17.3"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 90,
+          "wickets": 4,
+          "overs": "22.4"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 104,
+          "wickets": 5,
+          "overs": "25.3"
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 163,
+          "wickets": 6,
+          "overs": "33.5"
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 166,
+          "wickets": 7,
+          "overs": "34.5"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 167,
+          "wickets": 8,
+          "overs": "35.4"
+        },
+        {
+          "player": "A Dutt",
+          "runs": 174,
+          "wickets": 9,
+          "overs": "36.4"
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 179,
+          "wickets": 10,
+          "overs": "37.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_england_vs_netherlands.json",
+  "match_summary": "2023 World Cup Group Stage: England vs Netherlands (2023-11-08) at Pune.\nEngland: 339/9 (50.0 ov)\n  BA Stokes: 108 (84b, 6x4, 6x6)\n  DJ Malan: 87 (74b, 10x4, 2x6)\n  CR Woakes: 51 (45b, 5x4, 1x6)\n  BFW de Leede: 3/74 (10.0 ov)\n  A Dutt: 2/67 (10.0 ov)\n  LV van Beek: 2/88 (10.0 ov)\nNetherlands: 179 all out (37.2 ov)\n  AT Nidamanuru: 41* (34b, 2x4, 3x6)\n  SA Edwards: 38 (42b, 3x4, 1x6)\n  W Barresi: 37 (62b, 3x4, 1x6)\n  MM Ali: 3/42 (8.2 ov)\n  AU Rashid: 3/54 (8.0 ov)\n  DJ Willey: 2/19 (7.0 ov)\nEngland won by 160 runs.\nPlayer of the Match: BA Stokes."
+}

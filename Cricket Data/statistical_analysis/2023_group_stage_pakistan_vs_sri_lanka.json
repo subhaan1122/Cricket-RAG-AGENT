@@ -1,0 +1,781 @@
+{
+  "match_info": {
+    "match_id": "78892d5472b9",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "city": "Hyderabad",
+    "date": "2023-10-10",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kusal Mendis",
+      "team2": "Babar Azam"
+    },
+    "player_of_match": "Mohammad Rizwan",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Sri Lanka vs Pakistan (2023-10-10) at Hyderabad.\nSri Lanka: 344/9 (50.0 ov)\n  BKG Mendis: 122 (77b, 14x4, 6x6)\n  S Samarawickrama: 108 (89b, 11x4, 2x6)\n  P Nissanka: 51 (61b, 7x4, 1x6)\n  Hasan Ali: 4/71 (10.0 ov)\n  Haris Rauf: 2/64 (10.0 ov)\nPakistan: 345/4 (48.2 ov)\n  Mohammad Rizwan: 131* (121b, 8x4, 3x6)\n  Abdullah Shafique: 113 (103b, 10x4, 3x6)\n  Saud Shakeel: 31 (30b, 2x4, 0x6)\n  D Madushanka: 2/60 (9.2 ov)\nPakistan won by 6 wickets.\nPlayer of the Match: Mohammad Rizwan.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 689,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 7.04,
+    "highest_individual_score": 131,
+    "best_bowling_figures": "4/71",
+    "total_sixes": 15,
+    "total_fours": 60
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 344,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 6.88,
+      "top_batters": [
+        {
+          "name": "BKG Mendis",
+          "runs": 122,
+          "balls": 77,
+          "fours": 14,
+          "sixes": 6,
+          "strike_rate": 158.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Samarawickrama",
+          "runs": 108,
+          "balls": 89,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 121.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "P Nissanka",
+          "runs": 51,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 83.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 25,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MD Shanaka",
+          "runs": 12,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Hasan Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 4,
+          "economy": 7.1,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 1,
+          "economy": 6.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "P Nissanka",
+          "runs": 107,
+          "wickets": 2,
+          "overs": "17.2"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 218,
+          "wickets": 3,
+          "overs": "28.5"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 229,
+          "wickets": 4,
+          "overs": "30.1"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 294,
+          "wickets": 5,
+          "overs": "41.1"
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 324,
+          "wickets": 6,
+          "overs": "46.3"
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 335,
+          "wickets": 7,
+          "overs": "47.6"
+        },
+        {
+          "player": "M Theekshana",
+          "runs": 343,
+          "wickets": 8,
+          "overs": "49.2"
+        },
+        {
+          "player": "DN Wellalage",
+          "runs": 344,
+          "wickets": 9,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 58,
+        "wickets": 1,
+        "run_rate": 5.8,
+        "fours": 8,
+        "sixes": 2,
+        "dot_balls": 42,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 61,
+        "wickets": 5,
+        "run_rate": 6.1,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 25,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 345,
+      "total_wickets": 4,
+      "total_overs": 48.2,
+      "run_rate": 7.19,
+      "top_batters": [
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 131,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 108.26,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Abdullah Shafique",
+          "runs": 113,
+          "balls": 103,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 109.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Saud Shakeel",
+          "runs": 31,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 103.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "runs": 22,
+          "balls": 10,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 220.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 12,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Madushanka",
+          "overs": "9.2",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.43,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 5.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Pathirana",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 90,
+          "wickets": 1,
+          "economy": 10.0,
+          "wides": 9,
+          "no_balls": 0
+        },
+        {
+          "name": "MD Shanaka",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DN Wellalage",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 0,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "Abdullah Shafique",
+          "runs": 213,
+          "wickets": 3,
+          "overs": "33.1"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 308,
+          "wickets": 4,
+          "overs": "44.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 2,
+        "run_rate": 4.8,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 36,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "8.2",
+        "balls": 50,
+        "runs": 74,
+        "wickets": 1,
+        "run_rate": 8.88,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 7,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BKG Mendis": {
+      "batting": {
+        "runs": 122,
+        "balls": 77,
+        "fours": 14,
+        "sixes": 6,
+        "strike_rate": 158.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Samarawickrama": {
+      "batting": {
+        "runs": 108,
+        "balls": 89,
+        "fours": 11,
+        "sixes": 2,
+        "strike_rate": 121.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Nissanka": {
+      "batting": {
+        "runs": 51,
+        "balls": 61,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 83.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM de Silva": {
+      "batting": {
+        "runs": 25,
+        "balls": 34,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 73.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MD Shanaka": {
+      "batting": {
+        "runs": 12,
+        "balls": 18,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 0,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Hasan Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 4,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Haris Rauf": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 2,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 1,
+        "economy": 6.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Nawaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 1,
+        "economy": 6.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 66,
+        "wickets": 1,
+        "economy": 7.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rizwan": {
+      "batting": {
+        "runs": 131,
+        "balls": 121,
+        "fours": 8,
+        "sixes": 3,
+        "strike_rate": 108.26
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdullah Shafique": {
+      "batting": {
+        "runs": 113,
+        "balls": 103,
+        "fours": 10,
+        "sixes": 3,
+        "strike_rate": 109.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Saud Shakeel": {
+      "batting": {
+        "runs": 31,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 103.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Iftikhar Ahmed": {
+      "batting": {
+        "runs": 22,
+        "balls": 10,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 220.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imam-ul-Haq": {
+      "batting": {
+        "runs": 12,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Madushanka": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.333333333333334,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 2,
+        "economy": 6.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Theekshana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Pathirana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 90,
+        "wickets": 1,
+        "economy": 10.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DN Wellalage": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 0,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 344 in 50.0 overs at 6.88 RPO",
+    "vs Pakistan scored 345 in 48.2 overs at 7.19 RPO",
+    "Top batsman: Mohammad Rizwan with 131 runs",
+    "Top bowler: Hasan Ali with 4 wickets"
+  ]
+}

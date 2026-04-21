@@ -1,0 +1,6879 @@
+[
+  {
+    "match_id": "2003_final_australia_vs_india",
+    "year": 2003,
+    "date": "2003-03-23",
+    "teams": [
+      "Australia",
+      "India"
+    ],
+    "stage": "Final",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "winner": "Australia",
+    "margin": "125 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RT Ponting",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "India": "Sourav Ganguly"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_england",
+    "year": 2003,
+    "date": "2003-03-02",
+    "teams": [
+      "England",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "winner": "Australia",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Bichel",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Nasser Hussain",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_india",
+    "year": 2003,
+    "date": "2003-02-15",
+    "teams": [
+      "India",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "winner": "Australia",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JN Gillespie",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_namibia",
+    "year": 2003,
+    "date": "2003-02-27",
+    "teams": [
+      "Australia",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "North West Cricket Stadium, Potchefstroom",
+    "city": "Potchefstroom",
+    "winner": "Australia",
+    "margin": "256 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GD McGrath",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_netherlands",
+    "year": 2003,
+    "date": "2003-02-20",
+    "teams": [
+      "Australia",
+      "Netherlands"
+    ],
+    "stage": "Group A",
+    "venue": "Potchefstroom",
+    "city": "",
+    "winner": "Australia",
+    "margin": "75 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "AC Gilchrist",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Netherlands": "Roland Lefebvre"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_pakistan",
+    "year": 2003,
+    "date": "2003-02-11",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "winner": "Australia",
+    "margin": "82 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "A Symonds",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Pakistan": "Waqar Younis"
+    }
+  },
+  {
+    "match_id": "2003_group_a_australia_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-02-24",
+    "teams": [
+      "Zimbabwe",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "Queens Sports Club, Bulawayo",
+    "city": "Bulawayo",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AM Blignaut",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Zimbabwe": "Heath Streak",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2003_group_a_england_vs_india",
+    "year": 2003,
+    "date": "2003-02-26",
+    "teams": [
+      "India",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "winner": "India",
+    "margin": "82 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "A Nehra",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "England": "Nasser Hussain"
+    }
+  },
+  {
+    "match_id": "2003_group_a_england_vs_namibia",
+    "year": 2003,
+    "date": "2003-02-19",
+    "teams": [
+      "England",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "winner": "England",
+    "margin": "55 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Burger",
+    "toss_winner": "Namibia",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Nasser Hussain",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_england_vs_netherlands",
+    "year": 2003,
+    "date": "2003-02-16",
+    "teams": [
+      "Netherlands",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Buffalo Park, East London",
+    "city": "East London",
+    "winner": "England",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Anderson",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Roland Lefebvre",
+      "England": "Nasser Hussain"
+    }
+  },
+  {
+    "match_id": "2003_group_a_england_vs_pakistan",
+    "year": 2003,
+    "date": "2003-02-22",
+    "teams": [
+      "England",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "winner": "England",
+    "margin": "112 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Anderson",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Nasser Hussain",
+      "Pakistan": "Waqar Younis"
+    }
+  },
+  {
+    "match_id": "2003_group_a_england_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-02-13",
+    "teams": [
+      "England",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Harare Sports Club",
+    "city": "Harare",
+    "winner": "Zimbabwe",
+    "margin": "walkover",
+    "method": "walkover",
+    "result_type": "forfeit",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "England": "Nasser Hussain",
+      "Zimbabwe": "Heath Streak"
+    }
+  },
+  {
+    "match_id": "2003_group_a_india_vs_namibia",
+    "year": 2003,
+    "date": "2003-02-23",
+    "teams": [
+      "India",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "City Oval, Pietermaritzburg",
+    "city": "Pietermaritzburg",
+    "winner": "India",
+    "margin": "181 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Tendulkar",
+    "toss_winner": "Namibia",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_india_vs_netherlands",
+    "year": 2003,
+    "date": "2003-02-12",
+    "teams": [
+      "India",
+      "Netherlands"
+    ],
+    "stage": "Group A",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "winner": "India",
+    "margin": "68 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TBM de Leede",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Netherlands": "Roland Lefebvre"
+    }
+  },
+  {
+    "match_id": "2003_group_a_india_vs_pakistan",
+    "year": 2003,
+    "date": "2003-03-01",
+    "teams": [
+      "Pakistan",
+      "India"
+    ],
+    "stage": "Group A",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Tendulkar",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Waqar Younis",
+      "India": "Sourav Ganguly"
+    }
+  },
+  {
+    "match_id": "2003_group_a_india_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-02-19",
+    "teams": [
+      "India",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Harare Sports Club",
+    "city": "Harare",
+    "winner": "India",
+    "margin": "83 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Tendulkar",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Zimbabwe": "Heath Streak"
+    }
+  },
+  {
+    "match_id": "2003_group_a_namibia_vs_netherlands",
+    "year": 2003,
+    "date": "2003-03-03",
+    "teams": [
+      "Netherlands",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "winner": "Netherlands",
+    "margin": "64 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JF Kloppenburg",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "Netherlands": "Roland Lefebvre",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_namibia_vs_pakistan",
+    "year": 2003,
+    "date": "2003-02-16",
+    "teams": [
+      "Pakistan",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "De Beers Diamond Oval, Kimberley",
+    "city": "Kimberley",
+    "winner": "Pakistan",
+    "margin": "171 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Wasim Akram",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Waqar Younis",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_namibia_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-02-10",
+    "teams": [
+      "Zimbabwe",
+      "Namibia"
+    ],
+    "stage": "Group A",
+    "venue": "Harare Sports Club",
+    "city": "Harare",
+    "winner": "Zimbabwe",
+    "margin": "86 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "CB Wishart",
+    "toss_winner": "Namibia",
+    "toss_decision": "field",
+    "captains": {
+      "Zimbabwe": "Heath Streak",
+      "Namibia": "Deon Kotze"
+    }
+  },
+  {
+    "match_id": "2003_group_a_netherlands_vs_pakistan",
+    "year": 2003,
+    "date": "2003-02-25",
+    "teams": [
+      "Pakistan",
+      "Netherlands"
+    ],
+    "stage": "Group A",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "winner": "Pakistan",
+    "margin": "97 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Yousuf Youhana",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Waqar Younis",
+      "Netherlands": "Roland Lefebvre"
+    }
+  },
+  {
+    "match_id": "2003_group_a_netherlands_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-02-28",
+    "teams": [
+      "Zimbabwe",
+      "Netherlands"
+    ],
+    "stage": "Group A",
+    "venue": "Queens Sports Club, Bulawayo",
+    "city": "Bulawayo",
+    "winner": "Zimbabwe",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HH Streak",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Zimbabwe": "Heath Streak",
+      "Netherlands": "Roland Lefebvre"
+    }
+  },
+  {
+    "match_id": "2003_group_a_pakistan_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-03-04",
+    "teams": [
+      "Pakistan",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Queens Sports Club, Bulawayo",
+    "city": "Bulawayo",
+    "winner": "Pakistan",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Rashid Latif",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Waqar Younis",
+      "Zimbabwe": "Heath Streak"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_canada",
+    "year": 2003,
+    "date": "2003-02-11",
+    "teams": [
+      "Canada",
+      "Bangladesh"
+    ],
+    "stage": "Group B",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "winner": "Canada",
+    "margin": "60 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "A Codrington",
+    "toss_winner": "Canada",
+    "toss_decision": "bat",
+    "captains": {
+      "Canada": "Joe Harris",
+      "Bangladesh": "Khaled Mashud"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_kenya",
+    "year": 2003,
+    "date": "2003-03-01",
+    "teams": [
+      "Kenya",
+      "Bangladesh"
+    ],
+    "stage": "Group B",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "winner": "Kenya",
+    "margin": "32 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MO Odumbe",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "Bangladesh": "Khaled Mashud"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_new_zealand",
+    "year": 2003,
+    "date": "2003-02-26",
+    "teams": [
+      "Bangladesh",
+      "New Zealand"
+    ],
+    "stage": "Group B",
+    "venue": "De Beers Diamond Oval, Kimberley",
+    "city": "Kimberley",
+    "winner": "New Zealand",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CD McMillan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Khaled Mashud",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_south_africa",
+    "year": 2003,
+    "date": "2003-02-22",
+    "teams": [
+      "Bangladesh",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "winner": "South Africa",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "M Ntini",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Khaled Mashud",
+      "South Africa": "Shaun Pollock"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-02-14",
+    "teams": [
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Pietermaritzburg",
+    "city": "",
+    "winner": "Sri Lanka",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WPUJC Vaas",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Khaled Mashud",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_group_b_bangladesh_vs_west_indies",
+    "year": 2003,
+    "date": "2003-02-18",
+    "teams": [
+      "West Indies",
+      "Bangladesh"
+    ],
+    "stage": "Group B",
+    "venue": "Willowmoore Park, Benoni",
+    "city": "Benoni",
+    "winner": "West Indies",
+    "margin": "103 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CH Gayle",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Bangladesh": "Khaled Mashud"
+    }
+  },
+  {
+    "match_id": "2003_group_b_canada_vs_kenya",
+    "year": 2003,
+    "date": "2003-02-15",
+    "teams": [
+      "Canada",
+      "Kenya"
+    ],
+    "stage": "Group B",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "winner": "Kenya",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Odoyo",
+    "toss_winner": "Canada",
+    "toss_decision": "bat",
+    "captains": {
+      "Canada": "Joe Harris",
+      "Kenya": "Steve Tikolo"
+    }
+  },
+  {
+    "match_id": "2003_group_b_canada_vs_new_zealand",
+    "year": 2003,
+    "date": "2003-03-03",
+    "teams": [
+      "Canada",
+      "New Zealand"
+    ],
+    "stage": "Group B",
+    "venue": "Willowmoore Park, Benoni",
+    "city": "Benoni",
+    "winner": "New Zealand",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Davison",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "Joe Harris",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_group_b_canada_vs_south_africa",
+    "year": 2003,
+    "date": "2003-02-27",
+    "teams": [
+      "South Africa",
+      "Canada"
+    ],
+    "stage": "Group B",
+    "venue": "Buffalo Park, East London",
+    "city": "East London",
+    "winner": "South Africa",
+    "margin": "118 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HH Dippenaar",
+    "toss_winner": "Canada",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Shaun Pollock",
+      "Canada": "Joe Harris"
+    }
+  },
+  {
+    "match_id": "2003_group_b_canada_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-02-19",
+    "teams": [
+      "Canada",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "winner": "Sri Lanka",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RAP Nissanka",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "Joe Harris",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_group_b_canada_vs_west_indies",
+    "year": 2003,
+    "date": "2003-02-23",
+    "teams": [
+      "Canada",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "winner": "West Indies",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Davison",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "Joe Harris",
+      "West Indies": "Brian Lara"
+    }
+  },
+  {
+    "match_id": "2003_group_b_kenya_vs_new_zealand",
+    "year": 2003,
+    "date": "2003-02-21",
+    "teams": [
+      "Kenya",
+      "New Zealand"
+    ],
+    "stage": "Group B",
+    "venue": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "winner": "Kenya",
+    "margin": "walkover",
+    "method": "walkover",
+    "result_type": "forfeit",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_group_b_kenya_vs_south_africa",
+    "year": 2003,
+    "date": "2003-02-12",
+    "teams": [
+      "Kenya",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "North West Cricket Stadium, Potchefstroom",
+    "city": "Potchefstroom",
+    "winner": "South Africa",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "L Klusener",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "South Africa": "Shaun Pollock"
+    }
+  },
+  {
+    "match_id": "2003_group_b_kenya_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-02-24",
+    "teams": [
+      "Kenya",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Gymkhana Club Ground, Nairobi",
+    "city": "Nairobi",
+    "winner": "Kenya",
+    "margin": "53 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CO Obuya",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_group_b_kenya_vs_west_indies",
+    "year": 2003,
+    "date": "2003-03-04",
+    "teams": [
+      "Kenya",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Kimberley",
+    "city": "",
+    "winner": "West Indies",
+    "margin": "142 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CO Obuya",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "West Indies": "Brian Lara"
+    }
+  },
+  {
+    "match_id": "2003_group_b_new_zealand_vs_south_africa",
+    "year": 2003,
+    "date": "2003-02-16",
+    "teams": [
+      "South Africa",
+      "New Zealand"
+    ],
+    "stage": "Group B",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "SP Fleming",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "Shaun Pollock",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_group_b_new_zealand_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-02-10",
+    "teams": [
+      "Sri Lanka",
+      "New Zealand"
+    ],
+    "stage": "Group B",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "winner": "Sri Lanka",
+    "margin": "47 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "ST Jayasuriya",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Sri Lanka": "Sanath Jayasuriya",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_group_b_new_zealand_vs_west_indies",
+    "year": 2003,
+    "date": "2003-02-13",
+    "teams": [
+      "New Zealand",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "winner": "New Zealand",
+    "margin": "20 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AR Adams",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Stephen Fleming",
+      "West Indies": "Brian Lara"
+    }
+  },
+  {
+    "match_id": "2003_group_b_south_africa_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-03-03",
+    "teams": [
+      "Sri Lanka",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "winner": "South Africa",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MS Atapattu",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Sanath Jayasuriya",
+      "South Africa": "Shaun Pollock"
+    }
+  },
+  {
+    "match_id": "2003_group_b_south_africa_vs_west_indies",
+    "year": 2003,
+    "date": "2003-02-09",
+    "teams": [
+      "West Indies",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "winner": "West Indies",
+    "margin": "3 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BC Lara",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "South Africa": "Shaun Pollock"
+    }
+  },
+  {
+    "match_id": "2003_group_b_sri_lanka_vs_west_indies",
+    "year": 2003,
+    "date": "2003-02-28",
+    "teams": [
+      "Sri Lanka",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "winner": "Sri Lanka",
+    "margin": "6 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WPUJC Vaas",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Sanath Jayasuriya",
+      "West Indies": "Brian Lara"
+    }
+  },
+  {
+    "match_id": "2003_semi_final_australia_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-03-18",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Semi-Final",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "winner": "Australia",
+    "margin": "48 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "A Symonds",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_semi_final_india_vs_kenya",
+    "year": 2003,
+    "date": "2003-03-20",
+    "teams": [
+      "India",
+      "Kenya"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "winner": "India",
+    "margin": "91 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SC Ganguly",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Kenya": "Steve Tikolo"
+    }
+  },
+  {
+    "match_id": "2003_super_six_australia_vs_kenya",
+    "year": 2003,
+    "date": "2003-03-15",
+    "teams": [
+      "Kenya",
+      "Australia"
+    ],
+    "stage": "Super Six",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "winner": "Australia",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AY Karim",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2003_super_six_australia_vs_new_zealand",
+    "year": 2003,
+    "date": "2003-03-11",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Super Six",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "winner": "Australia",
+    "margin": "96 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SE Bond",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_super_six_australia_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-03-07",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Super Six",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "winner": "Australia",
+    "margin": "96 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RT Ponting",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_super_six_india_vs_kenya",
+    "year": 2003,
+    "date": "2003-03-07",
+    "teams": [
+      "Kenya",
+      "India"
+    ],
+    "stage": "Super Six",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SC Ganguly",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "India": "Sourav Ganguly"
+    }
+  },
+  {
+    "match_id": "2003_super_six_india_vs_new_zealand",
+    "year": 2003,
+    "date": "2003-03-14",
+    "teams": [
+      "New Zealand",
+      "India"
+    ],
+    "stage": "Super Six",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "winner": "India",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Z Khan",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Stephen Fleming",
+      "India": "Sourav Ganguly"
+    }
+  },
+  {
+    "match_id": "2003_super_six_india_vs_sri_lanka",
+    "year": 2003,
+    "date": "2003-03-10",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "stage": "Super Six",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "winner": "India",
+    "margin": "183 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "J Srinath",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Sourav Ganguly",
+      "Sri Lanka": "Sanath Jayasuriya"
+    }
+  },
+  {
+    "match_id": "2003_super_six_kenya_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-03-12",
+    "teams": [
+      "Zimbabwe",
+      "Kenya"
+    ],
+    "stage": "Super Six",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "winner": "Kenya",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MA Suji",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Zimbabwe": "Heath Streak",
+      "Kenya": "Steve Tikolo"
+    }
+  },
+  {
+    "match_id": "2003_super_six_new_zealand_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-03-08",
+    "teams": [
+      "Zimbabwe",
+      "New Zealand"
+    ],
+    "stage": "Super Six",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "winner": "New Zealand",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "NJ Astle",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Zimbabwe": "Heath Streak",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2003_super_six_sri_lanka_vs_zimbabwe",
+    "year": 2003,
+    "date": "2003-03-15",
+    "teams": [
+      "Sri Lanka",
+      "Zimbabwe"
+    ],
+    "stage": "Super Six",
+    "venue": "Buffalo Park, East London",
+    "city": "East London",
+    "winner": "Sri Lanka",
+    "margin": "74 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MS Atapattu",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Sanath Jayasuriya",
+      "Zimbabwe": "Heath Streak"
+    }
+  },
+  {
+    "match_id": "2007_final_australia_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-28",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Final",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "Australia",
+    "margin": "53 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "AC Gilchrist",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_group_a_australia_vs_netherlands",
+    "year": 2007,
+    "date": "2007-03-18",
+    "teams": [
+      "Australia",
+      "Netherlands"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "Australia",
+    "margin": "229 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BJ Hodge",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Netherlands": "Luuk van Troost"
+    }
+  },
+  {
+    "match_id": "2007_group_a_australia_vs_scotland",
+    "year": 2007,
+    "date": "2007-03-14",
+    "teams": [
+      "Australia",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "Australia",
+    "margin": "203 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RT Ponting",
+    "toss_winner": "Scotland",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Scotland": "Craig Wright"
+    }
+  },
+  {
+    "match_id": "2007_group_a_australia_vs_south_africa",
+    "year": 2007,
+    "date": "2007-03-24",
+    "teams": [
+      "Australia",
+      "South Africa"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "Australia",
+    "margin": "83 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "ML Hayden",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_group_a_netherlands_vs_scotland",
+    "year": 2007,
+    "date": "2007-03-22",
+    "teams": [
+      "Netherlands",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "Netherlands",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WF Stelling",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Luuk van Troost",
+      "Scotland": "Craig Wright"
+    }
+  },
+  {
+    "match_id": "2007_group_a_netherlands_vs_south_africa",
+    "year": 2007,
+    "date": "2007-03-16",
+    "teams": [
+      "Netherlands",
+      "South Africa"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "South Africa",
+    "margin": "221 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HH Gibbs",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Luuk van Troost",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_group_a_scotland_vs_south_africa",
+    "year": 2007,
+    "date": "2007-03-20",
+    "teams": [
+      "Scotland",
+      "South Africa"
+    ],
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "winner": "South Africa",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GC Smith",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Scotland": "Craig Wright",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_group_b_bangladesh_vs_bermuda",
+    "year": 2007,
+    "date": "2007-03-25",
+    "teams": [
+      "Bangladesh",
+      "Bermuda"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "Bangladesh",
+    "margin": "7 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "Mohammad Ashraful",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "Bermuda": "Irving Romaine"
+    }
+  },
+  {
+    "match_id": "2007_group_b_bangladesh_vs_india",
+    "year": 2007,
+    "date": "2007-03-17",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "Bangladesh",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mashrafe Mortaza",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "India": "Rahul Dravid"
+    }
+  },
+  {
+    "match_id": "2007_group_b_bangladesh_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-03-21",
+    "teams": [
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "Sri Lanka",
+    "margin": "198 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "ST Jayasuriya",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_group_b_bermuda_vs_india",
+    "year": 2007,
+    "date": "2007-03-19",
+    "teams": [
+      "Bermuda",
+      "India"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "India",
+    "margin": "257 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Sehwag",
+    "toss_winner": "Bermuda",
+    "toss_decision": "field",
+    "captains": {
+      "Bermuda": "Irving Romaine",
+      "India": "Rahul Dravid"
+    }
+  },
+  {
+    "match_id": "2007_group_b_bermuda_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-03-15",
+    "teams": [
+      "Bermuda",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "Sri Lanka",
+    "margin": "243 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DPMD Jayawardene",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Bermuda": "Irving Romaine",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_group_b_india_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-03-23",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "winner": "Sri Lanka",
+    "margin": "69 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "M Muralitharan",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Rahul Dravid",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_group_c_canada_vs_england",
+    "year": 2007,
+    "date": "2007-03-18",
+    "teams": [
+      "Canada",
+      "England"
+    ],
+    "stage": "Group C",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "England",
+    "margin": "51 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PD Collingwood",
+    "toss_winner": "Canada",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "John Davison",
+      "England": "Michael Vaughan"
+    }
+  },
+  {
+    "match_id": "2007_group_c_canada_vs_kenya",
+    "year": 2007,
+    "date": "2007-03-14",
+    "teams": [
+      "Canada",
+      "Kenya"
+    ],
+    "stage": "Group C",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "city": "St Kitts",
+    "winner": "Kenya",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SO Tikolo",
+    "toss_winner": "Kenya",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "John Davison",
+      "Kenya": "Steve Tikolo"
+    }
+  },
+  {
+    "match_id": "2007_group_c_canada_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-03-22",
+    "teams": [
+      "Canada",
+      "New Zealand"
+    ],
+    "stage": "Group C",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "New Zealand",
+    "margin": "114 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "L Vincent",
+    "toss_winner": "Canada",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "John Davison",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_group_c_england_vs_kenya",
+    "year": 2007,
+    "date": "2007-03-24",
+    "teams": [
+      "England",
+      "Kenya"
+    ],
+    "stage": "Group C",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "England",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "EC Joyce",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Michael Vaughan",
+      "Kenya": "Steve Tikolo"
+    }
+  },
+  {
+    "match_id": "2007_group_c_england_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-03-16",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "stage": "Group C",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "New Zealand",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SB Styris",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Michael Vaughan",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_group_c_kenya_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-03-20",
+    "teams": [
+      "Kenya",
+      "New Zealand"
+    ],
+    "stage": "Group C",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "New Zealand",
+    "margin": "148 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "LRPL Taylor",
+    "toss_winner": "Kenya",
+    "toss_decision": "field",
+    "captains": {
+      "Kenya": "Steve Tikolo",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_group_d_ireland_vs_pakistan",
+    "year": 2007,
+    "date": "2007-03-17",
+    "teams": [
+      "Ireland",
+      "Pakistan"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "Ireland",
+    "margin": "3 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "NJ O'Brien",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "Trent Johnston",
+      "Pakistan": "Inzamam-ul-Haq"
+    }
+  },
+  {
+    "match_id": "2007_group_d_ireland_vs_west_indies",
+    "year": 2007,
+    "date": "2007-03-23",
+    "teams": [
+      "West Indies",
+      "Ireland"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "West Indies",
+    "margin": "8 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "S Chanderpaul",
+    "toss_winner": "Ireland",
+    "toss_decision": "bat",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Ireland": "Trent Johnston"
+    }
+  },
+  {
+    "match_id": "2007_group_d_ireland_vs_zimbabwe",
+    "year": 2007,
+    "date": "2007-03-15",
+    "teams": [
+      "Ireland",
+      "Zimbabwe"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "Zimbabwe",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JP Bray",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "Trent Johnston",
+      "Zimbabwe": "Prosper Utseya"
+    }
+  },
+  {
+    "match_id": "2007_group_d_pakistan_vs_west_indies",
+    "year": 2007,
+    "date": "2007-03-13",
+    "teams": [
+      "West Indies",
+      "Pakistan"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "West Indies",
+    "margin": "54 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DR Smith",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Pakistan": "Inzamam-ul-Haq"
+    }
+  },
+  {
+    "match_id": "2007_group_d_pakistan_vs_zimbabwe",
+    "year": 2007,
+    "date": "2007-03-21",
+    "teams": [
+      "Pakistan",
+      "Zimbabwe"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "Pakistan",
+    "margin": "93 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "Imran Nazir",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Inzamam-ul-Haq",
+      "Zimbabwe": "Prosper Utseya"
+    }
+  },
+  {
+    "match_id": "2007_group_d_west_indies_vs_zimbabwe",
+    "year": 2007,
+    "date": "2007-03-19",
+    "teams": [
+      "West Indies",
+      "Zimbabwe"
+    ],
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "West Indies",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SC Williams",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Zimbabwe": "Prosper Utseya"
+    }
+  },
+  {
+    "match_id": "2007_semi_final_australia_vs_south_africa",
+    "year": 2007,
+    "date": "2007-04-25",
+    "teams": [
+      "Australia",
+      "South Africa"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Beausejour Stadium, Gros Islet",
+    "city": "St Lucia",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GD McGrath",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_semi_final_new_zealand_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-24",
+    "teams": [
+      "New Zealand",
+      "Sri Lanka"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "winner": "Sri Lanka",
+    "margin": "81 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DPMD Jayawardene",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Stephen Fleming",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_bangladesh",
+    "year": 2007,
+    "date": "2007-03-31",
+    "teams": [
+      "Australia",
+      "Bangladesh"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "Australia",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GD McGrath",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Bangladesh": "Habibul Bashar"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_england",
+    "year": 2007,
+    "date": "2007-04-08",
+    "teams": [
+      "Australia",
+      "England"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SW Tait",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "England": "Michael Vaughan"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_ireland",
+    "year": 2007,
+    "date": "2007-04-13",
+    "teams": [
+      "Australia",
+      "Ireland"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "Australia",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GD McGrath",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Ireland": "Trent Johnston"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-04-20",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "Australia",
+    "margin": "215 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "ML Hayden",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-16",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "NW Bracken",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_australia_vs_west_indies",
+    "year": 2007,
+    "date": "2007-03-27",
+    "teams": [
+      "West Indies",
+      "Australia"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "Australia",
+    "margin": "103 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "ML Hayden",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_bangladesh_vs_england",
+    "year": 2007,
+    "date": "2007-04-11",
+    "teams": [
+      "Bangladesh",
+      "England"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "England",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SI Mahmood",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "England": "Michael Vaughan"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_bangladesh_vs_ireland",
+    "year": 2007,
+    "date": "2007-04-15",
+    "teams": [
+      "Bangladesh",
+      "Ireland"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "Ireland",
+    "margin": "74 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WTS Porterfield",
+    "toss_winner": "Ireland",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "Ireland": "Trent Johnston"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_bangladesh_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-04-02",
+    "teams": [
+      "Bangladesh",
+      "New Zealand"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SE Bond",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_bangladesh_vs_south_africa",
+    "year": 2007,
+    "date": "2007-04-07",
+    "teams": [
+      "Bangladesh",
+      "South Africa"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "Bangladesh",
+    "margin": "67 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammad Ashraful",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Habibul Bashar",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_bangladesh_vs_west_indies",
+    "year": 2007,
+    "date": "2007-04-19",
+    "teams": [
+      "West Indies",
+      "Bangladesh"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "West Indies",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RR Sarwan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Bangladesh": "Habibul Bashar"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_england_vs_ireland",
+    "year": 2007,
+    "date": "2007-03-30",
+    "teams": [
+      "England",
+      "Ireland"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "England",
+    "margin": "48 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PD Collingwood",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Michael Vaughan",
+      "Ireland": "Trent Johnston"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_england_vs_south_africa",
+    "year": 2007,
+    "date": "2007-04-17",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Hall",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Michael Vaughan",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_england_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-04",
+    "teams": [
+      "England",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "Sri Lanka",
+    "margin": "2 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RS Bopara",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Michael Vaughan",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_england_vs_west_indies",
+    "year": 2007,
+    "date": "2007-04-21",
+    "teams": [
+      "West Indies",
+      "England"
+    ],
+    "stage": "Super Eight",
+    "venue": "Kensington Oval, Bridgetown",
+    "city": "Barbados",
+    "winner": "England",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KP Pietersen",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "England": "Michael Vaughan"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_ireland_vs_new_zealand",
+    "year": 2007,
+    "date": "2007-04-09",
+    "teams": [
+      "Ireland",
+      "New Zealand"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "New Zealand",
+    "margin": "129 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PG Fulton",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "Ireland": "Trent Johnston",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_ireland_vs_south_africa",
+    "year": 2007,
+    "date": "2007-04-03",
+    "teams": [
+      "Ireland",
+      "South Africa"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "South Africa",
+    "margin": "7 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "JH Kallis",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "Trent Johnston",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_ireland_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-18",
+    "teams": [
+      "Ireland",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "Sri Lanka",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MF Maharoof",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "Trent Johnston",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_new_zealand_vs_south_africa",
+    "year": 2007,
+    "date": "2007-04-14",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "New Zealand",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CD McMillan",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Stephen Fleming",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_new_zealand_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-04-12",
+    "teams": [
+      "New Zealand",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "Sri Lanka",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WPUJC Vaas",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Stephen Fleming",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_new_zealand_vs_west_indies",
+    "year": 2007,
+    "date": "2007-03-29",
+    "teams": [
+      "West Indies",
+      "New Zealand"
+    ],
+    "stage": "Super Eight",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "city": "Antigua",
+    "winner": "New Zealand",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JDP Oram",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "New Zealand": "Stephen Fleming"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_south_africa_vs_sri_lanka",
+    "year": 2007,
+    "date": "2007-03-28",
+    "teams": [
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "South Africa",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CK Langeveldt",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "Graeme Smith",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_south_africa_vs_west_indies",
+    "year": 2007,
+    "date": "2007-04-10",
+    "teams": [
+      "West Indies",
+      "South Africa"
+    ],
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "winner": "South Africa",
+    "margin": "67 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AB de Villiers",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2007_super_eight_sri_lanka_vs_west_indies",
+    "year": 2007,
+    "date": "2007-04-01",
+    "teams": [
+      "West Indies",
+      "Sri Lanka"
+    ],
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "winner": "Sri Lanka",
+    "margin": "113 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "ST Jayasuriya",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "West Indies": "Brian Lara",
+      "Sri Lanka": "Mahela Jayawardene"
+    }
+  },
+  {
+    "match_id": "2011_final_india_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-04-02",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "stage": "Final",
+    "venue": "Wankhede Stadium",
+    "city": "Mumbai",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MS Dhoni",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Sri Lanka": "Kumar Sangakkara"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_canada",
+    "year": 2011,
+    "date": "2011-03-16",
+    "teams": [
+      "Australia",
+      "Canada"
+    ],
+    "stage": "Group A",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Watson",
+    "toss_winner": "Canada",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Canada": "Ashish Bagai"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_kenya",
+    "year": 2011,
+    "date": "2011-03-13",
+    "teams": [
+      "Australia",
+      "Kenya"
+    ],
+    "stage": "Group A",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "winner": "Australia",
+    "margin": "60 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CO Obuya",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Kenya": "Jimmy Kamande"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_new_zealand",
+    "year": 2011,
+    "date": "2011-02-25",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Group A",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MG Johnson",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "New Zealand": "Daniel Vettori"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_pakistan",
+    "year": 2011,
+    "date": "2011-03-19",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Pakistan",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Umar Akmal",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-03-05",
+    "teams": [
+      "Sri Lanka",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Sri Lanka",
+    "margin": "112 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Dilshan",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2011_group_a_australia_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-02-21",
+    "teams": [
+      "Australia",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Sardar Patel Stadium, Motera",
+    "city": "Ahmedabad",
+    "winner": "Australia",
+    "margin": "91 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Watson",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Ricky Ponting",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_a_canada_vs_kenya",
+    "year": 2011,
+    "date": "2011-03-07",
+    "teams": [
+      "Canada",
+      "Kenya"
+    ],
+    "stage": "Group A",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "winner": "Canada",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "H Osinde",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Canada": "Ashish Bagai",
+      "Kenya": "Jimmy Kamande"
+    }
+  },
+  {
+    "match_id": "2011_group_a_canada_vs_new_zealand",
+    "year": 2011,
+    "date": "2011-03-13",
+    "teams": [
+      "Canada",
+      "New Zealand"
+    ],
+    "stage": "Group A",
+    "venue": "Wankhede Stadium",
+    "city": "Mumbai",
+    "winner": "New Zealand",
+    "margin": "97 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BB McCullum",
+    "toss_winner": "Canada",
+    "toss_decision": "field",
+    "captains": {
+      "Canada": "Ashish Bagai",
+      "New Zealand": "Daniel Vettori"
+    }
+  },
+  {
+    "match_id": "2011_group_a_canada_vs_pakistan",
+    "year": 2011,
+    "date": "2011-03-03",
+    "teams": [
+      "Canada",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Pakistan",
+    "margin": "46 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shahid Afridi",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Canada": "Ashish Bagai",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_group_a_canada_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-02-20",
+    "teams": [
+      "Sri Lanka",
+      "Canada"
+    ],
+    "stage": "Group A",
+    "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+    "city": "Hambantota",
+    "winner": "Sri Lanka",
+    "margin": "210 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DPMD Jayawardene",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "Canada": "Ashish Bagai"
+    }
+  },
+  {
+    "match_id": "2011_group_a_canada_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-02-28",
+    "teams": [
+      "Canada",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "winner": "Zimbabwe",
+    "margin": "175 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "T Taibu",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Canada": "Ashish Bagai",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_a_kenya_vs_new_zealand",
+    "year": 2011,
+    "date": "2011-02-20",
+    "teams": [
+      "Kenya",
+      "New Zealand"
+    ],
+    "stage": "Group A",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "winner": "New Zealand",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HK Bennett",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Jimmy Kamande",
+      "New Zealand": "Daniel Vettori"
+    }
+  },
+  {
+    "match_id": "2011_group_a_kenya_vs_pakistan",
+    "year": 2011,
+    "date": "2011-02-23",
+    "teams": [
+      "Kenya",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+    "city": "Hambantota",
+    "winner": "Pakistan",
+    "margin": "205 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Umar Akmal",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Jimmy Kamande",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_group_a_kenya_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-03-01",
+    "teams": [
+      "Sri Lanka",
+      "Kenya"
+    ],
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Sri Lanka",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SL Malinga",
+    "toss_winner": "Kenya",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "Kenya": "Jimmy Kamande"
+    }
+  },
+  {
+    "match_id": "2011_group_a_kenya_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-03-20",
+    "teams": [
+      "Kenya",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Eden Gardens",
+    "city": "Kolkata",
+    "winner": "Zimbabwe",
+    "margin": "161 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CR Ervine",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Kenya": "Jimmy Kamande",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_a_new_zealand_vs_pakistan",
+    "year": 2011,
+    "date": "2011-03-08",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "Pallekele International Cricket Stadium",
+    "city": "",
+    "winner": "New Zealand",
+    "margin": "110 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "LRPL Taylor",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Daniel Vettori",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_group_a_new_zealand_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-03-18",
+    "teams": [
+      "New Zealand",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Wankhede Stadium",
+    "city": "Mumbai",
+    "winner": "Sri Lanka",
+    "margin": "112 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KC Sangakkara",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Daniel Vettori",
+      "Sri Lanka": "Kumar Sangakkara"
+    }
+  },
+  {
+    "match_id": "2011_group_a_new_zealand_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-03-04",
+    "teams": [
+      "New Zealand",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Sardar Patel Stadium, Motera",
+    "city": "Ahmedabad",
+    "winner": "New Zealand",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Guptill",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Daniel Vettori",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_a_pakistan_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-02-26",
+    "teams": [
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Pakistan",
+    "margin": "11 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shahid Afridi",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_group_a_pakistan_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-03-14",
+    "teams": [
+      "Pakistan",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Pallekele International Cricket Stadium",
+    "city": "",
+    "winner": "Pakistan",
+    "margin": "7 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "Umar Gul",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Shahid Afridi",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_a_sri_lanka_vs_zimbabwe",
+    "year": 2011,
+    "date": "2011-03-10",
+    "teams": [
+      "Sri Lanka",
+      "Zimbabwe"
+    ],
+    "stage": "Group A",
+    "venue": "Pallekele International Cricket Stadium",
+    "city": "",
+    "winner": "Sri Lanka",
+    "margin": "139 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Dilshan",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_england",
+    "year": 2011,
+    "date": "2011-03-11",
+    "teams": [
+      "Bangladesh",
+      "England"
+    ],
+    "stage": "Group B",
+    "venue": "Zahur Ahmed Chowdhury Stadium",
+    "city": "Chittagong",
+    "winner": "Bangladesh",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Imrul Kayes",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "England": "Andrew Strauss"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_india",
+    "year": 2011,
+    "date": "2011-02-19",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "India",
+    "margin": "87 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Sehwag",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "India": "MS Dhoni"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_ireland",
+    "year": 2011,
+    "date": "2011-02-25",
+    "teams": [
+      "Bangladesh",
+      "Ireland"
+    ],
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "Bangladesh",
+    "margin": "27 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Tamim Iqbal",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "Ireland": "William Porterfield"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_netherlands",
+    "year": 2011,
+    "date": "2011-03-14",
+    "teams": [
+      "Bangladesh",
+      "Netherlands"
+    ],
+    "stage": "Group B",
+    "venue": "Zahur Ahmed Chowdhury Stadium",
+    "city": "Chittagong",
+    "winner": "Bangladesh",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Imrul Kayes",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "Netherlands": "Peter Borren"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-19",
+    "teams": [
+      "Bangladesh",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "South Africa",
+    "margin": "206 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "LL Tsotsobe",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_group_b_bangladesh_vs_west_indies",
+    "year": 2011,
+    "date": "2011-03-04",
+    "teams": [
+      "Bangladesh",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "West Indies",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KAJ Roach",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_group_b_england_vs_india",
+    "year": 2011,
+    "date": "2011-02-27",
+    "teams": [
+      "India",
+      "England"
+    ],
+    "stage": "Group B",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "winner": "India",
+    "margin": "6 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Strauss",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "England": "Andrew Strauss"
+    }
+  },
+  {
+    "match_id": "2011_group_b_england_vs_ireland",
+    "year": 2011,
+    "date": "2011-03-02",
+    "teams": [
+      "England",
+      "Ireland"
+    ],
+    "stage": "Group B",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "winner": "Ireland",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KJ O'Brien",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Andrew Strauss",
+      "Ireland": "William Porterfield"
+    }
+  },
+  {
+    "match_id": "2011_group_b_england_vs_netherlands",
+    "year": 2011,
+    "date": "2011-02-22",
+    "teams": [
+      "England",
+      "Netherlands"
+    ],
+    "stage": "Group B",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "winner": "England",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RN ten Doeschate",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Andrew Strauss",
+      "Netherlands": "Peter Borren"
+    }
+  },
+  {
+    "match_id": "2011_group_b_england_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-06",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "winner": "England",
+    "margin": "6 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RS Bopara",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Andrew Strauss",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_group_b_england_vs_west_indies",
+    "year": 2011,
+    "date": "2011-03-17",
+    "teams": [
+      "England",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "winner": "England",
+    "margin": "18 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JC Tredwell",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Andrew Strauss",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_group_b_india_vs_ireland",
+    "year": 2011,
+    "date": "2011-03-06",
+    "teams": [
+      "India",
+      "Ireland"
+    ],
+    "stage": "Group B",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "winner": "India",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Yuvraj Singh",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "India": "MS Dhoni",
+      "Ireland": "William Porterfield"
+    }
+  },
+  {
+    "match_id": "2011_group_b_india_vs_netherlands",
+    "year": 2011,
+    "date": "2011-03-09",
+    "teams": [
+      "India",
+      "Netherlands"
+    ],
+    "stage": "Group B",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "winner": "India",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Yuvraj Singh",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Netherlands": "Peter Borren"
+    }
+  },
+  {
+    "match_id": "2011_group_b_india_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-12",
+    "teams": [
+      "India",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "winner": "South Africa",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DW Steyn",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_group_b_india_vs_west_indies",
+    "year": 2011,
+    "date": "2011-03-20",
+    "teams": [
+      "India",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "winner": "India",
+    "margin": "80 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Yuvraj Singh",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_group_b_ireland_vs_netherlands",
+    "year": 2011,
+    "date": "2011-03-18",
+    "teams": [
+      "Ireland",
+      "Netherlands"
+    ],
+    "stage": "Group B",
+    "venue": "Eden Gardens",
+    "city": "Kolkata",
+    "winner": "Ireland",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PR Stirling",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "Netherlands": "Peter Borren"
+    }
+  },
+  {
+    "match_id": "2011_group_b_ireland_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-15",
+    "teams": [
+      "Ireland",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Eden Gardens",
+    "city": "Kolkata",
+    "winner": "South Africa",
+    "margin": "131 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JP Duminy",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_group_b_ireland_vs_west_indies",
+    "year": 2011,
+    "date": "2011-03-11",
+    "teams": [
+      "Ireland",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "city": "Chandigarh",
+    "winner": "West Indies",
+    "margin": "44 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KA Pollard",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_group_b_netherlands_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-03",
+    "teams": [
+      "Netherlands",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "city": "Chandigarh",
+    "winner": "South Africa",
+    "margin": "231 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AB de Villiers",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Peter Borren",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_group_b_netherlands_vs_west_indies",
+    "year": 2011,
+    "date": "2011-02-28",
+    "teams": [
+      "Netherlands",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "winner": "West Indies",
+    "margin": "215 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KAJ Roach",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Peter Borren",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_group_b_south_africa_vs_west_indies",
+    "year": 2011,
+    "date": "2011-02-24",
+    "teams": [
+      "South Africa",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "winner": "South Africa",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AB de Villiers",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Graeme Smith",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_quarter_final_australia_vs_india",
+    "year": 2011,
+    "date": "2011-03-24",
+    "teams": [
+      "India",
+      "Australia"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Sardar Patel Stadium, Motera",
+    "city": "Ahmedabad",
+    "winner": "India",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Yuvraj Singh",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Australia": "Ricky Ponting"
+    }
+  },
+  {
+    "match_id": "2011_quarter_final_england_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-03-26",
+    "teams": [
+      "Sri Lanka",
+      "England"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Sri Lanka",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Dilshan",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "England": "Andrew Strauss"
+    }
+  },
+  {
+    "match_id": "2011_quarter_final_new_zealand_vs_south_africa",
+    "year": 2011,
+    "date": "2011-03-25",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "New Zealand",
+    "margin": "49 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JDP Oram",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Daniel Vettori",
+      "South Africa": "Graeme Smith"
+    }
+  },
+  {
+    "match_id": "2011_quarter_final_pakistan_vs_west_indies",
+    "year": 2011,
+    "date": "2011-03-23",
+    "teams": [
+      "Pakistan",
+      "West Indies"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "winner": "Pakistan",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammad Hafeez",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Shahid Afridi",
+      "West Indies": "Darren Sammy"
+    }
+  },
+  {
+    "match_id": "2011_semi_final_india_vs_pakistan",
+    "year": 2011,
+    "date": "2011-03-30",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "city": "Chandigarh",
+    "winner": "India",
+    "margin": "29 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SR Tendulkar",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Pakistan": "Shahid Afridi"
+    }
+  },
+  {
+    "match_id": "2011_semi_final_new_zealand_vs_sri_lanka",
+    "year": 2011,
+    "date": "2011-03-29",
+    "teams": [
+      "Sri Lanka",
+      "New Zealand"
+    ],
+    "stage": "Semi-Final",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "winner": "Sri Lanka",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KC Sangakkara",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kumar Sangakkara",
+      "New Zealand": "Daniel Vettori"
+    }
+  },
+  {
+    "match_id": "2015_final_australia_vs_new_zealand",
+    "year": 2015,
+    "date": "2015-03-29",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Final",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JP Faulkner",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "New Zealand": "Brendon McCullum"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_australia",
+    "year": 2015,
+    "date": "2015-03-04",
+    "teams": [
+      "Afghanistan",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "WACA Ground, Perth",
+    "city": "Perth",
+    "winner": "Australia",
+    "margin": "275 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Warner",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "Australia": "Michael Clarke"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_bangladesh",
+    "year": 2015,
+    "date": "2015-02-18",
+    "teams": [
+      "Afghanistan",
+      "Bangladesh"
+    ],
+    "stage": "Group A",
+    "venue": "Manuka Oval, Canberra",
+    "city": "Canberra",
+    "winner": "Bangladesh",
+    "margin": "105 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mushfiqur Rahim",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_england",
+    "year": 2015,
+    "date": "2015-03-13",
+    "teams": [
+      "Afghanistan",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Sydney Cricket Ground, Sydney",
+    "city": "Sydney",
+    "winner": "England",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Root",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_new_zealand",
+    "year": 2015,
+    "date": "2015-03-08",
+    "teams": [
+      "Afghanistan",
+      "New Zealand"
+    ],
+    "stage": "Group A",
+    "venue": "McLean Park, Napier",
+    "city": "Napier",
+    "winner": "New Zealand",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DL Vettori",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "New Zealand": "Brendon McCullum"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_scotland",
+    "year": 2015,
+    "date": "2015-02-26",
+    "teams": [
+      "Afghanistan",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "University Oval, Dunedin",
+    "city": "Dunedin",
+    "winner": "Afghanistan",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Samiullah Shenwari",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "Scotland": "Preston Mommsen"
+    }
+  },
+  {
+    "match_id": "2015_group_a_afghanistan_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-02-22",
+    "teams": [
+      "Afghanistan",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "University Oval, Dunedin",
+    "city": "Dunedin",
+    "winner": "Sri Lanka",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HMRKB Herath",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Mohammad Nabi",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_a_australia_vs_bangladesh",
+    "year": 2015,
+    "date": "2015-02-21",
+    "teams": [
+      "Australia",
+      "Bangladesh"
+    ],
+    "stage": "Group A",
+    "venue": "The Gabba, Brisbane",
+    "city": "Brisbane",
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2015_group_a_australia_vs_england",
+    "year": 2015,
+    "date": "2015-02-14",
+    "teams": [
+      "Australia",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "winner": "Australia",
+    "margin": "111 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Finch",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2015_group_a_australia_vs_new_zealand",
+    "year": 2015,
+    "date": "2015-02-28",
+    "teams": [
+      "New Zealand",
+      "Australia"
+    ],
+    "stage": "Group A",
+    "venue": "Eden Park",
+    "city": "Auckland",
+    "winner": "New Zealand",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TA Boult",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "Australia": "Michael Clarke"
+    }
+  },
+  {
+    "match_id": "2015_group_a_australia_vs_scotland",
+    "year": 2015,
+    "date": "2015-03-14",
+    "teams": [
+      "Australia",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "Bellerive Oval",
+    "city": "Hobart",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MA Starc",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "Scotland": "Preston Mommsen"
+    }
+  },
+  {
+    "match_id": "2015_group_a_australia_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-03-08",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Sydney Cricket Ground",
+    "city": "",
+    "winner": "Australia",
+    "margin": "64 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GJ Maxwell",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_a_bangladesh_vs_england",
+    "year": 2015,
+    "date": "2015-03-09",
+    "teams": [
+      "Bangladesh",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "winner": "Bangladesh",
+    "margin": "15 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mahmudullah",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2015_group_a_bangladesh_vs_new_zealand",
+    "year": 2015,
+    "date": "2015-03-13",
+    "teams": [
+      "New Zealand",
+      "Bangladesh"
+    ],
+    "stage": "Group A",
+    "venue": "Seddon Park",
+    "city": "Hamilton",
+    "winner": "New Zealand",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Guptill",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2015_group_a_bangladesh_vs_scotland",
+    "year": 2015,
+    "date": "2015-03-05",
+    "teams": [
+      "Bangladesh",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "Saxton Oval",
+    "city": "Nelson",
+    "winner": "Bangladesh",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KJ Coetzer",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "Scotland": "Preston Mommsen"
+    }
+  },
+  {
+    "match_id": "2015_group_a_bangladesh_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-02-26",
+    "teams": [
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "winner": "Sri Lanka",
+    "margin": "92 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Dilshan",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_a_england_vs_new_zealand",
+    "year": 2015,
+    "date": "2015-02-20",
+    "teams": [
+      "New Zealand",
+      "England"
+    ],
+    "stage": "Group A",
+    "venue": "Westpac Stadium",
+    "city": "Wellington",
+    "winner": "New Zealand",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TG Southee",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2015_group_a_england_vs_scotland",
+    "year": 2015,
+    "date": "2015-02-23",
+    "teams": [
+      "England",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "Hagley Oval",
+    "city": "Christchurch",
+    "winner": "England",
+    "margin": "119 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MM Ali",
+    "toss_winner": "Scotland",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Scotland": "Preston Mommsen"
+    }
+  },
+  {
+    "match_id": "2015_group_a_england_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-03-01",
+    "teams": [
+      "England",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Westpac Stadium",
+    "city": "Wellington",
+    "winner": "Sri Lanka",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KC Sangakkara",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_a_new_zealand_vs_scotland",
+    "year": 2015,
+    "date": "2015-02-17",
+    "teams": [
+      "New Zealand",
+      "Scotland"
+    ],
+    "stage": "Group A",
+    "venue": "University Oval",
+    "city": "Dunedin",
+    "winner": "New Zealand",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TA Boult",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "Scotland": "Preston Mommsen"
+    }
+  },
+  {
+    "match_id": "2015_group_a_new_zealand_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-02-14",
+    "teams": [
+      "New Zealand",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Hagley Oval",
+    "city": "Christchurch",
+    "winner": "New Zealand",
+    "margin": "98 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CJ Anderson",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_a_scotland_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-03-11",
+    "teams": [
+      "Scotland",
+      "Sri Lanka"
+    ],
+    "stage": "Group A",
+    "venue": "Bellerive Oval",
+    "city": "Hobart",
+    "winner": "Sri Lanka",
+    "margin": "148 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KC Sangakkara",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Scotland": "Preston Mommsen",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_ireland",
+    "year": 2015,
+    "date": "2015-03-10",
+    "teams": [
+      "India",
+      "Ireland"
+    ],
+    "stage": "Group B",
+    "venue": "Seddon Park",
+    "city": "Hamilton",
+    "winner": "India",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "S Dhawan",
+    "toss_winner": "Ireland",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Ireland": "William Porterfield"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_pakistan",
+    "year": 2015,
+    "date": "2015-02-15",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "stage": "Group B",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "winner": "India",
+    "margin": "76 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Kohli",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "Pakistan": "Misbah-ul-Haq"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_south_africa",
+    "year": 2015,
+    "date": "2015-02-22",
+    "teams": [
+      "India",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "winner": "India",
+    "margin": "130 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "S Dhawan",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "South Africa": "AB de Villiers"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_united_arab_emirates",
+    "year": 2015,
+    "date": "2015-02-28",
+    "teams": [
+      "India",
+      "United Arab Emirates"
+    ],
+    "stage": "Group B",
+    "venue": "Western Australia Cricket Association Ground",
+    "city": "Perth",
+    "winner": "India",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "R Ashwin",
+    "toss_winner": "United Arab Emirates",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "United Arab Emirates": "Mohammad Tauqir"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_west_indies",
+    "year": 2015,
+    "date": "2015-03-06",
+    "teams": [
+      "India",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Western Australia Cricket Association Ground",
+    "city": "Perth",
+    "winner": "India",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "MS Dhoni",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_group_b_india_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-03-14",
+    "teams": [
+      "India",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Eden Park",
+    "city": "Auckland",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SK Raina",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "India": "MS Dhoni",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_group_b_ireland_vs_pakistan",
+    "year": 2015,
+    "date": "2015-03-15",
+    "teams": [
+      "Ireland",
+      "Pakistan"
+    ],
+    "stage": "Group B",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "winner": "Pakistan",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Sarfraz Ahmed",
+    "toss_winner": "Ireland",
+    "toss_decision": "bat",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "Pakistan": "Misbah-ul-Haq"
+    }
+  },
+  {
+    "match_id": "2015_group_b_ireland_vs_south_africa",
+    "year": 2015,
+    "date": "2015-03-03",
+    "teams": [
+      "Ireland",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Manuka Oval",
+    "city": "Canberra",
+    "winner": "South Africa",
+    "margin": "201 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HM Amla",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "South Africa": "AB de Villiers"
+    }
+  },
+  {
+    "match_id": "2015_group_b_ireland_vs_united_arab_emirates",
+    "year": 2015,
+    "date": "2015-02-25",
+    "teams": [
+      "Ireland",
+      "United Arab Emirates"
+    ],
+    "stage": "Group B",
+    "venue": "Brisbane Cricket Ground, Woolloongabba",
+    "city": "Brisbane",
+    "winner": "Ireland",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GC Wilson",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "United Arab Emirates": "Mohammad Tauqir"
+    }
+  },
+  {
+    "match_id": "2015_group_b_ireland_vs_west_indies",
+    "year": 2015,
+    "date": "2015-02-16",
+    "teams": [
+      "Ireland",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Saxton Oval",
+    "city": "Nelson",
+    "winner": "Ireland",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PR Stirling",
+    "toss_winner": "Ireland",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_group_b_ireland_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-03-07",
+    "teams": [
+      "Ireland",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Bellerive Oval",
+    "city": "Hobart",
+    "winner": "Ireland",
+    "margin": "5 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "EC Joyce",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "Ireland": "William Porterfield",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_group_b_pakistan_vs_south_africa",
+    "year": 2015,
+    "date": "2015-03-07",
+    "teams": [
+      "Pakistan",
+      "South Africa"
+    ],
+    "stage": "Group B",
+    "venue": "Eden Park",
+    "city": "Auckland",
+    "winner": "Pakistan",
+    "margin": "29 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "Sarfraz Ahmed",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Misbah-ul-Haq",
+      "South Africa": "AB de Villiers"
+    }
+  },
+  {
+    "match_id": "2015_group_b_pakistan_vs_united_arab_emirates",
+    "year": 2015,
+    "date": "2015-03-04",
+    "teams": [
+      "Pakistan",
+      "United Arab Emirates"
+    ],
+    "stage": "Group B",
+    "venue": "McLean Park",
+    "city": "Napier",
+    "winner": "Pakistan",
+    "margin": "129 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Ahmed Shehzad",
+    "toss_winner": "United Arab Emirates",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Misbah-ul-Haq",
+      "United Arab Emirates": "Mohammad Tauqir"
+    }
+  },
+  {
+    "match_id": "2015_group_b_pakistan_vs_west_indies",
+    "year": 2015,
+    "date": "2015-02-21",
+    "teams": [
+      "Pakistan",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Hagley Oval",
+    "city": "Christchurch",
+    "winner": "West Indies",
+    "margin": "150 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AD Russell",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Misbah-ul-Haq",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_group_b_pakistan_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-03-01",
+    "teams": [
+      "Pakistan",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Brisbane Cricket Ground, Woolloongabba",
+    "city": "Brisbane",
+    "winner": "Pakistan",
+    "margin": "20 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Wahab Riaz",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Misbah-ul-Haq",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_group_b_south_africa_vs_united_arab_emirates",
+    "year": 2015,
+    "date": "2015-03-12",
+    "teams": [
+      "South Africa",
+      "United Arab Emirates"
+    ],
+    "stage": "Group B",
+    "venue": "Westpac Stadium",
+    "city": "Wellington",
+    "winner": "South Africa",
+    "margin": "146 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AB de Villiers",
+    "toss_winner": "United Arab Emirates",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "AB de Villiers",
+      "United Arab Emirates": "Mohammad Tauqir"
+    }
+  },
+  {
+    "match_id": "2015_group_b_south_africa_vs_west_indies",
+    "year": 2015,
+    "date": "2015-02-27",
+    "teams": [
+      "South Africa",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "Sydney Cricket Ground",
+    "city": "",
+    "winner": "South Africa",
+    "margin": "257 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AB de Villiers",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "AB de Villiers",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_group_b_south_africa_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-02-15",
+    "teams": [
+      "South Africa",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Seddon Park",
+    "city": "Hamilton",
+    "winner": "South Africa",
+    "margin": "62 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Miller",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "AB de Villiers",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_group_b_united_arab_emirates_vs_west_indies",
+    "year": 2015,
+    "date": "2015-03-15",
+    "teams": [
+      "United Arab Emirates",
+      "West Indies"
+    ],
+    "stage": "Group B",
+    "venue": "McLean Park",
+    "city": "Napier",
+    "winner": "West Indies",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JO Holder",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "United Arab Emirates": "Mohammad Tauqir",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_group_b_united_arab_emirates_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-02-19",
+    "teams": [
+      "United Arab Emirates",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Saxton Oval",
+    "city": "Nelson",
+    "winner": "Zimbabwe",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SC Williams",
+    "toss_winner": "Zimbabwe",
+    "toss_decision": "field",
+    "captains": {
+      "United Arab Emirates": "Mohammad Tauqir",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_group_b_west_indies_vs_zimbabwe",
+    "year": 2015,
+    "date": "2015-02-24",
+    "teams": [
+      "West Indies",
+      "Zimbabwe"
+    ],
+    "stage": "Group B",
+    "venue": "Manuka Oval",
+    "city": "Canberra",
+    "winner": "West Indies",
+    "margin": "73 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "CH Gayle",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "West Indies": "Jason Holder",
+      "Zimbabwe": "Elton Chigumbura"
+    }
+  },
+  {
+    "match_id": "2015_quarter_final_australia_vs_pakistan",
+    "year": 2015,
+    "date": "2015-03-20",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "winner": "Australia",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JR Hazlewood",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "Pakistan": "Misbah-ul-Haq"
+    }
+  },
+  {
+    "match_id": "2015_quarter_final_bangladesh_vs_india",
+    "year": 2015,
+    "date": "2015-03-19",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "winner": "India",
+    "margin": "109 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "India": "MS Dhoni"
+    }
+  },
+  {
+    "match_id": "2015_quarter_final_new_zealand_vs_west_indies",
+    "year": 2015,
+    "date": "2015-03-21",
+    "teams": [
+      "New Zealand",
+      "West Indies"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Westpac Stadium",
+    "city": "Wellington",
+    "winner": "New Zealand",
+    "margin": "143 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Guptill",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2015_quarter_final_south_africa_vs_sri_lanka",
+    "year": 2015,
+    "date": "2015-03-18",
+    "teams": [
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "stage": "Quarter-Final",
+    "venue": "Sydney Cricket Ground",
+    "city": "",
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Imran Tahir",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "AB de Villiers",
+      "Sri Lanka": "Angelo Mathews"
+    }
+  },
+  {
+    "match_id": "2015_semi_final_australia_vs_india",
+    "year": 2015,
+    "date": "2015-03-26",
+    "teams": [
+      "Australia",
+      "India"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Sydney Cricket Ground",
+    "city": "",
+    "winner": "Australia",
+    "margin": "95 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SPD Smith",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Michael Clarke",
+      "India": "MS Dhoni"
+    }
+  },
+  {
+    "match_id": "2015_semi_final_new_zealand_vs_south_africa",
+    "year": 2015,
+    "date": "2015-03-24",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Eden Park",
+    "city": "Auckland",
+    "winner": "New Zealand",
+    "margin": "4 wickets",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "GD Elliott",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Brendon McCullum",
+      "South Africa": "AB de Villiers"
+    }
+  },
+  {
+    "match_id": "2019_final_england_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-07-14",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "stage": "Final",
+    "venue": "Lord's",
+    "city": "London",
+    "winner": "England",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BA Stokes",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Eoin Morgan",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_australia",
+    "year": 2019,
+    "date": "2019-06-01",
+    "teams": [
+      "Afghanistan",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "County Ground, Bristol",
+    "city": "Bristol",
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Warner",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "Australia": "Aaron Finch"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_bangladesh",
+    "year": 2019,
+    "date": "2019-06-24",
+    "teams": [
+      "Afghanistan",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Rose Bowl, Southampton",
+    "city": "Southampton",
+    "winner": "Bangladesh",
+    "margin": "62 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shakib Al Hasan",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_england",
+    "year": 2019,
+    "date": "2019-06-18",
+    "teams": [
+      "Afghanistan",
+      "England"
+    ],
+    "stage": "Group Stage",
+    "venue": "Old Trafford, Manchester",
+    "city": "Manchester",
+    "winner": "England",
+    "margin": "150 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JC Buttler",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_india",
+    "year": 2019,
+    "date": "2019-06-22",
+    "teams": [
+      "Afghanistan",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Rose Bowl, Southampton",
+    "city": "Southampton",
+    "winner": "India",
+    "margin": "11 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "India": "Virat Kohli"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-06-08",
+    "teams": [
+      "Afghanistan",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "County Ground, Taunton",
+    "city": "Taunton",
+    "winner": "New Zealand",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JDS Neesham",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_pakistan",
+    "year": 2019,
+    "date": "2019-06-29",
+    "teams": [
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Headingley, Leeds",
+    "city": "Leeds",
+    "winner": "Pakistan",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Imad Wasim",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_south_africa",
+    "year": 2019,
+    "date": "2019-06-15",
+    "teams": [
+      "Afghanistan",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Sophia Gardens, Cardiff",
+    "city": "Cardiff",
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Imran Tahir",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-04",
+    "teams": [
+      "Afghanistan",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Sophia Gardens, Cardiff",
+    "city": "Cardiff",
+    "winner": "Sri Lanka",
+    "margin": "34 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "NLTC Perera",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_afghanistan_vs_west_indies",
+    "year": 2019,
+    "date": "2019-07-04",
+    "teams": [
+      "Afghanistan",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Headingley, Leeds",
+    "city": "Leeds",
+    "winner": "West Indies",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SS Cottrell",
+    "toss_winner": "West Indies",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Gulbadin Naib",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_bangladesh",
+    "year": 2019,
+    "date": "2019-06-20",
+    "teams": [
+      "Australia",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Trent Bridge",
+    "city": "Nottingham",
+    "winner": "Australia",
+    "margin": "48 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Warner",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_england",
+    "year": 2019,
+    "date": "2019-06-25",
+    "teams": [
+      "England",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "winner": "Australia",
+    "margin": "64 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Finch",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Australia": "Aaron Finch"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_india",
+    "year": 2019,
+    "date": "2019-06-09",
+    "teams": [
+      "Australia",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "winner": "India",
+    "margin": "36 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "S Dhawan",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "India": "Virat Kohli"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-06-29",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "winner": "Australia",
+    "margin": "86 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AT Carey",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_pakistan",
+    "year": 2019,
+    "date": "2019-06-12",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "The Cooper Associates County Ground",
+    "city": "Taunton",
+    "winner": "Australia",
+    "margin": "41 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Warner",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_south_africa",
+    "year": 2019,
+    "date": "2019-07-06",
+    "teams": [
+      "Australia",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "winner": "South Africa",
+    "margin": "10 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "F du Plessis",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-15",
+    "teams": [
+      "Australia",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "winner": "Australia",
+    "margin": "87 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AJ Finch",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_australia_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-06",
+    "teams": [
+      "Australia",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Trent Bridge",
+    "city": "Nottingham",
+    "winner": "Australia",
+    "margin": "15 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "NM Coulter-Nile",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_england",
+    "year": 2019,
+    "date": "2019-06-08",
+    "teams": [
+      "England",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Sophia Gardens",
+    "city": "Cardiff",
+    "winner": "England",
+    "margin": "106 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JJ Roy",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Bangladesh": "Mashrafe Mortaza"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_india",
+    "year": 2019,
+    "date": "2019-07-02",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "winner": "India",
+    "margin": "28 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "India": "Virat Kohli"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-06-05",
+    "teams": [
+      "Bangladesh",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "winner": "New Zealand",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "LRPL Taylor",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_pakistan",
+    "year": 2019,
+    "date": "2019-07-05",
+    "teams": [
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "winner": "Pakistan",
+    "margin": "94 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shaheen Shah Afridi",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_south_africa",
+    "year": 2019,
+    "date": "2019-06-02",
+    "teams": [
+      "Bangladesh",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "winner": "Bangladesh",
+    "margin": "21 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shakib Al Hasan",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-11",
+    "teams": [
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "County Ground, Bristol",
+    "city": "Bristol",
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_bangladesh_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-17",
+    "teams": [
+      "Bangladesh",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "The Cooper Associates County Ground",
+    "city": "Taunton",
+    "winner": "Bangladesh",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shakib Al Hasan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Mashrafe Mortaza",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_india",
+    "year": 2019,
+    "date": "2019-06-30",
+    "teams": [
+      "England",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "winner": "England",
+    "margin": "31 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Bairstow",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Eoin Morgan",
+      "India": "Virat Kohli"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-07-03",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Riverside Ground",
+    "city": "Chester-le-Street",
+    "winner": "England",
+    "margin": "119 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JM Bairstow",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Eoin Morgan",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_pakistan",
+    "year": 2019,
+    "date": "2019-06-03",
+    "teams": [
+      "England",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Trent Bridge",
+    "city": "Nottingham",
+    "winner": "Pakistan",
+    "margin": "14 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammad Hafeez",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_south_africa",
+    "year": 2019,
+    "date": "2019-05-30",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "winner": "England",
+    "margin": "104 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BA Stokes",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-21",
+    "teams": [
+      "England",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Headingley",
+    "city": "Leeds",
+    "winner": "Sri Lanka",
+    "margin": "20 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SL Malinga",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Eoin Morgan",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_england_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-14",
+    "teams": [
+      "England",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "The Rose Bowl",
+    "city": "Southampton",
+    "winner": "England",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JE Root",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Eoin Morgan",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_india_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-06-13",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Trent Bridge, Nottingham",
+    "city": "Nottingham",
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "India": "Virat Kohli",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_india_vs_pakistan",
+    "year": 2019,
+    "date": "2019-06-16",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "winner": "India",
+    "margin": "89 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Virat Kohli",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_india_vs_south_africa",
+    "year": 2019,
+    "date": "2019-06-05",
+    "teams": [
+      "India",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "The Rose Bowl",
+    "city": "Southampton",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Virat Kohli",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_india_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-07-06",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Headingley",
+    "city": "Leeds",
+    "winner": "India",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Virat Kohli",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_india_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-27",
+    "teams": [
+      "India",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "winner": "India",
+    "margin": "125 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Kohli",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Virat Kohli",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_new_zealand_vs_pakistan",
+    "year": 2019,
+    "date": "2019-06-26",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "winner": "Pakistan",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Babar Azam",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "Pakistan": "Sarfaraz Ahmed"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_new_zealand_vs_south_africa",
+    "year": 2019,
+    "date": "2019-06-19",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "winner": "New Zealand",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KS Williamson",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_new_zealand_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-01",
+    "teams": [
+      "New Zealand",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Sophia Gardens",
+    "city": "Cardiff",
+    "winner": "New Zealand",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Henry",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_new_zealand_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-22",
+    "teams": [
+      "New Zealand",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "winner": "New Zealand",
+    "margin": "5 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KS Williamson",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_pakistan_vs_south_africa",
+    "year": 2019,
+    "date": "2019-06-23",
+    "teams": [
+      "Pakistan",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "winner": "Pakistan",
+    "margin": "49 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Haris Sohail",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Sarfaraz Ahmed",
+      "South Africa": "Faf du Plessis"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_pakistan_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-07",
+    "teams": [
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "County Ground, Bristol",
+    "city": "Bristol",
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result",
+    "player_of_match": "",
+    "toss_winner": "",
+    "toss_decision": "",
+    "captains": {
+      "Pakistan": "Sarfaraz Ahmed",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_pakistan_vs_west_indies",
+    "year": 2019,
+    "date": "2019-05-31",
+    "teams": [
+      "Pakistan",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Trent Bridge",
+    "city": "Nottingham",
+    "winner": "West Indies",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "O Thomas",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Sarfaraz Ahmed",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_south_africa_vs_sri_lanka",
+    "year": 2019,
+    "date": "2019-06-28",
+    "teams": [
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Riverside Ground",
+    "city": "Chester-le-Street",
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "D Pretorius",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Faf du Plessis",
+      "Sri Lanka": "Dimuth Karunaratne"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_south_africa_vs_west_indies",
+    "year": 2019,
+    "date": "2019-06-10",
+    "teams": [
+      "South Africa",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "The Rose Bowl",
+    "city": "Southampton",
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result",
+    "player_of_match": "",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Faf du Plessis",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_group_stage_sri_lanka_vs_west_indies",
+    "year": 2019,
+    "date": "2019-07-01",
+    "teams": [
+      "Sri Lanka",
+      "West Indies"
+    ],
+    "stage": "Group Stage",
+    "venue": "Riverside Ground",
+    "city": "Chester-le-Street",
+    "winner": "Sri Lanka",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "WIA Fernando",
+    "toss_winner": "West Indies",
+    "toss_decision": "field",
+    "captains": {
+      "Sri Lanka": "Dimuth Karunaratne",
+      "West Indies": "Jason Holder"
+    }
+  },
+  {
+    "match_id": "2019_semi_final_australia_vs_england",
+    "year": 2019,
+    "date": "2019-07-11",
+    "teams": [
+      "Australia",
+      "England"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "winner": "England",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CR Woakes",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Aaron Finch",
+      "England": "Eoin Morgan"
+    }
+  },
+  {
+    "match_id": "2019_semi_final_india_vs_new_zealand",
+    "year": 2019,
+    "date": "2019-07-09",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "winner": "New Zealand",
+    "margin": "18 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Henry",
+    "toss_winner": "New Zealand",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Virat Kohli",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_final_australia_vs_india",
+    "year": 2023,
+    "date": "2023-11-19",
+    "teams": [
+      "India",
+      "Australia"
+    ],
+    "stage": "Final",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "winner": "Australia",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Head",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Rohit Sharma",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_australia",
+    "year": 2023,
+    "date": "2023-11-07",
+    "teams": [
+      "Afghanistan",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "winner": "Australia",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GJ Maxwell",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_bangladesh",
+    "year": 2023,
+    "date": "2023-10-07",
+    "teams": [
+      "Afghanistan",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "HPCA Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "winner": "Bangladesh",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Rashid Khan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "Bangladesh": "Shakib Al Hasan"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_england",
+    "year": 2023,
+    "date": "2023-10-15",
+    "teams": [
+      "Afghanistan",
+      "England"
+    ],
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "winner": "Afghanistan",
+    "margin": "69 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Fazalhaq Farooqi",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "England": "Jos Buttler"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_india",
+    "year": 2023,
+    "date": "2023-10-11",
+    "teams": [
+      "Afghanistan",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "winner": "India",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "India": "Rohit Sharma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_netherlands",
+    "year": 2023,
+    "date": "2023-11-03",
+    "teams": [
+      "Afghanistan",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "winner": "Afghanistan",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Rahmanullah Gurbaz",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-18",
+    "teams": [
+      "Afghanistan",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "city": "Chennai",
+    "winner": "New Zealand",
+    "margin": "149 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Naveen-ul-Haq",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_pakistan",
+    "year": 2023,
+    "date": "2023-10-23",
+    "teams": [
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "city": "Chennai",
+    "winner": "Afghanistan",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Ibrahim Zadran",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_south_africa",
+    "year": 2023,
+    "date": "2023-11-10",
+    "teams": [
+      "Afghanistan",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "winner": "South Africa",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Rahmanullah Gurbaz",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "South Africa": "Temba Bavuma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_afghanistan_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-30",
+    "teams": [
+      "Afghanistan",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "winner": "Afghanistan",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Rahmat Shah",
+    "toss_winner": "Afghanistan",
+    "toss_decision": "field",
+    "captains": {
+      "Afghanistan": "Hashmatullah Shahidi",
+      "Sri Lanka": "Kusal Mendis"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_bangladesh",
+    "year": 2023,
+    "date": "2023-11-11",
+    "teams": [
+      "Bangladesh",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "winner": "Australia",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MR Marsh",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_england",
+    "year": 2023,
+    "date": "2023-11-04",
+    "teams": [
+      "Australia",
+      "England"
+    ],
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "winner": "Australia",
+    "margin": "33 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "A Zampa",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Pat Cummins",
+      "England": "Jos Buttler"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_india",
+    "year": 2023,
+    "date": "2023-10-08",
+    "teams": [
+      "Australia",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "city": "Chennai",
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "KL Rahul",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Pat Cummins",
+      "India": "Rohit Sharma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_netherlands",
+    "year": 2023,
+    "date": "2023-10-25",
+    "teams": [
+      "Australia",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "winner": "Australia",
+    "margin": "309 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "GJ Maxwell",
+    "toss_winner": "Australia",
+    "toss_decision": "bat",
+    "captains": {
+      "Australia": "Pat Cummins",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-28",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "winner": "Australia",
+    "margin": "5 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Head",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Pat Cummins",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_pakistan",
+    "year": 2023,
+    "date": "2023-10-20",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "winner": "Australia",
+    "margin": "62 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DA Warner",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "Australia": "Pat Cummins",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_south_africa",
+    "year": 2023,
+    "date": "2023-10-12",
+    "teams": [
+      "South Africa",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "winner": "South Africa",
+    "margin": "134 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Q de Kock",
+    "toss_winner": "Australia",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_australia_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-16",
+    "teams": [
+      "Sri Lanka",
+      "Australia"
+    ],
+    "stage": "Group Stage",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "winner": "Australia",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "A Zampa",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kusal Mendis",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_england",
+    "year": 2023,
+    "date": "2023-10-10",
+    "teams": [
+      "England",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "winner": "England",
+    "margin": "137 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DJ Malan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Jos Buttler",
+      "Bangladesh": "Shakib Al Hasan"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_india",
+    "year": 2023,
+    "date": "2023-10-19",
+    "teams": [
+      "Bangladesh",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "winner": "India",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Kohli",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "India": "Rohit Sharma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_netherlands",
+    "year": 2023,
+    "date": "2023-10-28",
+    "teams": [
+      "Netherlands",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "winner": "Netherlands",
+    "margin": "87 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "PA van Meekeren",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "Netherlands": "Scott Edwards",
+      "Bangladesh": "Shakib Al Hasan"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-13",
+    "teams": [
+      "Bangladesh",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "city": "Chennai",
+    "winner": "New Zealand",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "LH Ferguson",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_pakistan",
+    "year": 2023,
+    "date": "2023-10-31",
+    "teams": [
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "winner": "Pakistan",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Fakhar Zaman",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "bat",
+    "captains": {
+      "Bangladesh": "Shakib Al Hasan",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_south_africa",
+    "year": 2023,
+    "date": "2023-10-24",
+    "teams": [
+      "South Africa",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "winner": "South Africa",
+    "margin": "149 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Q de Kock",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "Bangladesh": "Shakib Al Hasan"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_bangladesh_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-11-06",
+    "teams": [
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "winner": "Bangladesh",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Shakib Al Hasan",
+    "toss_winner": "Bangladesh",
+    "toss_decision": "field",
+    "captains": {
+      "Sri Lanka": "Kusal Mendis",
+      "Bangladesh": "Shakib Al Hasan"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_india",
+    "year": 2023,
+    "date": "2023-10-29",
+    "teams": [
+      "India",
+      "England"
+    ],
+    "stage": "Group Stage",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "winner": "India",
+    "margin": "100 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "RG Sharma",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Rohit Sharma",
+      "England": "Jos Buttler"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_netherlands",
+    "year": 2023,
+    "date": "2023-11-08",
+    "teams": [
+      "England",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "winner": "England",
+    "margin": "160 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "BA Stokes",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Jos Buttler",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-05",
+    "teams": [
+      "England",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "R Ravindra",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "England": "Jos Buttler",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_pakistan",
+    "year": 2023,
+    "date": "2023-11-11",
+    "teams": [
+      "England",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "winner": "England",
+    "margin": "93 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "DJ Willey",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Jos Buttler",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_south_africa",
+    "year": 2023,
+    "date": "2023-10-21",
+    "teams": [
+      "South Africa",
+      "England"
+    ],
+    "stage": "Group Stage",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "winner": "South Africa",
+    "margin": "229 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "H Klaasen",
+    "toss_winner": "England",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "England": "Jos Buttler"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_england_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-26",
+    "teams": [
+      "England",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "winner": "Sri Lanka",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "CBRLS Kumara",
+    "toss_winner": "England",
+    "toss_decision": "bat",
+    "captains": {
+      "England": "Jos Buttler",
+      "Sri Lanka": "Kusal Mendis"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_india_vs_netherlands",
+    "year": 2023,
+    "date": "2023-11-12",
+    "teams": [
+      "India",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "winner": "India",
+    "margin": "160 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SS Iyer",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Rohit Sharma",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_india_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-22",
+    "teams": [
+      "New Zealand",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "winner": "India",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "India": "Rohit Sharma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_india_vs_pakistan",
+    "year": 2023,
+    "date": "2023-10-14",
+    "teams": [
+      "Pakistan",
+      "India"
+    ],
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "winner": "India",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "JJ Bumrah",
+    "toss_winner": "India",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Babar Azam",
+      "India": "Rohit Sharma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_india_vs_south_africa",
+    "year": 2023,
+    "date": "2023-11-05",
+    "teams": [
+      "India",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "winner": "India",
+    "margin": "243 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "V Kohli",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Rohit Sharma",
+      "South Africa": "Temba Bavuma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_india_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-11-02",
+    "teams": [
+      "India",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "winner": "India",
+    "margin": "302 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "India": "Rohit Sharma",
+      "Sri Lanka": "Kusal Mendis"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_netherlands_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-10-09",
+    "teams": [
+      "New Zealand",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "city": "Hyderabad",
+    "winner": "New Zealand",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "MJ Santner",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_netherlands_vs_pakistan",
+    "year": 2023,
+    "date": "2023-10-06",
+    "teams": [
+      "Pakistan",
+      "Netherlands"
+    ],
+    "stage": "Group Stage",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "city": "Hyderabad",
+    "winner": "Pakistan",
+    "margin": "81 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Saud Shakeel",
+    "toss_winner": "Netherlands",
+    "toss_decision": "field",
+    "captains": {
+      "Pakistan": "Babar Azam",
+      "Netherlands": "Scott Edwards"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_netherlands_vs_south_africa",
+    "year": 2023,
+    "date": "2023-10-17",
+    "teams": [
+      "Netherlands",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "winner": "Netherlands",
+    "margin": "38 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "SA Edwards",
+    "toss_winner": "South Africa",
+    "toss_decision": "field",
+    "captains": {
+      "Netherlands": "Scott Edwards",
+      "South Africa": "Temba Bavuma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_netherlands_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-21",
+    "teams": [
+      "Netherlands",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "winner": "Sri Lanka",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "S Samarawickrama",
+    "toss_winner": "Netherlands",
+    "toss_decision": "bat",
+    "captains": {
+      "Netherlands": "Scott Edwards",
+      "Sri Lanka": "Kusal Mendis"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_new_zealand_vs_pakistan",
+    "year": 2023,
+    "date": "2023-11-04",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "winner": "Pakistan",
+    "margin": "21 runs",
+    "method": "D/L",
+    "result_type": "completed",
+    "player_of_match": "Fakhar Zaman",
+    "toss_winner": "Pakistan",
+    "toss_decision": "field",
+    "captains": {
+      "New Zealand": "Kane Williamson",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_new_zealand_vs_south_africa",
+    "year": 2023,
+    "date": "2023-11-01",
+    "teams": [
+      "South Africa",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "winner": "South Africa",
+    "margin": "190 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "HE van der Dussen",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_new_zealand_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-11-09",
+    "teams": [
+      "Sri Lanka",
+      "New Zealand"
+    ],
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "winner": "New Zealand",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TA Boult",
+    "toss_winner": "New Zealand",
+    "toss_decision": "field",
+    "captains": {
+      "Sri Lanka": "Kusal Mendis",
+      "New Zealand": "Kane Williamson"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_pakistan_vs_south_africa",
+    "year": 2023,
+    "date": "2023-10-27",
+    "teams": [
+      "Pakistan",
+      "South Africa"
+    ],
+    "stage": "Group Stage",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "city": "Chennai",
+    "winner": "South Africa",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "T Shamsi",
+    "toss_winner": "Pakistan",
+    "toss_decision": "bat",
+    "captains": {
+      "Pakistan": "Babar Azam",
+      "South Africa": "Temba Bavuma"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_pakistan_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-10",
+    "teams": [
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "stage": "Group Stage",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "city": "Hyderabad",
+    "winner": "Pakistan",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammad Rizwan",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "bat",
+    "captains": {
+      "Sri Lanka": "Kusal Mendis",
+      "Pakistan": "Babar Azam"
+    }
+  },
+  {
+    "match_id": "2023_group_stage_south_africa_vs_sri_lanka",
+    "year": 2023,
+    "date": "2023-10-07",
+    "teams": [
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "winner": "South Africa",
+    "margin": "102 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "AK Markram",
+    "toss_winner": "Sri Lanka",
+    "toss_decision": "field",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "Sri Lanka": "Kusal Mendis"
+    }
+  },
+  {
+    "match_id": "2023_semi_final_australia_vs_south_africa",
+    "year": 2023,
+    "date": "2023-11-16",
+    "teams": [
+      "South Africa",
+      "Australia"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "winner": "Australia",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "TM Head",
+    "toss_winner": "South Africa",
+    "toss_decision": "bat",
+    "captains": {
+      "South Africa": "Temba Bavuma",
+      "Australia": "Pat Cummins"
+    }
+  },
+  {
+    "match_id": "2023_semi_final_india_vs_new_zealand",
+    "year": 2023,
+    "date": "2023-11-15",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "stage": "Semi-Final",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "winner": "India",
+    "margin": "70 runs",
+    "method": "",
+    "result_type": "completed",
+    "player_of_match": "Mohammed Shami",
+    "toss_winner": "India",
+    "toss_decision": "bat",
+    "captains": {
+      "India": "Rohit Sharma",
+      "New Zealand": "Kane Williamson"
+    }
+  }
+]

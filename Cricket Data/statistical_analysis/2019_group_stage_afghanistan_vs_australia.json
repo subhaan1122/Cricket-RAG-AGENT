@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "f34f56c64f9c",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "County Ground, Bristol",
+    "city": "Bristol",
+    "date": "2019-06-01",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "Afghanistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Gulbadin Naib",
+      "team2": "Aaron Finch"
+    },
+    "player_of_match": "DA Warner",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Australia (2019-06-01) at Bristol.\nAfghanistan: 207 all out (38.2 ov)\nAustralia: 209/3 (34.5 ov)\nAustralia won by 7 wickets.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 416,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 5.8,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Afghanistan",
+      "total_runs": 207,
+      "total_wickets": 10,
+      "total_overs": 38.2,
+      "run_rate": 5.45,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 209,
+      "total_wickets": 3,
+      "total_overs": 34.5,
+      "run_rate": 6.15,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Afghanistan scored 207 in 38.2 overs at 5.45 RPO",
+    "vs Australia scored 209 in 34.5 overs at 6.15 RPO"
+  ]
+}

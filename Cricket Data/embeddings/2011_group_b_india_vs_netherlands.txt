@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: India vs Netherlands
+Stage: Group B
+Date: 2011-03-09
+Venue: Feroz Shah Kotla, Delhi
+Captain India: MS Dhoni
+Captain Netherlands: Peter Borren
+
+Match Summary:
+  2011 World Cup Group B: India vs Netherlands (2011-03-09) at Delhi.
+
+Netherlands: 189 all out (46.4 ov)
+  PW Borren: 38 (36b, 3x4, 2x6, SR 105.56)
+  TLW Cooper: 29 (47b, 2x4, 0x6, SR 61.7)
+  ES Szwarczynski: 28 (42b, 4x4, 0x6, SR 66.67)
+  W Barresi: 26 (58b, 2x4, 0x6, SR 44.83)
+  Mudassar Bukhari: 21 (18b, 1x4, 2x6, SR 116.67)
+  Z Khan: 3/20 (6.4 ov, Econ 3.0)
+  PP Chawla: 2/47 (10.0 ov, Econ 4.7)
+  Yuvraj Singh: 2/43 (9.0 ov, Econ 4.78)
+  A Nehra: 1/22 (5.0 ov, Econ 4.4)
+  YK Pathan: 0/17 (6.0 ov, Econ 2.83)
+  Extras: 12
+
+India: 191/5 (36.3 ov)
+  Yuvraj Singh: 51 (73b, 7x4, 0x6, SR 69.86)
+  V Sehwag: 39 (26b, 5x4, 2x6, SR 150.0)
+  G Gambhir: 28 (28b, 3x4, 0x6, SR 100.0)
+  SR Tendulkar: 27 (22b, 6x4, 0x6, SR 122.73)
+  MS Dhoni: 19 (40b, 2x4, 0x6, SR 47.5)
+  PM Seelaar: 3/53 (10.0 ov, Econ 5.3)
+  PW Borren: 1/33 (8.0 ov, Econ 4.12)
+  Mudassar Bukhari: 1/33 (6.0 ov, Econ 5.5)
+  RN ten Doeschate: 0/38 (7.0 ov, Econ 5.43)
+  TLW Cooper: 0/11 (2.0 ov, Econ 5.5)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: Yuvraj Singh scored 51 off 73 balls (SR 69.86)
+  Quickfire innings: V Sehwag smashed 39 off 26 balls at SR 150.0
+
+Bowling Highlights:
+  Key spell: Z Khan took 3/20
+  Economical spell: YK Pathan conceded 17 runs in 6.0 overs (Econ 2.83)
+  Key spell: PM Seelaar took 3/53
+
+Captain Performance:
+  Peter Borren (Netherlands): scored 38 off 36 balls
+  MS Dhoni (India): scored 19 off 40 balls
+
+Key Moments:
+  Netherlands lost 10 early wickets.
+  India lost 5 early wickets.
+  India scored aggressively in the powerplay (82 runs at 8.2 RPO).
+  India lost 3 wickets in the powerplay.
+
+Result: India won by 5 wickets
+Toss: Netherlands won and chose to bat
+Player of the Match: Yuvraj Singh

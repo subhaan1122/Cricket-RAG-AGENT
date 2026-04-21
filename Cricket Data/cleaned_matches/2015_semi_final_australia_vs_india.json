@@ -1,0 +1,362 @@
+{
+  "match_id": "cc89a01ab0ef",
+  "world_cup_year": 2015,
+  "stage": "Semi-Final",
+  "venue": "Sydney Cricket Ground",
+  "city": "",
+  "date": "2015-03-26",
+  "teams": {
+    "team1": "Australia",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "95 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "MS Dhoni"
+  },
+  "player_of_match": "SPD Smith",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 328,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "SPD Smith",
+          "runs": 105,
+          "balls": 93,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 112.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 81,
+          "balls": 116,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 69.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 28,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 93.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MG Johnson",
+          "runs": 27,
+          "balls": 9,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 300.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 23,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 164.29,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "UT Yadav",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 4,
+          "economy": 8.0,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 75,
+          "wickets": 2,
+          "economy": 7.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 0,
+          "economy": 6.8,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "3.1"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 197,
+          "wickets": 2,
+          "overs": "34.1"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 232,
+          "wickets": 3,
+          "overs": "37.3"
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 233,
+          "wickets": 4,
+          "overs": "38.2"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 248,
+          "wickets": 5,
+          "overs": "42.1"
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 284,
+          "wickets": 6,
+          "overs": "46.3"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 298,
+          "wickets": 7,
+          "overs": "47.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 233,
+      "wickets": 10,
+      "overs": 46.5,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "MS Dhoni",
+          "runs": 65,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "S Dhawan",
+          "runs": 45,
+          "balls": 41,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 109.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AM Rahane",
+          "runs": 44,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 34,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 70.83,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RA Jadeja",
+          "runs": 16,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JP Faulkner",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 59,
+          "wickets": 3,
+          "economy": 6.56,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 2,
+          "economy": 3.17,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Dhawan",
+          "runs": 76,
+          "wickets": 1,
+          "overs": "12.5"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 78,
+          "wickets": 2,
+          "overs": "15.3"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 91,
+          "wickets": 3,
+          "overs": "17.6"
+        },
+        {
+          "player": "SK Raina",
+          "runs": 108,
+          "wickets": 4,
+          "overs": "22.6"
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "36.2"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 208,
+          "wickets": 6,
+          "overs": "41.5"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 231,
+          "wickets": 7,
+          "overs": "44.3"
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 232,
+          "wickets": 8,
+          "overs": "45.4"
+        },
+        {
+          "player": "MM Sharma",
+          "runs": 232,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 233,
+          "wickets": 10,
+          "overs": "46.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_semi_final_australia_vs_india.json",
+  "match_summary": "2015 World Cup Semi-Final: Australia vs India (2015-03-26) at Sydney Cricket Ground.\nAustralia: 328/7 (50.0 ov)\n  SPD Smith: 105 (93b, 11x4, 2x6)\n  AJ Finch: 81 (116b, 7x4, 1x6)\n  UT Yadav: 4/72 (9.0 ov)\n  MM Sharma: 2/75 (10.0 ov)\nIndia: 233 all out (46.5 ov)\n  MS Dhoni: 65 (65b, 3x4, 2x6)\n  S Dhawan: 45 (41b, 6x4, 1x6)\n  AM Rahane: 44 (68b, 2x4, 0x6)\n  JP Faulkner: 3/59 (9.0 ov)\n  MA Starc: 2/28 (8.5 ov)\n  MG Johnson: 2/50 (10.0 ov)\nAustralia won by 95 runs.\nPlayer of the Match: SPD Smith."
+}

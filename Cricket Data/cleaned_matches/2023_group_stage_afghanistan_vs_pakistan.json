@@ -1,0 +1,54 @@
+{
+  "match_id": "5cd79386829a",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "M. A. Chidambaram Stadium, Chennai",
+  "city": "Chennai",
+  "date": "2023-10-23",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Afghanistan",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Babar Azam"
+  },
+  "player_of_match": "Ibrahim Zadran",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 282,
+      "wickets": 7,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 286,
+      "wickets": 2,
+      "overs": 49,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_pakistan.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs Pakistan (2023-10-23) at Chennai.\nPakistan: 282/7 (50 ov)\nAfghanistan: 286/2 (49 ov)\nAfghanistan won by 8 wickets. Player of the Match: Ibrahim Zadran."
+}

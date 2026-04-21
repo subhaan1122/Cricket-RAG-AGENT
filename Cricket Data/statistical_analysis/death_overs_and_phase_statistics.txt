@@ -1,0 +1,156 @@
+==============================================================================
+DEATH OVERS AND PHASE-WISE STATISTICS — ICC CRICKET WORLD CUP (2003–2023)
+Bowling and Batting Statistics by Match Phase
+==============================================================================
+
+Overs 1-10 = Powerplay Phase
+Overs 11-30 = Middle Overs Phase
+Overs 31-40 = Acceleration Phase
+Overs 41-50 = Death Overs Phase
+
+──────────────────────────────────────────────────────────────────
+SECTION 1: DEATH OVERS (OVERS 41-50) — BOWLING STATISTICS
+──────────────────────────────────────────────────────────────────
+
+Best Death Overs Economy Rates in World Cups (2003-2023, minimum 50 overs in death phase):
+
+| Rank | Bowler                 | Team         | WCs          | Death Overs  | Runs   | Wickets | Economy | SR    |
+|------|------------------------|--------------|--------------|-------------- |--------|---------|---------|-------|
+| 1    | Lasith Malinga         | Sri Lanka    | 2007-2019    | 62.3 overs   | 354    | 38      | 5.68    | 9.8   |
+| 2    | Mitchell Starc         | Australia    | 2015-2023    | 58.0 overs   | 348    | 35      | 6.00    | 9.9   |
+| 3    | Jasprit Bumrah         | India        | 2019-2023    | 36.0 overs   | 174    | 16      | 4.83    | 13.5  |
+| 4    | Trent Boult            | New Zealand  | 2015-2023    | 51.2 overs   | 312    | 26      | 6.08    | 11.8  |
+| 5    | Glenn McGrath          | Australia    | 2003-2007    | 56.0 overs   | 261    | 22      | 4.66    | 15.3  |
+| 6    | Chaminda Vaas          | Sri Lanka    | 2003-2007    | 42.0 overs   | 198    | 18      | 4.71    | 14.0  |
+| 7    | Brett Lee              | Australia    | 2003-2011    | 55.0 overs   | 341    | 24      | 6.20    | 13.8  |
+| 8    | Shaheen Shah Afridi    | Pakistan     | 2019-2023    | 32.0 overs   | 201    | 14      | 6.28    | 13.7  |
+| 9    | Mohammed Shami         | India        | 2015-2023    | 38.4 overs   | 248    | 22      | 6.41    | 10.5  |
+| 10   | Pat Cummins            | Australia    | 2015-2023    | 45.0 overs   | 297    | 18      | 6.60    | 15.0  |
+
+Note: Glenn McGrath had the best death overs economy (4.66) among bowlers with 50+ overs in the death phase (2003-2023).
+Jasprit Bumrah (4.83) had the best economy among active bowlers but fell slightly short of the 50-over threshold.
+Lasith Malinga was the most prolific wicket-taker in death overs (38 wickets), making him the "Death Overs King."
+
+Key Insight: Malinga's ability to bowl yorkers at pace made him the deadliest death overs bowler. His 38 wickets in overs 41-50 is the highest by any bowler in WC history (2003-2023). His economy of 5.68 combined with his wicket-taking ability made him unique. Bumrah had the best economy among modern bowlers (4.83 in 2019-2023), but in fewer overs.
+
+──────────────────────────────────────────────────────────────────
+SECTION 2: DEATH OVERS — TOP INDIVIDUAL BOWLING PERFORMANCES
+──────────────────────────────────────────────────────────────────
+
+Best Death Over Spells (Overs 41-50) in a Single WC Match (2003-2023):
+
+1. Mitchell Starc: 4/15 in death overs vs New Zealand, 2015 WC Pool A
+   - Demolished NZ's lower order with lethal yorkers and bouncers
+2. Lasith Malinga: 4/19 in death overs vs Kenya, 2011 WC Group A
+   - Classic Malinga toe-crushing yorkers
+3. Glenn McGrath: 3/8 in death overs vs Namibia, 2003 WC Group A
+   - Part of his 7/15 match figures
+4. Trent Boult: 3/20 in death overs vs Australia, 2015 WC Pool A
+   - Part of his 5/27 match figures
+5. Mohammed Shami: 4/22 in death overs vs New Zealand, 2023 WC Semi-Final
+   - Part of his 7/57 match figures; devastating at the end
+6. Jasprit Bumrah: 3/14 in death overs vs Pakistan, 2019 WC Group Stage
+   - Exceptional accuracy and pace variation
+7. Shaheen Shah Afridi: 3/18 in death overs vs India, 2019 WC Group Stage
+   - Broke through India's middle order
+
+──────────────────────────────────────────────────────────────────
+SECTION 3: DEATH OVERS — BATTING STATISTICS
+──────────────────────────────────────────────────────────────────
+
+Most Runs Scored in Death Overs (Overs 41-50) in World Cups (2003-2023):
+
+| Rank | Batter              | Team         | Death Overs Runs | Balls | SR     | 4s  | 6s  |
+|------|---------------------|--------------|------------------|-------|--------|-----|-----|
+| 1    | MS Dhoni            | India        | 312              | 287   | 108.71 | 22  | 11  |
+| 2    | AB de Villiers      | South Africa | 298              | 178   | 167.42 | 28  | 18  |
+| 3    | Jos Buttler         | England      | 267              | 176   | 151.70 | 24  | 14  |
+| 4    | Glenn Maxwell       | Australia    | 243              | 149   | 163.09 | 17  | 16  |
+| 5    | MS Dhoni            | India        | 312              | 287   | 108.71 | 22  | 11  |
+
+Key Insight: MS Dhoni was the most reliable finisher in WC death overs with 312 runs at a SR of 108.71. AB de Villiers was the most explosive with SR 167.42. Jos Buttler combined power with consistency, especially in the 2019 WC.
+
+──────────────────────────────────────────────────────────────────
+SECTION 4: POWERPLAY (OVERS 1-10) — KEY STATISTICS
+──────────────────────────────────────────────────────────────────
+
+Best Powerplay Batting Averages in World Cups (2003-2023, min 15 innings):
+
+| Rank | Batter              | Team         | PP Runs | PP Average | PP SR   |
+|------|---------------------|--------------|---------|------------|---------|
+| 1    | Rohit Sharma        | India        | 621     | 51.75      | 107.43  |
+| 2    | David Warner        | Australia    | 574     | 47.83      | 102.50  |
+| 3    | Sachin Tendulkar    | India        | 512     | 42.67      | 93.77   |
+| 4    | Adam Gilchrist      | Australia    | 487     | 40.58      | 115.68  |
+| 5    | Hashim Amla         | South Africa | 461     | 38.42      | 82.32   |
+
+Best Powerplay Bowling Figures (Overs 1-10):
+
+| Rank | Bowler              | Team         | Spell          | Match                  | Year |
+|------|---------------------|--------------|----------------|------------------------|------|
+| 1    | Chaminda Vaas       | Sri Lanka    | 6/25 (all PO)  | vs Bangladesh, 2003    | 2003 |
+| 2    | Glenn McGrath       | Australia    | 4/7 in PP      | vs Namibia, 2003       | 2003 |
+| 3    | Shaheen Shah Afridi | Pakistan     | 3/4 in PP      | vs India, 2019         | 2019 |
+| 4    | Trent Boult         | New Zealand  | 3/12 in PP     | vs Australia, 2015     | 2015 |
+| 5    | Mitchell Starc      | Australia    | 3/15 in PP     | vs New Zealand, 2015   | 2015 |
+
+──────────────────────────────────────────────────────────────────
+SECTION 5: MIDDLE OVERS (OVERS 11-40) — KEY STATISTICS
+──────────────────────────────────────────────────────────────────
+
+Best Middle Overs Batting Averages (2003-2023, min 15 innings):
+
+| Rank | Batter              | Team         | MO Avg  | MO SR  |
+|------|---------------------|--------------|---------|--------|
+| 1    | Virat Kohli         | India        | 84.22   | 87.14  |
+| 2    | Kumar Sangakkara    | Sri Lanka    | 71.50   | 85.32  |
+| 3    | Joe Root            | England      | 68.75   | 82.68  |
+| 4    | Kane Williamson     | New Zealand  | 64.33   | 76.45  |
+| 5    | Babar Azam          | Pakistan     | 61.20   | 80.12  |
+
+Note: Virat Kohli dominated middle overs batting with his incredible ability to rotate strike and accelerate. His middle overs average of 84.22 is the best in WC history (2003-2023).
+
+Best Middle Overs Bowling Economy (2003-2023, min 50 overs):
+
+| Rank | Bowler              | Team         | Overs  | Economy |
+|------|---------------------|--------------|--------|---------|
+| 1    | M Muralitharan      | Sri Lanka    | 88.0   | 3.42    |
+| 2    | Glenn McGrath       | Australia    | 76.0   | 3.51    |
+| 3    | D Vettori           | New Zealand  | 72.0   | 3.67    |
+| 4    | Rashid Khan         | Afghanistan  | 54.0   | 3.82    |
+| 5    | Adam Zampa          | Australia    | 56.0   | 4.15    |
+
+──────────────────────────────────────────────────────────────────
+SECTION 6: AVERAGE FIRST INNINGS SCORES BY PHASE OF TOURNAMENT
+──────────────────────────────────────────────────────────────────
+
+Average First Innings Score by Tournament:
+| Tournament | Avg 1st Innings Score | Avg Overs 1-10 | Avg Overs 11-40 | Avg Overs 41-50 |
+|------------|----------------------|-----------------|------------------|-----------------|
+| 2003       | 227                  | 42              | 120              | 65              |
+| 2007       | 239                  | 46              | 123              | 70              |
+| 2011       | 254                  | 49              | 132              | 73              |
+| 2015       | 262                  | 52              | 134              | 76              |
+| 2019       | 245                  | 48              | 127              | 70              |
+| 2023       | 271                  | 55              | 140              | 76              |
+
+Key trend: Scores have generally increased over the years, especially in 2015 and 2023. The 2019 WC (in England) saw slightly lower averages due to pitches that aided seam bowling early on.
+
+──────────────────────────────────────────────────────────────────
+SECTION 7: TEAM DEATH OVERS PERFORMANCE (OVERS 41-50) BY TOURNAMENT
+──────────────────────────────────────────────────────────────────
+
+Best Team Death Overs Run Rate (2015 WC):
+1. South Africa: 8.21 RPO in overs 41-50
+2. New Zealand: 7.98 RPO
+3. Australia: 7.67 RPO
+
+Best Team Death Overs Bowling Economy (2019 WC):
+1. India: 5.82 RPO conceded in overs 41-50
+2. New Zealand: 6.14 RPO
+3. Australia: 6.45 RPO
+
+Best Team Death Overs Bowling Economy (2023 WC):
+1. India: 5.67 RPO conceded in overs 41-50
+2. Australia: 6.12 RPO
+3. South Africa: 6.34 RPO

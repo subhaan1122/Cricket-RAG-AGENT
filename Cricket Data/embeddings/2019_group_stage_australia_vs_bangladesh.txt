@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: Australia vs Bangladesh
+Stage: Group Stage
+Date: 2019-06-20
+Venue: Trent Bridge, Nottingham
+Captain Australia: Aaron Finch
+Captain Bangladesh: Mashrafe Mortaza
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs Bangladesh (2019-06-20) at Nottingham.
+
+Australia: 381/5 (50.0 ov)
+  DA Warner: 166 (147b, 14x4, 5x6, SR 112.93)
+  UT Khawaja: 89 (72b, 10x4, 0x6, SR 123.61)
+  AJ Finch: 53 (51b, 5x4, 2x6, SR 103.92)
+  GJ Maxwell: 32 (10b, 2x4, 3x6, SR 320.0)
+  MP Stoinis: 17 (11b, 2x4, 0x6, SR 154.55)
+  Soumya Sarkar: 3/58 (8.0 ov, Econ 7.25)
+  Mustafizur Rahman: 1/69 (9.0 ov, Econ 7.67)
+  Mehedi Hasan Miraz: 0/59 (10.0 ov, Econ 5.9)
+  Mashrafe Mortaza: 0/56 (8.0 ov, Econ 7.0)
+  Shakib Al Hasan: 0/50 (6.0 ov, Econ 8.33)
+  Extras: 12
+
+Bangladesh: 333/8 (50.0 ov)
+  Mushfiqur Rahim: 102 (97b, 9x4, 1x6, SR 105.15)
+  Mahmudullah: 69 (50b, 5x4, 3x6, SR 138.0)
+  Tamim Iqbal: 62 (74b, 6x4, 0x6, SR 83.78)
+  Shakib Al Hasan: 41 (41b, 4x4, 0x6, SR 100.0)
+  Liton Das: 20 (17b, 3x4, 0x6, SR 117.65)
+  MA Starc: 2/55 (10.0 ov, Econ 5.5)
+  NM Coulter-Nile: 2/58 (10.0 ov, Econ 5.8)
+  MP Stoinis: 2/54 (8.0 ov, Econ 6.75)
+  A Zampa: 1/68 (9.0 ov, Econ 7.56)
+  PJ Cummins: 0/65 (10.0 ov, Econ 6.5)
+  Extras: 17
+
+Batting Highlights:
+  Century: DA Warner scored 166 off 147 balls (SR 112.93, 14 fours, 5 sixes)
+  Half-century: UT Khawaja scored 89 off 72 balls (SR 123.61)
+  Half-century: AJ Finch scored 53 off 51 balls (SR 103.92)
+  Century: Mushfiqur Rahim scored 102 off 97 balls (SR 105.15, 9 fours, 1 sixes)
+  Half-century: Mahmudullah scored 69 off 50 balls (SR 138.0)
+  Half-century: Tamim Iqbal scored 62 off 74 balls (SR 83.78)
+
+Bowling Highlights:
+  Key spell: Soumya Sarkar took 3/58
+
+Captain Performance:
+  Aaron Finch (Australia): scored 53 off 51 balls
+
+Key Moments:
+  Australia lost 5 early wickets.
+  Bangladesh lost 8 early wickets.
+  Australia exploded in the death overs (131 runs at 13.1 RPO).
+
+Result: Australia won by 48 runs
+Toss: Australia won and chose to bat
+Player of the Match: DA Warner

@@ -1,0 +1,356 @@
+{
+  "match_id": "68cc275ae8df",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-19",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Shahid Afridi"
+  },
+  "player_of_match": "Umar Akmal",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 176,
+      "wickets": 10,
+      "overs": 46.4,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "BJ Haddin",
+          "runs": 42,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 52.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 34,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 25,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 19,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MEK Hussey",
+          "runs": 12,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Umar Gul",
+          "overs": "7.4",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.91,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 2,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Rehman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Watson",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 75,
+          "wickets": 2,
+          "overs": "18.4"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 90,
+          "wickets": 3,
+          "overs": "23.4"
+        },
+        {
+          "player": "CL White",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "30.1"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 134,
+          "wickets": 5,
+          "overs": "34.4"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 144,
+          "wickets": 6,
+          "overs": "37.4"
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 147,
+          "wickets": 7,
+          "overs": "38.4"
+        },
+        {
+          "player": "JJ Krejza",
+          "runs": 169,
+          "wickets": 8,
+          "overs": "44.3"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 176,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "B Lee",
+          "runs": 176,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 178,
+      "wickets": 6,
+      "overs": 41.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "Asad Shafiq",
+          "runs": 46,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Akmal",
+          "runs": 44,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 74.58,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 31,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kamran Akmal",
+          "runs": 23,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 85.19,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Abdul Razzaq",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "B Lee",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 4,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Krejza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.4"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 45,
+          "wickets": 2,
+          "overs": "8.4"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 98,
+          "wickets": 3,
+          "overs": "22.4"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 98,
+          "wickets": 4,
+          "overs": "22.5"
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 139,
+          "wickets": 5,
+          "overs": "31.6"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 142,
+          "wickets": 6,
+          "overs": "32.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_australia_vs_pakistan.json",
+  "match_summary": "2011 World Cup Group A: Australia vs Pakistan (2011-03-19) at Colombo.\nAustralia: 176 all out (46.4 ov)\n  BJ Haddin: 42 (80b, 3x4, 1x6)\n  MJ Clarke: 34 (48b, 2x4, 0x6)\n  Umar Gul: 3/30 (7.4 ov)\n  Abdul Razzaq: 2/8 (4.0 ov)\nPakistan: 178/6 (41.0 ov)\n  Asad Shafiq: 46 (81b, 5x4, 0x6)\n  Umar Akmal: 44* (59b, 4x4, 1x6)\n  Younis Khan: 31 (42b, 4x4, 0x6)\n  B Lee: 4/28 (8.0 ov)\nPakistan won by 4 wickets.\nPlayer of the Match: Umar Akmal."
+}

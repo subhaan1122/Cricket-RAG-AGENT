@@ -1,0 +1,344 @@
+{
+  "match_id": "1c8419e7f816",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "Eden Gardens",
+  "city": "Kolkata",
+  "date": "2011-03-18",
+  "teams": {
+    "team1": "Ireland",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Ireland",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Ireland",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "William Porterfield",
+    "team2": "Peter Borren"
+  },
+  "player_of_match": "PR Stirling",
+  "innings": [
+    {
+      "team": "Netherlands",
+      "runs": 306,
+      "wickets": 10,
+      "overs": 50.0,
+      "extras": 17,
+      "top_batters": [
+        {
+          "name": "RN ten Doeschate",
+          "runs": 106,
+          "balls": 108,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 98.15,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 84,
+          "balls": 82,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 102.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "W Barresi",
+          "runs": 44,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 89.8,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AF Buurman",
+          "runs": 26,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AN Kervezee",
+          "runs": 12,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PR Stirling",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 2,
+          "economy": 5.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WB Rankin",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 1,
+          "economy": 8.22,
+          "wides": 3,
+          "no_balls": 3
+        },
+        {
+          "name": "GH Dockrell",
+          "overs": "3.4",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 4.09,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ES Szwarczynski",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 12,
+          "wickets": 2,
+          "overs": "2.3"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 53,
+          "wickets": 3,
+          "overs": "10.1"
+        },
+        {
+          "player": "W Barresi",
+          "runs": 113,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 234,
+          "wickets": 5,
+          "overs": "39.5"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 287,
+          "wickets": 6,
+          "overs": "46.5"
+        },
+        {
+          "player": "AF Buurman",
+          "runs": 305,
+          "wickets": 7,
+          "overs": "49.3"
+        },
+        {
+          "player": "PM Seelaar",
+          "runs": 305,
+          "wickets": 8,
+          "overs": "49.4"
+        },
+        {
+          "player": "Adeel Raja",
+          "runs": 305,
+          "wickets": 9,
+          "overs": "49.5"
+        },
+        {
+          "player": "Mudassar Bukhari",
+          "runs": 306,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Ireland",
+      "runs": 307,
+      "wickets": 4,
+      "overs": 47.4,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "PR Stirling",
+          "runs": 101,
+          "balls": 72,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 140.28,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 68,
+          "balls": 93,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 73.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 57,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 98.28,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "EC Joyce",
+          "runs": 28,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GC Wilson",
+          "runs": 27,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TLW Cooper",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 2,
+          "economy": 4.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PM Seelaar",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.69,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 6.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Adeel Raja",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 177,
+          "wickets": 1,
+          "overs": "26.6"
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 179,
+          "wickets": 2,
+          "overs": "27.3"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 233,
+          "wickets": 3,
+          "overs": "38.1"
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 279,
+          "wickets": 4,
+          "overs": "44.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_ireland_vs_netherlands.json",
+  "match_summary": "2011 World Cup Group B: Ireland vs Netherlands (2011-03-18) at Kolkata.\nNetherlands: 306 all out (50.0 ov)\n  RN ten Doeschate: 106 (108b, 13x4, 1x6)\n  PW Borren: 84 (82b, 10x4, 0x6)\n  W Barresi: 44 (49b, 4x4, 2x6)\n  PR Stirling: 2/51 (10.0 ov)\n  JF Mooney: 2/59 (10.0 ov)\nIreland: 307/4 (47.4 ov)\n  PR Stirling: 101 (72b, 14x4, 2x6)\n  WTS Porterfield: 68 (93b, 10x4, 0x6)\n  NJ O'Brien: 57* (58b, 7x4, 0x6)\n  TLW Cooper: 2/31 (7.0 ov)\nIreland won by 6 wickets.\nPlayer of the Match: PR Stirling."
+}

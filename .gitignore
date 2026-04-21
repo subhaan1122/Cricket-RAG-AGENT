@@ -1,0 +1,97 @@
+# Generated .gitignore for this Cricket Companion project
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# OneDrive temp files
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+venv3/
+
+# Env and secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+local_settings.py
+
+# Packaging / build
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+wheelhouse/
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node
+node_modules/
+
+# Frontend build artifacts
+/Frontend/build/
+/Frontend/dist/
+
+# Project-specific: large datasets and embeddings
+# Ignore the entire Cricket Data folder (do not push dataset or generated embeddings)
+"Cricket Data/"
+"Cricket Data/**"
+
+# We intentionally KEEP `index/` tracked (indexes with frontend and other python files).
+# If `index/` was previously ignored or tracked files exist, you'll need to untrack/re-track accordingly.
+
+# If you want to ignore specific generated index files, add them here explicitly.
+
+
+# Machine learning model files
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Misc
+*.sqlite
+*.db
+
+# Optional: prevent committing local config with secrets
+# If you keep secrets in `config.py`, consider renaming to `config.example.py` and add real `config.py` to .gitignore
+config.py
+
+# If you accidentally committed large files already, run:
+# git rm --cached <file>
+# then commit and push. For history rewriting, use the BFG Repo-Cleaner or git filter-repo.

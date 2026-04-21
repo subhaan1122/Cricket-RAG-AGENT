@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Bangladesh
+Stage: Super Eight
+Date: 2007-04-19
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain West Indies: Brian Lara
+Captain Bangladesh: Habibul Bashar
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs Bangladesh (2007-04-19) at Barbados.
+
+West Indies: 230/5 (50.0 ov)
+  RR Sarwan: 91 (90b, 5x4, 2x6, SR 101.11)
+  S Chanderpaul: 50 (85b, 3x4, 0x6, SR 58.82)
+  BC Lara: 33 (27b, 1x4, 2x6, SR 122.22)
+  MN Samuels: 31 (66b, 4x4, 0x6, SR 46.97)
+  DJ Bravo: 9 (9b, 0x4, 0x6, SR 100.0)
+  Mashrafe Mortaza: 1/39 (10.0 ov, Econ 3.9)
+  Abdur Razzak: 1/44 (10.0 ov, Econ 4.4)
+  Shakib Al Hasan: 1/38 (8.0 ov, Econ 4.75)
+  Syed Rasel: 1/48 (10.0 ov, Econ 4.8)
+  Aftab Ahmed: 1/12 (2.0 ov, Econ 6.0)
+  Extras: 10
+
+Bangladesh: 131 all out (43.5 ov)
+  Mushfiqur Rahim: 38 (75b, 2x4, 0x6, SR 50.67)
+  Mashrafe Mortaza: 37 (51b, 4x4, 0x6, SR 72.55)
+  Javed Omar: 16 (49b, 1x4, 0x6, SR 32.65)
+  Habibul Bashar: 12 (21b, 1x4, 0x6, SR 57.14)
+  Tamim Iqbal: 7 (20b, 1x4, 0x6, SR 35.0)
+  DBL Powell: 3/38 (10.0 ov, Econ 3.8)
+  CD Collymore: 2/11 (7.0 ov, Econ 1.57)
+  DJ Bravo: 2/28 (10.0 ov, Econ 2.8)
+  CH Gayle: 2/28 (8.5 ov, Econ 3.17)
+  JE Taylor: 0/25 (8.0 ov, Econ 3.12)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: RR Sarwan scored 91 off 90 balls (SR 101.11)
+  Half-century: S Chanderpaul scored 50 off 85 balls (SR 58.82)
+
+Bowling Highlights:
+  Key spell: DBL Powell took 3/38
+  Economical spell: CD Collymore conceded 11 runs in 7.0 overs (Econ 1.57)
+  Economical spell: DJ Bravo conceded 28 runs in 10.0 overs (Econ 2.8)
+  Economical spell: CH Gayle conceded 28 runs in 8.5 overs (Econ 3.17)
+  Economical spell: JE Taylor conceded 25 runs in 8.0 overs (Econ 3.12)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 33 off 27 balls
+  Habibul Bashar (Bangladesh): scored 12 off 21 balls
+
+Key Moments:
+  West Indies lost 5 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: West Indies won by 99 runs
+Toss: Bangladesh won and chose to field
+Player of the Match: RR Sarwan

@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: India vs West Indies
+Stage: Group Stage
+Date: 2019-06-27
+Venue: Old Trafford, Manchester
+Captain India: Virat Kohli
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: India vs West Indies (2019-06-27) at Manchester.
+
+India: 268/7 (50.0 ov)
+  V Kohli: 72 (82b, 8x4, 0x6, SR 87.8)
+  MS Dhoni: 56 (61b, 3x4, 2x6, SR 91.8)
+  KL Rahul: 48 (64b, 6x4, 0x6, SR 75.0)
+  HH Pandya: 46 (38b, 5x4, 0x6, SR 121.05)
+  RG Sharma: 18 (23b, 1x4, 1x6, SR 78.26)
+  KAJ Roach: 3/36 (10.0 ov, Econ 3.6)
+  JO Holder: 2/33 (10.0 ov, Econ 3.3)
+  SS Cottrell: 2/50 (10.0 ov, Econ 5.0)
+  FA Allen: 0/52 (10.0 ov, Econ 5.2)
+  O Thomas: 0/63 (7.0 ov, Econ 9.0)
+  Extras: 7
+
+West Indies: 143 all out (34.2 ov)
+  SW Ambris: 31 (40b, 2x4, 0x6, SR 77.5)
+  N Pooran: 28 (50b, 2x4, 0x6, SR 56.0)
+  SO Hetmyer: 18 (29b, 1x4, 0x6, SR 62.07)
+  KAJ Roach: 14 (21b, 3x4, 0x6, SR 66.67)
+  SS Cottrell: 10 (8b, 1x4, 1x6, SR 125.0)
+  Mohammed Shami: 4/16 (6.2 ov, Econ 2.53)
+  JJ Bumrah: 2/9 (6.0 ov, Econ 1.5)
+  YS Chahal: 2/39 (7.0 ov, Econ 5.57)
+  Kuldeep Yadav: 1/35 (9.0 ov, Econ 3.89)
+  HH Pandya: 1/28 (5.0 ov, Econ 5.6)
+  Extras: 18
+
+Batting Highlights:
+  Half-century: V Kohli scored 72 off 82 balls (SR 87.8)
+  Half-century: MS Dhoni scored 56 off 61 balls (SR 91.8)
+
+Bowling Highlights:
+  Key spell: KAJ Roach took 3/36
+  Economical spell: JO Holder conceded 33 runs in 10.0 overs (Econ 3.3)
+  Match-changing spell: Mohammed Shami took 4/16
+  Economical spell: JJ Bumrah conceded 9 runs in 6.0 overs (Econ 1.5)
+
+Captain Performance:
+  Virat Kohli (India): scored 72 off 82 balls
+
+Key Moments:
+  India lost 7 early wickets.
+  West Indies lost 10 early wickets.
+
+Result: India won by 125 runs
+Toss: India won and chose to bat
+Player of the Match: V Kohli

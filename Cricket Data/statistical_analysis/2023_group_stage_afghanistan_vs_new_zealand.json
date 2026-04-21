@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "b66beb3f0a3a",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "city": "Chennai",
+    "date": "2023-10-18",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "Afghanistan",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "149 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Hashmatullah Shahidi",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "Naveen-ul-Haq",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs New Zealand (2023-10-18) at Chennai.\nNew Zealand: 288/6 (50 ov)\nAfghanistan: 139 all out (34.4 ov)\nNew Zealand won by 149 runs.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 427,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 4.92,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 288,
+      "total_wickets": 6,
+      "total_overs": 50,
+      "run_rate": 5.76,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "total_runs": 139,
+      "total_wickets": 10,
+      "total_overs": 34.4,
+      "run_rate": 4.09,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: New Zealand scored 288 in 50 overs at 5.76 RPO",
+    "vs Afghanistan scored 139 in 34.4 overs at 4.09 RPO"
+  ]
+}

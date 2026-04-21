@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs India
+Stage: Group B
+Date: 2007-03-17
+Venue: Queen's Park Oval, Port of Spain, Trinidad
+Captain Bangladesh: Habibul Bashar
+Captain India: Rahul Dravid
+
+Match Summary:
+  2007 World Cup Group B: Bangladesh vs India (2007-03-17) at Trinidad.
+
+India: 191 all out (49.3 ov)
+  SC Ganguly: 66 (129b, 5x4, 0x6, SR 51.16)
+  Yuvraj Singh: 47 (58b, 3x4, 1x6, SR 81.03)
+  MM Patel: 15 (15b, 2x4, 0x6, SR 100.0)
+  Z Khan: 15 (17b, 2x4, 0x6, SR 88.24)
+  R Dravid: 14 (28b, 0x4, 0x6, SR 50.0)
+  Mashrafe Mortaza: 4/38 (9.3 ov, Econ 4.0)
+  Mohammad Rafique: 3/35 (10.0 ov, Econ 3.5)
+  Abdur Razzak: 3/38 (10.0 ov, Econ 3.8)
+  Syed Rasel: 0/31 (10.0 ov, Econ 3.1)
+  Shakib Al Hasan: 0/44 (10.0 ov, Econ 4.4)
+  Extras: 16
+
+Bangladesh: 192/5 (48.3 ov)
+  Mushfiqur Rahim: 56 (107b, 3x4, 2x6, SR 52.34)
+  Shakib Al Hasan: 53 (86b, 5x4, 1x6, SR 61.63)
+  Tamim Iqbal: 51 (53b, 7x4, 2x6, SR 96.23)
+  Aftab Ahmed: 8 (10b, 1x4, 0x6, SR 80.0)
+  Mohammad Ashraful: 8 (23b, 1x4, 0x6, SR 34.78)
+  V Sehwag: 2/17 (5.0 ov, Econ 3.4)
+  MM Patel: 2/39 (8.3 ov, Econ 4.59)
+  Z Khan: 1/41 (9.0 ov, Econ 4.56)
+  SR Tendulkar: 0/8 (3.0 ov, Econ 2.67)
+  Harbhajan Singh: 0/30 (10.0 ov, Econ 3.0)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: SC Ganguly scored 66 off 129 balls (SR 51.16)
+  Half-century: Mushfiqur Rahim scored 56 off 107 balls (SR 52.34)
+  Half-century: Shakib Al Hasan scored 53 off 86 balls (SR 61.63)
+  Half-century: Tamim Iqbal scored 51 off 53 balls (SR 96.23)
+
+Bowling Highlights:
+  Match-changing spell: Mashrafe Mortaza took 4/38
+  Key spell: Mohammad Rafique took 3/35
+  Key spell: Abdur Razzak took 3/38
+  Economical spell: Syed Rasel conceded 31 runs in 10.0 overs (Econ 3.1)
+  Economical spell: V Sehwag conceded 17 runs in 5.0 overs (Econ 3.4)
+  Economical spell: Harbhajan Singh conceded 30 runs in 10.0 overs (Econ 3.0)
+
+Captain Performance:
+  Rahul Dravid (India): scored 14 off 28 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  Bangladesh lost 5 early wickets.
+
+Result: Bangladesh won by 5 wickets
+Toss: India won and chose to bat
+Player of the Match: Mashrafe Mortaza

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: Netherlands vs South Africa
+Stage: Group A
+Date: 2007-03-16
+Venue: Warner Park, Basseterre, St Kitts
+Captain Netherlands: Luuk van Troost
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Group A: Netherlands vs South Africa (2007-03-16) at St Kitts.
+
+South Africa: 353/3 (40.0 ov)
+  JH Kallis: 128 (109b, 11x4, 5x6, SR 117.43)
+  MV Boucher: 75 (31b, 9x4, 4x6, SR 241.94)
+  HH Gibbs: 72 (40b, 4x4, 7x6, SR 180.0)
+  GC Smith: 67 (59b, 6x4, 2x6, SR 113.56)
+  AB de Villiers: 0 (2b, 0x4, 0x6, SR 0.0)
+  WF Stelling: 1/43 (8.0 ov, Econ 5.38)
+  PW Borren: 1/52 (8.0 ov, Econ 6.5)
+  LP van Troost: 1/59 (4.0 ov, Econ 14.75)
+  DJ Reekers: 0/35 (5.0 ov, Econ 7.0)
+  RN ten Doeschate: 0/58 (7.0 ov, Econ 8.29)
+  Extras: 11
+
+Netherlands: 132/9 (40.0 ov)
+  RN ten Doeschate: 57 (74b, 8x4, 1x6, SR 77.03)
+  TBM de Leede: 21 (36b, 2x4, 0x6, SR 58.33)
+  AN Kervezee: 17 (52b, 2x4, 0x6, SR 32.69)
+  ES Szwarczynski: 12 (31b, 2x4, 0x6, SR 38.71)
+  LP van Troost: 5 (6b, 1x4, 0x6, SR 83.33)
+  JM Kemp: 2/18 (4.0 ov, Econ 4.5)
+  SM Pollock: 1/4 (6.0 ov, Econ 0.67)
+  AJ Hall: 1/15 (6.0 ov, Econ 2.5)
+  CK Langeveldt: 1/22 (6.0 ov, Econ 3.67)
+  GC Smith: 1/32 (8.0 ov, Econ 4.0)
+  Extras: 7
+
+Batting Highlights:
+  Century: JH Kallis scored 128 off 109 balls (SR 117.43, 11 fours, 5 sixes)
+  Half-century: MV Boucher scored 75 off 31 balls (SR 241.94)
+  Half-century: HH Gibbs scored 72 off 40 balls (SR 180.0)
+  Half-century: GC Smith scored 67 off 59 balls (SR 113.56)
+  Half-century: RN ten Doeschate scored 57 off 74 balls (SR 77.03)
+
+Bowling Highlights:
+  Economical spell: SM Pollock conceded 4 runs in 6.0 overs (Econ 0.67)
+  Economical spell: AJ Hall conceded 15 runs in 6.0 overs (Econ 2.5)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 67 off 59 balls
+  Luuk van Troost (Netherlands): scored 5 off 6 balls
+
+Key Moments:
+  South Africa lost 3 early wickets.
+  Netherlands lost 9 early wickets.
+
+Result: South Africa won by 221 runs
+Toss: Netherlands won and chose to field
+Player of the Match: HH Gibbs

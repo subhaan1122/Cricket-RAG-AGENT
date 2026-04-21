@@ -1,0 +1,336 @@
+{
+  "match_id": "16bf2042dd2d",
+  "world_cup_year": 2003,
+  "stage": "Super Six",
+  "venue": "New Wanderers Stadium, Johannesburg",
+  "city": "Johannesburg",
+  "date": "2003-03-10",
+  "teams": {
+    "team1": "India",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "183 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Sourav Ganguly",
+    "team2": "Sanath Jayasuriya"
+  },
+  "player_of_match": "J Srinath",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 292,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 23,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 97,
+          "balls": 120,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 80.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 66,
+          "balls": 76,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 86.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Ganguly",
+          "runs": 48,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 90.57,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "M Kaif",
+          "runs": 19,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "R Dravid",
+          "runs": 18,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Muralitharan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 3,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PA de Silva",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 5.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RP Arnold",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 61,
+          "wickets": 0,
+          "economy": 6.1,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 153,
+          "wickets": 1,
+          "overs": "26.2"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 214,
+          "wickets": 2,
+          "overs": "38.5"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 243,
+          "wickets": 3,
+          "overs": "43.4"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 251,
+          "wickets": 4,
+          "overs": "45.2"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 265,
+          "wickets": 5,
+          "overs": "46.5"
+        },
+        {
+          "player": "D Mongia",
+          "runs": 277,
+          "wickets": 6,
+          "overs": "48.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 109,
+      "wickets": 10,
+      "overs": 23.0,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 30,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Muralitharan",
+          "runs": 16,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CRD Fernando",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 12,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WPUJC Vaas",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "J Srinath",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.89,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "A Nehra",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 5,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MS Atapattu",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "J Mubarak",
+          "runs": 2,
+          "wickets": 2,
+          "overs": "1.5"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 3,
+          "wickets": 3,
+          "overs": "2.4"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 15,
+          "wickets": 4,
+          "overs": "3.4"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 40,
+          "wickets": 5,
+          "overs": "7.6"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 59,
+          "wickets": 6,
+          "overs": "14.5"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 75,
+          "wickets": 7,
+          "overs": "17.2"
+        },
+        {
+          "player": "WPUJC Vaas",
+          "runs": 78,
+          "wickets": 8,
+          "overs": "18.4"
+        },
+        {
+          "player": "RAP Nissanka",
+          "runs": 78,
+          "wickets": 9,
+          "overs": "18.6"
+        },
+        {
+          "player": "M Muralitharan",
+          "runs": 109,
+          "wickets": 10,
+          "overs": "22.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_super_six_india_vs_sri_lanka.json",
+  "match_summary": "2003 World Cup Super Six: India vs Sri Lanka (2003-03-10) at Johannesburg.\nIndia: 292/6 (50.0 ov)\n  SR Tendulkar: 97 (120b, 7x4, 1x6)\n  V Sehwag: 66 (76b, 6x4, 3x6)\n  SC Ganguly: 48 (53b, 2x4, 2x6)\n  M Muralitharan: 3/46 (10.0 ov)\n  WPUJC Vaas: 2/34 (10.0 ov)\nSri Lanka: 109 all out (23.0 ov)\n  KC Sangakkara: 30 (33b, 4x4, 0x6)\n  J Srinath: 4/35 (9.0 ov)\n  A Nehra: 4/35 (7.0 ov)\n  Z Khan: 2/33 (7.0 ov)\nIndia won by 183 runs.\nPlayer of the Match: J Srinath."
+}

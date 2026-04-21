@@ -1,0 +1,38 @@
+ICC Cricket World Cup 2023 — Tournament Summary
+Host(s): India
+Format: 10 teams – Round Robin, Semi-finals, Final
+Teams: Afghanistan, Australia, Bangladesh, England, India, Netherlands, New Zealand, Pakistan, South Africa, Sri Lanka
+Total Matches: 48
+Winner: Australia
+Runner-up: India
+Player of the Tournament: Virat Kohli
+Top Run Scorer: V Kohli (710 runs)
+Top Wicket Taker: Mohammed Shami (24 wickets)
+Highest Individual Score: MR Marsh — 177 vs Bangladesh (Group Stage)
+
+Semi-finalists: Australia, India, New Zealand, South Africa
+Finalists: Australia, India
+
+Team Standings:
+  India: P11 W10 L1 (Win% 90.9)
+  Australia: P11 W9 L2 (Win% 81.8)
+  South Africa: P10 W7 L3 (Win% 70.0)
+  New Zealand: P10 W5 L5 (Win% 50.0)
+  Afghanistan: P9 W4 L5 (Win% 44.4)
+  Pakistan: P9 W4 L5 (Win% 44.4)
+  England: P9 W3 L6 (Win% 33.3)
+  Bangladesh: P9 W2 L7 (Win% 22.2)
+  Netherlands: P9 W2 L7 (Win% 22.2)
+  Sri Lanka: P9 W2 L7 (Win% 22.2)
+
+Captains:
+  Afghanistan: Hashmatullah Shahidi
+  Australia: Pat Cummins
+  Bangladesh: Shakib Al Hasan
+  England: Jos Buttler
+  India: Rohit Sharma
+  Netherlands: Scott Edwards
+  New Zealand: Kane Williamson
+  Pakistan: Babar Azam
+  South Africa: Temba Bavuma
+  Sri Lanka: Kusal Mendis

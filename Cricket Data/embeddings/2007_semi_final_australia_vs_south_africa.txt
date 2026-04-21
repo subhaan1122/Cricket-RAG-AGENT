@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: Australia vs South Africa
+Stage: Semi-Final
+Date: 2007-04-25
+Venue: Beausejour Stadium, Gros Islet, St Lucia
+Captain Australia: Ricky Ponting
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Semi-Final: Australia vs South Africa (2007-04-25) at St Lucia.
+
+South Africa: 149 all out (43.5 ov)
+  JM Kemp: 49 (91b, 4x4, 1x6, SR 53.85)
+  HH Gibbs: 39 (49b, 6x4, 0x6, SR 79.59)
+  AB de Villiers: 15 (34b, 3x4, 0x6, SR 44.12)
+  A Nel: 8 (41b, 1x4, 0x6, SR 19.51)
+  CK Langeveldt: 6 (10b, 1x4, 0x6, SR 60.0)
+  SW Tait: 4/39 (10.0 ov, Econ 3.9)
+  GD McGrath: 3/18 (8.0 ov, Econ 2.25)
+  NW Bracken: 1/15 (7.0 ov, Econ 2.14)
+  GB Hogg: 1/24 (10.0 ov, Econ 2.4)
+  SR Watson: 1/49 (8.5 ov, Econ 5.55)
+  Extras: 17
+
+Australia: 153/3 (31.3 ov)
+  MJ Clarke: 60 (86b, 8x4, 0x6, SR 69.77)
+  ML Hayden: 41 (60b, 4x4, 0x6, SR 68.33)
+  RT Ponting: 22 (25b, 5x4, 0x6, SR 88.0)
+  A Symonds: 18 (16b, 3x4, 0x6, SR 112.5)
+  AC Gilchrist: 1 (5b, 0x4, 0x6, SR 20.0)
+  SM Pollock: 1/16 (5.0 ov, Econ 3.2)
+  A Nel: 1/31 (7.0 ov, Econ 4.43)
+  CK Langeveldt: 1/34 (6.0 ov, Econ 5.67)
+  JM Kemp: 0/4 (2.0 ov, Econ 2.0)
+  JH Kallis: 0/20 (5.0 ov, Econ 4.0)
+  Extras: 11
+
+Batting Highlights:
+  Half-century: MJ Clarke scored 60 off 86 balls (SR 69.77)
+
+Bowling Highlights:
+  Match-changing spell: SW Tait took 4/39
+  Key spell: GD McGrath took 3/18
+  Economical spell: NW Bracken conceded 15 runs in 7.0 overs (Econ 2.14)
+  Economical spell: GB Hogg conceded 24 runs in 10.0 overs (Econ 2.4)
+  Economical spell: SM Pollock conceded 16 runs in 5.0 overs (Econ 3.2)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 22 off 25 balls
+
+Key Moments:
+  South Africa lost 10 early wickets.
+  Australia lost 3 early wickets.
+  South Africa lost 5 wickets in the powerplay.
+
+Result: Australia won by 7 wickets
+Toss: South Africa won and chose to bat
+Player of the Match: GD McGrath

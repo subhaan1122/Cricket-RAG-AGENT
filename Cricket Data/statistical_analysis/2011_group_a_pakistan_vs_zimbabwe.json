@@ -1,0 +1,703 @@
+{
+  "match_info": {
+    "match_id": "a436e4961bff",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "Pallekele International Cricket Stadium",
+    "city": "",
+    "date": "2011-03-14",
+    "teams": {
+      "team1": "Pakistan",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "Zimbabwe",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "7 wickets",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shahid Afridi",
+      "team2": "Elton Chigumbura"
+    },
+    "player_of_match": "Umar Gul",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Pakistan vs Zimbabwe (2011-03-14) at Pallekele International Cricket Stadium.\nZimbabwe: 151/7 (39.4 ov)\n  CR Ervine: 52 (82b, 5x4, 0x6)\n  E Chigumbura: 32* (46b, 2x4, 0x6)\n  Umar Gul: 3/36 (7.4 ov)\nPakistan: 164/3 (34.1 ov)\n  Asad Shafiq: 78* (97b, 7x4, 0x6)\n  Mohammad Hafeez: 49 (65b, 6x4, 0x6)\n  RW Price: 2/21 (8.0 ov)\nPakistan won by 7 wickets (D/L).\nPlayer of the Match: Umar Gul.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 315,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 4.35,
+    "highest_individual_score": 78,
+    "best_bowling_figures": "3/36",
+    "total_sixes": 0,
+    "total_fours": 25
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 151,
+      "total_wickets": 7,
+      "total_overs": 39.4,
+      "run_rate": 3.87,
+      "top_batters": [
+        {
+          "name": "CR Ervine",
+          "runs": 52,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.41,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "E Chigumbura",
+          "runs": 32,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "T Taibu",
+          "runs": 19,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "P Utseya",
+          "runs": 18,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GA Lamb",
+          "runs": 16,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Umar Gul",
+          "overs": "7.4",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 4.7,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BRM Taylor",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 5,
+          "wickets": 2,
+          "overs": "1.6"
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 13,
+          "wickets": 3,
+          "overs": "5.2"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 43,
+          "wickets": 4,
+          "overs": "12.4"
+        },
+        {
+          "player": "GA Lamb",
+          "runs": 84,
+          "wickets": 5,
+          "overs": "23.5"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 103,
+          "wickets": 6,
+          "overs": "29.3"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 151,
+          "wickets": 7,
+          "overs": "39.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 35,
+        "wickets": 3,
+        "run_rate": 3.5,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 164,
+      "total_wickets": 3,
+      "total_overs": 34.1,
+      "run_rate": 4.82,
+      "top_batters": [
+        {
+          "name": "Asad Shafiq",
+          "runs": 78,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 80.41,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 49,
+          "balls": 65,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 13,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "runs": 8,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RW Price",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 2.62,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AG Cremer",
+          "overs": "6.1",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 5.03,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Lamb",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 6.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Masakadza",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 7.33,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 17,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 99,
+          "wickets": 2,
+          "overs": "22.2"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "23.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 39,
+        "wickets": 1,
+        "run_rate": 3.9,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 46,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "CR Ervine": {
+      "batting": {
+        "runs": 52,
+        "balls": 82,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 63.41
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Chigumbura": {
+      "batting": {
+        "runs": 32,
+        "balls": 46,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 69.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Taibu": {
+      "batting": {
+        "runs": 19,
+        "balls": 29,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 65.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Utseya": {
+      "batting": {
+        "runs": 18,
+        "balls": 32,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 56.25
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 3.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GA Lamb": {
+      "batting": {
+        "runs": 16,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 6.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Gul": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.666666666666667,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 3,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdul Razzaq": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 3.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wahab Riaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 49,
+        "balls": 65,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 75.38
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 3,
+        "balls": 4,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Asad Shafiq": {
+      "batting": {
+        "runs": 78,
+        "balls": 97,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 80.41
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Younis Khan": {
+      "batting": {
+        "runs": 13,
+        "balls": 28,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 46.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Ahmed Shehzad": {
+      "batting": {
+        "runs": 8,
+        "balls": 11,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RW Price": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 2,
+        "economy": 2.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AG Cremer": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.166666666666667,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 0,
+        "economy": 5.03
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Masakadza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 7.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 151 in 39.4 overs at 3.87 RPO",
+    "vs Pakistan scored 164 in 34.1 overs at 4.82 RPO",
+    "Top batsman: Asad Shafiq with 78 runs",
+    "Top bowler: Umar Gul with 3 wickets"
+  ]
+}

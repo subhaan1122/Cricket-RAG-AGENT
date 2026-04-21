@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: Pakistan vs Zimbabwe
+Stage: Group A
+Date: 2011-03-14
+Venue: Pallekele International Cricket Stadium
+Captain Pakistan: Shahid Afridi
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2011 World Cup Group A: Pakistan vs Zimbabwe (2011-03-14) at Pallekele International Cricket Stadium.
+
+Zimbabwe: 151/7 (39.4 ov)
+  CR Ervine: 52 (82b, 5x4, 0x6, SR 63.41)
+  E Chigumbura: 32 (46b, 2x4, 0x6, SR 69.57)
+  T Taibu: 19 (29b, 2x4, 0x6, SR 65.52)
+  P Utseya: 18 (32b, 0x4, 0x6, SR 56.25)
+  GA Lamb: 16 (28b, 1x4, 0x6, SR 57.14)
+  Umar Gul: 3/36 (7.4 ov, Econ 4.7)
+  Abdul Razzaq: 1/24 (7.0 ov, Econ 3.43)
+  Wahab Riaz: 1/21 (6.0 ov, Econ 3.5)
+  Mohammad Hafeez: 1/11 (3.0 ov, Econ 3.67)
+  Shahid Afridi: 1/33 (8.0 ov, Econ 4.12)
+  Extras: 5
+
+Pakistan: 164/3 (34.1 ov)
+  Asad Shafiq: 78 (97b, 7x4, 0x6, SR 80.41)
+  Mohammad Hafeez: 49 (65b, 6x4, 0x6, SR 75.38)
+  Younis Khan: 13 (28b, 0x4, 0x6, SR 46.43)
+  Ahmed Shehzad: 8 (11b, 2x4, 0x6, SR 72.73)
+  Shahid Afridi: 3 (4b, 0x4, 0x6, SR 75.0)
+  RW Price: 2/21 (8.0 ov, Econ 2.62)
+  P Utseya: 1/24 (7.0 ov, Econ 3.43)
+  AG Cremer: 0/31 (6.1 ov, Econ 5.03)
+  GA Lamb: 0/44 (7.0 ov, Econ 6.29)
+  SW Masakadza: 0/44 (6.0 ov, Econ 7.33)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: CR Ervine scored 52 off 82 balls (SR 63.41)
+  Half-century: Asad Shafiq scored 78 off 97 balls (SR 80.41)
+
+Bowling Highlights:
+  Key spell: Umar Gul took 3/36
+  Economical spell: Abdul Razzaq conceded 24 runs in 7.0 overs (Econ 3.43)
+  Economical spell: Wahab Riaz conceded 21 runs in 6.0 overs (Econ 3.5)
+  Economical spell: RW Price conceded 21 runs in 8.0 overs (Econ 2.62)
+  Economical spell: P Utseya conceded 24 runs in 7.0 overs (Econ 3.43)
+
+Captain Performance:
+  Elton Chigumbura (Zimbabwe): scored 32 off 46 balls
+  Shahid Afridi (Pakistan): scored 3 off 4 balls
+
+Key Moments:
+  Zimbabwe lost 7 early wickets.
+  Pakistan lost 3 early wickets.
+  Zimbabwe lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 7 wickets (D/L)
+Toss: Zimbabwe won and chose to bat
+Player of the Match: Umar Gul

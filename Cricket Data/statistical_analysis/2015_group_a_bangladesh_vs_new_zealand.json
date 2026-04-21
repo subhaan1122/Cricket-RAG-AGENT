@@ -1,0 +1,707 @@
+{
+  "match_info": {
+    "match_id": "d7e77dbfa2dc",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Seddon Park",
+    "city": "Hamilton",
+    "date": "2015-03-13",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "Bangladesh"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "3 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Brendon McCullum",
+      "team2": "Mashrafe Mortaza"
+    },
+    "player_of_match": "MJ Guptill",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group A: New Zealand vs Bangladesh (2015-03-13) at Hamilton.\nBangladesh: 288/7 (50.0 ov)\n  Mahmudullah: 128* (123b, 12x4, 3x6)\n  Soumya Sarkar: 51 (58b, 7x4, 0x6)\n  Sabbir Rahman: 40 (23b, 5x4, 2x6)\n  CJ Anderson: 2/43 (10.0 ov)\n  TA Boult: 2/56 (10.0 ov)\n  GD Elliott: 2/27 (2.0 ov)\nNew Zealand: 290/7 (48.5 ov)\n  MJ Guptill: 105 (100b, 11x4, 2x6)\n  LRPL Taylor: 56 (97b, 5x4, 0x6)\n  CJ Anderson: 39 (26b, 3x4, 3x6)\n  Shakib Al Hasan: 4/55 (8.5 ov)\n  Nasir Hossain: 2/32 (5.0 ov)\nNew Zealand won by 3 wickets.\nPlayer of the Match: MJ Guptill.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 578,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.9,
+    "highest_individual_score": 128,
+    "best_bowling_figures": "4/55",
+    "total_sixes": 12,
+    "total_fours": 54
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 288,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 5.76,
+      "top_batters": [
+        {
+          "name": "Mahmudullah",
+          "runs": 128,
+          "balls": 123,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 104.07,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Soumya Sarkar",
+          "runs": 51,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 87.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sabbir Rahman",
+          "runs": 40,
+          "balls": 23,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 173.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 23,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 127.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 15,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CJ Anderson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.3,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 5.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GD Elliott",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 13.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 51,
+          "wickets": 0,
+          "economy": 5.1,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imrul Kayes",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "Soumya Sarkar",
+          "runs": 117,
+          "wickets": 3,
+          "overs": "27.4"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 151,
+          "wickets": 4,
+          "overs": "33.6"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 182,
+          "wickets": 5,
+          "overs": "39.2"
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 260,
+          "wickets": 6,
+          "overs": "47.2"
+        },
+        {
+          "player": "Nasir Hossain",
+          "runs": 287,
+          "wickets": 7,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 29,
+        "wickets": 2,
+        "run_rate": 2.9,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 47,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 104,
+        "wickets": 2,
+        "run_rate": 10.4,
+        "fours": 10,
+        "sixes": 5,
+        "dot_balls": 17,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 290,
+      "total_wickets": 7,
+      "total_overs": 48.5,
+      "run_rate": 6.04,
+      "top_batters": [
+        {
+          "name": "MJ Guptill",
+          "runs": 105,
+          "balls": 100,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 105.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 56,
+          "balls": 97,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.73,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "CJ Anderson",
+          "runs": 39,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GD Elliott",
+          "runs": 39,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 114.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DL Vettori",
+          "runs": 16,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "8.5",
+          "maidens": 1,
+          "runs_conceded": 55,
+          "wickets": 4,
+          "economy": 6.23,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Nasir Hossain",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rubel Hossain",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Soumya Sarkar",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 4.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Taijul Islam",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 27,
+          "wickets": 1,
+          "overs": "4.1"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 164,
+          "wickets": 3,
+          "overs": "30.4"
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 210,
+          "wickets": 4,
+          "overs": "38.5"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 219,
+          "wickets": 5,
+          "overs": "41.2"
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 247,
+          "wickets": 6,
+          "overs": "44.4"
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 269,
+          "wickets": 7,
+          "overs": "47.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 57,
+        "wickets": 2,
+        "run_rate": 5.7,
+        "fours": 5,
+        "sixes": 2,
+        "dot_balls": 35,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "8.5",
+        "balls": 53,
+        "runs": 79,
+        "wickets": 3,
+        "run_rate": 8.94,
+        "fours": 7,
+        "sixes": 5,
+        "dot_balls": 23,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Mahmudullah": {
+      "batting": {
+        "runs": 128,
+        "balls": 123,
+        "fours": 12,
+        "sixes": 3,
+        "strike_rate": 104.07
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Soumya Sarkar": {
+      "batting": {
+        "runs": 51,
+        "balls": 58,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 87.93
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 0,
+        "economy": 4.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sabbir Rahman": {
+      "batting": {
+        "runs": 40,
+        "balls": 23,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 173.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 23,
+        "balls": 18,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 127.78
+      },
+      "bowling": {
+        "overs": 8.833333333333334,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 4,
+        "economy": 6.23
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mushfiqur Rahim": {
+      "batting": {
+        "runs": 15,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 60.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CJ Anderson": {
+      "batting": {
+        "runs": 39,
+        "balls": 26,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 2,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD Elliott": {
+      "batting": {
+        "runs": 39,
+        "balls": 34,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 114.71
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 2,
+        "economy": 13.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 16,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 160.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TG Southee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 0,
+        "economy": 5.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 105,
+        "balls": 100,
+        "fours": 11,
+        "sixes": 2,
+        "strike_rate": 105.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LRPL Taylor": {
+      "batting": {
+        "runs": 56,
+        "balls": 97,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 57.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Nasir Hossain": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 2,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rubel Hossain": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Taijul Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 0,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 288 in 50.0 overs at 5.76 RPO",
+    "vs New Zealand scored 290 in 48.5 overs at 6.04 RPO",
+    "Top batsman: Mahmudullah with 128 runs",
+    "Top bowler: Shakib Al Hasan with 4 wickets"
+  ]
+}

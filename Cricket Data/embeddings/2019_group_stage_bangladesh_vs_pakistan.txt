@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2019
+Match: Bangladesh vs Pakistan
+Stage: Group Stage
+Date: 2019-07-05
+Venue: Lord's, London
+Captain Bangladesh: Mashrafe Mortaza
+Captain Pakistan: Sarfaraz Ahmed
+
+Match Summary:
+  2019 World Cup Group Stage: Bangladesh vs Pakistan (2019-07-05) at London.
+
+Pakistan: 315/9 (50.0 ov)
+  Imam-ul-Haq: 100 (100b, 8x4, 0x6, SR 100.0)
+  Babar Azam: 96 (98b, 11x4, 0x6, SR 97.96)
+  Imad Wasim: 43 (26b, 6x4, 1x6, SR 165.38)
+  Mohammad Hafeez: 27 (25b, 3x4, 0x6, SR 108.0)
+  Fakhar Zaman: 13 (31b, 1x4, 0x6, SR 41.94)
+  Mustafizur Rahman: 5/75 (10.0 ov, Econ 7.5)
+  Mohammad Saifuddin: 3/77 (9.0 ov, Econ 8.56)
+  Mehedi Hasan Miraz: 1/30 (10.0 ov, Econ 3.0)
+  Shakib Al Hasan: 0/57 (10.0 ov, Econ 5.7)
+  Mashrafe Mortaza: 0/46 (7.0 ov, Econ 6.57)
+  Extras: 16
+
+Bangladesh: 221 all out (44.1 ov)
+  Shakib Al Hasan: 64 (77b, 6x4, 0x6, SR 83.12)
+  Liton Das: 32 (40b, 3x4, 0x6, SR 80.0)
+  Mahmudullah: 29 (41b, 3x4, 0x6, SR 70.73)
+  Soumya Sarkar: 22 (22b, 4x4, 0x6, SR 100.0)
+  Mushfiqur Rahim: 16 (19b, 2x4, 0x6, SR 84.21)
+  Shaheen Shah Afridi: 6/35 (9.1 ov, Econ 3.82)
+  Shadab Khan: 2/59 (9.0 ov, Econ 6.56)
+  Mohammad Amir: 1/31 (7.0 ov, Econ 4.43)
+  Wahab Riaz: 1/33 (7.0 ov, Econ 4.71)
+  Imad Wasim: 0/26 (6.0 ov, Econ 4.33)
+  Extras: 11
+
+Batting Highlights:
+  Century: Imam-ul-Haq scored 100 off 100 balls (SR 100.0, 8 fours, 0 sixes)
+  Half-century: Babar Azam scored 96 off 98 balls (SR 97.96)
+  Quickfire innings: Imad Wasim smashed 43 off 26 balls at SR 165.38
+  Half-century: Shakib Al Hasan scored 64 off 77 balls (SR 83.12)
+
+Bowling Highlights:
+  Match-changing spell: Mustafizur Rahman took 5/75
+  Key spell: Mohammad Saifuddin took 3/77
+  Economical spell: Mehedi Hasan Miraz conceded 30 runs in 10.0 overs (Econ 3.0)
+  Match-changing spell: Shaheen Shah Afridi took 6/35
+
+Captain Performance:
+  Bangladesh captain: Mashrafe Mortaza
+  Pakistan captain: Sarfaraz Ahmed
+
+Key Moments:
+  Pakistan lost 9 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: Pakistan won by 94 runs
+Toss: Pakistan won and chose to bat
+Player of the Match: Shaheen Shah Afridi

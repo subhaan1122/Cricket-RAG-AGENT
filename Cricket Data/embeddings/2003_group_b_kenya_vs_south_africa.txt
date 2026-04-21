@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2003
+Match: Kenya vs South Africa
+Stage: Group B
+Date: 2003-02-12
+Venue: North West Cricket Stadium, Potchefstroom, Potchefstroom
+Captain Kenya: Steve Tikolo
+Captain South Africa: Shaun Pollock
+
+Match Summary:
+  2003 World Cup Group B: Kenya vs South Africa (2003-02-12) at Potchefstroom.
+
+Kenya: 140 all out (38.0 ov)
+  RD Shah: 60 (87b, 7x4, 0x6, SR 68.97)
+  TM Odoyo: 22 (41b, 2x4, 1x6, SR 53.66)
+  MO Odumbe: 16 (33b, 0x4, 0x6, SR 48.48)
+  PJ Ongondo: 13 (13b, 1x4, 1x6, SR 100.0)
+  HS Modi: 9 (24b, 0x4, 0x6, SR 37.5)
+  L Klusener: 4/16 (8.0 ov, Econ 2.0)
+  SM Pollock: 2/15 (6.0 ov, Econ 2.5)
+  M Ntini: 1/14 (7.0 ov, Econ 2.0)
+  N Boje: 1/44 (9.0 ov, Econ 4.89)
+  CK Langeveldt: 0/24 (5.0 ov, Econ 4.8)
+  Extras: 15
+
+South Africa: 142/0 (21.2 ov)
+  HH Gibbs: 87 (66b, 12x4, 4x6, SR 131.82)
+  G Kirsten: 52 (63b, 9x4, 0x6, SR 82.54)
+  MA Suji: 0/21 (4.0 ov, Econ 5.25)
+  TM Odoyo: 0/34 (6.0 ov, Econ 5.67)
+  CO Obuya: 0/32 (5.0 ov, Econ 6.4)
+  PJ Ongondo: 0/17 (2.2 ov, Econ 7.29)
+  AY Karim: 0/17 (2.0 ov, Econ 8.5)
+  Extras: 3
+
+Batting Highlights:
+  Half-century: RD Shah scored 60 off 87 balls (SR 68.97)
+  Half-century: HH Gibbs scored 87 off 66 balls (SR 131.82)
+  Half-century: G Kirsten scored 52 off 63 balls (SR 82.54)
+
+Bowling Highlights:
+  Match-changing spell: L Klusener took 4/16
+  Economical spell: SM Pollock conceded 15 runs in 6.0 overs (Econ 2.5)
+  Economical spell: M Ntini conceded 14 runs in 7.0 overs (Econ 2.0)
+
+Captain Performance:
+  Kenya captain: Steve Tikolo
+  South Africa captain: Shaun Pollock
+
+Key Moments:
+  Kenya lost 10 early wickets.
+  Kenya lost 3 wickets in the powerplay.
+
+Result: South Africa won by 10 wickets
+Toss: Kenya won and chose to bat
+Player of the Match: L Klusener

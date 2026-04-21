@@ -1,0 +1,54 @@
+{
+  "match_id": "2e5a542a7b5e",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "McLean Park, Napier",
+  "city": "Napier",
+  "date": "2015-03-08",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Brendon McCullum"
+  },
+  "player_of_match": "DL Vettori",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 186,
+      "wickets": 10,
+      "overs": 47.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 188,
+      "wickets": 4,
+      "overs": 36.1,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_new_zealand.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs New Zealand (2015-03-08) at Napier.\nAfghanistan: 186 all out (47.4 ov)\nNew Zealand: 188/4 (36.1 ov)\nNew Zealand won by 6 wickets. Player of the Match: DL Vettori."
+}

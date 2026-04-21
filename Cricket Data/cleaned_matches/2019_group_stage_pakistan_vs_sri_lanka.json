@@ -1,0 +1,31 @@
+{
+  "match_id": "74ad8f67a018",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "County Ground, Bristol",
+  "city": "Bristol",
+  "date": "2019-06-07",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result"
+  },
+  "captains": {
+    "team1": "Sarfaraz Ahmed",
+    "team2": "Dimuth Karunaratne"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_pakistan_vs_sri_lanka.json",
+  "match_summary": "2019 World Cup Group Stage: Pakistan vs Sri Lanka (2019-06-07) at Bristol.\nMatch had no result (abandoned / no play possible)."
+}

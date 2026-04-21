@@ -1,0 +1,799 @@
+{
+  "match_info": {
+    "match_id": "68cc275ae8df",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "date": "2011-03-19",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "4 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Shahid Afridi"
+    },
+    "player_of_match": "Umar Akmal",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Australia vs Pakistan (2011-03-19) at Colombo.\nAustralia: 176 all out (46.4 ov)\n  BJ Haddin: 42 (80b, 3x4, 1x6)\n  MJ Clarke: 34 (48b, 2x4, 0x6)\n  Umar Gul: 3/30 (7.4 ov)\n  Abdul Razzaq: 2/8 (4.0 ov)\nPakistan: 178/6 (41.0 ov)\n  Asad Shafiq: 46 (81b, 5x4, 0x6)\n  Umar Akmal: 44* (59b, 4x4, 1x6)\n  Younis Khan: 31 (42b, 4x4, 0x6)\n  B Lee: 4/28 (8.0 ov)\nPakistan won by 4 wickets.\nPlayer of the Match: Umar Akmal.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 354,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 4.08,
+    "highest_individual_score": 46,
+    "best_bowling_figures": "4/28",
+    "total_sixes": 2,
+    "total_fours": 28
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 176,
+      "total_wickets": 10,
+      "total_overs": 46.4,
+      "run_rate": 3.83,
+      "top_batters": [
+        {
+          "name": "BJ Haddin",
+          "runs": 42,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 52.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 34,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 25,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 19,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MEK Hussey",
+          "runs": 12,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Umar Gul",
+          "overs": "7.4",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.91,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 2,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Rehman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Watson",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 75,
+          "wickets": 2,
+          "overs": "18.4"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 90,
+          "wickets": 3,
+          "overs": "23.4"
+        },
+        {
+          "player": "CL White",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "30.1"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 134,
+          "wickets": 5,
+          "overs": "34.4"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 144,
+          "wickets": 6,
+          "overs": "37.4"
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 147,
+          "wickets": 7,
+          "overs": "38.4"
+        },
+        {
+          "player": "JJ Krejza",
+          "runs": 169,
+          "wickets": 8,
+          "overs": "44.3"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 176,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "B Lee",
+          "runs": 176,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 1,
+        "run_rate": 3.6,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 46,
+        "extras": 9
+      },
+      "death_overs_stats": {
+        "overs": "6.4",
+        "balls": 40,
+        "runs": 28,
+        "wickets": 3,
+        "run_rate": 4.2,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 22,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 178,
+      "total_wickets": 6,
+      "total_overs": 41.0,
+      "run_rate": 4.34,
+      "top_batters": [
+        {
+          "name": "Asad Shafiq",
+          "runs": 46,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Akmal",
+          "runs": 44,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 74.58,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 31,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kamran Akmal",
+          "runs": 23,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 85.19,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Abdul Razzaq",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "B Lee",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 4,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Krejza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.4"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 45,
+          "wickets": 2,
+          "overs": "8.4"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 98,
+          "wickets": 3,
+          "overs": "22.4"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 98,
+          "wickets": 4,
+          "overs": "22.5"
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 139,
+          "wickets": 5,
+          "overs": "31.6"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 142,
+          "wickets": 6,
+          "overs": "32.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 45,
+        "wickets": 2,
+        "run_rate": 4.5,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "1.0",
+        "balls": 6,
+        "runs": 9,
+        "wickets": 0,
+        "run_rate": 9.0,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 3,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BJ Haddin": {
+      "batting": {
+        "runs": 42,
+        "balls": 80,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 52.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Clarke": {
+      "batting": {
+        "runs": 34,
+        "balls": 48,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 70.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 25,
+        "balls": 32,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 78.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 19,
+        "balls": 33,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 57.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MEK Hussey": {
+      "batting": {
+        "runs": 12,
+        "balls": 22,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Gul": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.666666666666667,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 3,
+        "economy": 3.91
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdul Razzaq": {
+      "batting": {
+        "runs": 20,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 2,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Rehman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Asad Shafiq": {
+      "batting": {
+        "runs": 46,
+        "balls": 81,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 56.79
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Akmal": {
+      "batting": {
+        "runs": 44,
+        "balls": 59,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 74.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Younis Khan": {
+      "batting": {
+        "runs": 31,
+        "balls": 42,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 73.81
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kamran Akmal": {
+      "batting": {
+        "runs": 23,
+        "balls": 27,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 85.19
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 4,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Krejza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 4.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 4.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 4.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 176 in 46.4 overs at 3.83 RPO",
+    "vs Pakistan scored 178 in 41.0 overs at 4.34 RPO",
+    "Top batsman: Asad Shafiq with 46 runs",
+    "Top bowler: B Lee with 4 wickets"
+  ]
+}

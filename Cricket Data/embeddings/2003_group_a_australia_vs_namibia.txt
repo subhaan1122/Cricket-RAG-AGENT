@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2003
+Match: Australia vs Namibia
+Stage: Group A
+Date: 2003-02-27
+Venue: North West Cricket Stadium, Potchefstroom, Potchefstroom
+Captain Australia: Ricky Ponting
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: Australia vs Namibia (2003-02-27) at Potchefstroom.
+
+Australia: 301/6 (50.0 ov)
+  ML Hayden: 88 (73b, 9x4, 3x6, SR 120.55)
+  A Symonds: 59 (63b, 2x4, 2x6, SR 93.65)
+  DS Lehmann: 50 (31b, 5x4, 3x6, SR 161.29)
+  DR Martyn: 35 (50b, 2x4, 0x6, SR 70.0)
+  GB Hogg: 19 (14b, 3x4, 0x6, SR 135.71)
+  LJ Burger: 3/39 (10.0 ov, Econ 3.9)
+  BO van Rooi: 1/24 (6.0 ov, Econ 4.0)
+  BL Kotze: 1/62 (10.0 ov, Econ 6.2)
+  DB Kotze: 0/54 (10.0 ov, Econ 5.4)
+  AJ Burger: 0/22 (4.0 ov, Econ 5.5)
+  Extras: 18
+
+Namibia: 45 all out (14.0 ov)
+  DB Kotze: 10 (14b, 1x4, 0x6, SR 71.43)
+  M van Schoor: 6 (10b, 1x4, 0x6, SR 60.0)
+  AJ Burger: 4 (4b, 1x4, 0x6, SR 100.0)
+  M Karg: 4 (14b, 0x4, 0x6, SR 28.57)
+  D Keulder: 3 (20b, 0x4, 0x6, SR 15.0)
+  GD McGrath: 7/15 (7.0 ov, Econ 2.14)
+  AJ Bichel: 2/0 (1.0 ov, Econ 0.0)
+  B Lee: 1/26 (6.0 ov, Econ 4.33)
+  Extras: 15
+
+Batting Highlights:
+  Half-century: ML Hayden scored 88 off 73 balls (SR 120.55)
+  Half-century: A Symonds scored 59 off 63 balls (SR 93.65)
+  Half-century: DS Lehmann scored 50 off 31 balls (SR 161.29)
+
+Bowling Highlights:
+  Key spell: LJ Burger took 3/39
+  Match-changing spell: GD McGrath took 7/15
+
+Captain Performance:
+  Deon Kotze (Namibia): scored 10 off 14 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  Namibia lost 10 early wickets.
+  Namibia lost 5 wickets in the powerplay.
+
+Result: Australia won by 256 runs
+Toss: Australia won and chose to bat
+Player of the Match: GD McGrath

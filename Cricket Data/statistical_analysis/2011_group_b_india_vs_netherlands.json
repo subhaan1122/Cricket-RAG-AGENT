@@ -1,0 +1,733 @@
+{
+  "match_info": {
+    "match_id": "a5b646560722",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "date": "2011-03-09",
+    "teams": {
+      "team1": "India",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "5 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "MS Dhoni",
+      "team2": "Peter Borren"
+    },
+    "player_of_match": "Yuvraj Singh",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: India vs Netherlands (2011-03-09) at Delhi.\nNetherlands: 189 all out (46.4 ov)\n  PW Borren: 38 (36b, 3x4, 2x6)\n  Z Khan: 3/20 (6.4 ov)\n  PP Chawla: 2/47 (10.0 ov)\n  Yuvraj Singh: 2/43 (9.0 ov)\nIndia: 191/5 (36.3 ov)\n  Yuvraj Singh: 51* (73b, 7x4, 0x6)\n  V Sehwag: 39 (26b, 5x4, 2x6)\n  PM Seelaar: 3/53 (10.0 ov)\nIndia won by 5 wickets.\nPlayer of the Match: Yuvraj Singh.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 380,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.71,
+    "highest_individual_score": 51,
+    "best_bowling_figures": "3/53",
+    "total_sixes": 6,
+    "total_fours": 35
+  },
+  "innings_analysis": [
+    {
+      "team": "Netherlands",
+      "total_runs": 189,
+      "total_wickets": 10,
+      "total_overs": 46.4,
+      "run_rate": 4.11,
+      "top_batters": [
+        {
+          "name": "PW Borren",
+          "runs": 38,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 105.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TLW Cooper",
+          "runs": 29,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.7,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ES Szwarczynski",
+          "runs": 28,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "W Barresi",
+          "runs": 26,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "runs": 21,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "6.4",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 3,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PP Chawla",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Nehra",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "YK Pathan",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 2.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ES Szwarczynski",
+          "runs": 56,
+          "wickets": 1,
+          "overs": "15.2"
+        },
+        {
+          "player": "W Barresi",
+          "runs": 64,
+          "wickets": 2,
+          "overs": "18.6"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 99,
+          "wickets": 3,
+          "overs": "28.2"
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 100,
+          "wickets": 4,
+          "overs": "29.1"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 101,
+          "wickets": 5,
+          "overs": "30.6"
+        },
+        {
+          "player": "TN de Grooth",
+          "runs": 108,
+          "wickets": 6,
+          "overs": "34.2"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 127,
+          "wickets": 7,
+          "overs": "38.1"
+        },
+        {
+          "player": "BP Kruger",
+          "runs": 151,
+          "wickets": 8,
+          "overs": "42.2"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 189,
+          "wickets": 9,
+          "overs": "46.1"
+        },
+        {
+          "player": "Mudassar Bukhari",
+          "runs": 189,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 38,
+        "wickets": 0,
+        "run_rate": 3.8,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "6.4",
+        "balls": 40,
+        "runs": 55,
+        "wickets": 3,
+        "run_rate": 8.25,
+        "fours": 4,
+        "sixes": 4,
+        "dot_balls": 20,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 191,
+      "total_wickets": 5,
+      "total_overs": 36.3,
+      "run_rate": 5.31,
+      "top_batters": [
+        {
+          "name": "Yuvraj Singh",
+          "runs": 51,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 69.86,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 39,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "G Gambhir",
+          "runs": 28,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SR Tendulkar",
+          "runs": 27,
+          "balls": 22,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 122.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 19,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.5,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PM Seelaar",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 53,
+          "wickets": 3,
+          "economy": 5.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PW Borren",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 5.43,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TLW Cooper",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 69,
+          "wickets": 1,
+          "overs": "7.3"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 80,
+          "wickets": 2,
+          "overs": "9.1"
+        },
+        {
+          "player": "YK Pathan",
+          "runs": 82,
+          "wickets": 3,
+          "overs": "9.5"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 99,
+          "wickets": 4,
+          "overs": "14.3"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 139,
+          "wickets": 5,
+          "overs": "23.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 82,
+        "wickets": 3,
+        "run_rate": 8.2,
+        "fours": 12,
+        "sixes": 3,
+        "dot_balls": 34,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "PW Borren": {
+      "batting": {
+        "runs": 38,
+        "balls": 36,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 105.56
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TLW Cooper": {
+      "batting": {
+        "runs": 29,
+        "balls": 47,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 61.7
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ES Szwarczynski": {
+      "batting": {
+        "runs": 28,
+        "balls": 42,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "W Barresi": {
+      "batting": {
+        "runs": 26,
+        "balls": 58,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 44.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mudassar Bukhari": {
+      "batting": {
+        "runs": 21,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.666666666666667,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 3,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PP Chawla": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 51,
+        "balls": 73,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 69.86
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 4.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Nehra": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "YK Pathan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 2.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 39,
+        "balls": 26,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Gambhir": {
+      "batting": {
+        "runs": 28,
+        "balls": 28,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 27,
+        "balls": 22,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 122.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 19,
+        "balls": 40,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 47.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PM Seelaar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 3,
+        "economy": 5.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RN ten Doeschate": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 0,
+        "economy": 5.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Netherlands scored 189 in 46.4 overs at 4.11 RPO",
+    "vs India scored 191 in 36.3 overs at 5.31 RPO",
+    "Top batsman: Yuvraj Singh with 51 runs",
+    "Top bowler: Z Khan with 3 wickets"
+  ]
+}

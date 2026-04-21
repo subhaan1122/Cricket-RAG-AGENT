@@ -1,0 +1,368 @@
+{
+  "match_id": "3db069070dc0",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "Shere Bangla National Stadium",
+  "city": "Mirpur",
+  "date": "2011-03-19",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "206 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Shakib Al Hasan",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "LL Tsotsobe",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 284,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "JH Kallis",
+          "runs": 69,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 90.79,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 52,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 51,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 86.44,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 45,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.18,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "RJ Peterson",
+          "runs": 22,
+          "balls": 9,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 244.44,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Rubel Hossain",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 3,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mahmudullah",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Naeem Islam",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 98,
+          "wickets": 1,
+          "overs": "20.4"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 107,
+          "wickets": 2,
+          "overs": "22.3"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 141,
+          "wickets": 3,
+          "overs": "29.6"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 223,
+          "wickets": 4,
+          "overs": "44.3"
+        },
+        {
+          "player": "MN van Wyk",
+          "runs": 245,
+          "wickets": 5,
+          "overs": "46.4"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 249,
+          "wickets": 6,
+          "overs": "47.3"
+        },
+        {
+          "player": "J Botha",
+          "runs": 273,
+          "wickets": 7,
+          "overs": "49.1"
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 280,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 78,
+      "wickets": 10,
+      "overs": 28.0,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 30,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Rubel Hossain",
+          "runs": 8,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Naeem Islam",
+          "runs": 8,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Shahriar Nafees",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RJ Peterson",
+          "overs": "7.0",
+          "maidens": 3,
+          "runs_conceded": 12,
+          "wickets": 4,
+          "economy": 1.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LL Tsotsobe",
+          "overs": "5.0",
+          "maidens": 2,
+          "runs_conceded": 14,
+          "wickets": 3,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "J Botha",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 3.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Parnell",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 1.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 14,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 15,
+          "wickets": 2,
+          "overs": "5.4"
+        },
+        {
+          "player": "Junaid Siddique",
+          "runs": 21,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "Shahriar Nafees",
+          "runs": 21,
+          "wickets": 4,
+          "overs": "7.6"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 36,
+          "wickets": 5,
+          "overs": "15.1"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 58,
+          "wickets": 6,
+          "overs": "21.3"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 61,
+          "wickets": 7,
+          "overs": "23.4"
+        },
+        {
+          "player": "Shafiul Islam",
+          "runs": 61,
+          "wickets": 8,
+          "overs": "23.6"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 62,
+          "wickets": 9,
+          "overs": "24.6"
+        },
+        {
+          "player": "Naeem Islam",
+          "runs": 78,
+          "wickets": 10,
+          "overs": "27.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_bangladesh_vs_south_africa.json",
+  "match_summary": "2011 World Cup Group B: Bangladesh vs South Africa (2011-03-19) at Mirpur.\nSouth Africa: 284/8 (50.0 ov)\n  JH Kallis: 69 (76b, 5x4, 1x6)\n  F du Plessis: 52 (52b, 4x4, 1x6)\n  HM Amla: 51 (59b, 6x4, 0x6)\n  Rubel Hossain: 3/56 (8.0 ov)\n  Shakib Al Hasan: 2/46 (10.0 ov)\nBangladesh: 78 all out (28.0 ov)\n  Shakib Al Hasan: 30 (49b, 4x4, 0x6)\n  RJ Peterson: 4/12 (7.0 ov)\n  LL Tsotsobe: 3/14 (5.0 ov)\nSouth Africa won by 206 runs.\nPlayer of the Match: LL Tsotsobe."
+}

@@ -1,0 +1,791 @@
+{
+  "match_info": {
+    "match_id": "5c096c779700",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Zahur Ahmed Chowdhury Stadium",
+    "city": "Chittagong",
+    "date": "2011-03-11",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Bangladesh",
+      "margin": "2 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shakib Al Hasan",
+      "team2": "Andrew Strauss"
+    },
+    "player_of_match": "Imrul Kayes",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: Bangladesh vs England (2011-03-11) at Chittagong.\nEngland: 225 all out (49.4 ov)\n  IJL Trott: 67 (99b, 2x4, 0x6)\n  EJG Morgan: 63 (72b, 8x4, 0x6)\n  Abdur Razzak: 2/32 (10.0 ov)\n  Naeem Islam: 2/29 (8.0 ov)\n  Shakib Al Hasan: 2/49 (10.0 ov)\nBangladesh: 227/8 (49.0 ov)\n  Imrul Kayes: 60 (100b, 5x4, 0x6)\n  Tamim Iqbal: 38 (26b, 5x4, 0x6)\n  Shakib Al Hasan: 32 (58b, 1x4, 0x6)\n  A Shahzad: 3/43 (10.0 ov)\n  GP Swann: 2/42 (10.0 ov)\nBangladesh won by 2 wickets.\nPlayer of the Match: Imrul Kayes.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 452,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 4.61,
+    "highest_individual_score": 67,
+    "best_bowling_figures": "3/43",
+    "total_sixes": 1,
+    "total_fours": 32
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 225,
+      "total_wickets": 10,
+      "total_overs": 49.4,
+      "run_rate": 4.59,
+      "top_batters": [
+        {
+          "name": "IJL Trott",
+          "runs": 67,
+          "balls": 99,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 67.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 63,
+          "balls": 72,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Strauss",
+          "runs": 18,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 16,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Prior",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "stumped"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Abdur Razzak",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 3.2,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Naeem Islam",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 3.62,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rubel Hossain",
+          "overs": "8.4",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.62,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shafiul Islam",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 5.38,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Prior",
+          "runs": 32,
+          "wickets": 1,
+          "overs": "7.6"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 39,
+          "wickets": 2,
+          "overs": "10.3"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 53,
+          "wickets": 3,
+          "overs": "16.4"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 162,
+          "wickets": 4,
+          "overs": "38.4"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 182,
+          "wickets": 5,
+          "overs": "43.4"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 195,
+          "wickets": 6,
+          "overs": "44.5"
+        },
+        {
+          "player": "GP Swann",
+          "runs": 209,
+          "wickets": 7,
+          "overs": "46.4"
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 215,
+          "wickets": 8,
+          "overs": "47.3"
+        },
+        {
+          "player": "A Shahzad",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "48.1"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 225,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 37,
+        "wickets": 1,
+        "run_rate": 3.7,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "9.4",
+        "balls": 58,
+        "runs": 56,
+        "wickets": 6,
+        "run_rate": 5.79,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 23,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "total_runs": 227,
+      "total_wickets": 8,
+      "total_overs": 49.0,
+      "run_rate": 4.63,
+      "top_batters": [
+        {
+          "name": "Imrul Kayes",
+          "runs": 60,
+          "balls": 100,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 38,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 146.15,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 32,
+          "balls": 58,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Shafiul Islam",
+          "runs": 24,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Mahmudullah",
+          "runs": 21,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Shahzad",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 4.3,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "GP Swann",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TT Bresnan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 3.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 52,
+          "wickets": 1,
+          "overs": "8.4"
+        },
+        {
+          "player": "Junaid Siddique",
+          "runs": 70,
+          "wickets": 2,
+          "overs": "12.2"
+        },
+        {
+          "player": "Raqibul Hasan",
+          "runs": 73,
+          "wickets": 3,
+          "overs": "13.4"
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 155,
+          "wickets": 4,
+          "overs": "30.6"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 162,
+          "wickets": 5,
+          "overs": "35.6"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 166,
+          "wickets": 6,
+          "overs": "36.2"
+        },
+        {
+          "player": "Naeem Islam",
+          "runs": 166,
+          "wickets": 7,
+          "overs": "38.1"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 169,
+          "wickets": 8,
+          "overs": "39.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 58,
+        "wickets": 1,
+        "run_rate": 5.8,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 35,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "9.0",
+        "balls": 54,
+        "runs": 57,
+        "wickets": 0,
+        "run_rate": 6.33,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 35,
+        "extras": 15
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "IJL Trott": {
+      "batting": {
+        "runs": 67,
+        "balls": 99,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 67.68
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "EJG Morgan": {
+      "batting": {
+        "runs": 63,
+        "balls": 72,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 87.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Strauss": {
+      "batting": {
+        "runs": 18,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 58.06
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RS Bopara": {
+      "batting": {
+        "runs": 16,
+        "balls": 22,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Prior": {
+      "batting": {
+        "runs": 15,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Razzak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 2,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Naeem Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 2,
+        "economy": 3.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 32,
+        "balls": 58,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 55.17
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rubel Hossain": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.666666666666666,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 4.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shafiul Islam": {
+      "batting": {
+        "runs": 24,
+        "balls": 24,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 5.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imrul Kayes": {
+      "batting": {
+        "runs": 60,
+        "balls": 100,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 60.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Tamim Iqbal": {
+      "batting": {
+        "runs": 38,
+        "balls": 26,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 146.15
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mahmudullah": {
+      "batting": {
+        "runs": 21,
+        "balls": 42,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Shahzad": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 3,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GP Swann": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TT Bresnan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PD Collingwood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 3.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Anderson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 225 in 49.4 overs at 4.59 RPO",
+    "vs Bangladesh scored 227 in 49.0 overs at 4.63 RPO",
+    "Top batsman: IJL Trott with 67 runs",
+    "Top bowler: A Shahzad with 3 wickets"
+  ]
+}

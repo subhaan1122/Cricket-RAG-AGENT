@@ -1,0 +1,741 @@
+{
+  "match_info": {
+    "match_id": "afe2cd65eacc",
+    "world_cup_year": 2015,
+    "stage": "Group B",
+    "venue": "Saxton Oval",
+    "city": "Nelson",
+    "date": "2015-02-16",
+    "teams": {
+      "team1": "Ireland",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "Ireland",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Ireland",
+      "margin": "4 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "William Porterfield",
+      "team2": "Jason Holder"
+    },
+    "player_of_match": "PR Stirling",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group B: Ireland vs West Indies (2015-02-16) at Nelson.\nWest Indies: 304/7 (50.0 ov)\n  LMP Simmons: 102 (84b, 9x4, 5x6)\n  DJG Sammy: 89 (67b, 9x4, 4x6)\n  CH Gayle: 36 (65b, 3x4, 1x6)\n  GH Dockrell: 3/50 (10.0 ov)\nIreland: 307/6 (45.5 ov)\n  PR Stirling: 92 (84b, 9x4, 3x6)\n  EC Joyce: 84 (67b, 10x4, 2x6)\n  NJ O'Brien: 79* (60b, 11x4, 0x6)\n  JE Taylor: 3/71 (8.5 ov)\nIreland won by 4 wickets.\nPlayer of the Match: PR Stirling.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 611,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 6.45,
+    "highest_individual_score": 102,
+    "best_bowling_figures": "3/71",
+    "total_sixes": 18,
+    "total_fours": 58
+  },
+  "innings_analysis": [
+    {
+      "team": "West Indies",
+      "total_runs": 304,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 6.08,
+      "top_batters": [
+        {
+          "name": "LMP Simmons",
+          "runs": 102,
+          "balls": 84,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 121.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJG Sammy",
+          "runs": 89,
+          "balls": 67,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 132.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 36,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 55.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AD Russell",
+          "runs": 27,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 207.69,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 21,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 51.22,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GH Dockrell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 7.89,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MC Sorensen",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 8.43,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "AR McBrine",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DR Smith",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "7.3"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "7.6"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 78,
+          "wickets": 3,
+          "overs": "21.2"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 78,
+          "wickets": 4,
+          "overs": "21.4"
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 87,
+          "wickets": 5,
+          "overs": "23.3"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 241,
+          "wickets": 6,
+          "overs": "44.4"
+        },
+        {
+          "player": "LMP Simmons",
+          "runs": 302,
+          "wickets": 7,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 40,
+        "wickets": 2,
+        "run_rate": 4.0,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 124,
+        "wickets": 2,
+        "run_rate": 12.4,
+        "fours": 13,
+        "sixes": 6,
+        "dot_balls": 15,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Ireland",
+      "total_runs": 307,
+      "total_wickets": 6,
+      "total_overs": 45.5,
+      "run_rate": 6.82,
+      "top_batters": [
+        {
+          "name": "PR Stirling",
+          "runs": 92,
+          "balls": 84,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 109.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EC Joyce",
+          "runs": 84,
+          "balls": 67,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 125.37,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 79,
+          "balls": 60,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 131.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 23,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 53.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Balbirnie",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JE Taylor",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 3,
+          "economy": 8.04,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 5.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MN Samuels",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 6.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JO Holder",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 4.89,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Russell",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 71,
+          "wickets": 1,
+          "overs": "13.3"
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 177,
+          "wickets": 2,
+          "overs": "27.5"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 273,
+          "wickets": 3,
+          "overs": "39.2"
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 285,
+          "wickets": 4,
+          "overs": "41.3"
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 290,
+          "wickets": 5,
+          "overs": "43.5"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 291,
+          "wickets": 6,
+          "overs": "44.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 61,
+        "wickets": 0,
+        "run_rate": 6.1,
+        "fours": 5,
+        "sixes": 2,
+        "dot_balls": 37,
+        "extras": 10
+      },
+      "death_overs_stats": {
+        "overs": "5.5",
+        "balls": 35,
+        "runs": 24,
+        "wickets": 3,
+        "run_rate": 4.11,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 20,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "LMP Simmons": {
+      "batting": {
+        "runs": 102,
+        "balls": 84,
+        "fours": 9,
+        "sixes": 5,
+        "strike_rate": 121.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJG Sammy": {
+      "batting": {
+        "runs": 89,
+        "balls": 67,
+        "fours": 9,
+        "sixes": 4,
+        "strike_rate": 132.84
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 36,
+        "balls": 65,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 55.38
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 1,
+        "economy": 5.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Russell": {
+      "batting": {
+        "runs": 27,
+        "balls": 13,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 207.69
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MN Samuels": {
+      "batting": {
+        "runs": 21,
+        "balls": 41,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 51.22
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 6.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GH Dockrell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KJ O'Brien": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 1,
+        "economy": 7.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MC Sorensen": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JF Mooney": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 8.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AR McBrine": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PR Stirling": {
+      "batting": {
+        "runs": 92,
+        "balls": 84,
+        "fours": 9,
+        "sixes": 3,
+        "strike_rate": 109.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "EC Joyce": {
+      "batting": {
+        "runs": 84,
+        "balls": 67,
+        "fours": 10,
+        "sixes": 2,
+        "strike_rate": 125.37
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ O'Brien": {
+      "batting": {
+        "runs": 79,
+        "balls": 60,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 131.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WTS Porterfield": {
+      "batting": {
+        "runs": 23,
+        "balls": 43,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 53.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Balbirnie": {
+      "batting": {
+        "runs": 9,
+        "balls": 9,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JE Taylor": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.833333333333334,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 3,
+        "economy": 8.04
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JO Holder": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 4.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: West Indies scored 304 in 50.0 overs at 6.08 RPO",
+    "vs Ireland scored 307 in 45.5 overs at 6.82 RPO",
+    "Top batsman: LMP Simmons with 102 runs",
+    "Top bowler: GH Dockrell with 3 wickets"
+  ]
+}

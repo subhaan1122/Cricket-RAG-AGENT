@@ -1,0 +1,4223 @@
+ICC Cricket World Cup Player Statistics (2003-2023)
+=======================================================
+
+Player: V Kohli
+  Teams: India
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 27
+  Batting: 1638 runs, 27 innings, Avg 78.0, SR 89.46, HS 117, 100s: 5, 50s: 10, 4s: 144, 6s: 14
+  Bowling: 1 wkts, Avg 13.0, Econ 4.33, Best: 1/13, Maidens: 0
+
+Player: KC Sangakkara
+  Teams: Sri Lanka
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 28
+  Batting: 1475 runs, 28 innings, Avg 73.75, SR 89.18, HS 124, 100s: 5, 50s: 7, 4s: 140, 6s: 14
+
+Player: RG Sharma
+  Teams: India
+  World Cups: 2015, 2019, 2023
+  Matches: 21
+  Batting: 1431 runs, 21 innings, Avg 75.32, SR 104.99, HS 140, 100s: 6, 50s: 6, 4s: 147, 6s: 49
+
+Player: AB de Villiers
+  Teams: South Africa
+  World Cups: 2007, 2011, 2015
+  Matches: 20
+  Batting: 1207 runs, 20 innings, Avg 71.0, SR 118.57, HS 162, 100s: 4, 50s: 6, 4s: 120, 6s: 37
+  Bowling: 4 wkts, Avg 16.25, Econ 5.91, Best: 2/15, Maidens: 0
+
+Player: SR Tendulkar
+  Teams: India
+  World Cups: 2003, 2007, 2011
+  Matches: 21
+  Batting: 1206 runs, 19 innings, Avg 67.0, SR 92.91, HS 152, 100s: 3, 50s: 9, 4s: 128, 6s: 17
+  Bowling: 4 wkts, Avg 24.5, Econ 4.45, Best: 2/28, Maidens: 0
+
+Player: DA Warner
+  Teams: Australia
+  World Cups: 2015, 2019, 2023
+  Matches: 20
+  Batting: 1170 runs, 20 innings, Avg 61.58, SR 100.69, HS 166, 100s: 5, 50s: 4, 4s: 116, 6s: 33
+
+Player: Shakib Al Hasan
+  Teams: Bangladesh
+  World Cups: 2007, 2011, 2015, 2019, 2023
+  Matches: 33
+  Batting: 1169 runs, 24 innings, Avg 58.45, SR 86.4, HS 124, 100s: 2, 50s: 9, 4s: 118, 6s: 11
+  Bowling: 33 wkts, Avg 43.48, Econ 5.24, Best: 4/55, Maidens: 2
+
+Player: RT Ponting
+  Teams: Australia
+  World Cups: 2003, 2007, 2011
+  Matches: 22
+  Batting: 1150 runs, 22 innings, Avg 60.53, SR 89.56, HS 140, 100s: 4, 50s: 5, 4s: 95, 6s: 25
+
+Player: TM Dilshan
+  Teams: Sri Lanka
+  World Cups: 2007, 2011, 2015
+  Matches: 24
+  Batting: 1085 runs, 19 innings, Avg 72.33, SR 95.18, HS 161, 100s: 4, 50s: 4, 4s: 121, 6s: 9
+  Bowling: 18 wkts, Avg 19.67, Econ 4.21, Best: 4/4, Maidens: 5
+
+Player: KS Williamson
+  Teams: New Zealand
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 22
+  Batting: 1043 runs, 21 innings, Avg 65.19, SR 82.0, HS 148, 100s: 2, 50s: 5, 4s: 102, 6s: 10
+  Bowling: 2 wkts, Avg 34.5, Econ 4.31, Best: 1/25, Maidens: 0
+
+Player: CH Gayle
+  Teams: West Indies
+  World Cups: 2003, 2007, 2011, 2015, 2019
+  Matches: 26
+  Batting: 1038 runs, 22 innings, Avg 49.43, SR 101.57, HS 215, 100s: 1, 50s: 6, 4s: 106, 6s: 47
+  Bowling: 15 wkts, Avg 29.73, Econ 4.47, Best: 2/21, Maidens: 2
+
+Player: ML Hayden
+  Teams: Australia
+  World Cups: 2003, 2007
+  Matches: 18
+  Batting: 952 runs, 18 innings, Avg 59.5, SR 95.77, HS 158, 100s: 3, 50s: 2, 4s: 102, 6s: 23
+
+Player: SPD Smith
+  Teams: Australia
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 21
+  Batting: 938 runs, 17 innings, Avg 62.53, SR 86.85, HS 105, 100s: 1, 50s: 9, 4s: 87, 6s: 7
+  Bowling: 2 wkts, Avg 36.0, Econ 4.5, Best: 1/6, Maidens: 0
+
+Player: F du Plessis
+  Teams: South Africa
+  World Cups: 2011, 2015, 2019
+  Matches: 19
+  Batting: 910 runs, 19 innings, Avg 65.0, SR 87.16, HS 109, 100s: 2, 50s: 7, 4s: 73, 6s: 11
+  Bowling: 1 wkts, Avg 55.0, Econ 5.0, Best: 1/22, Maidens: 0
+
+Player: MJ Guptill
+  Teams: New Zealand
+  World Cups: 2011, 2015, 2019
+  Matches: 18
+  Batting: 889 runs, 19 innings, Avg 59.27, SR 95.8, HS 237, 100s: 2, 50s: 3, 4s: 93, 6s: 24
+
+Player: JE Root
+  Teams: England
+  World Cups: 2015, 2019, 2023
+  Matches: 16
+  Batting: 875 runs, 14 innings, Avg 72.92, SR 91.43, HS 121, 100s: 3, 50s: 5, 4s: 76, 6s: 5
+  Bowling: 3 wkts, Avg 40.0, Econ 6.26, Best: 2/27, Maidens: 0
+
+Player: LRPL Taylor
+  Teams: New Zealand
+  World Cups: 2007, 2011, 2015, 2019
+  Matches: 18
+  Batting: 868 runs, 18 innings, Avg 54.25, SR 77.43, HS 131, 100s: 1, 50s: 6, 4s: 65, 6s: 16
+
+Player: Q de Kock
+  Teams: South Africa
+  World Cups: 2015, 2019, 2023
+  Matches: 14
+  Batting: 858 runs, 14 innings, Avg 71.5, SR 104.25, HS 174, 100s: 4, 50s: 3, 4s: 88, 6s: 22
+
+Player: SB Styris
+  Teams: New Zealand
+  World Cups: 2003, 2007, 2011
+  Matches: 22
+  Batting: 857 runs, 16 innings, Avg 77.91, SR 89.36, HS 141, 100s: 2, 50s: 6, 4s: 61, 6s: 17
+  Bowling: 17 wkts, Avg 23.65, Econ 4.43, Best: 4/43, Maidens: 3
+
+Player: MJ Clarke
+  Teams: Australia
+  World Cups: 2007, 2011, 2015
+  Matches: 18
+  Batting: 855 runs, 18 innings, Avg 77.73, SR 95.85, HS 93, 100s: 0, 50s: 8, 4s: 82, 6s: 11
+  Bowling: 2 wkts, Avg 45.0, Econ 5.0, Best: 2/33, Maidens: 0
+
+Player: DPMD Jayawardene
+  Teams: Sri Lanka
+  World Cups: 2007, 2011, 2015
+  Matches: 16
+  Batting: 853 runs, 16 innings, Avg 65.62, SR 92.52, HS 115, 100s: 3, 50s: 5, 4s: 71, 6s: 11
+
+Player: Mahmudullah
+  Teams: Bangladesh
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 18
+  Batting: 842 runs, 16 innings, Avg 70.17, SR 90.15, HS 128, 100s: 3, 50s: 3, 4s: 70, 6s: 25
+  Bowling: 2 wkts, Avg 75.0, Econ 6.0, Best: 1/46, Maidens: 0
+
+Player: AC Gilchrist
+  Teams: Australia
+  World Cups: 2003, 2007
+  Matches: 17
+  Batting: 839 runs, 17 innings, Avg 52.44, SR 106.61, HS 149, 100s: 1, 50s: 6, 4s: 110, 6s: 17
+
+Player: V Sehwag
+  Teams: India
+  World Cups: 2003, 2007, 2011
+  Matches: 17
+  Batting: 808 runs, 15 innings, Avg 53.87, SR 109.19, HS 175, 100s: 2, 50s: 3, 4s: 102, 6s: 18
+  Bowling: 4 wkts, Avg 13.5, Econ 3.38, Best: 2/17, Maidens: 1
+
+Player: Mushfiqur Rahim
+  Teams: Bangladesh
+  World Cups: 2007, 2011, 2015, 2019, 2023
+  Matches: 19
+  Batting: 804 runs, 19 innings, Avg 53.6, SR 82.8, HS 102, 100s: 1, 50s: 6, 4s: 65, 6s: 11
+
+Player: DA Miller
+  Teams: South Africa
+  World Cups: 2015, 2019, 2023
+  Matches: 17
+  Batting: 770 runs, 17 innings, Avg 59.23, SR 117.56, HS 138, 100s: 2, 50s: 1, 4s: 50, 6s: 33
+
+Player: KL Rahul
+  Teams: India
+  World Cups: 2019, 2023
+  Matches: 14
+  Batting: 763 runs, 14 innings, Avg 76.3, SR 87.2, HS 111, 100s: 2, 50s: 4, 4s: 66, 6s: 13
+
+Player: HM Amla
+  Teams: South Africa
+  World Cups: 2011, 2015, 2019
+  Matches: 15
+  Batting: 746 runs, 15 innings, Avg 53.29, SR 86.24, HS 159, 100s: 2, 50s: 5, 4s: 64, 6s: 5
+
+Player: BA Stokes
+  Teams: England
+  World Cups: 2019, 2023
+  Matches: 14
+  Batting: 740 runs, 11 innings, Avg 105.71, SR 96.48, HS 108, 100s: 1, 50s: 7, 4s: 62, 6s: 23
+  Bowling: 7 wkts, Avg 22.14, Econ 4.33, Best: 3/23, Maidens: 1
+
+Player: MS Dhoni
+  Teams: India
+  World Cups: 2007, 2011, 2015, 2019
+  Matches: 19
+  Batting: 738 runs, 19 innings, Avg 61.5, SR 93.42, HS 91, 100s: 0, 50s: 5, 4s: 54, 6s: 15
+
+Player: JH Kallis
+  Teams: South Africa
+  World Cups: 2003, 2007, 2011
+  Matches: 20
+  Batting: 737 runs, 15 innings, Avg 61.42, SR 80.72, HS 128, 100s: 1, 50s: 5, 4s: 60, 6s: 9
+  Bowling: 13 wkts, Avg 35.0, Econ 4.29, Best: 3/41, Maidens: 5
+
+Player: Yuvraj Singh
+  Teams: India
+  World Cups: 2003, 2007, 2011
+  Matches: 18
+  Batting: 726 runs, 16 innings, Avg 80.67, SR 92.48, HS 113, 100s: 1, 50s: 7, 4s: 68, 6s: 13
+  Bowling: 20 wkts, Avg 22.35, Econ 4.99, Best: 5/31, Maidens: 4
+
+Player: ST Jayasuriya
+  Teams: Sri Lanka
+  World Cups: 2003, 2007
+  Matches: 20
+  Batting: 722 runs, 16 innings, Avg 48.13, SR 90.59, HS 120, 100s: 3, 50s: 3, 4s: 69, 6s: 15
+  Bowling: 17 wkts, Avg 32.76, Econ 4.7, Best: 3/30, Maidens: 1
+
+Player: GC Smith
+  Teams: South Africa
+  World Cups: 2003, 2007, 2011
+  Matches: 16
+  Batting: 721 runs, 16 innings, Avg 48.07, SR 90.01, HS 91, 100s: 0, 50s: 6, 4s: 81, 6s: 6
+  Bowling: 4 wkts, Avg 30.75, Econ 6.47, Best: 2/56, Maidens: 0
+
+Player: HH Gibbs
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 718 runs, 13 innings, Avg 79.78, SR 97.55, HS 143, 100s: 1, 50s: 6, 4s: 70, 6s: 24
+
+Player: RR Sarwan
+  Teams: West Indies
+  World Cups: 2003, 2007, 2011
+  Matches: 17
+  Batting: 709 runs, 16 innings, Avg 59.08, SR 78.0, HS 92, 100s: 0, 50s: 3, 4s: 67, 6s: 10
+  Bowling: 2 wkts, Avg 21.5, Econ 4.78, Best: 1/17, Maidens: 1
+
+Player: BRM Taylor
+  Teams: Zimbabwe
+  World Cups: 2007, 2011, 2015
+  Matches: 13
+  Batting: 686 runs, 13 innings, Avg 52.77, SR 88.86, HS 138, 100s: 2, 50s: 3, 4s: 66, 6s: 14
+
+Player: AJ Finch
+  Teams: Australia
+  World Cups: 2015, 2019
+  Matches: 10
+  Batting: 674 runs, 10 innings, Avg 67.4, SR 98.54, HS 153, 100s: 3, 50s: 3, 4s: 63, 6s: 20
+  Bowling: 1 wkts, Avg 13.0, Econ 6.5, Best: 1/13, Maidens: 0
+
+Player: WU Tharanga
+  Teams: Sri Lanka
+  World Cups: 2007, 2011
+  Matches: 15
+  Batting: 665 runs, 15 innings, Avg 51.15, SR 79.17, HS 133, 100s: 2, 50s: 4, 4s: 77, 6s: 4
+
+Player: SP Fleming
+  Teams: New Zealand
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 657 runs, 13 innings, Avg 59.73, SR 86.68, HS 134, 100s: 2, 50s: 3, 4s: 89, 6s: 11
+
+Player: IR Bell
+  Teams: England
+  World Cups: 2007, 2011, 2015
+  Matches: 17
+  Batting: 656 runs, 17 innings, Avg 38.59, SR 73.96, HS 81, 100s: 0, 50s: 5, 4s: 56, 6s: 2
+
+Player: JM Bairstow
+  Teams: England
+  World Cups: 2019, 2023
+  Matches: 14
+  Batting: 645 runs, 14 innings, Avg 46.07, SR 92.41, HS 111, 100s: 2, 50s: 3, 4s: 86, 6s: 10
+
+Player: BB McCullum
+  Teams: New Zealand
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 14
+  Batting: 641 runs, 14 innings, Avg 64.1, SR 125.2, HS 101, 100s: 1, 50s: 6, 4s: 66, 6s: 25
+
+Player: HE van der Dussen
+  Teams: South Africa
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 624 runs, 10 innings, Avg 69.33, SR 93.55, HS 133, 100s: 2, 50s: 4, 4s: 44, 6s: 17
+
+Player: Babar Azam
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 11
+  Batting: 612 runs, 11 innings, Avg 68.0, SR 86.44, HS 101, 100s: 1, 50s: 6, 4s: 61, 6s: 5
+
+Player: WTS Porterfield
+  Teams: Ireland
+  World Cups: 2007, 2011, 2015
+  Matches: 14
+  Batting: 594 runs, 14 innings, Avg 42.43, SR 60.61, HS 107, 100s: 1, 50s: 4, 4s: 46, 6s: 4
+
+Player: SC Ganguly
+  Teams: India
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 593 runs, 10 innings, Avg 84.71, SR 80.46, HS 112, 100s: 3, 50s: 2, 4s: 37, 6s: 17
+  Bowling: 4 wkts, Avg 23.0, Econ 5.11, Best: 3/22, Maidens: 1
+
+Player: Misbah-ul-Haq
+  Teams: Pakistan
+  World Cups: 2011, 2015
+  Matches: 11
+  Batting: 591 runs, 11 innings, Avg 59.1, SR 76.75, HS 83, 100s: 0, 50s: 7, 4s: 37, 6s: 10
+
+Player: SR Watson
+  Teams: Australia
+  World Cups: 2007, 2011, 2015
+  Matches: 19
+  Batting: 587 runs, 13 innings, Avg 65.22, SR 106.53, HS 94, 100s: 0, 50s: 6, 4s: 60, 6s: 16
+  Bowling: 8 wkts, Avg 43.62, Econ 5.33, Best: 1/9, Maidens: 2
+
+Player: Tamim Iqbal
+  Teams: Bangladesh
+  World Cups: 2007, 2011, 2015, 2019
+  Matches: 16
+  Batting: 585 runs, 16 innings, Avg 36.56, SR 79.59, HS 95, 100s: 0, 50s: 4, 4s: 67, 6s: 4
+
+Player: KP Pietersen
+  Teams: England
+  World Cups: 2007, 2011
+  Matches: 9
+  Batting: 555 runs, 9 innings, Avg 69.38, SR 87.13, HS 104, 100s: 2, 50s: 4, 4s: 51, 6s: 7
+
+Player: NJ O'Brien
+  Teams: Ireland
+  World Cups: 2007, 2011, 2015
+  Matches: 14
+  Batting: 550 runs, 14 innings, Avg 45.83, SR 76.18, HS 79, 100s: 0, 50s: 5, 4s: 52, 6s: 4
+
+Player: R Ravindra
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 9
+  Batting: 546 runs, 9 innings, Avg 68.25, SR 108.76, HS 123, 100s: 3, 50s: 2, 4s: 53, 6s: 16
+  Bowling: 4 wkts, Avg 47.25, Econ 5.15, Best: 2/21, Maidens: 0
+
+Player: S Chanderpaul
+  Teams: West Indies
+  World Cups: 2003, 2007, 2011
+  Matches: 12
+  Batting: 540 runs, 12 innings, Avg 54.0, SR 60.54, HS 102, 100s: 1, 50s: 3, 4s: 40, 6s: 11
+
+Player: EC Joyce
+  Teams: England, Ireland
+  World Cups: 2007, 2011, 2015
+  Matches: 9
+  Batting: 534 runs, 9 innings, Avg 59.33, SR 82.53, HS 112, 100s: 1, 50s: 4, 4s: 49, 6s: 7
+
+Player: GJ Maxwell
+  Teams: Australia
+  World Cups: 2015, 2019, 2023
+  Matches: 20
+  Batting: 533 runs, 11 innings, Avg 66.62, SR 181.91, HS 106, 100s: 2, 50s: 1, 4s: 58, 6s: 25
+  Bowling: 10 wkts, Avg 52.1, Econ 4.89, Best: 2/34, Maidens: 2
+
+Player: DJ Mitchell
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 8
+  Batting: 522 runs, 7 innings, Avg 87.0, SR 110.59, HS 134, 100s: 2, 50s: 2, 4s: 43, 6s: 21
+
+Player: S Dhawan
+  Teams: India
+  World Cups: 2015, 2019
+  Matches: 7
+  Batting: 516 runs, 7 innings, Avg 73.71, SR 98.47, HS 137, 100s: 3, 50s: 1, 4s: 62, 6s: 9
+
+Player: JC Buttler
+  Teams: England
+  World Cups: 2015, 2019, 2023
+  Matches: 13
+  Batting: 512 runs, 14 innings, Avg 42.67, SR 131.28, HS 103, 100s: 1, 50s: 3, 4s: 42, 6s: 14
+
+Player: AK Markram
+  Teams: South Africa
+  World Cups: 2019, 2023
+  Matches: 13
+  Batting: 507 runs, 12 innings, Avg 42.25, SR 101.4, HS 106, 100s: 1, 50s: 3, 4s: 60, 6s: 8
+  Bowling: 2 wkts, Avg 59.5, Econ 4.96, Best: 1/22, Maidens: 1
+
+Player: A Symonds
+  Teams: Australia
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 504 runs, 11 innings, Avg 168.0, SR 94.92, HS 143, 100s: 1, 50s: 3, 4s: 50, 6s: 10
+  Bowling: 5 wkts, Avg 25.4, Econ 4.7, Best: 2/7, Maidens: 2
+
+Player: BC Lara
+  Teams: West Indies
+  World Cups: 2003, 2007
+  Matches: 10
+  Batting: 502 runs, 10 innings, Avg 55.78, SR 87.15, HS 116, 100s: 1, 50s: 2, 4s: 43, 6s: 12
+
+Player: SS Iyer
+  Teams: India
+  World Cups: 2023
+  Matches: 8
+  Batting: 497 runs, 8 innings, Avg 82.83, SR 116.67, HS 128, 100s: 2, 50s: 3, 4s: 35, 6s: 23
+
+Player: EJG Morgan
+  Teams: England, Ireland
+  World Cups: 2007, 2011, 2015, 2019
+  Matches: 14
+  Batting: 485 runs, 14 innings, Avg 37.31, SR 79.25, HS 63, 100s: 0, 50s: 3, 4s: 49, 6s: 9
+
+Player: SC Williams
+  Teams: Zimbabwe
+  World Cups: 2007, 2011, 2015
+  Matches: 11
+  Batting: 484 runs, 10 innings, Avg 60.5, SR 102.33, HS 96, 100s: 0, 50s: 5, 4s: 42, 6s: 8
+  Bowling: 9 wkts, Avg 34.33, Econ 5.33, Best: 3/72, Maidens: 2
+
+Player: AD Mathews
+  Teams: Sri Lanka
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 20
+  Batting: 453 runs, 11 innings, Avg 56.62, SR 90.6, HS 113, 100s: 1, 50s: 2, 4s: 35, 6s: 11
+  Bowling: 16 wkts, Avg 25.31, Econ 5.07, Best: 2/14, Maidens: 2
+
+Player: JJ Roy
+  Teams: England
+  World Cups: 2019
+  Matches: 6
+  Batting: 435 runs, 6 innings, Avg 72.5, SR 115.38, HS 153, 100s: 1, 50s: 4, 4s: 49, 6s: 12
+
+Player: BJ Haddin
+  Teams: Australia
+  World Cups: 2011, 2015
+  Matches: 9
+  Batting: 431 runs, 9 innings, Avg 47.89, SR 88.87, HS 88, 100s: 0, 50s: 4, 4s: 53, 6s: 8
+
+Player: KJ O'Brien
+  Teams: Ireland
+  World Cups: 2007, 2011, 2015
+  Matches: 19
+  Batting: 429 runs, 11 innings, Avg 42.9, SR 102.63, HS 113, 100s: 1, 50s: 1, 4s: 42, 6s: 15
+  Bowling: 12 wkts, Avg 44.42, Econ 7.63, Best: 4/71, Maidens: 1
+
+Player: MN Samuels
+  Teams: West Indies
+  World Cups: 2007, 2015
+  Matches: 13
+  Batting: 428 runs, 10 innings, Avg 53.5, SR 79.85, HS 133, 100s: 1, 50s: 2, 4s: 39, 6s: 11
+  Bowling: 4 wkts, Avg 58.75, Econ 5.32, Best: 1/25, Maidens: 4
+
+Player: RN ten Doeschate
+  Teams: Netherlands
+  World Cups: 2007, 2011
+  Matches: 9
+  Batting: 423 runs, 7 innings, Avg 84.6, SR 92.36, HS 119, 100s: 2, 50s: 3, 4s: 45, 6s: 7
+  Bowling: 9 wkts, Avg 47.33, Econ 6.76, Best: 3/72, Maidens: 1
+
+Player: IJL Trott
+  Teams: England
+  World Cups: 2011
+  Matches: 7
+  Batting: 422 runs, 7 innings, Avg 60.29, SR 80.84, HS 92, 100s: 0, 50s: 5, 4s: 28, 6s: 0
+
+Player: HDRL Thirimanne
+  Teams: Sri Lanka
+  World Cups: 2015, 2019
+  Matches: 8
+  Batting: 415 runs, 8 innings, Avg 69.17, SR 90.61, HS 139, 100s: 1, 50s: 3, 4s: 39, 6s: 2
+
+Player: Liton Das
+  Teams: Bangladesh
+  World Cups: 2019, 2023
+  Matches: 9
+  Batting: 414 runs, 9 innings, Avg 51.75, SR 92.2, HS 94, 100s: 0, 50s: 3, 4s: 43, 6s: 9
+
+Player: PD Collingwood
+  Teams: England
+  World Cups: 2003, 2007, 2011
+  Matches: 16
+  Batting: 411 runs, 12 innings, Avg 58.71, SR 77.4, HS 90, 100s: 0, 50s: 3, 4s: 32, 6s: 5
+  Bowling: 8 wkts, Avg 46.12, Econ 4.92, Best: 2/33, Maidens: 0
+
+Player: Mohammad Hafeez
+  Teams: Pakistan
+  World Cups: 2007, 2011, 2019
+  Matches: 14
+  Batting: 410 runs, 11 innings, Avg 41.0, SR 85.95, HS 84, 100s: 0, 50s: 2, 4s: 51, 6s: 4
+  Bowling: 13 wkts, Avg 27.0, Econ 4.18, Best: 2/16, Maidens: 4
+
+Player: AJ Strauss
+  Teams: England
+  World Cups: 2007, 2011
+  Matches: 8
+  Batting: 405 runs, 8 innings, Avg 50.62, SR 90.2, HS 158, 100s: 1, 50s: 1, 4s: 38, 6s: 5
+
+Player: LPC Silva
+  Teams: Sri Lanka
+  World Cups: 2007, 2011
+  Matches: 10
+  Batting: 398 runs, 10 innings, Avg 49.75, SR 79.13, HS 64, 100s: 0, 50s: 5, 4s: 32, 6s: 4
+
+Player: Fakhar Zaman
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 8
+  Batting: 393 runs, 8 innings, Avg 56.14, SR 104.24, HS 126, 100s: 1, 50s: 2, 4s: 35, 6s: 21
+
+Player: R Dravid
+  Teams: India
+  World Cups: 2003, 2007
+  Matches: 10
+  Batting: 390 runs, 10 innings, Avg 65.0, SR 67.01, HS 62, 100s: 0, 50s: 3, 4s: 27, 6s: 1
+
+Player: MR Marsh
+  Teams: Australia
+  World Cups: 2015, 2023
+  Matches: 8
+  Batting: 388 runs, 5 innings, Avg 97.0, SR 119.02, HS 177, 100s: 2, 50s: 1, 4s: 40, 6s: 19
+  Bowling: 7 wkts, Avg 11.57, Econ 5.06, Best: 5/33, Maidens: 0
+
+Player: Mohammad Rizwan
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 7
+  Batting: 387 runs, 7 innings, Avg 77.4, SR 95.79, HS 131, 100s: 1, 50s: 1, 4s: 38, 6s: 4
+
+Player: DS Smith
+  Teams: West Indies
+  World Cups: 2007, 2011
+  Matches: 8
+  Batting: 384 runs, 8 innings, Avg 48.0, SR 77.26, HS 107, 100s: 1, 50s: 3, 4s: 42, 6s: 2
+
+Player: G Gambhir
+  Teams: India
+  World Cups: 2011
+  Matches: 8
+  Batting: 383 runs, 8 innings, Avg 47.88, SR 85.68, HS 97, 100s: 0, 50s: 4, 4s: 35, 6s: 0
+
+Player: Imam-ul-Haq
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 8
+  Batting: 378 runs, 8 innings, Avg 47.25, SR 85.71, HS 100, 100s: 1, 50s: 2, 4s: 44, 6s: 1
+
+Player: CR Ervine
+  Teams: Zimbabwe
+  World Cups: 2011, 2015
+  Matches: 9
+  Batting: 368 runs, 9 innings, Avg 40.89, SR 91.54, HS 85, 100s: 0, 50s: 4, 4s: 33, 6s: 8
+
+Player: BKG Mendis
+  Teams: Sri Lanka
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 368 runs, 10 innings, Avg 36.8, SR 100.0, HS 122, 100s: 1, 50s: 1, 4s: 30, 6s: 16
+
+Player: JP Duminy
+  Teams: South Africa
+  World Cups: 2011, 2015, 2019
+  Matches: 11
+  Batting: 367 runs, 7 innings, Avg 73.4, SR 109.88, HS 115, 100s: 1, 50s: 1, 4s: 25, 6s: 8
+  Bowling: 9 wkts, Avg 19.0, Econ 4.89, Best: 3/29, Maidens: 2
+
+Player: Umar Akmal
+  Teams: Pakistan
+  World Cups: 2011, 2015
+  Matches: 9
+  Batting: 362 runs, 9 innings, Avg 51.71, SR 84.58, HS 71, 100s: 0, 50s: 2, 4s: 33, 6s: 6
+
+Player: AT Carey
+  Teams: Australia
+  World Cups: 2019
+  Matches: 7
+  Batting: 360 runs, 7 innings, Avg 72.0, SR 103.15, HS 85, 100s: 0, 50s: 3, 4s: 45, 6s: 2
+
+Player: DJ Malan
+  Teams: England
+  World Cups: 2023
+  Matches: 6
+  Batting: 352 runs, 6 innings, Avg 58.67, SR 107.98, HS 140, 100s: 1, 50s: 2, 4s: 43, 6s: 9
+
+Player: MDKJ Perera
+  Teams: Sri Lanka
+  World Cups: 2015, 2019, 2023
+  Matches: 9
+  Batting: 350 runs, 9 innings, Avg 38.89, SR 121.95, HS 78, 100s: 0, 50s: 4, 4s: 48, 6s: 5
+
+Player: H Klaasen
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 7
+  Batting: 350 runs, 7 innings, Avg 58.33, SR 142.28, HS 109, 100s: 1, 50s: 1, 4s: 27, 6s: 18
+
+Player: SK Raina
+  Teams: India
+  World Cups: 2011, 2015
+  Matches: 9
+  Batting: 347 runs, 7 innings, Avg 86.75, SR 110.51, HS 110, 100s: 1, 50s: 2, 4s: 29, 6s: 9
+  Bowling: 2 wkts, Avg 27.5, Econ 4.23, Best: 1/12, Maidens: 0
+
+Player: Haris Sohail
+  Teams: Pakistan
+  World Cups: 2015, 2019
+  Matches: 9
+  Batting: 342 runs, 8 innings, Avg 42.75, SR 88.83, HS 89, 100s: 0, 50s: 3, 4s: 30, 6s: 6
+  Bowling: 3 wkts, Avg 38.33, Econ 6.39, Best: 2/62, Maidens: 0
+
+Player: CO Obuya
+  Teams: Kenya
+  World Cups: 2003, 2007, 2011
+  Matches: 16
+  Batting: 340 runs, 11 innings, Avg 37.78, SR 71.58, HS 98, 100s: 0, 50s: 2, 4s: 25, 6s: 9
+  Bowling: 13 wkts, Avg 27.23, Econ 4.82, Best: 5/24, Maidens: 4
+
+Player: S Samarawickrama
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 6
+  Batting: 336 runs, 6 innings, Avg 84.0, SR 105.33, HS 108, 100s: 1, 50s: 2, 4s: 33, 6s: 4
+
+Player: A Flower
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 7
+  Batting: 332 runs, 7 innings, Avg 47.43, SR 72.33, HS 71, 100s: 0, 50s: 3, 4s: 30, 6s: 1
+
+Player: CD McMillan
+  Teams: New Zealand
+  World Cups: 2003, 2007
+  Matches: 11
+  Batting: 330 runs, 9 innings, Avg 47.14, SR 88.95, HS 75, 100s: 0, 50s: 2, 4s: 26, 6s: 12
+  Bowling: 3 wkts, Avg 29.0, Econ 4.35, Best: 3/23, Maidens: 1
+
+Player: M Labuschagne
+  Teams: Australia
+  World Cups: 2023
+  Matches: 8
+  Batting: 330 runs, 8 innings, Avg 47.14, SR 72.05, HS 71, 100s: 0, 50s: 3, 4s: 27, 6s: 2
+
+Player: Shubman Gill
+  Teams: India
+  World Cups: 2023
+  Matches: 7
+  Batting: 324 runs, 7 innings, Avg 54.0, SR 110.58, HS 92, 100s: 0, 50s: 4, 4s: 36, 6s: 12
+
+Player: RD Shah
+  Teams: Kenya
+  World Cups: 2003, 2007
+  Matches: 7
+  Batting: 323 runs, 7 innings, Avg 46.14, SR 66.32, HS 71, 100s: 0, 50s: 3, 4s: 41, 6s: 2
+
+Player: MP Vaughan
+  Teams: England
+  World Cups: 2003, 2007
+  Matches: 12
+  Batting: 321 runs, 9 innings, Avg 35.67, SR 72.46, HS 79, 100s: 0, 50s: 3, 4s: 39, 6s: 2
+  Bowling: 4 wkts, Avg 24.25, Econ 4.04, Best: 3/39, Maidens: 0
+
+Player: TM Head
+  Teams: Australia
+  World Cups: 2023
+  Matches: 4
+  Batting: 318 runs, 4 innings, Avg 79.5, SR 129.27, HS 137, 100s: 2, 50s: 1, 4s: 36, 6s: 13
+  Bowling: 2 wkts, Avg 27.0, Econ 4.91, Best: 2/21, Maidens: 0
+
+Player: DP Conway
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 6
+  Batting: 318 runs, 6 innings, Avg 63.6, SR 108.53, HS 152, 100s: 1, 50s: 0, 4s: 46, 6s: 3
+
+Player: Shaiman Anwar
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 5
+  Batting: 309 runs, 5 innings, Avg 61.8, SR 92.51, HS 106, 100s: 1, 50s: 2, 4s: 34, 6s: 4
+
+Player: A Bagai
+  Teams: Canada
+  World Cups: 2003, 2007, 2011
+  Matches: 9
+  Batting: 308 runs, 9 innings, Avg 44.0, SR 66.67, HS 84, 100s: 0, 50s: 2, 4s: 34, 6s: 0
+
+Player: N Pooran
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 6
+  Batting: 308 runs, 6 innings, Avg 61.6, SR 97.47, HS 118, 100s: 1, 50s: 1, 4s: 27, 6s: 9
+
+Player: JM Davison
+  Teams: Canada
+  World Cups: 2003, 2007, 2011
+  Matches: 13
+  Batting: 305 runs, 6 innings, Avg 50.83, SR 123.48, HS 111, 100s: 1, 50s: 2, 4s: 33, 6s: 13
+  Bowling: 17 wkts, Avg 28.41, Econ 4.98, Best: 3/15, Maidens: 7
+
+Player: SO Tikolo
+  Teams: Kenya
+  World Cups: 2003, 2007, 2011
+  Matches: 14
+  Batting: 305 runs, 12 innings, Avg 25.42, SR 63.15, HS 76, 100s: 0, 50s: 3, 4s: 31, 6s: 2
+  Bowling: 11 wkts, Avg 23.27, Econ 4.89, Best: 3/14, Maidens: 2
+
+Player: MS Atapattu
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 6
+  Batting: 304 runs, 6 innings, Avg 76.0, SR 87.11, HS 124, 100s: 2, 50s: 0, 4s: 38, 6s: 0
+
+Player: PG Fulton
+  Teams: New Zealand
+  World Cups: 2007
+  Matches: 8
+  Batting: 297 runs, 8 innings, Avg 37.12, SR 70.05, HS 83, 100s: 0, 50s: 2, 4s: 29, 6s: 2
+
+Player: JDS Neesham
+  Teams: New Zealand
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 294 runs, 9 innings, Avg 42.0, SR 93.04, HS 97, 100s: 0, 50s: 2, 4s: 19, 6s: 9
+  Bowling: 11 wkts, Avg 27.0, Econ 6.75, Best: 3/43, Maidens: 1
+
+Player: RS Bopara
+  Teams: England
+  World Cups: 2007, 2011
+  Matches: 11
+  Batting: 292 runs, 9 innings, Avg 41.71, SR 72.64, HS 60, 100s: 0, 50s: 2, 4s: 24, 6s: 2
+  Bowling: 4 wkts, Avg 23.25, Econ 3.77, Best: 2/22, Maidens: 2
+
+Player: Younis Khan
+  Teams: Pakistan
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 9
+  Batting: 291 runs, 8 innings, Avg 41.57, SR 80.17, HS 72, 100s: 0, 50s: 2, 4s: 18, 6s: 1
+
+Player: Mohammad Ashraful
+  Teams: Bangladesh
+  World Cups: 2003, 2007, 2011
+  Matches: 11
+  Batting: 291 runs, 10 innings, Avg 48.5, SR 80.39, HS 87, 100s: 0, 50s: 2, 4s: 37, 6s: 2
+  Bowling: 2 wkts, Avg 28.0, Econ 4.87, Best: 2/42, Maidens: 0
+
+Player: P Nissanka
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 5
+  Batting: 284 runs, 5 innings, Avg 71.0, SR 94.98, HS 77, 100s: 0, 50s: 4, 4s: 39, 6s: 3
+
+Player: UT Khawaja
+  Teams: Australia
+  World Cups: 2019
+  Matches: 7
+  Batting: 283 runs, 7 innings, Avg 40.43, SR 87.89, HS 89, 100s: 0, 50s: 2, 4s: 26, 6s: 1
+
+Player: T Taibu
+  Teams: Zimbabwe
+  World Cups: 2003, 2011
+  Matches: 6
+  Batting: 275 runs, 6 innings, Avg 55.0, SR 74.53, HS 98, 100s: 0, 50s: 3, 4s: 22, 6s: 1
+
+Player: Soumya Sarkar
+  Teams: Bangladesh
+  World Cups: 2015, 2019
+  Matches: 9
+  Batting: 271 runs, 8 innings, Avg 33.88, SR 93.13, HS 51, 100s: 0, 50s: 1, 4s: 37, 6s: 4
+  Bowling: 4 wkts, Avg 27.5, Econ 6.11, Best: 3/58, Maidens: 0
+
+Player: Abdullah Shafique
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 5
+  Batting: 269 runs, 5 innings, Avg 53.8, SR 101.13, HS 113, 100s: 1, 50s: 2, 4s: 30, 6s: 7
+
+Player: PR Stirling
+  Teams: Ireland
+  World Cups: 2011, 2015
+  Matches: 10
+  Batting: 267 runs, 4 innings, Avg 66.75, SR 118.67, HS 101, 100s: 1, 50s: 1, 4s: 32, 6s: 8
+  Bowling: 6 wkts, Avg 55.83, Econ 4.77, Best: 2/27, Maidens: 0
+
+Player: TM Odoyo
+  Teams: Kenya
+  World Cups: 2003, 2007, 2011
+  Matches: 14
+  Batting: 266 runs, 8 innings, Avg 44.33, SR 67.51, HS 51, 100s: 0, 50s: 1, 4s: 30, 6s: 4
+  Bowling: 15 wkts, Avg 29.0, Econ 4.58, Best: 4/28, Maidens: 6
+
+Player: MM Ali
+  Teams: England
+  World Cups: 2015, 2019, 2023
+  Matches: 15
+  Batting: 265 runs, 8 innings, Avg 33.12, SR 100.38, HS 128, 100s: 1, 50s: 0, 4s: 26, 6s: 6
+  Bowling: 14 wkts, Avg 41.14, Econ 5.61, Best: 3/42, Maidens: 0
+
+Player: JO Holder
+  Teams: West Indies
+  World Cups: 2015, 2019
+  Matches: 13
+  Batting: 265 runs, 6 innings, Avg 44.17, SR 112.29, HS 57, 100s: 0, 50s: 3, 4s: 27, 6s: 12
+  Bowling: 17 wkts, Avg 29.47, Econ 5.62, Best: 4/27, Maidens: 9
+
+Player: MV Boucher
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 6
+  Batting: 264 runs, 6 innings, Avg 66.0, SR 122.79, HS 75, 100s: 0, 50s: 2, 4s: 19, 6s: 12
+
+Player: GD Elliott
+  Teams: New Zealand
+  World Cups: 2015
+  Matches: 5
+  Batting: 262 runs, 5 innings, Avg 65.5, SR 113.42, HS 84, 100s: 0, 50s: 2, 4s: 26, 6s: 7
+  Bowling: 2 wkts, Avg 13.5, Econ 13.5, Best: 2/27, Maidens: 0
+
+Player: SA Edwards
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 7
+  Batting: 259 runs, 7 innings, Avg 51.8, SR 87.8, HS 78, 100s: 0, 50s: 2, 4s: 22, 6s: 3
+
+Player: Sarfraz Ahmed
+  Teams: Pakistan
+  World Cups: 2015, 2019
+  Matches: 5
+  Batting: 257 runs, 5 innings, Avg 64.25, SR 87.12, HS 101, 100s: 1, 50s: 1, 4s: 18, 6s: 3
+
+Player: DR Martyn
+  Teams: Australia
+  World Cups: 2003
+  Matches: 5
+  Batting: 256 runs, 5 innings, Avg 85.33, SR 81.27, HS 88, 100s: 0, 50s: 3, 4s: 15, 6s: 2
+
+Player: KIC Asalanka
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 4
+  Batting: 256 runs, 4 innings, Avg 64.0, SR 93.09, HS 108, 100s: 1, 50s: 1, 4s: 16, 6s: 11
+
+Player: PA de Silva
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 8
+  Batting: 254 runs, 6 innings, Avg 42.33, SR 89.75, HS 92, 100s: 0, 50s: 2, 4s: 25, 6s: 7
+  Bowling: 8 wkts, Avg 30.0, Econ 4.9, Best: 2/36, Maidens: 1
+
+Player: GC Wilson
+  Teams: Ireland
+  World Cups: 2011, 2015
+  Matches: 6
+  Batting: 253 runs, 6 innings, Avg 42.17, SR 100.8, HS 80, 100s: 0, 50s: 2, 4s: 27, 6s: 5
+
+Player: Ahmed Shehzad
+  Teams: Pakistan
+  World Cups: 2011, 2015
+  Matches: 7
+  Batting: 251 runs, 7 innings, Avg 35.86, SR 76.29, HS 93, 100s: 0, 50s: 2, 4s: 29, 6s: 1
+
+Player: CR Woakes
+  Teams: England
+  World Cups: 2015, 2019, 2023
+  Matches: 19
+  Batting: 249 runs, 7 innings, Avg 41.5, SR 95.04, HS 51, 100s: 0, 50s: 1, 4s: 21, 6s: 3
+  Bowling: 31 wkts, Avg 21.58, Econ 5.06, Best: 4/54, Maidens: 8
+
+Player: CB Wishart
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 3
+  Batting: 245 runs, 3 innings, Avg 122.5, SR 90.07, HS 172, 100s: 1, 50s: 0, 4s: 25, 6s: 3
+
+Player: SA Engelbrecht
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 7
+  Batting: 242 runs, 7 innings, Avg 34.57, SR 66.48, HS 70, 100s: 0, 50s: 1, 4s: 19, 6s: 3
+
+Player: A Flintoff
+  Teams: England
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 237 runs, 7 innings, Avg 33.86, SR 74.53, HS 64, 100s: 0, 50s: 1, 4s: 19, 6s: 7
+  Bowling: 21 wkts, Avg 20.86, Econ 3.72, Best: 4/43, Maidens: 9
+
+Player: JDP Oram
+  Teams: New Zealand
+  World Cups: 2003, 2007, 2011
+  Matches: 21
+  Batting: 236 runs, 9 innings, Avg 39.33, SR 73.98, HS 63, 100s: 0, 50s: 1, 4s: 9, 6s: 8
+  Bowling: 36 wkts, Avg 19.33, Econ 4.16, Best: 4/39, Maidens: 17
+
+Player: A Balbirnie
+  Teams: Ireland
+  World Cups: 2015
+  Matches: 6
+  Batting: 236 runs, 6 innings, Avg 39.33, SR 90.77, HS 97, 100s: 0, 50s: 2, 4s: 20, 6s: 4
+
+Player: W Barresi
+  Teams: Netherlands
+  World Cups: 2011, 2023
+  Matches: 7
+  Batting: 231 runs, 7 innings, Avg 33.0, SR 70.0, HS 44, 100s: 0, 50s: 0, 4s: 29, 6s: 3
+
+Player: HH Pandya
+  Teams: India
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 230 runs, 8 innings, Avg 46.0, SR 116.16, HS 48, 100s: 0, 50s: 0, 4s: 21, 6s: 5
+  Bowling: 10 wkts, Avg 39.9, Econ 5.78, Best: 3/60, Maidens: 0
+
+Player: KJ Coetzer
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 2
+  Batting: 227 runs, 2 innings, Avg 113.5, SR 104.13, HS 156, 100s: 1, 50s: 1, 4s: 28, 6s: 4
+
+Player: CL Cairns
+  Teams: New Zealand
+  World Cups: 2003
+  Matches: 7
+  Batting: 223 runs, 7 innings, Avg 37.17, SR 81.68, HS 54, 100s: 0, 50s: 1, 4s: 15, 6s: 6
+  Bowling: 2 wkts, Avg 8.0, Econ 4.0, Best: 2/16, Maidens: 0
+
+Player: RA Jadeja
+  Teams: India
+  World Cups: 2015, 2019, 2023
+  Matches: 20
+  Batting: 219 runs, 6 innings, Avg 73.0, SR 129.59, HS 77, 100s: 0, 50s: 1, 4s: 17, 6s: 7
+  Bowling: 27 wkts, Avg 29.3, Econ 4.59, Best: 5/33, Maidens: 3
+
+Player: Saeed Anwar
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 5
+  Batting: 218 runs, 5 innings, Avg 54.5, SR 71.95, HS 101, 100s: 1, 50s: 0, 4s: 19, 6s: 1
+  Bowling: 1 wkts, Avg 15.0, Econ 3.75, Best: 1/15, Maidens: 0
+
+Player: SO Hetmyer
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 7
+  Batting: 218 runs, 7 innings, Avg 36.33, SR 98.2, HS 54, 100s: 0, 50s: 2, 4s: 22, 6s: 4
+
+Player: Sabbir Rahman
+  Teams: Bangladesh
+  World Cups: 2015, 2019
+  Matches: 6
+  Batting: 215 runs, 6 innings, Avg 43.0, SR 100.94, HS 53, 100s: 0, 50s: 1, 4s: 23, 6s: 5
+  Bowling: 1 wkts, Avg 73.0, Econ 6.64, Best: 1/47, Maidens: 0
+
+Player: CJ Anderson
+  Teams: New Zealand
+  World Cups: 2015
+  Matches: 8
+  Batting: 213 runs, 5 innings, Avg 42.6, SR 113.9, HS 75, 100s: 0, 50s: 2, 4s: 20, 6s: 9
+  Bowling: 12 wkts, Avg 16.33, Econ 6.64, Best: 3/18, Maidens: 1
+
+Player: AS Hansra
+  Teams: Canada
+  World Cups: 2011
+  Matches: 5
+  Batting: 212 runs, 5 innings, Avg 53.0, SR 57.45, HS 70, 100s: 0, 50s: 2, 4s: 16, 6s: 5
+  Bowling: 2 wkts, Avg 35.0, Econ 4.67, Best: 2/23, Maidens: 1
+
+Player: MO Odumbe
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 7
+  Batting: 211 runs, 7 innings, Avg 52.75, SR 104.46, HS 52, 100s: 0, 50s: 1, 4s: 18, 6s: 2
+  Bowling: 7 wkts, Avg 16.86, Econ 4.07, Best: 4/38, Maidens: 0
+
+Player: Saud Shakeel
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 5
+  Batting: 210 runs, 5 innings, Avg 42.0, SR 103.96, HS 68, 100s: 0, 50s: 2, 4s: 26, 6s: 1
+
+Player: AM Rahane
+  Teams: India
+  World Cups: 2015
+  Matches: 6
+  Batting: 208 runs, 6 innings, Avg 41.6, SR 82.87, HS 79, 100s: 0, 50s: 1, 4s: 21, 6s: 3
+
+Player: Kamran Akmal
+  Teams: Pakistan
+  World Cups: 2007, 2011
+  Matches: 6
+  Batting: 207 runs, 6 innings, Avg 41.4, SR 71.88, HS 55, 100s: 0, 50s: 1, 4s: 27, 6s: 0
+
+Player: JP Bray
+  Teams: Ireland
+  World Cups: 2007
+  Matches: 4
+  Batting: 207 runs, 4 innings, Avg 69.0, SR 67.21, HS 115, 100s: 1, 50s: 0, 4s: 22, 6s: 2
+
+Player: DM de Silva
+  Teams: Sri Lanka
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 206 runs, 8 innings, Avg 34.33, SR 72.28, HS 34, 100s: 0, 50s: 0, 4s: 16, 6s: 4
+  Bowling: 5 wkts, Avg 51.6, Econ 5.38, Best: 3/32, Maidens: 0
+
+Player: RR Rossouw
+  Teams: South Africa
+  World Cups: 2015
+  Matches: 4
+  Batting: 204 runs, 4 innings, Avg 68.0, SR 119.3, HS 61, 100s: 0, 50s: 2, 4s: 20, 6s: 5
+
+Player: WIA Fernando
+  Teams: Sri Lanka
+  World Cups: 2019
+  Matches: 4
+  Batting: 203 runs, 4 innings, Avg 50.75, SR 105.73, HS 104, 100s: 1, 50s: 0, 4s: 23, 6s: 4
+
+Player: NJ Astle
+  Teams: New Zealand
+  World Cups: 2003
+  Matches: 4
+  Batting: 202 runs, 3 innings, Avg 202.0, SR 81.12, HS 102, 100s: 1, 50s: 1, 4s: 21, 6s: 0
+  Bowling: 3 wkts, Avg 16.0, Econ 4.36, Best: 3/34, Maidens: 0
+
+Player: AJ Burger
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 6
+  Batting: 199 runs, 6 innings, Avg 33.17, SR 100.51, HS 85, 100s: 0, 50s: 1, 4s: 25, 6s: 3
+  Bowling: 3 wkts, Avg 34.67, Econ 6.5, Best: 1/18, Maidens: 0
+
+Player: GD Phillips
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 8
+  Batting: 198 runs, 6 innings, Avg 49.5, SR 127.74, HS 60, 100s: 0, 50s: 1, 4s: 16, 6s: 10
+  Bowling: 6 wkts, Avg 23.67, Econ 5.68, Best: 3/37, Maidens: 1
+
+Player: FDM Karunaratne
+  Teams: Sri Lanka
+  World Cups: 2015, 2019
+  Matches: 4
+  Batting: 195 runs, 4 innings, Avg 65.0, SR 74.71, HS 97, 100s: 0, 50s: 2, 4s: 17, 6s: 0
+
+Player: Shahid Afridi
+  Teams: Pakistan
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 18
+  Batting: 191 runs, 10 innings, Avg 21.22, SR 132.64, HS 28, 100s: 0, 50s: 0, 4s: 18, 6s: 7
+  Bowling: 29 wkts, Avg 22.34, Econ 4.38, Best: 5/16, Maidens: 6
+
+Player: PW Borren
+  Teams: Netherlands
+  World Cups: 2007, 2011
+  Matches: 7
+  Batting: 191 runs, 5 innings, Avg 47.75, SR 101.6, HS 84, 100s: 0, 50s: 1, 4s: 22, 6s: 3
+  Bowling: 4 wkts, Avg 50.5, Econ 6.52, Best: 1/28, Maidens: 0
+
+Player: DS Lehmann
+  Teams: Australia
+  World Cups: 2003
+  Matches: 7
+  Batting: 189 runs, 5 innings, Avg 63.0, SR 87.1, HS 56, 100s: 0, 50s: 2, 4s: 17, 6s: 3
+  Bowling: 4 wkts, Avg 23.25, Econ 3.58, Best: 2/22, Maidens: 0
+
+Player: IS Billcliff
+  Teams: Canada
+  World Cups: 2003, 2007
+  Matches: 6
+  Batting: 189 runs, 6 innings, Avg 31.5, SR 66.32, HS 71, 100s: 0, 50s: 2, 4s: 20, 6s: 2
+
+Player: Imran Nazir
+  Teams: Pakistan
+  World Cups: 2007
+  Matches: 2
+  Batting: 184 runs, 2 innings, Avg 92.0, SR 106.98, HS 160, 100s: 1, 50s: 0, 4s: 17, 6s: 8
+
+Player: JD Ryder
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 5
+  Batting: 184 runs, 5 innings, Avg 36.8, SR 69.43, HS 83, 100s: 0, 50s: 1, 4s: 21, 6s: 0
+  Bowling: 1 wkts, Avg 39.0, Econ 6.16, Best: 1/15, Maidens: 0
+
+Player: E Chigumbura
+  Teams: Zimbabwe
+  World Cups: 2007, 2011, 2015
+  Matches: 9
+  Batting: 183 runs, 6 innings, Avg 45.75, SR 100.55, HS 38, 100s: 0, 50s: 0, 4s: 15, 6s: 7
+  Bowling: 7 wkts, Avg 30.14, Econ 5.78, Best: 3/50, Maidens: 3
+
+Player: DJG Sammy
+  Teams: West Indies
+  World Cups: 2011, 2015
+  Matches: 12
+  Batting: 183 runs, 4 innings, Avg 45.75, SR 109.58, HS 89, 100s: 0, 50s: 1, 4s: 16, 6s: 8
+  Bowling: 9 wkts, Avg 34.78, Econ 4.74, Best: 3/21, Maidens: 4
+
+Player: DM Bravo
+  Teams: West Indies
+  World Cups: 2011, 2015, 2019
+  Matches: 6
+  Batting: 183 runs, 6 innings, Avg 36.6, SR 71.21, HS 73, 100s: 0, 50s: 1, 4s: 14, 6s: 4
+
+Player: TWM Latham
+  Teams: New Zealand
+  World Cups: 2019, 2023
+  Matches: 5
+  Batting: 183 runs, 5 innings, Avg 36.6, SR 86.73, HS 57, 100s: 0, 50s: 2, 4s: 13, 6s: 2
+
+Player: KA Pollard
+  Teams: West Indies
+  World Cups: 2007, 2011
+  Matches: 6
+  Batting: 178 runs, 3 innings, Avg 59.33, SR 163.3, HS 94, 100s: 0, 50s: 2, 4s: 14, 6s: 11
+  Bowling: 2 wkts, Avg 88.5, Econ 5.08, Best: 1/37, Maidens: 0
+
+Player: GW Flower
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 6
+  Batting: 176 runs, 5 innings, Avg 44.0, SR 80.37, HS 78, 100s: 0, 50s: 1, 4s: 14, 6s: 2
+  Bowling: 3 wkts, Avg 43.67, Econ 3.83, Best: 2/14, Maidens: 1
+
+Player: HP Tillakaratne
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 5
+  Batting: 175 runs, 5 innings, Avg 43.75, SR 60.34, HS 81, 100s: 0, 50s: 1, 4s: 18, 6s: 0
+
+Player: SD Hope
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 3
+  Batting: 175 runs, 3 innings, Avg 58.33, SR 72.02, HS 96, 100s: 0, 50s: 2, 4s: 12, 6s: 1
+
+Player: G Kirsten
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 3
+  Batting: 173 runs, 3 innings, Avg 173.0, SR 92.51, HS 69, 100s: 0, 50s: 3, 4s: 24, 6s: 2
+
+Player: KO Otieno
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 4
+  Batting: 173 runs, 4 innings, Avg 43.25, SR 54.92, HS 79, 100s: 0, 50s: 2, 4s: 17, 6s: 4
+
+Player: D Ramdin
+  Teams: West Indies
+  World Cups: 2007, 2015
+  Matches: 5
+  Batting: 173 runs, 5 innings, Avg 43.25, SR 84.39, HS 52, 100s: 0, 50s: 2, 4s: 19, 6s: 0
+
+Player: Imrul Kayes
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 4
+  Batting: 172 runs, 4 innings, Avg 57.33, SR 68.8, HS 73, 100s: 0, 50s: 2, 4s: 16, 6s: 0
+
+Player: Yousuf Youhana
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 5
+  Batting: 170 runs, 5 innings, Avg 34.0, SR 77.27, HS 58, 100s: 0, 50s: 1, 4s: 12, 6s: 0
+
+Player: PA Nixon
+  Teams: England
+  World Cups: 2007
+  Matches: 6
+  Batting: 169 runs, 6 innings, Avg 42.25, SR 91.85, HS 42, 100s: 0, 50s: 0, 4s: 12, 6s: 4
+
+Player: RP Arnold
+  Teams: Sri Lanka
+  World Cups: 2003, 2007
+  Matches: 10
+  Batting: 168 runs, 7 innings, Avg 42.0, SR 78.5, HS 50, 100s: 0, 50s: 1, 4s: 8, 6s: 0
+  Bowling: 5 wkts, Avg 24.2, Econ 5.15, Best: 3/47, Maidens: 0
+
+Player: M Kaif
+  Teams: India
+  World Cups: 2003
+  Matches: 6
+  Batting: 167 runs, 6 innings, Avg 33.4, SR 61.85, HS 68, 100s: 0, 50s: 1, 4s: 16, 6s: 1
+
+Player: Abdul Razzaq
+  Teams: Pakistan
+  World Cups: 2003, 2011
+  Matches: 10
+  Batting: 165 runs, 5 innings, Avg 41.25, SR 76.74, HS 62, 100s: 0, 50s: 1, 4s: 18, 6s: 0
+  Bowling: 6 wkts, Avg 20.83, Econ 3.38, Best: 2/8, Maidens: 4
+
+Player: HH Streak
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 8
+  Batting: 164 runs, 4 innings, Avg 82.0, SR 103.8, HS 72, 100s: 0, 50s: 1, 4s: 13, 6s: 4
+  Bowling: 7 wkts, Avg 43.29, Econ 4.84, Best: 2/35, Maidens: 1
+
+Player: DLS van Bunge
+  Teams: Netherlands
+  World Cups: 2003, 2007
+  Matches: 6
+  Batting: 163 runs, 4 innings, Avg 40.75, SR 63.67, HS 62, 100s: 0, 50s: 1, 4s: 17, 6s: 2
+  Bowling: 6 wkts, Avg 7.83, Econ 5.76, Best: 3/16, Maidens: 0
+
+Player: Amjad Javed
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 6
+  Batting: 163 runs, 4 innings, Avg 54.33, SR 87.63, HS 56, 100s: 0, 50s: 1, 4s: 20, 6s: 4
+  Bowling: 7 wkts, Avg 33.86, Econ 6.08, Best: 3/60, Maidens: 0
+
+Player: TLW Cooper
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 5
+  Batting: 160 runs, 4 innings, Avg 53.33, SR 68.67, HS 55, 100s: 0, 50s: 1, 4s: 16, 6s: 0
+  Bowling: 4 wkts, Avg 18.75, Econ 4.59, Best: 2/31, Maidens: 3
+
+Player: CN Ackermann
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 8
+  Batting: 160 runs, 5 innings, Avg 32.0, SR 95.24, HS 69, 100s: 0, 50s: 1, 4s: 21, 6s: 0
+  Bowling: 5 wkts, Avg 38.8, Econ 4.81, Best: 2/39, Maidens: 2
+
+Player: C de Grandhomme
+  Teams: New Zealand
+  World Cups: 2019
+  Matches: 8
+  Batting: 156 runs, 4 innings, Avg 39.0, SR 116.42, HS 64, 100s: 0, 50s: 2, 4s: 14, 6s: 4
+  Bowling: 5 wkts, Avg 32.4, Econ 3.86, Best: 1/14, Maidens: 3
+
+Player: MP Stoinis
+  Teams: Australia
+  World Cups: 2019, 2023
+  Matches: 11
+  Batting: 155 runs, 7 innings, Avg 31.0, SR 96.88, HS 35, 100s: 0, 50s: 0, 4s: 19, 6s: 4
+  Bowling: 9 wkts, Avg 32.78, Econ 7.02, Best: 2/40, Maidens: 0
+
+Player: Asad Shafiq
+  Teams: Pakistan
+  World Cups: 2011
+  Matches: 3
+  Batting: 154 runs, 3 innings, Avg 77.0, SR 70.97, HS 78, 100s: 0, 50s: 1, 4s: 14, 6s: 0
+
+Player: BJ Hodge
+  Teams: Australia
+  World Cups: 2007
+  Matches: 2
+  Batting: 152 runs, 2 innings, Avg 76.0, SR 129.91, HS 123, 100s: 1, 50s: 0, 4s: 11, 6s: 7
+  Bowling: 1 wkts, Avg 17.0, Econ 2.83, Best: 1/17, Maidens: 0
+
+Player: LMP Simmons
+  Teams: West Indies
+  World Cups: 2015
+  Matches: 2
+  Batting: 152 runs, 2 innings, Avg 76.0, SR 116.92, HS 102, 100s: 1, 50s: 1, 4s: 13, 6s: 7
+
+Player: WA Young
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 5
+  Batting: 152 runs, 5 innings, Avg 30.4, SR 83.52, HS 70, 100s: 0, 50s: 1, 4s: 19, 6s: 3
+
+Player: Towhid Hridoy
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 5
+  Batting: 151 runs, 5 innings, Avg 37.75, SR 81.62, HS 74, 100s: 0, 50s: 1, 4s: 7, 6s: 5
+
+Player: JP Inglis
+  Teams: Australia
+  World Cups: 2023
+  Matches: 5
+  Batting: 151 runs, 5 innings, Avg 30.2, SR 96.18, HS 58, 100s: 0, 50s: 1, 4s: 16, 6s: 3
+
+Player: MW Machan
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 4
+  Batting: 150 runs, 4 innings, Avg 37.5, SR 76.92, HS 56, 100s: 0, 50s: 1, 4s: 16, 6s: 2
+  Bowling: 1 wkts, Avg 91.0, Econ 8.27, Best: 1/46, Maidens: 0
+
+Player: Khurram Khan
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 5
+  Batting: 150 runs, 5 innings, Avg 30.0, SR 72.46, HS 45, 100s: 0, 50s: 0, 4s: 14, 6s: 1
+
+Player: AT Nidamanuru
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 5
+  Batting: 150 runs, 5 innings, Avg 37.5, SR 105.63, HS 54, 100s: 0, 50s: 1, 4s: 10, 6s: 10
+
+Player: DT Johnston
+  Teams: Ireland
+  World Cups: 2007, 2011
+  Matches: 12
+  Batting: 145 runs, 8 innings, Avg 20.71, SR 89.51, HS 30, 100s: 0, 50s: 0, 4s: 10, 6s: 5
+  Bowling: 16 wkts, Avg 31.12, Econ 5.32, Best: 2/16, Maidens: 5
+
+Player: Sohaib Maqsood
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 4
+  Batting: 145 runs, 4 innings, Avg 36.25, SR 91.77, HS 50, 100s: 0, 50s: 1, 4s: 11, 6s: 3
+  Bowling: 1 wkts, Avg 16.0, Econ 3.2, Best: 1/16, Maidens: 0
+
+Player: JWA Taylor
+  Teams: England
+  World Cups: 2015
+  Matches: 3
+  Batting: 140 runs, 3 innings, Avg 70.0, SR 98.59, HS 98, 100s: 0, 50s: 1, 4s: 12, 6s: 3
+
+Player: AD Russell
+  Teams: West Indies
+  World Cups: 2011, 2015, 2019
+  Matches: 13
+  Batting: 139 runs, 4 innings, Avg 69.5, SR 157.95, HS 49, 100s: 0, 50s: 0, 4s: 9, 6s: 10
+  Bowling: 23 wkts, Avg 23.13, Econ 5.59, Best: 4/49, Maidens: 8
+
+Player: SP Patil
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 5
+  Batting: 138 runs, 5 innings, Avg 34.5, SR 56.33, HS 57, 100s: 0, 50s: 1, 4s: 12, 6s: 0
+
+Player: AJ Stewart
+  Teams: England
+  World Cups: 2003
+  Matches: 3
+  Batting: 136 runs, 3 innings, Avg 45.33, SR 67.0, HS 60, 100s: 0, 50s: 1, 4s: 11, 6s: 1
+
+Player: Nazmul Hossain Shanto
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 3
+  Batting: 135 runs, 2 innings, Avg 67.5, SR 85.44, HS 90, 100s: 0, 50s: 1, 4s: 18, 6s: 0
+
+Player: KJJ van Noortwijk
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 1
+  Batting: 134 runs, 1 innings, Avg 134.0, SR 103.88, HS 134, 100s: 1, 50s: 0, 4s: 11, 6s: 3
+
+Player: MEK Hussey
+  Teams: Australia
+  World Cups: 2007, 2011
+  Matches: 4
+  Batting: 133 runs, 4 innings, Avg 44.33, SR 88.67, HS 54, 100s: 0, 50s: 1, 4s: 9, 6s: 1
+
+Player: JF Kloppenburg
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 4
+  Batting: 131 runs, 2 innings, Avg 65.5, SR 76.16, HS 121, 100s: 1, 50s: 0, 4s: 7, 6s: 4
+  Bowling: 7 wkts, Avg 17.43, Econ 4.07, Best: 4/42, Maidens: 0
+
+Player: MG Bevan
+  Teams: Australia
+  World Cups: 2003
+  Matches: 2
+  Batting: 130 runs, 2 innings, Avg 130.0, SR 59.09, HS 74, 100s: 0, 50s: 2, 4s: 10, 6s: 2
+
+Player: T Mishra
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 3
+  Batting: 129 runs, 3 innings, Avg 43.0, SR 72.47, HS 72, 100s: 0, 50s: 2, 4s: 12, 6s: 1
+
+Player: D Keulder
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 4
+  Batting: 128 runs, 4 innings, Avg 32.0, SR 64.32, HS 52, 100s: 0, 50s: 1, 4s: 11, 6s: 0
+
+Player: V Sibanda
+  Teams: Zimbabwe
+  World Cups: 2007, 2011
+  Matches: 2
+  Batting: 128 runs, 2 innings, Avg 64.0, SR 90.78, HS 67, 100s: 0, 50s: 2, 4s: 16, 6s: 1
+
+Player: DJ Bravo
+  Teams: West Indies
+  World Cups: 2007, 2011
+  Matches: 10
+  Batting: 125 runs, 5 innings, Avg 41.67, SR 85.62, HS 40, 100s: 0, 50s: 0, 4s: 7, 6s: 5
+  Bowling: 13 wkts, Avg 27.77, Econ 5.55, Best: 3/42, Maidens: 3
+
+Player: PL Mommsen
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 3
+  Batting: 125 runs, 3 innings, Avg 41.67, SR 80.65, HS 60, 100s: 0, 50s: 1, 4s: 12, 6s: 1
+
+Player: AR White
+  Teams: Ireland
+  World Cups: 2007
+  Matches: 7
+  Batting: 124 runs, 6 innings, Avg 20.67, SR 75.15, HS 38, 100s: 0, 50s: 0, 4s: 13, 6s: 0
+  Bowling: 3 wkts, Avg 22.67, Econ 4.53, Best: 2/45, Maidens: 1
+
+Player: Aftab Ahmed
+  Teams: Bangladesh
+  World Cups: 2007
+  Matches: 9
+  Batting: 122 runs, 8 innings, Avg 15.25, SR 85.31, HS 35, 100s: 0, 50s: 0, 4s: 12, 6s: 3
+  Bowling: 1 wkts, Avg 21.0, Econ 5.04, Best: 1/12, Maidens: 0
+
+Player: Wahab Riaz
+  Teams: Pakistan
+  World Cups: 2011, 2015, 2019
+  Matches: 17
+  Batting: 120 runs, 4 innings, Avg 40.0, SR 110.09, HS 54, 100s: 0, 50s: 1, 4s: 9, 6s: 6
+  Bowling: 32 wkts, Avg 25.91, Econ 5.65, Best: 5/46, Maidens: 5
+
+Player: AJ Bichel
+  Teams: Australia
+  World Cups: 2003
+  Matches: 6
+  Batting: 117 runs, 3 innings, Avg 117.0, SR 83.57, HS 64, 100s: 0, 50s: 1, 4s: 10, 6s: 3
+  Bowling: 13 wkts, Avg 11.69, Econ 3.38, Best: 7/20, Maidens: 6
+
+Player: RR Pant
+  Teams: India
+  World Cups: 2019
+  Matches: 4
+  Batting: 116 runs, 4 innings, Avg 29.0, SR 89.23, HS 48, 100s: 0, 50s: 0, 4s: 15, 6s: 1
+
+Player: JEC Franklin
+  Teams: New Zealand
+  World Cups: 2007, 2011
+  Matches: 9
+  Batting: 115 runs, 5 innings, Avg 57.5, SR 92.0, HS 34, 100s: 0, 50s: 0, 4s: 7, 6s: 2
+  Bowling: 11 wkts, Avg 27.0, Econ 4.84, Best: 3/74, Maidens: 6
+
+Player: CR Brathwaite
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 5
+  Batting: 115 runs, 2 innings, Avg 57.5, SR 110.58, HS 101, 100s: 1, 50s: 0, 4s: 9, 6s: 6
+  Bowling: 5 wkts, Avg 38.4, Econ 7.11, Best: 3/67, Maidens: 0
+
+Player: M Jansen
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 8
+  Batting: 115 runs, 3 innings, Avg 57.5, SR 122.34, HS 75, 100s: 0, 50s: 1, 4s: 7, 6s: 7
+  Bowling: 17 wkts, Avg 24.41, Econ 6.42, Best: 3/31, Maidens: 3
+
+Player: Tanzid Hasan
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 4
+  Batting: 114 runs, 4 innings, Avg 28.5, SR 103.64, HS 51, 100s: 0, 50s: 1, 4s: 15, 6s: 3
+
+Player: Mashrafe Mortaza
+  Teams: Bangladesh
+  World Cups: 2003, 2007, 2015, 2019
+  Matches: 20
+  Batting: 113 runs, 6 innings, Avg 28.25, SR 77.93, HS 37, 100s: 0, 50s: 0, 4s: 10, 6s: 3
+  Bowling: 16 wkts, Avg 54.12, Econ 5.4, Best: 4/38, Maidens: 7
+
+Player: JL Carter
+  Teams: West Indies
+  World Cups: 2015
+  Matches: 4
+  Batting: 113 runs, 4 innings, Avg 37.67, SR 70.62, HS 50, 100s: 0, 50s: 1, 4s: 13, 6s: 1
+
+Player: AM Blignaut
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 5
+  Batting: 112 runs, 2 innings, Avg 56.0, SR 169.7, HS 58, 100s: 0, 50s: 2, 4s: 15, 6s: 2
+  Bowling: 4 wkts, Avg 46.25, Econ 4.74, Best: 2/41, Maidens: 1
+
+Player: Imad Wasim
+  Teams: Pakistan
+  World Cups: 2019
+  Matches: 3
+  Batting: 112 runs, 3 innings, Avg 56.0, SR 140.0, HS 46, 100s: 0, 50s: 0, 4s: 14, 6s: 1
+
+Player: BFW de Leede
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 7
+  Batting: 112 runs, 4 innings, Avg 28.0, SR 81.75, HS 67, 100s: 0, 50s: 1, 4s: 13, 6s: 2
+  Bowling: 16 wkts, Avg 28.62, Econ 7.16, Best: 4/62, Maidens: 0
+
+Player: LV van Beek
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 6
+  Batting: 110 runs, 3 innings, Avg 110.0, SR 92.44, HS 59, 100s: 0, 50s: 1, 4s: 6, 6s: 3
+  Bowling: 11 wkts, Avg 30.82, Econ 6.3, Best: 4/74, Maidens: 1
+
+Player: H Masakadza
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 3
+  Batting: 109 runs, 2 innings, Avg 54.5, SR 85.16, HS 80, 100s: 0, 50s: 1, 4s: 12, 6s: 2
+  Bowling: 1 wkts, Avg 53.0, Econ 5.68, Best: 1/39, Maidens: 0
+
+Player: TBM de Leede
+  Teams: Netherlands
+  World Cups: 2003, 2007
+  Matches: 7
+  Batting: 108 runs, 4 innings, Avg 36.0, SR 57.14, HS 58, 100s: 0, 50s: 1, 4s: 10, 6s: 1
+  Bowling: 11 wkts, Avg 23.55, Econ 5.3, Best: 4/35, Maidens: 1
+
+Player: SM Pollock
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 15
+  Batting: 108 runs, 5 innings, Avg 27.0, SR 81.2, HS 32, 100s: 0, 50s: 0, 4s: 2, 6s: 3
+  Bowling: 16 wkts, Avg 21.19, Econ 2.97, Best: 2/8, Maidens: 17
+
+Player: L Vincent
+  Teams: New Zealand
+  World Cups: 2003, 2007
+  Matches: 2
+  Batting: 108 runs, 2 innings, Avg 54.0, SR 78.83, HS 101, 100s: 1, 50s: 0, 4s: 10, 6s: 1
+
+Player: ME Trescothick
+  Teams: England
+  World Cups: 2003
+  Matches: 3
+  Batting: 107 runs, 3 innings, Avg 35.67, SR 92.24, HS 58, 100s: 0, 50s: 1, 4s: 15, 6s: 2
+
+Player: S Matsikenyeri
+  Teams: Zimbabwe
+  World Cups: 2007
+  Matches: 3
+  Batting: 107 runs, 3 innings, Avg 53.5, SR 83.59, HS 73, 100s: 0, 50s: 1, 4s: 14, 6s: 1
+
+Player: AG Prince
+  Teams: South Africa
+  World Cups: 2007
+  Matches: 3
+  Batting: 105 runs, 3 innings, Avg 52.5, SR 84.68, HS 47, 100s: 0, 50s: 0, 4s: 8, 6s: 1
+
+Player: RD Berrington
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 4
+  Batting: 105 runs, 3 innings, Avg 35.0, SR 88.98, HS 50, 100s: 0, 50s: 1, 4s: 7, 6s: 5
+  Bowling: 3 wkts, Avg 24.67, Econ 6.63, Best: 2/31, Maidens: 0
+
+Player: RL Powell
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 3
+  Batting: 104 runs, 3 innings, Avg 52.0, SR 165.08, HS 50, 100s: 0, 50s: 1, 4s: 9, 6s: 6
+
+Player: AL Phehlukwayo
+  Teams: South Africa
+  World Cups: 2019
+  Matches: 7
+  Batting: 104 runs, 3 innings, Avg 52.0, SR 88.14, HS 46, 100s: 0, 50s: 0, 4s: 12, 6s: 1
+  Bowling: 9 wkts, Avg 35.33, Econ 5.91, Best: 2/22, Maidens: 0
+
+Player: C Munro
+  Teams: New Zealand
+  World Cups: 2019
+  Matches: 4
+  Batting: 103 runs, 4 innings, Avg 34.33, SR 100.0, HS 58, 100s: 0, 50s: 1, 4s: 13, 6s: 2
+
+Player: P Utseya
+  Teams: Zimbabwe
+  World Cups: 2007, 2011
+  Matches: 7
+  Batting: 100 runs, 4 innings, Avg 25.0, SR 58.48, HS 36, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 6 wkts, Avg 39.5, Econ 4.02, Best: 2/24, Maidens: 4
+
+Player: MA Starc
+  Teams: Australia
+  World Cups: 2015, 2019, 2023
+  Matches: 24
+  Batting: 100 runs, 4 innings, Avg 25.0, SR 75.19, HS 29, 100s: 0, 50s: 0, 4s: 7, 6s: 3
+  Bowling: 61 wkts, Avg 17.15, Econ 4.93, Best: 6/28, Maidens: 7
+
+Player: Sikandar Raza
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 5
+  Batting: 100 runs, 3 innings, Avg 33.33, SR 126.58, HS 46, 100s: 0, 50s: 0, 4s: 12, 6s: 4
+  Bowling: 2 wkts, Avg 89.0, Econ 4.81, Best: 1/34, Maidens: 1
+
+Player: D Mongia
+  Teams: India
+  World Cups: 2003
+  Matches: 8
+  Batting: 99 runs, 4 innings, Avg 24.75, SR 60.0, HS 42, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+  Bowling: 5 wkts, Avg 23.8, Econ 4.22, Best: 2/24, Maidens: 1
+
+Player: AG Cremer
+  Teams: Zimbabwe
+  World Cups: 2011
+  Matches: 6
+  Batting: 99 runs, 4 innings, Avg 33.0, SR 68.75, HS 37, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+  Bowling: 6 wkts, Avg 35.17, Econ 4.55, Best: 3/31, Maidens: 1
+
+Player: Rashid Latif
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 3
+  Batting: 98 runs, 3 innings, Avg 49.0, SR 125.64, HS 36, 100s: 0, 50s: 0, 4s: 7, 6s: 3
+
+Player: WPUJC Vaas
+  Teams: Sri Lanka
+  World Cups: 2003, 2007
+  Matches: 17
+  Batting: 98 runs, 5 innings, Avg 49.0, SR 66.67, HS 28, 100s: 0, 50s: 0, 4s: 9, 6s: 2
+  Bowling: 30 wkts, Avg 17.9, Econ 3.77, Best: 4/22, Maidens: 23
+
+Player: T Bavuma
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 4
+  Batting: 98 runs, 4 innings, Avg 24.5, SR 75.97, HS 35, 100s: 0, 50s: 0, 4s: 11, 6s: 2
+
+Player: Saleem Elahi
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 3
+  Batting: 97 runs, 3 innings, Avg 32.33, SR 67.83, HS 63, 100s: 0, 50s: 1, 4s: 9, 6s: 0
+
+Player: CZ Harris
+  Teams: New Zealand
+  World Cups: 2003
+  Matches: 5
+  Batting: 97 runs, 5 innings, Avg 48.5, SR 71.85, HS 38, 100s: 0, 50s: 0, 4s: 9, 6s: 0
+  Bowling: 2 wkts, Avg 51.5, Econ 3.32, Best: 1/19, Maidens: 3
+
+Player: ZE Surkari
+  Teams: Canada
+  World Cups: 2011
+  Matches: 4
+  Batting: 97 runs, 4 innings, Avg 24.25, SR 46.19, HS 34, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+
+Player: RW Chakabva
+  Teams: Zimbabwe
+  World Cups: 2011, 2015
+  Matches: 4
+  Batting: 97 runs, 4 innings, Avg 24.25, SR 63.82, HS 35, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+
+Player: Junaid Siddique
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 3
+  Batting: 97 runs, 3 innings, Avg 32.33, SR 73.48, HS 37, 100s: 0, 50s: 0, 4s: 9, 6s: 1
+
+Player: PJ Cummins
+  Teams: Australia
+  World Cups: 2015, 2019, 2023
+  Matches: 20
+  Batting: 97 runs, 4 innings, Avg 32.33, SR 124.36, HS 37, 100s: 0, 50s: 0, 4s: 8, 6s: 5
+  Bowling: 31 wkts, Avg 28.35, Econ 5.34, Best: 3/33, Maidens: 6
+
+Player: RR Hendricks
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 2
+  Batting: 97 runs, 2 innings, Avg 48.5, SR 103.19, HS 85, 100s: 0, 50s: 1, 4s: 10, 6s: 3
+
+Player: JF Mooney
+  Teams: Ireland
+  World Cups: 2007, 2011, 2015
+  Matches: 12
+  Batting: 95 runs, 5 innings, Avg 31.67, SR 69.34, HS 33, 100s: 0, 50s: 0, 4s: 11, 6s: 0
+  Bowling: 14 wkts, Avg 37.86, Econ 6.09, Best: 4/63, Maidens: 5
+
+Player: Shadab Khan
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 95 runs, 3 innings, Avg 47.5, SR 113.1, HS 43, 100s: 0, 50s: 0, 4s: 6, 6s: 3
+  Bowling: 9 wkts, Avg 46.56, Econ 5.99, Best: 3/50, Maidens: 1
+
+Player: CJ Chibhabha
+  Teams: Zimbabwe
+  World Cups: 2007, 2015
+  Matches: 3
+  Batting: 94 runs, 3 innings, Avg 31.33, SR 67.63, HS 64, 100s: 0, 50s: 1, 4s: 15, 6s: 0
+
+Player: I Maraj
+  Teams: Canada
+  World Cups: 2003
+  Matches: 4
+  Batting: 93 runs, 3 innings, Avg 46.5, SR 40.09, HS 53, 100s: 0, 50s: 1, 4s: 11, 6s: 0
+
+Player: Shoaib Malik
+  Teams: Pakistan
+  World Cups: 2007, 2019
+  Matches: 4
+  Batting: 92 runs, 3 innings, Avg 30.67, SR 82.88, HS 62, 100s: 0, 50s: 1, 4s: 10, 6s: 2
+  Bowling: 2 wkts, Avg 9.5, Econ 4.75, Best: 1/9, Maidens: 0
+
+Player: NM Coulter-Nile
+  Teams: Australia
+  World Cups: 2019
+  Matches: 4
+  Batting: 92 runs, 1 innings, Avg 92.0, SR 153.33, HS 92, 100s: 0, 50s: 1, 4s: 8, 6s: 4
+  Bowling: 4 wkts, Avg 43.5, Econ 6.0, Best: 2/58, Maidens: 1
+
+Player: HC Brook
+  Teams: England
+  World Cups: 2023
+  Matches: 4
+  Batting: 92 runs, 4 innings, Avg 23.0, SR 126.03, HS 30, 100s: 0, 50s: 0, 4s: 11, 6s: 4
+
+Player: GB Murgatroyd
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 4
+  Batting: 90 runs, 4 innings, Avg 22.5, SR 66.18, HS 52, 100s: 0, 50s: 1, 4s: 7, 6s: 1
+
+Player: Mohammad Rafique
+  Teams: Bangladesh
+  World Cups: 2003, 2007
+  Matches: 13
+  Batting: 90 runs, 4 innings, Avg 45.0, SR 78.95, HS 41, 100s: 0, 50s: 0, 4s: 6, 6s: 4
+  Bowling: 10 wkts, Avg 38.9, Econ 4.27, Best: 3/35, Maidens: 8
+
+Player: CL Hooper
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 5
+  Batting: 90 runs, 3 innings, Avg 45.0, SR 84.91, HS 45, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 3 wkts, Avg 55.33, Econ 5.01, Best: 2/63, Maidens: 1
+
+Player: L Klusener
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 3
+  Batting: 90 runs, 2 innings, Avg 90.0, SR 130.43, HS 57, 100s: 0, 50s: 1, 4s: 5, 6s: 6
+  Bowling: 5 wkts, Avg 21.2, Econ 5.05, Best: 4/16, Maidens: 1
+
+Player: DL Hemp
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 2
+  Batting: 90 runs, 2 innings, Avg 90.0, SR 73.17, HS 76, 100s: 0, 50s: 1, 4s: 10, 6s: 1
+
+Player: Mehedi Hasan Miraz
+  Teams: Bangladesh
+  World Cups: 2019, 2023
+  Matches: 12
+  Batting: 90 runs, 3 innings, Avg 30.0, SR 77.59, HS 35, 100s: 0, 50s: 0, 4s: 10, 6s: 2
+  Bowling: 13 wkts, Avg 42.46, Econ 5.36, Best: 3/60, Maidens: 0
+
+Player: AR Adams
+  Teams: New Zealand
+  World Cups: 2003
+  Matches: 7
+  Batting: 89 runs, 3 innings, Avg 44.5, SR 134.85, HS 36, 100s: 0, 50s: 0, 4s: 6, 6s: 6
+  Bowling: 10 wkts, Avg 30.9, Econ 5.98, Best: 4/44, Maidens: 3
+
+Player: DL Vettori
+  Teams: New Zealand
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 28
+  Batting: 89 runs, 5 innings, Avg 29.67, SR 117.11, HS 44, 100s: 0, 50s: 0, 4s: 9, 6s: 1
+  Bowling: 32 wkts, Avg 32.66, Econ 4.16, Best: 4/23, Maidens: 8
+
+Player: DR Smith
+  Teams: West Indies
+  World Cups: 2007, 2015
+  Matches: 8
+  Batting: 87 runs, 5 innings, Avg 17.4, SR 129.85, HS 32, 100s: 0, 50s: 0, 4s: 8, 6s: 5
+  Bowling: 5 wkts, Avg 23.0, Econ 4.26, Best: 3/36, Maidens: 0
+
+Player: Habibul Bashar
+  Teams: Bangladesh
+  World Cups: 2007
+  Matches: 4
+  Batting: 86 runs, 4 innings, Avg 21.5, SR 51.19, HS 32, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: H Patel
+  Teams: Canada
+  World Cups: 2011
+  Matches: 2
+  Batting: 85 runs, 2 innings, Avg 42.5, SR 106.25, HS 54, 100s: 0, 50s: 1, 4s: 10, 6s: 4
+
+Player: DR Chumney
+  Teams: Canada
+  World Cups: 2003, 2007
+  Matches: 4
+  Batting: 83 runs, 4 innings, Avg 27.67, SR 65.87, HS 28, 100s: 0, 50s: 0, 4s: 6, 6s: 3
+
+Player: HS Modi
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 4
+  Batting: 83 runs, 4 innings, Avg 27.67, SR 46.37, HS 39, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: HM Nicholls
+  Teams: New Zealand
+  World Cups: 2019
+  Matches: 2
+  Batting: 83 runs, 2 innings, Avg 41.5, SR 64.84, HS 55, 100s: 0, 50s: 1, 4s: 6, 6s: 0
+
+Player: WW Hinds
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 4
+  Batting: 82 runs, 2 innings, Avg 41.0, SR 117.14, HS 64, 100s: 0, 50s: 1, 4s: 13, 6s: 3
+  Bowling: 6 wkts, Avg 13.5, Econ 4.5, Best: 3/35, Maidens: 0
+
+Player: AC Botha
+  Teams: Ireland
+  World Cups: 2007, 2011
+  Matches: 9
+  Batting: 82 runs, 4 innings, Avg 20.5, SR 54.3, HS 28, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 9 wkts, Avg 29.89, Econ 3.96, Best: 3/32, Maidens: 8
+
+Player: NV Knight
+  Teams: England
+  World Cups: 2003
+  Matches: 2
+  Batting: 81 runs, 2 innings, Avg 40.5, SR 89.01, HS 51, 100s: 0, 50s: 1, 4s: 11, 6s: 0
+
+Player: JV Harris
+  Teams: Canada
+  World Cups: 2003
+  Matches: 4
+  Batting: 81 runs, 4 innings, Avg 20.25, SR 51.27, HS 31, 100s: 0, 50s: 0, 4s: 9, 6s: 1
+
+Player: HH Dippenaar
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 1
+  Batting: 80 runs, 1 innings, Avg 80.0, SR 67.8, HS 80, 100s: 0, 50s: 1, 4s: 7, 6s: 0
+
+Player: ES Szwarczynski
+  Teams: Netherlands
+  World Cups: 2007, 2011
+  Matches: 4
+  Batting: 80 runs, 4 innings, Avg 20.0, SR 54.42, HS 28, 100s: 0, 50s: 0, 4s: 9, 6s: 1
+
+Player: Amjad Ali
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 3
+  Batting: 80 runs, 3 innings, Avg 26.67, SR 58.39, HS 45, 100s: 0, 50s: 0, 4s: 10, 6s: 0
+
+Player: Mohammad Saifuddin
+  Teams: Bangladesh
+  World Cups: 2019
+  Matches: 6
+  Batting: 80 runs, 2 innings, Avg 80.0, SR 131.15, HS 51, 100s: 0, 50s: 1, 4s: 12, 6s: 1
+  Bowling: 12 wkts, Avg 27.08, Econ 7.56, Best: 3/72, Maidens: 2
+
+Player: MD Shanaka
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 2
+  Batting: 80 runs, 2 innings, Avg 40.0, SR 100.0, HS 68, 100s: 0, 50s: 1, 4s: 6, 6s: 3
+
+Player: LP van Troost
+  Teams: Netherlands
+  World Cups: 2003, 2007
+  Matches: 6
+  Batting: 77 runs, 5 innings, Avg 19.25, SR 75.49, HS 26, 100s: 0, 50s: 0, 4s: 7, 6s: 2
+  Bowling: 1 wkts, Avg 63.0, Econ 12.6, Best: 1/59, Maidens: 0
+
+Player: Vikramjit Singh
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 2
+  Batting: 77 runs, 2 innings, Avg 38.5, SR 83.7, HS 52, 100s: 0, 50s: 1, 4s: 10, 6s: 1
+
+Player: Inzamam-ul-Haq
+  Teams: Pakistan
+  World Cups: 2003, 2007
+  Matches: 3
+  Batting: 76 runs, 3 innings, Avg 25.33, SR 70.37, HS 37, 100s: 0, 50s: 0, 4s: 6, 6s: 3
+
+Player: DB Kotze
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 6
+  Batting: 75 runs, 5 innings, Avg 18.75, SR 61.98, HS 27, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 2 wkts, Avg 85.5, Econ 4.75, Best: 1/32, Maidens: 0
+
+Player: KMDN Kulasekara
+  Teams: Sri Lanka
+  World Cups: 2007, 2011, 2015
+  Matches: 11
+  Batting: 74 runs, 3 innings, Avg 37.0, SR 121.31, HS 32, 100s: 0, 50s: 0, 4s: 4, 6s: 3
+  Bowling: 9 wkts, Avg 32.33, Econ 4.34, Best: 3/16, Maidens: 6
+
+Player: GB Hogg
+  Teams: Australia
+  World Cups: 2003, 2007
+  Matches: 21
+  Batting: 73 runs, 3 innings, Avg 73.0, SR 143.14, HS 40, 100s: 0, 50s: 0, 4s: 6, 6s: 3
+  Bowling: 34 wkts, Avg 19.24, Econ 4.13, Best: 4/27, Maidens: 8
+
+Player: B Zuiderent
+  Teams: Netherlands
+  World Cups: 2003, 2007, 2011
+  Matches: 4
+  Batting: 72 runs, 4 innings, Avg 24.0, SR 61.02, HS 43, 100s: 0, 50s: 0, 4s: 8, 6s: 1
+
+Player: AN Kervezee
+  Teams: Netherlands
+  World Cups: 2007, 2011
+  Matches: 5
+  Batting: 71 runs, 5 innings, Avg 14.2, SR 54.62, HS 18, 100s: 0, 50s: 0, 4s: 9, 6s: 0
+
+Player: NL McCullum
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 7
+  Batting: 71 runs, 2 innings, Avg 35.5, SR 82.56, HS 52, 100s: 0, 50s: 1, 4s: 4, 6s: 2
+  Bowling: 8 wkts, Avg 25.5, Econ 4.64, Best: 3/24, Maidens: 1
+
+Player: AR Cusack
+  Teams: Ireland
+  World Cups: 2011, 2015
+  Matches: 6
+  Batting: 71 runs, 2 innings, Avg 35.5, SR 80.68, HS 47, 100s: 0, 50s: 0, 4s: 6, 6s: 1
+  Bowling: 7 wkts, Avg 24.57, Econ 4.59, Best: 4/32, Maidens: 3
+
+Player: M Theekshana
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 7
+  Batting: 71 runs, 3 innings, Avg 71.0, SR 48.97, HS 38, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+  Bowling: 6 wkts, Avg 54.5, Econ 5.33, Best: 2/44, Maidens: 1
+
+Player: Taufeeq Umar
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 2
+  Batting: 70 runs, 2 innings, Avg 35.0, SR 67.96, HS 48, 100s: 0, 50s: 0, 4s: 10, 6s: 0
+
+Player: CJO Smith
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 2
+  Batting: 70 runs, 2 innings, Avg 35.0, SR 70.71, HS 51, 100s: 0, 50s: 1, 4s: 11, 6s: 0
+
+Player: NLTC Perera
+  Teams: Sri Lanka
+  World Cups: 2011, 2015, 2019
+  Matches: 14
+  Batting: 70 runs, 3 innings, Avg 35.0, SR 122.81, HS 27, 100s: 0, 50s: 0, 4s: 3, 6s: 3
+  Bowling: 12 wkts, Avg 49.0, Econ 5.95, Best: 3/24, Maidens: 1
+
+Player: Raqibul Hasan
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 3
+  Batting: 70 runs, 3 innings, Avg 35.0, SR 61.4, HS 38, 100s: 0, 50s: 0, 4s: 1, 6s: 1
+
+Player: FRJ Coleman
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 1
+  Batting: 70 runs, 1 innings, Avg 70.0, SR 94.59, HS 70, 100s: 0, 50s: 1, 4s: 7, 6s: 0
+
+Player: E Lewis
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 1
+  Batting: 70 runs, 1 innings, Avg 70.0, SR 104.48, HS 70, 100s: 0, 50s: 1, 4s: 6, 6s: 2
+
+Player: Shoaib Akhtar
+  Teams: Pakistan
+  World Cups: 2003, 2011
+  Matches: 8
+  Batting: 69 runs, 2 innings, Avg 69.0, SR 160.47, HS 43, 100s: 0, 50s: 0, 4s: 5, 6s: 4
+  Bowling: 14 wkts, Avg 26.71, Econ 5.5, Best: 4/46, Maidens: 2
+
+Player: Rizwan Cheema
+  Teams: Canada
+  World Cups: 2011
+  Matches: 5
+  Batting: 68 runs, 3 innings, Avg 22.67, SR 117.24, HS 37, 100s: 0, 50s: 0, 4s: 8, 6s: 4
+  Bowling: 6 wkts, Avg 30.67, Econ 5.11, Best: 2/30, Maidens: 1
+
+Player: MJ Prior
+  Teams: England
+  World Cups: 2011
+  Matches: 4
+  Batting: 68 runs, 4 innings, Avg 22.67, SR 86.08, HS 22, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+
+Player: SA Yadav
+  Teams: India
+  World Cups: 2023
+  Matches: 2
+  Batting: 67 runs, 2 innings, Avg 33.5, SR 89.33, HS 49, 100s: 0, 50s: 0, 4s: 5, 6s: 1
+
+Player: E Schiferli
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 5
+  Batting: 66 runs, 5 innings, Avg 13.2, SR 64.08, HS 22, 100s: 0, 50s: 0, 4s: 10, 6s: 0
+  Bowling: 4 wkts, Avg 31.0, Econ 4.96, Best: 2/43, Maidens: 3
+
+Player: JM Kemp
+  Teams: South Africa
+  World Cups: 2007
+  Matches: 4
+  Batting: 66 runs, 3 innings, Avg 66.0, SR 57.89, HS 49, 100s: 0, 50s: 0, 4s: 5, 6s: 2
+  Bowling: 2 wkts, Avg 11.0, Econ 3.67, Best: 2/18, Maidens: 0
+
+Player: LE Plunkett
+  Teams: England
+  World Cups: 2007, 2019
+  Matches: 9
+  Batting: 66 runs, 3 innings, Avg 66.0, SR 124.53, HS 29, 100s: 0, 50s: 0, 4s: 6, 6s: 2
+  Bowling: 15 wkts, Avg 25.87, Econ 5.46, Best: 3/42, Maidens: 0
+
+Player: MH Cross
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 4
+  Batting: 66 runs, 4 innings, Avg 16.5, SR 78.57, HS 23, 100s: 0, 50s: 0, 4s: 6, 6s: 1
+
+Player: HJH Marshall
+  Teams: New Zealand
+  World Cups: 2007
+  Matches: 2
+  Batting: 65 runs, 2 innings, Avg 65.0, SR 84.42, HS 50, 100s: 0, 50s: 1, 4s: 4, 6s: 1
+
+Player: TT Samaraweera
+  Teams: Sri Lanka
+  World Cups: 2011
+  Matches: 4
+  Batting: 65 runs, 3 innings, Avg 65.0, SR 69.89, HS 34, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 1 wkts, Avg 4.0, Econ 2.0, Best: 1/4, Maidens: 0
+
+Player: Iftikhar Ahmed
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 6
+  Batting: 65 runs, 3 innings, Avg 65.0, SR 144.44, HS 26, 100s: 0, 50s: 0, 4s: 6, 6s: 3
+  Bowling: 4 wkts, Avg 47.5, Econ 5.28, Best: 1/16, Maidens: 0
+
+Player: C White
+  Teams: England
+  World Cups: 2003
+  Matches: 5
+  Batting: 64 runs, 3 innings, Avg 32.0, SR 108.47, HS 35, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 9 wkts, Avg 19.89, Econ 3.98, Best: 3/33, Maidens: 5
+
+Player: Khaled Mashud
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 2
+  Batting: 64 runs, 2 innings, Avg 64.0, SR 52.89, HS 35, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+
+Player: DR Brown
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 3
+  Batting: 64 runs, 2 innings, Avg 64.0, SR 63.37, HS 45, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 1 wkts, Avg 106.0, Econ 8.15, Best: 1/86, Maidens: 0
+
+Player: F Behardien
+  Teams: South Africa
+  World Cups: 2015
+  Matches: 1
+  Batting: 64 runs, 1 innings, Avg 64.0, SR 206.45, HS 64, 100s: 0, 50s: 1, 4s: 5, 6s: 3
+
+Player: Shahriar Nafees
+  Teams: Bangladesh
+  World Cups: 2007, 2011
+  Matches: 4
+  Batting: 63 runs, 4 innings, Avg 15.75, SR 54.78, HS 37, 100s: 0, 50s: 0, 4s: 6, 6s: 1
+
+Player: DO Obuya
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 2
+  Batting: 63 runs, 2 innings, Avg 31.5, SR 51.64, HS 51, 100s: 0, 50s: 1, 4s: 5, 6s: 0
+
+Player: Mohammad Nawaz
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 5
+  Batting: 63 runs, 2 innings, Avg 31.5, SR 94.03, HS 39, 100s: 0, 50s: 0, 4s: 5, 6s: 2
+  Bowling: 2 wkts, Avg 111.5, Econ 5.89, Best: 1/31, Maidens: 0
+
+Player: AU Rashid
+  Teams: England
+  World Cups: 2019, 2023
+  Matches: 15
+  Batting: 61 runs, 3 innings, Avg 20.33, SR 129.79, HS 25, 100s: 0, 50s: 0, 4s: 5, 6s: 2
+  Bowling: 19 wkts, Avg 32.05, Econ 5.21, Best: 3/54, Maidens: 0
+
+Player: CL White
+  Teams: Australia
+  World Cups: 2011
+  Matches: 4
+  Batting: 60 runs, 4 innings, Avg 30.0, SR 67.42, HS 22, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: GH Dockrell
+  Teams: Ireland
+  World Cups: 2011, 2015
+  Matches: 10
+  Batting: 60 runs, 3 innings, Avg 20.0, SR 68.18, HS 25, 100s: 0, 50s: 0, 4s: 7, 6s: 1
+  Bowling: 12 wkts, Avg 34.0, Econ 4.88, Best: 3/50, Maidens: 2
+
+Player: Nasir Aziz
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 2
+  Batting: 60 runs, 1 innings, Avg 60.0, SR 69.77, HS 60, 100s: 0, 50s: 1, 4s: 8, 6s: 0
+  Bowling: 1 wkts, Avg 100.0, Econ 6.25, Best: 1/53, Maidens: 0
+
+Player: MJ Santner
+  Teams: New Zealand
+  World Cups: 2019, 2023
+  Matches: 17
+  Batting: 60 runs, 3 innings, Avg 30.0, SR 78.95, HS 36, 100s: 0, 50s: 0, 4s: 4, 6s: 3
+  Bowling: 19 wkts, Avg 34.16, Econ 4.67, Best: 5/59, Maidens: 7
+
+Player: Harbhajan Singh
+  Teams: India
+  World Cups: 2003, 2007, 2011
+  Matches: 18
+  Batting: 58 runs, 3 innings, Avg 29.0, SR 96.67, HS 28, 100s: 0, 50s: 0, 4s: 5, 6s: 3
+  Bowling: 20 wkts, Avg 34.6, Econ 4.26, Best: 3/53, Maidens: 7
+
+Player: GJ Whittall
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 3
+  Batting: 58 runs, 2 innings, Avg 29.0, SR 92.06, HS 30, 100s: 0, 50s: 0, 4s: 5, 6s: 1
+  Bowling: 4 wkts, Avg 19.0, Econ 4.75, Best: 2/20, Maidens: 1
+
+Player: AA Mulla
+  Teams: Canada
+  World Cups: 2007
+  Matches: 1
+  Batting: 58 runs, 1 innings, Avg 58.0, SR 96.67, HS 58, 100s: 0, 50s: 1, 4s: 7, 6s: 1
+
+Player: Tushar Imran
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 2
+  Batting: 57 runs, 2 innings, Avg 28.5, SR 54.29, HS 48, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+
+Player: Akram Khan
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 2
+  Batting: 57 runs, 2 innings, Avg 28.5, SR 58.16, HS 44, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: Javed Omar
+  Teams: Bangladesh
+  World Cups: 2007
+  Matches: 3
+  Batting: 55 runs, 3 innings, Avg 18.33, SR 39.01, HS 22, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+
+Player: GJ Bailey
+  Teams: Australia
+  World Cups: 2015
+  Matches: 1
+  Batting: 55 runs, 1 innings, Avg 55.0, SR 79.71, HS 55, 100s: 0, 50s: 1, 4s: 3, 6s: 0
+
+Player: J Charles
+  Teams: West Indies
+  World Cups: 2015
+  Matches: 1
+  Batting: 55 runs, 1 innings, Avg 55.0, SR 137.5, HS 55, 100s: 0, 50s: 1, 4s: 9, 6s: 2
+
+Player: Sanwar Hossain
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 4
+  Batting: 54 runs, 4 innings, Avg 18.0, SR 73.97, HS 25, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 5 wkts, Avg 15.0, Econ 3.75, Best: 3/49, Maidens: 0
+
+Player: N Boje
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 3
+  Batting: 54 runs, 2 innings, Avg 54.0, SR 87.1, HS 29, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 1 wkts, Avg 44.0, Econ 4.89, Best: 1/44, Maidens: 1
+
+Player: IJ Harvey
+  Teams: Australia
+  World Cups: 2003
+  Matches: 4
+  Batting: 52 runs, 2 innings, Avg 52.0, SR 83.87, HS 28, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+  Bowling: 5 wkts, Avg 19.6, Econ 4.36, Best: 4/58, Maidens: 2
+
+Player: Mohammad Yousuf
+  Teams: Pakistan
+  World Cups: 2007
+  Matches: 3
+  Batting: 52 runs, 2 innings, Avg 26.0, SR 50.49, HS 37, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 1 wkts, Avg 0.0, Econ 0.0, Best: 1/0, Maidens: 0
+
+Player: NN Odhiambo
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 5
+  Batting: 52 runs, 2 innings, Avg 52.0, SR 91.23, HS 44, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+  Bowling: 6 wkts, Avg 31.83, Econ 5.31, Best: 3/57, Maidens: 2
+
+Player: LD Chandimal
+  Teams: Sri Lanka
+  World Cups: 2015
+  Matches: 1
+  Batting: 52 runs, 1 innings, Avg 52.0, SR 216.67, HS 52, 100s: 0, 50s: 1, 4s: 8, 6s: 1
+
+Player: Mosaddek Hossain
+  Teams: Bangladesh
+  World Cups: 2019
+  Matches: 4
+  Batting: 52 runs, 2 innings, Avg 26.0, SR 144.44, HS 26, 100s: 0, 50s: 0, 4s: 8, 6s: 0
+  Bowling: 2 wkts, Avg 53.5, Econ 5.35, Best: 2/33, Maidens: 0
+
+Player: JK Kamande
+  Teams: Kenya
+  World Cups: 2007, 2011
+  Matches: 6
+  Batting: 51 runs, 3 innings, Avg 17.0, SR 50.5, HS 22, 100s: 0, 50s: 0, 4s: 5, 6s: 1
+  Bowling: 3 wkts, Avg 51.67, Econ 6.46, Best: 2/46, Maidens: 0
+
+Player: FA Allen
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 2
+  Batting: 51 runs, 1 innings, Avg 51.0, SR 159.38, HS 51, 100s: 0, 50s: 1, 4s: 7, 6s: 1
+  Bowling: 1 wkts, Avg 96.0, Econ 5.33, Best: 1/44, Maidens: 0
+
+Player: Haris Rauf
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 8
+  Batting: 51 runs, 2 innings, Avg 25.5, SR 137.84, HS 35, 100s: 0, 50s: 0, 4s: 5, 6s: 4
+  Bowling: 16 wkts, Avg 30.0, Econ 6.76, Best: 3/43, Maidens: 0
+
+Player: Agha Salman
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 1
+  Batting: 51 runs, 1 innings, Avg 51.0, SR 113.33, HS 51, 100s: 0, 50s: 1, 4s: 6, 6s: 1
+
+Player: RD Jacobs
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 1
+  Batting: 50 runs, 1 innings, Avg 50.0, SR 68.49, HS 50, 100s: 0, 50s: 1, 4s: 3, 6s: 1
+
+Player: D Langford-Smith
+  Teams: Ireland
+  World Cups: 2007
+  Matches: 8
+  Batting: 50 runs, 3 innings, Avg 25.0, SR 104.17, HS 18, 100s: 0, 50s: 0, 4s: 4, 6s: 2
+  Bowling: 7 wkts, Avg 26.86, Econ 4.18, Best: 2/27, Maidens: 4
+
+Player: R Gunasekera
+  Teams: Canada
+  World Cups: 2011
+  Matches: 3
+  Batting: 50 runs, 3 innings, Avg 16.67, SR 46.73, HS 24, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: Mohammad Naveed
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 6
+  Batting: 50 runs, 4 innings, Avg 12.5, SR 119.05, HS 17, 100s: 0, 50s: 0, 4s: 5, 6s: 3
+  Bowling: 8 wkts, Avg 38.38, Econ 6.1, Best: 3/63, Maidens: 2
+
+Player: PJ Ongondo
+  Teams: Kenya
+  World Cups: 2003, 2007, 2011
+  Matches: 9
+  Batting: 49 runs, 3 innings, Avg 16.33, SR 104.26, HS 20, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 8 wkts, Avg 35.88, Econ 5.19, Best: 2/44, Maidens: 2
+
+Player: JE Taylor
+  Teams: West Indies
+  World Cups: 2007, 2015
+  Matches: 14
+  Batting: 49 runs, 4 innings, Avg 16.33, SR 77.78, HS 15, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 23 wkts, Avg 24.78, Econ 5.02, Best: 3/15, Maidens: 4
+
+Player: YK Pathan
+  Teams: India
+  World Cups: 2011
+  Matches: 5
+  Batting: 49 runs, 3 innings, Avg 24.5, SR 111.36, HS 30, 100s: 0, 50s: 0, 4s: 3, 6s: 3
+  Bowling: 1 wkts, Avg 118.0, Econ 4.72, Best: 1/49, Maidens: 2
+
+Player: AM Samad
+  Teams: Canada
+  World Cups: 2003, 2007
+  Matches: 3
+  Batting: 48 runs, 2 innings, Avg 24.0, SR 55.17, HS 36, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 2 wkts, Avg 31.0, Econ 8.09, Best: 1/31, Maidens: 0
+
+Player: DBL Powell
+  Teams: West Indies
+  World Cups: 2007
+  Matches: 9
+  Batting: 48 runs, 1 innings, Avg 48.0, SR 133.33, HS 48, 100s: 0, 50s: 0, 4s: 2, 6s: 3
+  Bowling: 14 wkts, Avg 21.93, Econ 4.09, Best: 3/38, Maidens: 6
+
+Player: RR Watson
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 2
+  Batting: 47 runs, 2 innings, Avg 23.5, SR 54.02, HS 31, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+
+Player: S Dhaniram
+  Teams: Canada
+  World Cups: 2007
+  Matches: 2
+  Batting: 47 runs, 2 innings, Avg 23.5, SR 90.38, HS 30, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 3 wkts, Avg 13.67, Econ 4.1, Best: 3/41, Maidens: 0
+
+Player: L Ronchi
+  Teams: New Zealand
+  World Cups: 2015
+  Matches: 3
+  Batting: 47 runs, 3 innings, Avg 23.5, SR 130.56, HS 29, 100s: 0, 50s: 0, 4s: 6, 6s: 1
+
+Player: CAK Rajitha
+  Teams: Sri Lanka
+  World Cups: 2019, 2023
+  Matches: 6
+  Batting: 47 runs, 2 innings, Avg 23.5, SR 97.92, HS 33, 100s: 0, 50s: 0, 4s: 6, 6s: 1
+  Bowling: 9 wkts, Avg 33.22, Econ 6.8, Best: 4/50, Maidens: 1
+
+Player: C Green
+  Teams: Australia
+  World Cups: 2023
+  Matches: 2
+  Batting: 47 runs, 1 innings, Avg 47.0, SR 90.38, HS 47, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: LS Livingstone
+  Teams: England
+  World Cups: 2023
+  Matches: 5
+  Batting: 47 runs, 2 innings, Avg 23.5, SR 69.12, HS 27, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 2 wkts, Avg 48.0, Econ 6.4, Best: 1/13, Maidens: 0
+
+Player: HS Baidwan
+  Teams: Canada
+  World Cups: 2011
+  Matches: 6
+  Batting: 46 runs, 3 innings, Avg 46.0, SR 63.89, HS 17, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 13 wkts, Avg 23.62, Econ 5.58, Best: 3/35, Maidens: 3
+
+Player: CA Ingram
+  Teams: South Africa
+  World Cups: 2011
+  Matches: 1
+  Batting: 46 runs, 1 innings, Avg 46.0, SR 106.98, HS 46, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+
+Player: JH Davey
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 5
+  Batting: 46 runs, 3 innings, Avg 23.0, SR 66.67, HS 26, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 13 wkts, Avg 21.31, Econ 6.92, Best: 4/68, Maidens: 1
+
+Player: MP O'Dowd
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 2
+  Batting: 46 runs, 2 innings, Avg 23.0, SR 66.67, HS 30, 100s: 0, 50s: 0, 4s: 4, 6s: 2
+
+Player: M Karg
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 2
+  Batting: 45 runs, 2 innings, Avg 22.5, SR 69.23, HS 41, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+
+Player: DD Ebrahim
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 2
+  Batting: 45 runs, 2 innings, Avg 22.5, SR 69.23, HS 32, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: Mudassar Bukhari
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 6
+  Batting: 45 runs, 2 innings, Avg 22.5, SR 75.0, HS 24, 100s: 0, 50s: 0, 4s: 3, 6s: 2
+  Bowling: 5 wkts, Avg 50.4, Econ 5.25, Best: 2/65, Maidens: 4
+
+Player: MS Chapman
+  Teams: New Zealand
+  World Cups: 2023
+  Matches: 2
+  Batting: 45 runs, 2 innings, Avg 22.5, SR 128.57, HS 39, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+
+Player: NA de Groot
+  Teams: Canada
+  World Cups: 2003
+  Matches: 3
+  Batting: 44 runs, 3 innings, Avg 14.67, SR 37.61, HS 17, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 3 wkts, Avg 22.0, Econ 6.95, Best: 2/45, Maidens: 0
+
+Player: DA Minors
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 2
+  Batting: 44 runs, 2 innings, Avg 22.0, SR 72.13, HS 23, 100s: 0, 50s: 0, 4s: 3, 6s: 2
+
+Player: LOB Cann
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 2
+  Batting: 44 runs, 2 innings, Avg 22.0, SR 115.79, HS 28, 100s: 0, 50s: 0, 4s: 5, 6s: 2
+  Bowling: 1 wkts, Avg 34.0, Econ 7.03, Best: 1/34, Maidens: 0
+
+Player: J Botha
+  Teams: South Africa
+  World Cups: 2011
+  Matches: 4
+  Batting: 44 runs, 2 innings, Avg 44.0, SR 102.33, HS 23, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 4 wkts, Avg 25.75, Econ 4.29, Best: 2/48, Maidens: 1
+
+Player: KAJ Roach
+  Teams: West Indies
+  World Cups: 2011, 2015, 2019
+  Matches: 10
+  Batting: 44 runs, 3 innings, Avg 22.0, SR 46.32, HS 16, 100s: 0, 50s: 0, 4s: 5, 6s: 1
+  Bowling: 17 wkts, Avg 19.0, Econ 4.19, Best: 6/27, Maidens: 5
+
+Player: DW Steyn
+  Teams: South Africa
+  World Cups: 2011, 2015
+  Matches: 12
+  Batting: 44 runs, 3 innings, Avg 14.67, SR 66.67, HS 20, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+  Bowling: 22 wkts, Avg 22.05, Econ 4.75, Best: 5/50, Maidens: 6
+
+Player: LJ Wright
+  Teams: England
+  World Cups: 2011
+  Matches: 2
+  Batting: 44 runs, 1 innings, Avg 44.0, SR 77.19, HS 44, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: Hasan Ali
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 7
+  Batting: 44 runs, 2 innings, Avg 22.0, SR 129.41, HS 32, 100s: 0, 50s: 0, 4s: 5, 6s: 3
+  Bowling: 10 wkts, Avg 41.0, Econ 7.32, Best: 4/71, Maidens: 1
+
+Player: J Smits
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 2
+  Batting: 43 runs, 2 innings, Avg 43.0, SR 41.35, HS 26, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: Iftikhar Anjum
+  Teams: Pakistan
+  World Cups: 2007
+  Matches: 3
+  Batting: 43 runs, 2 innings, Avg 21.5, SR 126.47, HS 32, 100s: 0, 50s: 0, 4s: 2, 6s: 2
+  Bowling: 5 wkts, Avg 14.6, Econ 3.65, Best: 3/44, Maidens: 3
+
+Player: AA Obanda
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 3
+  Batting: 43 runs, 3 innings, Avg 14.33, SR 66.15, HS 23, 100s: 0, 50s: 0, 4s: 4, 6s: 2
+
+Player: MA Wood
+  Teams: England
+  World Cups: 2019, 2023
+  Matches: 14
+  Batting: 43 runs, 1 innings, Avg 43.0, SR 252.94, HS 43, 100s: 0, 50s: 0, 4s: 2, 6s: 5
+  Bowling: 20 wkts, Avg 29.55, Econ 5.25, Best: 3/18, Maidens: 2
+
+Player: MN van Wyk
+  Teams: South Africa
+  World Cups: 2011
+  Matches: 1
+  Batting: 42 runs, 1 innings, Avg 42.0, SR 102.44, HS 42, 100s: 0, 50s: 0, 4s: 7, 6s: 1
+
+Player: CH Morris
+  Teams: South Africa
+  World Cups: 2019
+  Matches: 5
+  Batting: 42 runs, 1 innings, Avg 42.0, SR 123.53, HS 42, 100s: 0, 50s: 0, 4s: 1, 6s: 2
+  Bowling: 10 wkts, Avg 26.7, Econ 5.51, Best: 3/46, Maidens: 2
+
+Player: DJ Willey
+  Teams: England
+  World Cups: 2023
+  Matches: 6
+  Batting: 42 runs, 3 innings, Avg 42.0, SR 91.3, HS 16, 100s: 0, 50s: 0, 4s: 2, 6s: 4
+  Bowling: 11 wkts, Avg 23.55, Econ 5.08, Best: 3/45, Maidens: 6
+
+Player: M van Schoor
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 3
+  Batting: 41 runs, 3 innings, Avg 20.5, SR 43.62, HS 24, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: VC Drakes
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 5
+  Batting: 41 runs, 2 innings, Avg 41.0, SR 62.12, HS 25, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 11 wkts, Avg 15.91, Econ 4.18, Best: 5/44, Maidens: 5
+
+Player: DA Gunawardene
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 1
+  Batting: 41 runs, 1 innings, Avg 41.0, SR 66.13, HS 41, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: JAR Blain
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 2
+  Batting: 41 runs, 2 innings, Avg 41.0, SR 65.08, HS 23, 100s: 0, 50s: 0, 4s: 2, 6s: 2
+  Bowling: 2 wkts, Avg 30.5, Econ 6.78, Best: 2/29, Maidens: 0
+
+Player: K Rabada
+  Teams: South Africa
+  World Cups: 2019, 2023
+  Matches: 15
+  Batting: 41 runs, 2 innings, Avg 41.0, SR 87.23, HS 31, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 23 wkts, Avg 29.78, Econ 5.16, Best: 3/33, Maidens: 8
+
+Player: G Coetzee
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 7
+  Batting: 41 runs, 2 innings, Avg 20.5, SR 66.13, HS 22, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 16 wkts, Avg 22.0, Econ 6.58, Best: 3/35, Maidens: 0
+
+Player: Wasim Akram
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 5
+  Batting: 40 runs, 2 innings, Avg 20.0, SR 88.89, HS 33, 100s: 0, 50s: 0, 4s: 5, 6s: 1
+  Bowling: 12 wkts, Avg 16.75, Econ 4.25, Best: 5/28, Maidens: 3
+
+Player: DA Marillier
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 4
+  Batting: 40 runs, 2 innings, Avg 20.0, SR 75.47, HS 21, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 4 wkts, Avg 31.0, Econ 4.28, Best: 2/49, Maidens: 1
+
+Player: GEF Barnett
+  Teams: Canada
+  World Cups: 2007
+  Matches: 1
+  Batting: 40 runs, 1 innings, Avg 40.0, SR 55.56, HS 40, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: RR Patel
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 2
+  Batting: 40 runs, 2 innings, Avg 40.0, SR 66.67, HS 24, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: TN de Grooth
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 2
+  Batting: 40 runs, 2 innings, Avg 20.0, SR 70.18, HS 28, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: KA Maharaj
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 8
+  Batting: 40 runs, 1 innings, Avg 40.0, SR 108.11, HS 40, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 13 wkts, Avg 22.23, Econ 4.13, Best: 4/46, Maidens: 0
+
+Player: MA Vermeulen
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 1
+  Batting: 39 runs, 1 innings, Avg 39.0, SR 59.09, HS 39, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+
+Player: AJ Hall
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 10
+  Batting: 39 runs, 2 innings, Avg 39.0, SR 139.29, HS 22, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 19 wkts, Avg 18.21, Econ 4.14, Best: 5/18, Maidens: 6
+
+Player: HJC Mol
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 4
+  Batting: 38 runs, 3 innings, Avg 12.67, SR 40.43, HS 23, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 2 wkts, Avg 31.5, Econ 6.3, Best: 1/24, Maidens: 0
+
+Player: DJ Hussey
+  Teams: Australia
+  World Cups: 2011
+  Matches: 2
+  Batting: 38 runs, 1 innings, Avg 38.0, SR 146.15, HS 38, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 2 wkts, Avg 15.5, Econ 3.44, Best: 1/12, Maidens: 1
+
+Player: Alok Kapali
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 5
+  Batting: 37 runs, 2 innings, Avg 18.5, SR 72.55, HS 19, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 2 wkts, Avg 39.0, Econ 3.9, Best: 1/3, Maidens: 1
+
+Player: Naeem Islam
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 5
+  Batting: 37 runs, 2 innings, Avg 18.5, SR 63.79, HS 29, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 4 wkts, Avg 43.75, Econ 4.75, Best: 2/29, Maidens: 2
+
+Player: SR Waters
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 3
+  Batting: 36 runs, 3 innings, Avg 12.0, SR 46.75, HS 17, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: Khaled Mahmud
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 4
+  Batting: 35 runs, 2 innings, Avg 17.5, SR 54.69, HS 23, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 6 wkts, Avg 25.5, Econ 4.78, Best: 3/46, Maidens: 2
+
+Player: Nasir Hossain
+  Teams: Bangladesh
+  World Cups: 2015
+  Matches: 3
+  Batting: 35 runs, 1 innings, Avg 35.0, SR 102.94, HS 35, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+  Bowling: 4 wkts, Avg 24.75, Econ 5.21, Best: 2/32, Maidens: 0
+
+Player: AAP Atkinson
+  Teams: England
+  World Cups: 2023
+  Matches: 3
+  Batting: 35 runs, 1 innings, Avg 35.0, SR 166.67, HS 35, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+  Bowling: 4 wkts, Avg 36.5, Econ 6.08, Best: 2/45, Maidens: 0
+
+Player: DJ Reekers
+  Teams: Netherlands
+  World Cups: 2007
+  Matches: 3
+  Batting: 34 runs, 2 innings, Avg 17.0, SR 125.93, HS 25, 100s: 0, 50s: 0, 4s: 7, 6s: 0
+  Bowling: 1 wkts, Avg 58.0, Econ 5.27, Best: 1/23, Maidens: 1
+
+Player: JS Patel
+  Teams: New Zealand
+  World Cups: 2007
+  Matches: 6
+  Batting: 34 runs, 1 innings, Avg 34.0, SR 89.47, HS 34, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 7 wkts, Avg 35.0, Econ 4.51, Best: 3/25, Maidens: 1
+
+Player: Umar Gul
+  Teams: Pakistan
+  World Cups: 2007, 2011
+  Matches: 10
+  Batting: 34 runs, 1 innings, Avg 34.0, SR 136.0, HS 34, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 18 wkts, Avg 15.28, Econ 3.64, Best: 3/30, Maidens: 6
+
+Player: GA Lamb
+  Teams: Zimbabwe
+  World Cups: 2011
+  Matches: 5
+  Batting: 34 runs, 2 innings, Avg 17.0, SR 54.84, HS 18, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 4 wkts, Avg 40.75, Econ 4.66, Best: 2/21, Maidens: 0
+
+Player: Krishna Chandran
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 3
+  Batting: 34 runs, 1 innings, Avg 34.0, SR 53.97, HS 34, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 1 wkts, Avg 134.0, Econ 6.7, Best: 1/59, Maidens: 0
+
+Player: RP Lefebvre
+  Teams: Netherlands
+  World Cups: 2003
+  Matches: 4
+  Batting: 33 runs, 2 innings, Avg 16.5, SR 89.19, HS 30, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 4 wkts, Avg 30.5, Econ 3.81, Best: 2/38, Maidens: 1
+
+Player: M Muralitharan
+  Teams: Sri Lanka
+  World Cups: 2003, 2007, 2011
+  Matches: 27
+  Batting: 33 runs, 3 innings, Avg 11.0, SR 86.84, HS 16, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 52 wkts, Avg 18.0, Econ 4.01, Best: 4/19, Maidens: 3
+
+Player: DF Watts
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 2
+  Batting: 33 runs, 2 innings, Avg 16.5, SR 47.83, HS 24, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+
+Player: CS MacLeod
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 2
+  Batting: 33 runs, 2 innings, Avg 16.5, SR 82.5, HS 22, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+
+Player: SJ Swanepoel
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 2
+  Batting: 32 runs, 2 innings, Avg 16.0, SR 47.06, HS 23, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: BJ Patel
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 1
+  Batting: 32 runs, 1 innings, Avg 32.0, SR 53.33, HS 32, 100s: 0, 50s: 0, 4s: 6, 6s: 0
+
+Player: GA Rogers
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 3
+  Batting: 32 runs, 2 innings, Avg 16.0, SR 65.31, HS 26, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 2 wkts, Avg 57.0, Econ 6.22, Best: 1/47, Maidens: 1
+
+Player: Taskin Ahmed
+  Teams: Bangladesh
+  World Cups: 2015, 2023
+  Matches: 9
+  Batting: 32 runs, 2 innings, Avg 16.0, SR 72.73, HS 17, 100s: 0, 50s: 0, 4s: 0, 6s: 3
+  Bowling: 12 wkts, Avg 37.0, Econ 5.92, Best: 3/43, Maidens: 3
+
+Player: SM Ervine
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 3
+  Batting: 31 runs, 1 innings, Avg 31.0, SR 221.43, HS 31, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 3 wkts, Avg 29.0, Econ 7.25, Best: 1/19, Maidens: 0
+
+Player: RM Haq
+  Teams: Scotland
+  World Cups: 2007, 2015
+  Matches: 5
+  Batting: 31 runs, 2 innings, Avg 15.5, SR 67.39, HS 16, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 6 wkts, Avg 35.5, Econ 5.76, Best: 2/43, Maidens: 0
+
+Player: GP Swann
+  Teams: England
+  World Cups: 2011
+  Matches: 6
+  Batting: 31 runs, 2 innings, Avg 31.0, SR 106.9, HS 16, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 12 wkts, Avg 20.67, Econ 4.2, Best: 3/36, Maidens: 5
+
+Player: SW Ambris
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 1
+  Batting: 31 runs, 1 innings, Avg 31.0, SR 77.5, HS 31, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: Mahedi Hasan
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 3
+  Batting: 31 runs, 2 innings, Avg 15.5, SR 44.29, HS 17, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 6 wkts, Avg 24.83, Econ 6.21, Best: 4/71, Maidens: 0
+
+Player: MA Ouma
+  Teams: Kenya
+  World Cups: 2007, 2011
+  Matches: 2
+  Batting: 29 runs, 2 innings, Avg 14.5, SR 35.37, HS 16, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: Anamul Haque
+  Teams: Bangladesh
+  World Cups: 2015
+  Matches: 1
+  Batting: 29 runs, 1 innings, Avg 29.0, SR 67.44, HS 29, 100s: 0, 50s: 0, 4s: 1, 6s: 1
+
+Player: A Zampa
+  Teams: Australia
+  World Cups: 2019, 2023
+  Matches: 10
+  Batting: 29 runs, 1 innings, Avg 29.0, SR 152.63, HS 29, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 24 wkts, Avg 19.79, Econ 5.28, Best: 4/8, Maidens: 1
+
+Player: RE van der Merwe
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 4
+  Batting: 29 runs, 1 innings, Avg 29.0, SR 152.63, HS 29, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 5 wkts, Avg 37.0, Econ 5.0, Best: 2/34, Maidens: 0
+
+Player: OL Pitcher
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 2
+  Batting: 28 runs, 2 innings, Avg 14.0, SR 37.33, HS 22, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: MG Johnson
+  Teams: Australia
+  World Cups: 2011, 2015
+  Matches: 13
+  Batting: 27 runs, 1 innings, Avg 27.0, SR 300.0, HS 27, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 21 wkts, Avg 23.52, Econ 4.68, Best: 4/19, Maidens: 9
+
+Player: AD Hales
+  Teams: England
+  World Cups: 2015
+  Matches: 1
+  Batting: 27 runs, 1 innings, Avg 27.0, SR 79.41, HS 27, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: SF Mire
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 3
+  Batting: 27 runs, 1 innings, Avg 27.0, SR 108.0, HS 27, 100s: 0, 50s: 0, 4s: 2, 6s: 2
+  Bowling: 2 wkts, Avg 34.0, Econ 5.23, Best: 2/39, Maidens: 0
+
+Player: RJ van Vuuren
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 4
+  Batting: 26 runs, 2 innings, Avg 26.0, SR 83.87, HS 14, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 8 wkts, Avg 19.88, Econ 5.3, Best: 5/43, Maidens: 4
+
+Player: MA Suji
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 7
+  Batting: 26 runs, 2 innings, Avg 26.0, SR 104.0, HS 15, 100s: 0, 50s: 0, 4s: 1, 6s: 1
+  Bowling: 7 wkts, Avg 30.86, Econ 4.24, Best: 3/19, Maidens: 6
+
+Player: AF Buurman
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 1
+  Batting: 26 runs, 1 innings, Avg 26.0, SR 86.67, HS 26, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: Mohammad Mithun
+  Teams: Bangladesh
+  World Cups: 2019
+  Matches: 1
+  Batting: 26 runs, 1 innings, Avg 26.0, SR 78.79, HS 26, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: Hannan Sarkar
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 1
+  Batting: 25 runs, 1 innings, Avg 25.0, SR 71.43, HS 25, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: Ehsanul Haque
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 2
+  Batting: 25 runs, 2 innings, Avg 12.5, SR 60.98, HS 13, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 2 wkts, Avg 17.0, Econ 3.4, Best: 2/34, Maidens: 0
+
+Player: A Patel
+  Teams: Canada
+  World Cups: 2003
+  Matches: 2
+  Batting: 25 runs, 1 innings, Avg 25.0, SR 86.21, HS 25, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 3 wkts, Avg 24.33, Econ 7.3, Best: 3/41, Maidens: 0
+
+Player: MM Patel
+  Teams: India
+  World Cups: 2007, 2011
+  Matches: 9
+  Batting: 25 runs, 2 innings, Avg 12.5, SR 78.12, HS 15, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 15 wkts, Avg 26.27, Econ 4.9, Best: 4/48, Maidens: 4
+
+Player: MF Maharoof
+  Teams: Sri Lanka
+  World Cups: 2007
+  Matches: 4
+  Batting: 25 runs, 1 innings, Avg 25.0, SR 113.64, HS 25, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 9 wkts, Avg 8.22, Econ 3.08, Best: 4/23, Maidens: 4
+
+Player: WK McCallan
+  Teams: Ireland
+  World Cups: 2007
+  Matches: 8
+  Batting: 25 runs, 2 innings, Avg 25.0, SR 59.52, HS 20, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 10 wkts, Avg 23.3, Econ 3.98, Best: 2/12, Maidens: 3
+
+Player: SS Cottrell
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 8
+  Batting: 25 runs, 2 innings, Avg 12.5, SR 73.53, HS 15, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 12 wkts, Avg 29.08, Econ 5.82, Best: 4/56, Maidens: 2
+
+Player: BL Kotze
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 4
+  Batting: 24 runs, 1 innings, Avg 24.0, SR 82.76, HS 24, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 3 wkts, Avg 84.0, Econ 6.3, Best: 2/51, Maidens: 1
+
+Player: NFI McCallum
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 1
+  Batting: 24 runs, 1 innings, Avg 24.0, SR 55.81, HS 24, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+
+Player: Shafiul Islam
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 5
+  Batting: 24 runs, 1 innings, Avg 24.0, SR 100.0, HS 24, 100s: 0, 50s: 0, 4s: 4, 6s: 1
+  Bowling: 6 wkts, Avg 26.5, Econ 4.63, Best: 4/21, Maidens: 3
+
+Player: D Madushanka
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 8
+  Batting: 24 runs, 2 innings, Avg 12.0, SR 44.44, HS 19, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 19 wkts, Avg 25.11, Econ 6.88, Best: 5/80, Maidens: 4
+
+Player: MA Leask
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 1
+  Batting: 23 runs, 1 innings, Avg 23.0, SR 209.09, HS 23, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: SE Marsh
+  Teams: Australia
+  World Cups: 2019
+  Matches: 1
+  Batting: 23 runs, 1 innings, Avg 23.0, SR 88.46, HS 23, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: A Dutt
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 8
+  Batting: 23 runs, 1 innings, Avg 23.0, SR 255.56, HS 23, 100s: 0, 50s: 0, 4s: 0, 6s: 3
+  Bowling: 10 wkts, Avg 35.8, Econ 5.59, Best: 3/44, Maidens: 5
+
+Player: ID Blackwell
+  Teams: England
+  World Cups: 2003
+  Matches: 1
+  Batting: 22 runs, 1 innings, Avg 22.0, SR 200.0, HS 22, 100s: 0, 50s: 0, 4s: 5, 6s: 0
+  Bowling: 2 wkts, Avg 18.5, Econ 3.7, Best: 2/37, Maidens: 0
+
+Player: RJ Peterson
+  Teams: South Africa
+  World Cups: 2003, 2007, 2011
+  Matches: 10
+  Batting: 22 runs, 1 innings, Avg 22.0, SR 244.44, HS 22, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+  Bowling: 16 wkts, Avg 20.0, Econ 4.32, Best: 4/12, Maidens: 5
+
+Player: JM How
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 1
+  Batting: 22 runs, 1 innings, Avg 22.0, SR 46.81, HS 22, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: RW Price
+  Teams: Zimbabwe
+  World Cups: 2011
+  Matches: 6
+  Batting: 22 runs, 2 innings, Avg 11.0, SR 64.71, HS 11, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 9 wkts, Avg 18.78, Econ 3.45, Best: 3/16, Maidens: 7
+
+Player: Khurram Chohan
+  Teams: Canada
+  World Cups: 2011
+  Matches: 2
+  Batting: 22 runs, 1 innings, Avg 22.0, SR 137.5, HS 22, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 2 wkts, Avg 42.0, Econ 4.99, Best: 2/44, Maidens: 0
+
+Player: MC Sorensen
+  Teams: Ireland
+  World Cups: 2015
+  Matches: 3
+  Batting: 22 runs, 1 innings, Avg 22.0, SR 115.79, HS 22, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 3 wkts, Avg 41.33, Econ 6.89, Best: 2/60, Maidens: 0
+
+Player: TJ Friend
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 1
+  Batting: 21 runs, 1 innings, Avg 21.0, SR 105.0, HS 21, 100s: 0, 50s: 0, 4s: 4, 6s: 0
+
+Player: Mustafizur Rahman
+  Teams: Bangladesh
+  World Cups: 2019, 2023
+  Matches: 11
+  Batting: 20 runs, 1 innings, Avg 20.0, SR 57.14, HS 20, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 22 wkts, Avg 29.59, Econ 6.53, Best: 5/59, Maidens: 3
+
+Player: S Thuraisingam
+  Teams: Canada
+  World Cups: 2003
+  Matches: 3
+  Batting: 19 runs, 2 innings, Avg 9.5, SR 76.0, HS 13, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 4 wkts, Avg 27.25, Econ 5.84, Best: 2/53, Maidens: 1
+
+Player: Al Sahariar
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 2
+  Batting: 19 runs, 2 innings, Avg 9.5, SR 73.08, HS 14, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+
+Player: DCC Borden
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 3
+  Batting: 19 runs, 2 innings, Avg 9.5, SR 30.16, HS 13, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 2 wkts, Avg 22.5, Econ 6.43, Best: 2/30, Maidens: 0
+
+Player: Nasum Ahmed
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 3
+  Batting: 19 runs, 1 innings, Avg 19.0, SR 100.0, HS 19, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: PJC Hoffmann
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 3
+  Batting: 18 runs, 1 innings, Avg 18.0, SR 163.64, HS 18, 100s: 0, 50s: 0, 4s: 3, 6s: 1
+  Bowling: 1 wkts, Avg 104.0, Econ 6.12, Best: 1/57, Maidens: 0
+
+Player: RV Uthappa
+  Teams: India
+  World Cups: 2007
+  Matches: 1
+  Batting: 18 runs, 1 innings, Avg 18.0, SR 66.67, HS 18, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+
+Player: T Mupariwa
+  Teams: Zimbabwe
+  World Cups: 2007, 2015
+  Matches: 5
+  Batting: 18 runs, 1 innings, Avg 18.0, SR 257.14, HS 18, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 3 wkts, Avg 81.33, Econ 5.19, Best: 1/34, Maidens: 4
+
+Player: K Whatham
+  Teams: Canada
+  World Cups: 2011
+  Matches: 1
+  Batting: 18 runs, 1 innings, Avg 18.0, SR 43.9, HS 18, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: AF Giles
+  Teams: England
+  World Cups: 2003
+  Matches: 2
+  Batting: 17 runs, 1 innings, Avg 17.0, SR 73.91, HS 17, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+  Bowling: 2 wkts, Avg 21.0, Econ 4.2, Best: 2/42, Maidens: 0
+
+Player: BO van Rooi
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 2
+  Batting: 17 runs, 1 innings, Avg 17.0, SR 54.84, HS 17, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 1 wkts, Avg 60.0, Econ 5.0, Best: 1/24, Maidens: 0
+
+Player: HMCM Bandara
+  Teams: Sri Lanka
+  World Cups: 2007
+  Matches: 1
+  Batting: 17 runs, 1 innings, Avg 17.0, SR 89.47, HS 17, 100s: 0, 50s: 0, 4s: 0, 6s: 2
+  Bowling: 1 wkts, Avg 53.0, Econ 5.48, Best: 1/53, Maidens: 0
+
+Player: WD Parnell
+  Teams: South Africa
+  World Cups: 2011, 2015
+  Matches: 2
+  Batting: 17 runs, 1 innings, Avg 17.0, SR 60.71, HS 17, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 1 wkts, Avg 89.0, Econ 6.85, Best: 1/85, Maidens: 1
+
+Player: KA Edwards
+  Teams: West Indies
+  World Cups: 2011
+  Matches: 1
+  Batting: 17 runs, 1 innings, Avg 17.0, SR 100.0, HS 17, 100s: 0, 50s: 0, 4s: 1, 6s: 1
+
+Player: A Kumble
+  Teams: India
+  World Cups: 2003, 2007
+  Matches: 3
+  Batting: 16 runs, 1 innings, Avg 16.0, SR 42.11, HS 16, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 8 wkts, Avg 11.75, Econ 3.59, Best: 4/32, Maidens: 1
+
+Player: A Codrington
+  Teams: Canada
+  World Cups: 2003
+  Matches: 4
+  Batting: 16 runs, 1 innings, Avg 16.0, SR 51.61, HS 16, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 6 wkts, Avg 21.5, Econ 5.16, Best: 5/27, Maidens: 4
+
+Player: R Ashwin
+  Teams: India
+  World Cups: 2011, 2015, 2023
+  Matches: 11
+  Batting: 16 runs, 1 innings, Avg 16.0, SR 50.0, HS 16, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 18 wkts, Avg 25.39, Econ 4.27, Best: 4/25, Maidens: 7
+
+Player: JP Faulkner
+  Teams: Australia
+  World Cups: 2015
+  Matches: 5
+  Batting: 16 runs, 1 innings, Avg 16.0, SR 266.67, HS 16, 100s: 0, 50s: 0, 4s: 2, 6s: 1
+  Bowling: 10 wkts, Avg 17.4, Econ 5.0, Best: 3/36, Maidens: 2
+
+Player: JJ Bumrah
+  Teams: India
+  World Cups: 2019, 2023
+  Matches: 18
+  Batting: 16 runs, 1 innings, Avg 16.0, SR 64.0, HS 16, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 32 wkts, Avg 20.81, Econ 4.27, Best: 4/55, Maidens: 16
+
+Player: B Lee
+  Teams: Australia
+  World Cups: 2003, 2011
+  Matches: 17
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 250.0, HS 15, 100s: 0, 50s: 0, 4s: 0, 6s: 2
+  Bowling: 35 wkts, Avg 17.97, Econ 4.57, Best: 5/42, Maidens: 13
+
+Player: Z Khan
+  Teams: India
+  World Cups: 2003, 2007, 2011
+  Matches: 21
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 88.24, HS 15, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 44 wkts, Avg 17.5, Econ 4.23, Best: 4/42, Maidens: 10
+
+Player: N Hussain
+  Teams: England
+  World Cups: 2003
+  Matches: 1
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 50.0, HS 15, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: Abdur Razzak
+  Teams: Bangladesh
+  World Cups: 2007, 2011
+  Matches: 14
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 88.24, HS 15, 100s: 0, 50s: 0, 4s: 3, 6s: 0
+  Bowling: 20 wkts, Avg 24.5, Econ 4.36, Best: 3/20, Maidens: 8
+
+Player: DC Thomas
+  Teams: West Indies
+  World Cups: 2011
+  Matches: 1
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 57.69, HS 15, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: V Shankar
+  Teams: India
+  World Cups: 2019
+  Matches: 1
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 100.0, HS 15, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 2 wkts, Avg 11.0, Econ 4.12, Best: 2/22, Maidens: 0
+
+Player: Hasan Mahmud
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 2
+  Batting: 15 runs, 1 innings, Avg 15.0, SR 60.0, HS 15, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 3 wkts, Avg 44.0, Econ 9.43, Best: 2/67, Maidens: 0
+
+Player: AO Suji
+  Teams: Kenya
+  World Cups: 2003, 2007
+  Matches: 4
+  Batting: 14 runs, 1 innings, Avg 14.0, SR 48.28, HS 14, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 1 wkts, Avg 94.0, Econ 5.88, Best: 1/45, Maidens: 0
+
+Player: CK Coventry
+  Teams: Zimbabwe
+  World Cups: 2011
+  Matches: 1
+  Batting: 14 runs, 1 innings, Avg 14.0, SR 58.33, HS 14, 100s: 0, 50s: 0, 4s: 1, 6s: 1
+
+Player: JM Vince
+  Teams: England
+  World Cups: 2019
+  Matches: 1
+  Batting: 14 runs, 1 innings, Avg 14.0, SR 77.78, HS 14, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: AF Sattaur
+  Teams: Canada
+  World Cups: 2003
+  Matches: 1
+  Batting: 13 runs, 1 innings, Avg 13.0, SR 32.5, HS 13, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+
+Player: CRD Fernando
+  Teams: Sri Lanka
+  World Cups: 2003, 2007
+  Matches: 9
+  Batting: 13 runs, 1 innings, Avg 13.0, SR 130.0, HS 13, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 11 wkts, Avg 29.09, Econ 5.25, Best: 3/41, Maidens: 6
+
+Player: Yasir Shah
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 1
+  Batting: 13 runs, 1 innings, Avg 13.0, SR 56.52, HS 13, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: Saqlain Mushtaq
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 2
+  Batting: 12 runs, 1 innings, Avg 12.0, SR 36.36, HS 12, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 3 wkts, Avg 15.0, Econ 4.22, Best: 2/44, Maidens: 0
+
+Player: Mohammad Sami
+  Teams: Pakistan
+  World Cups: 2007
+  Matches: 2
+  Batting: 12 runs, 1 innings, Avg 12.0, SR 35.29, HS 12, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 4 wkts, Avg 11.0, Econ 2.93, Best: 3/29, Maidens: 0
+
+Player: T Duffin
+  Teams: Zimbabwe
+  World Cups: 2007
+  Matches: 1
+  Batting: 12 runs, 1 innings, Avg 12.0, SR 54.55, HS 12, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: IH Romaine
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 1
+  Batting: 11 runs, 1 innings, Avg 11.0, SR 52.38, HS 11, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+
+Player: TG Southee
+  Teams: New Zealand
+  World Cups: 2011, 2015, 2019, 2023
+  Matches: 20
+  Batting: 11 runs, 1 innings, Avg 11.0, SR 100.0, HS 11, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+  Bowling: 41 wkts, Avg 24.68, Econ 5.74, Best: 7/33, Maidens: 15
+
+Player: GS Ballance
+  Teams: England
+  World Cups: 2015
+  Matches: 1
+  Batting: 10 runs, 1 innings, Avg 10.0, SR 38.46, HS 10, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+
+Player: AM Guruge
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 4
+  Batting: 10 runs, 1 innings, Avg 10.0, SR 62.5, HS 10, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 7 wkts, Avg 19.43, Econ 4.77, Best: 4/56, Maidens: 2
+
+Player: Kuldeep Yadav
+  Teams: India
+  World Cups: 2019, 2023
+  Matches: 16
+  Batting: 10 runs, 1 innings, Avg 10.0, SR 55.56, HS 10, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 20 wkts, Avg 34.1, Econ 4.8, Best: 2/7, Maidens: 4
+
+Player: Saqib Zulfiqar
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 1
+  Batting: 10 runs, 1 innings, Avg 10.0, SR 55.56, HS 10, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: SL Malinga
+  Teams: Sri Lanka
+  World Cups: 2007, 2011, 2015, 2019
+  Matches: 24
+  Batting: 9 runs, 2 innings, Avg 4.5, SR 90.0, HS 6, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+  Bowling: 49 wkts, Avg 20.98, Econ 5.33, Best: 6/38, Maidens: 9
+
+Player: JJ Tucker
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 3
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 150.0, HS 9, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: RDM Leverock
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 3
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 29.03, HS 9, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 2 wkts, Avg 91.0, Econ 7.74, Best: 1/67, Maidens: 0
+
+Player: SD Outerbridge
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 1
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 56.25, HS 9, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: GB Brent
+  Teams: Zimbabwe
+  World Cups: 2007
+  Matches: 2
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 100.0, HS 9, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+  Bowling: 5 wkts, Avg 21.6, Econ 5.4, Best: 3/68, Maidens: 1
+
+Player: TG Gordon
+  Teams: Canada
+  World Cups: 2011
+  Matches: 1
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 75.0, HS 9, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: TA Boult
+  Teams: New Zealand
+  World Cups: 2015, 2019, 2023
+  Matches: 26
+  Batting: 9 runs, 1 innings, Avg 9.0, SR 64.29, HS 9, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 48 wkts, Avg 25.33, Econ 5.09, Best: 5/27, Maidens: 19
+
+Player: A Nel
+  Teams: South Africa
+  World Cups: 2007
+  Matches: 5
+  Batting: 8 runs, 1 innings, Avg 8.0, SR 19.51, HS 8, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 12 wkts, Avg 16.5, Econ 4.27, Best: 5/45, Maidens: 4
+
+Player: Rubel Hossain
+  Teams: Bangladesh
+  World Cups: 2011, 2015, 2019
+  Matches: 9
+  Batting: 8 runs, 1 innings, Avg 8.0, SR 88.89, HS 8, 100s: 0, 50s: 0, 4s: 2, 6s: 0
+  Bowling: 13 wkts, Avg 34.69, Econ 5.63, Best: 4/53, Maidens: 1
+
+Player: ADR Campbell
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 1
+  Batting: 7 runs, 1 innings, Avg 7.0, SR 28.0, HS 7, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+
+Player: WB Rankin
+  Teams: Ireland
+  World Cups: 2007, 2011
+  Matches: 12
+  Batting: 7 runs, 1 innings, Avg 7.0, SR 41.18, HS 7, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 14 wkts, Avg 35.43, Econ 5.31, Best: 3/32, Maidens: 4
+
+Player: RAS Lakmal
+  Teams: Sri Lanka
+  World Cups: 2015, 2019
+  Matches: 3
+  Batting: 7 runs, 1 innings, Avg 7.0, SR 53.85, HS 7, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 4 wkts, Avg 34.75, Econ 6.32, Best: 2/49, Maidens: 0
+
+Player: AR Berenger
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 1
+  Batting: 7 runs, 1 innings, Avg 7.0, SR 100.0, HS 7, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: CK Langeveldt
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 8
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 60.0, HS 6, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 14 wkts, Avg 23.43, Econ 5.38, Best: 5/39, Maidens: 2
+
+Player: KAD Hurdle
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 3
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 200.0, HS 6, 100s: 0, 50s: 0, 4s: 0, 6s: 1
+  Bowling: 3 wkts, Avg 46.33, Econ 6.04, Best: 2/61, Maidens: 1
+
+Player: WD Balaji Rao
+  Teams: Canada
+  World Cups: 2011
+  Matches: 6
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 85.71, HS 6, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 9 wkts, Avg 27.89, Econ 5.34, Best: 4/57, Maidens: 0
+
+Player: D Bishoo
+  Teams: West Indies
+  World Cups: 2011
+  Matches: 3
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 54.55, HS 6, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 4 wkts, Avg 26.5, Econ 4.24, Best: 3/34, Maidens: 1
+
+Player: I Udana
+  Teams: Sri Lanka
+  World Cups: 2019
+  Matches: 5
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 150.0, HS 6, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+  Bowling: 5 wkts, Avg 40.2, Econ 5.66, Best: 2/41, Maidens: 0
+
+Player: KD Karthik
+  Teams: India
+  World Cups: 2019
+  Matches: 1
+  Batting: 6 runs, 1 innings, Avg 6.0, SR 24.0, HS 6, 100s: 0, 50s: 0, 4s: 1, 6s: 0
+
+Player: NO Miller
+  Teams: West Indies
+  World Cups: 2011, 2015
+  Matches: 3
+  Batting: 5 runs, 1 innings, Avg 5.0, SR 83.33, HS 5, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 1 wkts, Avg 71.0, Econ 5.26, Best: 1/48, Maidens: 0
+
+Player: M Dillon
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 4
+  Batting: 4 runs, 1 innings, Avg 4.0, SR 57.14, HS 4, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 4 wkts, Avg 30.0, Econ 3.51, Best: 2/47, Maidens: 1
+
+Player: DR Tuffey
+  Teams: New Zealand
+  World Cups: 2003
+  Matches: 2
+  Batting: 4 runs, 1 innings, Avg 4.0, SR 133.33, HS 4, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 1 wkts, Avg 41.0, Econ 4.1, Best: 1/41, Maidens: 1
+
+Player: RML Taylor
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 3
+  Batting: 4 runs, 1 innings, Avg 4.0, SR 66.67, HS 4, 100s: 0, 50s: 0, 4s: 0, 6s: 0
+  Bowling: 2 wkts, Avg 51.0, Econ 5.37, Best: 1/29, Maidens: 0
+
+Player: A Nehra
+  Teams: India
+  World Cups: 2003, 2011
+  Matches: 10
+  Bowling: 18 wkts, Avg 17.17, Econ 4.0, Best: 6/23, Maidens: 9
+
+Player: GD McGrath
+  Teams: Australia
+  World Cups: 2003, 2007
+  Matches: 21
+  Bowling: 47 wkts, Avg 13.98, Econ 3.99, Best: 7/15, Maidens: 22
+
+Player: AR Caddick
+  Teams: England
+  World Cups: 2003
+  Matches: 5
+  Bowling: 8 wkts, Avg 22.25, Econ 4.05, Best: 4/35, Maidens: 8
+
+Player: JN Gillespie
+  Teams: Australia
+  World Cups: 2003
+  Matches: 3
+  Bowling: 6 wkts, Avg 15.17, Econ 3.37, Best: 3/13, Maidens: 4
+
+Player: J Srinath
+  Teams: India
+  World Cups: 2003
+  Matches: 8
+  Bowling: 15 wkts, Avg 15.8, Econ 3.53, Best: 4/30, Maidens: 4
+
+Player: LJ Burger
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 5
+  Bowling: 6 wkts, Avg 41.33, Econ 5.06, Best: 3/39, Maidens: 3
+
+Player: Waqar Younis
+  Teams: Pakistan
+  World Cups: 2003
+  Matches: 4
+  Bowling: 7 wkts, Avg 25.29, Econ 5.87, Best: 2/37, Maidens: 2
+
+Player: BA Murphy
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 3
+  Bowling: 5 wkts, Avg 26.4, Econ 4.55, Best: 3/44, Maidens: 3
+
+Player: DT Hondo
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 7
+  Bowling: 5 wkts, Avg 41.8, Econ 5.08, Best: 1/16, Maidens: 3
+
+Player: JM Anderson
+  Teams: England
+  World Cups: 2003, 2007, 2011, 2015
+  Matches: 22
+  Bowling: 26 wkts, Avg 36.85, Econ 5.12, Best: 4/25, Maidens: 8
+
+Player: G Snyman
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 5
+  Bowling: 6 wkts, Avg 46.83, Econ 5.85, Best: 3/69, Maidens: 0
+
+Player: RC Irani
+  Teams: England
+  World Cups: 2003
+  Matches: 1
+  Bowling: 3 wkts, Avg 10.0, Econ 3.83, Best: 3/30, Maidens: 0
+
+Player: Adeel Raja
+  Teams: Netherlands
+  World Cups: 2003, 2007, 2011
+  Matches: 6
+  Bowling: 6 wkts, Avg 43.17, Econ 5.67, Best: 4/42, Maidens: 1
+
+Player: JL Louw
+  Teams: Namibia
+  World Cups: 2003
+  Matches: 1
+  Bowling: 1 wkts, Avg 60.0, Econ 6.0, Best: 1/60, Maidens: 0
+
+Player: HK Olonga
+  Teams: Zimbabwe
+  World Cups: 2003
+  Matches: 2
+  Bowling: 1 wkts, Avg 29.0, Econ 4.14, Best: 1/21, Maidens: 0
+
+Player: Manjural Islam
+  Teams: Bangladesh
+  World Cups: 2003
+  Matches: 5
+  Bowling: 5 wkts, Avg 37.0, Econ 5.12, Best: 3/62, Maidens: 2
+
+Player: D Joseph
+  Teams: Canada
+  World Cups: 2003
+  Matches: 4
+  Bowling: 5 wkts, Avg 34.0, Econ 5.48, Best: 2/42, Maidens: 2
+
+Player: Tapash Baisya
+  Teams: Bangladesh
+  World Cups: 2003, 2007
+  Matches: 3
+  Bowling: 1 wkts, Avg 113.0, Econ 6.0, Best: 1/22, Maidens: 1
+
+Player: SE Bond
+  Teams: New Zealand
+  World Cups: 2003, 2007
+  Matches: 15
+  Bowling: 30 wkts, Avg 15.83, Econ 3.45, Best: 6/23, Maidens: 16
+
+Player: KD Mills
+  Teams: New Zealand
+  World Cups: 2003, 2011
+  Matches: 4
+  Bowling: 6 wkts, Avg 17.67, Econ 3.97, Best: 2/2, Maidens: 2
+
+Player: M Ntini
+  Teams: South Africa
+  World Cups: 2003, 2007
+  Matches: 13
+  Bowling: 16 wkts, Avg 29.31, Econ 4.07, Best: 4/24, Maidens: 9
+
+Player: M Zondeki
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 3
+  Bowling: 2 wkts, Avg 38.0, Econ 3.8, Best: 1/17, Maidens: 2
+
+Player: BB Seebaran
+  Teams: Canada
+  World Cups: 2003
+  Matches: 2
+  Bowling: 1 wkts, Avg 104.0, Econ 6.12, Best: 1/61, Maidens: 0
+
+Player: RAP Nissanka
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 2
+  Bowling: 4 wkts, Avg 10.25, Econ 2.93, Best: 4/12, Maidens: 3
+
+Player: PT Collins
+  Teams: West Indies
+  World Cups: 2003
+  Matches: 2
+  Bowling: 2 wkts, Avg 44.5, Econ 5.56, Best: 1/35, Maidens: 0
+
+Player: AY Karim
+  Teams: Kenya
+  World Cups: 2003
+  Matches: 4
+  Bowling: 3 wkts, Avg 23.0, Econ 2.96, Best: 3/7, Maidens: 6
+
+Player: AA Donald
+  Teams: South Africa
+  World Cups: 2003
+  Matches: 2
+  Bowling: 1 wkts, Avg 106.0, Econ 7.15, Best: 1/52, Maidens: 0
+
+Player: PW Gunaratne
+  Teams: Sri Lanka
+  World Cups: 2003
+  Matches: 3
+  Bowling: 4 wkts, Avg 20.75, Econ 4.61, Best: 2/24, Maidens: 0
+
+Player: NW Bracken
+  Teams: Australia
+  World Cups: 2007
+  Matches: 10
+  Bowling: 16 wkts, Avg 16.12, Econ 3.6, Best: 4/19, Maidens: 9
+
+Player: MBS Jonkman
+  Teams: Netherlands
+  World Cups: 2007
+  Matches: 2
+  Bowling: 2 wkts, Avg 28.5, Econ 5.1, Best: 2/22, Maidens: 1
+
+Player: SW Tait
+  Teams: Australia
+  World Cups: 2007, 2011
+  Matches: 17
+  Bowling: 34 wkts, Avg 20.26, Econ 5.28, Best: 4/39, Maidens: 3
+
+Player: CM Wright
+  Teams: Scotland
+  World Cups: 2007
+  Matches: 2
+  Bowling: 1 wkts, Avg 75.0, Econ 5.36, Best: 1/58, Maidens: 1
+
+Player: WF Stelling
+  Teams: Netherlands
+  World Cups: 2007
+  Matches: 2
+  Bowling: 4 wkts, Avg 13.75, Econ 3.44, Best: 3/12, Maidens: 3
+
+Player: Mohammad Kashif
+  Teams: Netherlands
+  World Cups: 2007
+  Matches: 1
+  Bowling: 2 wkts, Avg 14.5, Econ 4.14, Best: 2/29, Maidens: 2
+
+Player: Syed Rasel
+  Teams: Bangladesh
+  World Cups: 2007
+  Matches: 7
+  Bowling: 8 wkts, Avg 29.88, Econ 3.85, Best: 2/25, Maidens: 7
+
+Player: S Mukuddem
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 2
+  Bowling: 5 wkts, Avg 13.8, Econ 4.6, Best: 3/19, Maidens: 0
+
+Player: MO Jones
+  Teams: Bermuda
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 74.0, Econ 10.57, Best: 1/74, Maidens: 0
+
+Player: AB Agarkar
+  Teams: India
+  World Cups: 2007
+  Matches: 2
+  Bowling: 4 wkts, Avg 17.75, Econ 3.94, Best: 3/38, Maidens: 0
+
+Player: GR Codrington
+  Teams: Canada
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 70.0, Econ 7.0, Best: 1/70, Maidens: 0
+
+Player: AC Cummins
+  Teams: Canada
+  World Cups: 2007
+  Matches: 2
+  Bowling: 1 wkts, Avg 117.0, Econ 6.88, Best: 1/58, Maidens: 1
+
+Player: MS Panesar
+  Teams: England
+  World Cups: 2007
+  Matches: 7
+  Bowling: 7 wkts, Avg 34.0, Econ 4.25, Best: 3/25, Maidens: 3
+
+Player: KT Sandher
+  Teams: Canada
+  World Cups: 2007
+  Matches: 1
+  Bowling: 2 wkts, Avg 29.0, Econ 5.8, Best: 2/58, Maidens: 0
+
+Player: MJ Mason
+  Teams: New Zealand
+  World Cups: 2007
+  Matches: 4
+  Bowling: 3 wkts, Avg 35.67, Econ 4.37, Best: 2/29, Maidens: 3
+
+Player: SI Mahmood
+  Teams: England
+  World Cups: 2007
+  Matches: 5
+  Bowling: 8 wkts, Avg 28.12, Econ 5.62, Best: 4/50, Maidens: 1
+
+Player: LN Onyango
+  Teams: Kenya
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 63.0, Econ 7.88, Best: 1/63, Maidens: 0
+
+Player: IDR Bradshaw
+  Teams: West Indies
+  World Cups: 2007
+  Matches: 3
+  Bowling: 2 wkts, Avg 83.5, Econ 5.76, Best: 1/27, Maidens: 0
+
+Player: CB Mpofu
+  Teams: Zimbabwe
+  World Cups: 2007, 2011
+  Matches: 6
+  Bowling: 11 wkts, Avg 28.45, Econ 6.14, Best: 4/62, Maidens: 4
+
+Player: EC Rainsford
+  Teams: Zimbabwe
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 44.0, Econ 6.29, Best: 1/44, Maidens: 0
+
+Player: Danish Kaneria
+  Teams: Pakistan
+  World Cups: 2007
+  Matches: 2
+  Bowling: 3 wkts, Avg 31.0, Econ 7.15, Best: 2/48, Maidens: 2
+
+Player: CD Collymore
+  Teams: West Indies
+  World Cups: 2007
+  Matches: 7
+  Bowling: 6 wkts, Avg 44.67, Econ 4.23, Best: 2/11, Maidens: 4
+
+Player: AJ Ireland
+  Teams: Zimbabwe
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 38.0, Econ 5.43, Best: 1/38, Maidens: 0
+
+Player: SR Clark
+  Teams: Australia
+  World Cups: 2007
+  Matches: 1
+  Bowling: 1 wkts, Avg 19.0, Econ 2.38, Best: 1/19, Maidens: 1
+
+Player: SCJ Broad
+  Teams: England
+  World Cups: 2007, 2011, 2015
+  Matches: 7
+  Bowling: 9 wkts, Avg 36.0, Econ 5.89, Best: 4/15, Maidens: 4
+
+Player: JJ Krejza
+  Teams: Australia
+  World Cups: 2011
+  Matches: 5
+  Bowling: 5 wkts, Avg 39.4, Econ 4.38, Best: 2/28, Maidens: 0
+
+Player: H Osinde
+  Teams: Canada
+  World Cups: 2011
+  Matches: 5
+  Bowling: 6 wkts, Avg 27.67, Econ 4.61, Best: 4/26, Maidens: 3
+
+Player: JO Ngoche
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 3
+  Bowling: 2 wkts, Avg 75.0, Econ 5.36, Best: 1/26, Maidens: 2
+
+Player: HK Bennett
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 3
+  Bowling: 6 wkts, Avg 19.33, Econ 5.8, Best: 4/16, Maidens: 0
+
+Player: Abdur Rehman
+  Teams: Pakistan
+  World Cups: 2011
+  Matches: 4
+  Bowling: 3 wkts, Avg 58.33, Econ 4.73, Best: 1/34, Maidens: 2
+
+Player: E Otieno
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 5
+  Bowling: 5 wkts, Avg 39.8, Econ 5.94, Best: 2/61, Maidens: 1
+
+Player: Saeed Ajmal
+  Teams: Pakistan
+  World Cups: 2011
+  Matches: 3
+  Bowling: 5 wkts, Avg 18.6, Econ 3.58, Best: 2/18, Maidens: 1
+
+Player: BAW Mendis
+  Teams: Sri Lanka
+  World Cups: 2011
+  Matches: 5
+  Bowling: 7 wkts, Avg 19.14, Econ 3.14, Best: 3/35, Maidens: 5
+
+Player: SO Ngoche
+  Teams: Kenya
+  World Cups: 2011
+  Matches: 2
+  Bowling: 1 wkts, Avg 85.0, Econ 6.07, Best: 1/46, Maidens: 0
+
+Player: HMRKB Herath
+  Teams: Sri Lanka
+  World Cups: 2011, 2015
+  Matches: 4
+  Bowling: 5 wkts, Avg 29.8, Econ 4.4, Best: 2/46, Maidens: 1
+
+Player: A Shahzad
+  Teams: England
+  World Cups: 2011
+  Matches: 2
+  Bowling: 3 wkts, Avg 32.0, Econ 5.33, Best: 3/43, Maidens: 0
+
+Player: TT Bresnan
+  Teams: England
+  World Cups: 2011
+  Matches: 7
+  Bowling: 9 wkts, Avg 34.33, Econ 4.9, Best: 5/48, Maidens: 3
+
+Player: Suhrawadi Shuvo
+  Teams: Bangladesh
+  World Cups: 2011
+  Matches: 1
+  Bowling: 1 wkts, Avg 33.0, Econ 3.3, Best: 1/33, Maidens: 1
+
+Player: PM Seelaar
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 6
+  Bowling: 8 wkts, Avg 38.25, Econ 5.13, Best: 3/45, Maidens: 4
+
+Player: LL Tsotsobe
+  Teams: South Africa
+  World Cups: 2011
+  Matches: 1
+  Bowling: 3 wkts, Avg 4.67, Econ 2.8, Best: 3/14, Maidens: 2
+
+Player: Imran Tahir
+  Teams: South Africa
+  World Cups: 2011, 2015, 2019
+  Matches: 19
+  Bowling: 36 wkts, Avg 21.72, Econ 4.47, Best: 5/45, Maidens: 7
+
+Player: SJ Benn
+  Teams: West Indies
+  World Cups: 2011, 2015
+  Matches: 7
+  Bowling: 14 wkts, Avg 22.21, Econ 4.95, Best: 4/18, Maidens: 3
+
+Player: MH Yardy
+  Teams: England
+  World Cups: 2011
+  Matches: 3
+  Bowling: 2 wkts, Avg 79.5, Econ 6.12, Best: 1/46, Maidens: 1
+
+Player: PP Chawla
+  Teams: India
+  World Cups: 2011
+  Matches: 2
+  Bowling: 4 wkts, Avg 29.5, Econ 5.9, Best: 2/47, Maidens: 0
+
+Player: BA Westdijk
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 3
+  Bowling: 1 wkts, Avg 173.0, Econ 7.52, Best: 1/56, Maidens: 0
+
+Player: BP Loots
+  Teams: Netherlands
+  World Cups: 2011
+  Matches: 3
+  Bowling: 2 wkts, Avg 89.0, Econ 6.94, Best: 1/44, Maidens: 0
+
+Player: M Morkel
+  Teams: South Africa
+  World Cups: 2011, 2015
+  Matches: 13
+  Bowling: 26 wkts, Avg 18.77, Econ 4.71, Best: 3/33, Maidens: 3
+
+Player: JC Tredwell
+  Teams: England
+  World Cups: 2011
+  Matches: 2
+  Bowling: 4 wkts, Avg 21.5, Econ 5.38, Best: 4/48, Maidens: 2
+
+Player: R Rampaul
+  Teams: West Indies
+  World Cups: 2011
+  Matches: 2
+  Bowling: 5 wkts, Avg 15.8, Econ 5.27, Best: 5/51, Maidens: 1
+
+Player: LJ Woodcock
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 1
+  Bowling: 1 wkts, Avg 24.0, Econ 4.5, Best: 1/24, Maidens: 0
+
+Player: AJ McKay
+  Teams: New Zealand
+  World Cups: 2011
+  Matches: 1
+  Bowling: 1 wkts, Avg 37.0, Econ 3.76, Best: 1/37, Maidens: 1
+
+Player: JR Hazlewood
+  Teams: Australia
+  World Cups: 2015, 2023
+  Matches: 14
+  Bowling: 19 wkts, Avg 29.53, Econ 4.71, Best: 4/35, Maidens: 11
+
+Player: MJ Henry
+  Teams: New Zealand
+  World Cups: 2015, 2019, 2023
+  Matches: 16
+  Bowling: 26 wkts, Avg 27.96, Econ 5.24, Best: 4/47, Maidens: 8
+
+Player: ST Finn
+  Teams: England
+  World Cups: 2015
+  Matches: 4
+  Bowling: 8 wkts, Avg 25.0, Econ 6.9, Best: 5/71, Maidens: 3
+
+Player: AF Milne
+  Teams: New Zealand
+  World Cups: 2015
+  Matches: 5
+  Bowling: 4 wkts, Avg 40.25, Econ 5.49, Best: 2/56, Maidens: 1
+
+Player: I Wardlaw
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 4
+  Bowling: 6 wkts, Avg 41.5, Econ 7.32, Best: 3/57, Maidens: 1
+
+Player: S Prasanna
+  Teams: Sri Lanka
+  World Cups: 2015
+  Matches: 1
+  Bowling: 1 wkts, Avg 77.0, Econ 7.7, Best: 1/77, Maidens: 0
+
+Player: CJ Jordan
+  Teams: England
+  World Cups: 2015
+  Matches: 1
+  Bowling: 2 wkts, Avg 29.5, Econ 5.9, Best: 2/59, Maidens: 0
+
+Player: AC Evans
+  Teams: Scotland
+  World Cups: 2015
+  Matches: 3
+  Bowling: 4 wkts, Avg 46.25, Econ 6.17, Best: 2/72, Maidens: 2
+
+Player: BMAJ Mendis
+  Teams: Sri Lanka
+  World Cups: 2015, 2019
+  Matches: 3
+  Bowling: 2 wkts, Avg 26.0, Econ 5.11, Best: 2/5, Maidens: 0
+
+Player: PVD Chameera
+  Teams: Sri Lanka
+  World Cups: 2015, 2023
+  Matches: 4
+  Bowling: 5 wkts, Avg 39.2, Econ 6.72, Best: 3/51, Maidens: 3
+
+Player: Mohammed Shami
+  Teams: India
+  World Cups: 2015, 2019, 2023
+  Matches: 16
+  Bowling: 51 wkts, Avg 13.0, Econ 5.13, Best: 7/57, Maidens: 11
+
+Player: MM Sharma
+  Teams: India
+  World Cups: 2015
+  Matches: 8
+  Bowling: 13 wkts, Avg 24.15, Econ 4.98, Best: 3/48, Maidens: 4
+
+Player: SR Thompson
+  Teams: Ireland
+  World Cups: 2015
+  Matches: 2
+  Bowling: 3 wkts, Avg 34.67, Econ 6.5, Best: 2/45, Maidens: 0
+
+Player: Sohail Khan
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 7
+  Bowling: 12 wkts, Avg 30.33, Econ 5.89, Best: 5/55, Maidens: 2
+
+Player: Mohammad Irfan
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 4
+  Bowling: 8 wkts, Avg 23.0, Econ 4.84, Best: 4/30, Maidens: 2
+
+Player: UT Yadav
+  Teams: India
+  World Cups: 2015
+  Matches: 6
+  Bowling: 17 wkts, Avg 14.88, Econ 4.66, Best: 4/31, Maidens: 5
+
+Player: VD Philander
+  Teams: South Africa
+  World Cups: 2015
+  Matches: 4
+  Bowling: 4 wkts, Avg 33.75, Econ 4.74, Best: 2/30, Maidens: 1
+
+Player: B Kumar
+  Teams: India
+  World Cups: 2015, 2019
+  Matches: 7
+  Bowling: 11 wkts, Avg 26.18, Econ 5.08, Best: 3/43, Maidens: 1
+
+Player: Mohammad Tauqir
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 6
+  Bowling: 5 wkts, Avg 46.2, Econ 5.27, Best: 2/38, Maidens: 0
+
+Player: T Panyangara
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 4
+  Bowling: 5 wkts, Avg 55.4, Econ 7.55, Best: 2/53, Maidens: 3
+
+Player: TL Chatara
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 6
+  Bowling: 10 wkts, Avg 34.2, Econ 5.73, Best: 3/35, Maidens: 4
+
+Player: Rahat Ali
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 5
+  Bowling: 7 wkts, Avg 27.43, Econ 4.36, Best: 3/40, Maidens: 1
+
+Player: Ehsan Adil
+  Teams: Pakistan
+  World Cups: 2015
+  Matches: 2
+  Bowling: 2 wkts, Avg 31.0, Econ 5.17, Best: 1/31, Maidens: 0
+
+Player: AR McBrine
+  Teams: Ireland
+  World Cups: 2015
+  Matches: 3
+  Bowling: 3 wkts, Avg 48.33, Econ 5.18, Best: 2/63, Maidens: 1
+
+Player: KJ Abbott
+  Teams: South Africa
+  World Cups: 2015
+  Matches: 4
+  Bowling: 9 wkts, Avg 14.44, Econ 4.19, Best: 4/21, Maidens: 1
+
+Player: Kamran Shazad
+  Teams: United Arab Emirates
+  World Cups: 2015
+  Matches: 1
+  Bowling: 1 wkts, Avg 59.0, Econ 7.38, Best: 1/59, Maidens: 0
+
+Player: T Kamungozi
+  Teams: Zimbabwe
+  World Cups: 2015
+  Matches: 2
+  Bowling: 1 wkts, Avg 87.0, Econ 4.83, Best: 1/34, Maidens: 0
+
+Player: JC Archer
+  Teams: England
+  World Cups: 2019
+  Matches: 10
+  Bowling: 17 wkts, Avg 24.94, Econ 4.62, Best: 3/27, Maidens: 7
+
+Player: LH Ferguson
+  Teams: New Zealand
+  World Cups: 2019, 2023
+  Matches: 13
+  Bowling: 24 wkts, Avg 25.67, Econ 5.2, Best: 3/22, Maidens: 2
+
+Player: JP Behrendorff
+  Teams: Australia
+  World Cups: 2019
+  Matches: 5
+  Bowling: 9 wkts, Avg 25.22, Econ 5.14, Best: 5/44, Maidens: 2
+
+Player: NM Lyon
+  Teams: Australia
+  World Cups: 2019
+  Matches: 4
+  Bowling: 3 wkts, Avg 60.33, Econ 5.32, Best: 2/53, Maidens: 0
+
+Player: YS Chahal
+  Teams: India
+  World Cups: 2019
+  Matches: 6
+  Bowling: 10 wkts, Avg 35.3, Econ 6.19, Best: 4/51, Maidens: 0
+
+Player: Mohammad Amir
+  Teams: Pakistan
+  World Cups: 2019
+  Matches: 7
+  Bowling: 17 wkts, Avg 18.65, Econ 5.03, Best: 5/30, Maidens: 4
+
+Player: Shaheen Shah Afridi
+  Teams: Pakistan
+  World Cups: 2019, 2023
+  Matches: 12
+  Bowling: 29 wkts, Avg 21.03, Econ 5.64, Best: 6/35, Maidens: 6
+
+Player: KW Richardson
+  Teams: Australia
+  World Cups: 2019
+  Matches: 2
+  Bowling: 5 wkts, Avg 21.8, Econ 6.17, Best: 3/47, Maidens: 1
+
+Player: D Pretorius
+  Teams: South Africa
+  World Cups: 2019
+  Matches: 2
+  Bowling: 5 wkts, Avg 10.4, Econ 3.25, Best: 3/25, Maidens: 3
+
+Player: O Thomas
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 7
+  Bowling: 8 wkts, Avg 36.75, Econ 6.51, Best: 4/27, Maidens: 1
+
+Player: ST Gabriel
+  Teams: West Indies
+  World Cups: 2019
+  Matches: 2
+  Bowling: 2 wkts, Avg 63.5, Econ 8.19, Best: 2/49, Maidens: 0
+
+Player: L Ngidi
+  Teams: South Africa
+  World Cups: 2019, 2023
+  Matches: 10
+  Bowling: 15 wkts, Avg 30.87, Econ 5.72, Best: 3/64, Maidens: 5
+
+Player: N Pradeep
+  Teams: Sri Lanka
+  World Cups: 2019
+  Matches: 1
+  Bowling: 1 wkts, Avg 38.0, Econ 3.8, Best: 1/38, Maidens: 1
+
+Player: T Shamsi
+  Teams: South Africa
+  World Cups: 2019, 2023
+  Matches: 5
+  Bowling: 9 wkts, Avg 29.56, Econ 5.68, Best: 4/60, Maidens: 0
+
+Player: JDF Vandersay
+  Teams: Sri Lanka
+  World Cups: 2019
+  Matches: 1
+  Bowling: 1 wkts, Avg 50.0, Econ 7.14, Best: 1/50, Maidens: 0
+
+Player: Mohammed Siraj
+  Teams: India
+  World Cups: 2023
+  Matches: 10
+  Bowling: 14 wkts, Avg 28.07, Econ 5.35, Best: 3/16, Maidens: 6
+
+Player: SA Abbott
+  Teams: Australia
+  World Cups: 2023
+  Matches: 1
+  Bowling: 2 wkts, Avg 30.5, Econ 6.1, Best: 2/61, Maidens: 0
+
+Player: PA van Meekeren
+  Teams: Netherlands
+  World Cups: 2023
+  Matches: 8
+  Bowling: 12 wkts, Avg 34.33, Econ 5.96, Best: 4/23, Maidens: 1
+
+Player: Usama Mir
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 3
+  Bowling: 4 wkts, Avg 48.25, Econ 7.15, Best: 2/45, Maidens: 0
+
+Player: DN Wellalage
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 3
+  Bowling: 2 wkts, Avg 98.0, Econ 6.68, Best: 1/53, Maidens: 0
+
+Player: Shoriful Islam
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 6
+  Bowling: 8 wkts, Avg 40.12, Econ 6.38, Best: 3/75, Maidens: 2
+
+Player: RJW Topley
+  Teams: England
+  World Cups: 2023
+  Matches: 2
+  Bowling: 7 wkts, Avg 18.71, Econ 6.96, Best: 4/43, Maidens: 1
+
+Player: SN Thakur
+  Teams: India
+  World Cups: 2023
+  Matches: 1
+  Bowling: 1 wkts, Avg 59.0, Econ 6.56, Best: 1/59, Maidens: 0
+
+Player: Mohammad Wasim
+  Teams: Pakistan
+  World Cups: 2023
+  Matches: 4
+  Bowling: 10 wkts, Avg 21.5, Econ 5.63, Best: 3/31, Maidens: 1
+
+Player: LB Williams
+  Teams: South Africa
+  World Cups: 2023
+  Matches: 1
+  Bowling: 2 wkts, Avg 28.0, Econ 6.46, Best: 2/56, Maidens: 0
+
+Player: Tanzim Hasan Sakib
+  Teams: Bangladesh
+  World Cups: 2023
+  Matches: 1
+  Bowling: 3 wkts, Avg 26.67, Econ 8.0, Best: 3/80, Maidens: 0
+
+Player: SM Curran
+  Teams: England
+  World Cups: 2023
+  Matches: 1
+  Bowling: 1 wkts, Avg 47.0, Econ 7.83, Best: 1/47, Maidens: 2
+
+Player: CBRLS Kumara
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 1
+  Bowling: 3 wkts, Avg 11.67, Econ 5.0, Best: 3/35, Maidens: 0
+
+Player: M Pathirana
+  Teams: Sri Lanka
+  World Cups: 2023
+  Matches: 2
+  Bowling: 2 wkts, Avg 92.5, Econ 9.74, Best: 1/90, Maidens: 0

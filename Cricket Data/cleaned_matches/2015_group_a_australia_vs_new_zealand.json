@@ -1,0 +1,374 @@
+{
+  "match_id": "16de3c91351d",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Eden Park",
+  "city": "Auckland",
+  "date": "2015-02-28",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brendon McCullum",
+    "team2": "Michael Clarke"
+  },
+  "player_of_match": "TA Boult",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 151,
+      "wickets": 10,
+      "overs": 32.2,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "BJ Haddin",
+          "runs": 43,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 104.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 34,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 80.95,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 23,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 14,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 12,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 27,
+          "wickets": 5,
+          "economy": 2.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 7.22,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "CJ Anderson",
+          "overs": "0.2",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 1,
+          "economy": 18.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AF Milne",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 80,
+          "wickets": 2,
+          "overs": "12.6"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 80,
+          "wickets": 3,
+          "overs": "13.1"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 95,
+          "wickets": 4,
+          "overs": "16.3"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 96,
+          "wickets": 5,
+          "overs": "17.2"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 97,
+          "wickets": 6,
+          "overs": "17.4"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 104,
+          "wickets": 7,
+          "overs": "19.6"
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 106,
+          "wickets": 8,
+          "overs": "21.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 106,
+          "wickets": 9,
+          "overs": "21.6"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 151,
+          "wickets": 10,
+          "overs": "32.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 152,
+      "wickets": 9,
+      "overs": 23.1,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "BB McCullum",
+          "runs": 50,
+          "balls": 24,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 208.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 45,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 107.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CJ Anderson",
+          "runs": 26,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 61.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 11,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 78.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "L Ronchi",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 6,
+          "economy": 3.11,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "6.1",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 6.16,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MR Marsh",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 11.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 68,
+          "wickets": 0,
+          "economy": 11.33,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 40,
+          "wickets": 1,
+          "overs": "3.5"
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 78,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 79,
+          "wickets": 3,
+          "overs": "8.1"
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 79,
+          "wickets": 4,
+          "overs": "8.2"
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 131,
+          "wickets": 5,
+          "overs": "19.4"
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 139,
+          "wickets": 6,
+          "overs": "20.6"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 145,
+          "wickets": 7,
+          "overs": "21.5"
+        },
+        {
+          "player": "AF Milne",
+          "runs": 146,
+          "wickets": 8,
+          "overs": "22.3"
+        },
+        {
+          "player": "TG Southee",
+          "runs": 146,
+          "wickets": 9,
+          "overs": "22.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_a_australia_vs_new_zealand.json",
+  "match_summary": "2015 World Cup Group A: New Zealand vs Australia (2015-02-28) at Auckland.\nAustralia: 151 all out (32.2 ov)\n  BJ Haddin: 43 (41b, 4x4, 2x6)\n  DA Warner: 34 (42b, 2x4, 1x6)\n  TA Boult: 5/27 (10.0 ov)\n  DL Vettori: 2/41 (10.0 ov)\n  TG Southee: 2/65 (9.0 ov)\nNew Zealand: 152/9 (23.1 ov)\n  BB McCullum: 50 (24b, 7x4, 3x6)\n  KS Williamson: 45* (42b, 5x4, 1x6)\n  MA Starc: 6/28 (9.0 ov)\n  PJ Cummins: 2/38 (6.1 ov)\nNew Zealand won by 1 wickets.\nPlayer of the Match: TA Boult."
+}

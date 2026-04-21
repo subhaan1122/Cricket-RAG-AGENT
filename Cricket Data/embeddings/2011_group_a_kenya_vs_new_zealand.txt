@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2011
+Match: Kenya vs New Zealand
+Stage: Group A
+Date: 2011-02-20
+Venue: MA Chidambaram Stadium, Chepauk, Chennai
+Captain Kenya: Jimmy Kamande
+Captain New Zealand: Daniel Vettori
+
+Match Summary:
+  2011 World Cup Group A: Kenya vs New Zealand (2011-02-20) at Chennai.
+
+Kenya: 69 all out (23.5 ov)
+  RR Patel: 16 (23b, 1x4, 0x6, SR 69.57)
+  SR Waters: 16 (42b, 1x4, 0x6, SR 38.1)
+  CO Obuya: 14 (19b, 2x4, 0x6, SR 73.68)
+  AA Obanda: 6 (19b, 0x4, 0x6, SR 31.58)
+  SO Tikolo: 2 (2b, 0x4, 0x6, SR 100.0)
+  HK Bennett: 4/16 (5.0 ov, Econ 3.2)
+  JDP Oram: 3/2 (2.5 ov, Econ 0.71)
+  TG Southee: 3/13 (6.0 ov, Econ 2.17)
+  DL Vettori: 0/16 (6.0 ov, Econ 2.67)
+  NL McCullum: 0/15 (4.0 ov, Econ 3.75)
+  Extras: 10
+
+New Zealand: 72/0 (8.0 ov)
+  MJ Guptill: 39 (32b, 5x4, 2x6, SR 121.88)
+  BB McCullum: 26 (17b, 4x4, 0x6, SR 152.94)
+  NN Odhiambo: 0/5 (1.0 ov, Econ 5.0)
+  TM Odoyo: 0/25 (3.0 ov, Econ 8.33)
+  E Otieno: 0/18 (2.0 ov, Econ 9.0)
+  JK Kamande: 0/21 (2.0 ov, Econ 10.5)
+  Extras: 7
+
+Batting Highlights:
+  Quickfire innings: BB McCullum smashed 26 off 17 balls at SR 152.94
+
+Bowling Highlights:
+  Match-changing spell: HK Bennett took 4/16
+  Key spell: JDP Oram took 3/2
+  Key spell: TG Southee took 3/13
+  Economical spell: DL Vettori conceded 16 runs in 6.0 overs (Econ 2.67)
+
+Captain Performance:
+  Kenya captain: Jimmy Kamande
+  New Zealand captain: Daniel Vettori
+
+Key Moments:
+  Kenya lost 10 early wickets.
+  New Zealand scored aggressively in the powerplay (72 runs at 9.0 RPO).
+
+Result: New Zealand won by 10 wickets
+Toss: Kenya won and chose to bat
+Player of the Match: HK Bennett

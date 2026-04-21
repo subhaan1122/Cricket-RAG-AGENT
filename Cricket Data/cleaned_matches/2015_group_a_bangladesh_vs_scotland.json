@@ -1,0 +1,332 @@
+{
+  "match_id": "d039e3761425",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Saxton Oval",
+  "city": "Nelson",
+  "date": "2015-03-05",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Scotland"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mashrafe Mortaza",
+    "team2": "Preston Mommsen"
+  },
+  "player_of_match": "KJ Coetzer",
+  "innings": [
+    {
+      "team": "Scotland",
+      "runs": 318,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "KJ Coetzer",
+          "runs": 156,
+          "balls": 134,
+          "fours": 17,
+          "sixes": 4,
+          "strike_rate": 116.42,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PL Mommsen",
+          "runs": 39,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 102.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MW Machan",
+          "runs": 35,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "RD Berrington",
+          "runs": 26,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 162.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MH Cross",
+          "runs": 20,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Taskin Ahmed",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 6.14,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Nasir Hossain",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Sabbir Rahman",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 6.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 7.5,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CS MacLeod",
+          "runs": 13,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "HJW Gardiner",
+          "runs": 38,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "MW Machan",
+          "runs": 116,
+          "wickets": 3,
+          "overs": "23.6"
+        },
+        {
+          "player": "PL Mommsen",
+          "runs": 257,
+          "wickets": 4,
+          "overs": "42.5"
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 269,
+          "wickets": 5,
+          "overs": "44.4"
+        },
+        {
+          "player": "RD Berrington",
+          "runs": 308,
+          "wickets": 6,
+          "overs": "48.3"
+        },
+        {
+          "player": "MH Cross",
+          "runs": 312,
+          "wickets": 7,
+          "overs": "48.6"
+        },
+        {
+          "player": "RM Haq",
+          "runs": 315,
+          "wickets": 8,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 322,
+      "wickets": 4,
+      "overs": 48.1,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "Tamim Iqbal",
+          "runs": 95,
+          "balls": 100,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 95.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mahmudullah",
+          "runs": 62,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 60,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 142.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 52,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 126.83,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Sabbir Rahman",
+          "runs": 42,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 105.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JH Davey",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 2,
+          "economy": 6.8,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "AC Evans",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 67,
+          "wickets": 1,
+          "economy": 6.7,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "I Wardlaw",
+          "overs": "9.1",
+          "maidens": 0,
+          "runs_conceded": 75,
+          "wickets": 1,
+          "economy": 8.18,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RM Haq",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "MW Machan",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Soumya Sarkar",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.5"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 144,
+          "wickets": 2,
+          "overs": "23.3"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 201,
+          "wickets": 3,
+          "overs": "31.3"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 247,
+          "wickets": 4,
+          "overs": "37.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_a_bangladesh_vs_scotland.json",
+  "match_summary": "2015 World Cup Group A: Bangladesh vs Scotland (2015-03-05) at Nelson.\nScotland: 318/8 (50.0 ov)\n  KJ Coetzer: 156 (134b, 17x4, 4x6)\n  PL Mommsen: 39 (38b, 2x4, 1x6)\n  MW Machan: 35 (50b, 2x4, 1x6)\n  Taskin Ahmed: 3/43 (7.0 ov)\n  Nasir Hossain: 2/32 (5.0 ov)\nBangladesh: 322/4 (48.1 ov)\n  Tamim Iqbal: 95 (100b, 9x4, 1x6)\n  Mahmudullah: 62 (62b, 6x4, 1x6)\n  Mushfiqur Rahim: 60 (42b, 6x4, 2x6)\n  JH Davey: 2/68 (10.0 ov)\nBangladesh won by 6 wickets.\nPlayer of the Match: KJ Coetzer."
+}

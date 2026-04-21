@@ -1,0 +1,374 @@
+{
+  "match_id": "aeb1d8b570fc",
+  "world_cup_year": 2007,
+  "stage": "Group D",
+  "venue": "Sabina Park, Kingston",
+  "city": "Jamaica",
+  "date": "2007-03-15",
+  "teams": {
+    "team1": "Ireland",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Zimbabwe",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Trent Johnston",
+    "team2": "Prosper Utseya"
+  },
+  "player_of_match": "JP Bray",
+  "innings": [
+    {
+      "team": "Ireland",
+      "runs": 221,
+      "wickets": 9,
+      "overs": 49.5,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "JP Bray",
+          "runs": 115,
+          "balls": 137,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 83.94,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AR White",
+          "runs": 28,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 21,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DT Johnston",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "D Langford-Smith",
+          "runs": 15,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "E Chigumbura",
+          "overs": "5.5",
+          "maidens": 2,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "GB Brent",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CB Mpofu",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 5.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SC Williams",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "EC Rainsford",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 6.29,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 44,
+          "wickets": 3,
+          "overs": "10.4"
+        },
+        {
+          "player": "AC Botha",
+          "runs": 64,
+          "wickets": 4,
+          "overs": "14.2"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 89,
+          "wickets": 5,
+          "overs": "21.5"
+        },
+        {
+          "player": "AR White",
+          "runs": 145,
+          "wickets": 6,
+          "overs": "37.2"
+        },
+        {
+          "player": "DT Johnston",
+          "runs": 182,
+          "wickets": 7,
+          "overs": "43.5"
+        },
+        {
+          "player": "WK McCallan",
+          "runs": 182,
+          "wickets": 8,
+          "overs": "44.2"
+        },
+        {
+          "player": "D Langford-Smith",
+          "runs": 221,
+          "wickets": 9,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 221,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "S Matsikenyeri",
+          "runs": 73,
+          "balls": 76,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 96.05,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Sibanda",
+          "runs": 67,
+          "balls": 84,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 79.76,
+          "out": true,
+          "dismissal": "hit wicket"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 24,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SC Williams",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "T Duffin",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WK McCallan",
+          "overs": "8.5",
+          "maidens": 1,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 6.34,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AC Botha",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "2.0",
+          "maidens": 1,
+          "runs_conceded": 8,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AR White",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "T Duffin",
+          "runs": 26,
+          "wickets": 1,
+          "overs": "5.6"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 92,
+          "wickets": 2,
+          "overs": "20.5"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 107,
+          "wickets": 3,
+          "overs": "23.2"
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 128,
+          "wickets": 4,
+          "overs": "28.1"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 133,
+          "wickets": 5,
+          "overs": "29.6"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 203,
+          "wickets": 6,
+          "overs": "43.3"
+        },
+        {
+          "player": "GB Brent",
+          "runs": 212,
+          "wickets": 7,
+          "overs": "47.2"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 213,
+          "wickets": 8,
+          "overs": "48.6"
+        },
+        {
+          "player": "CB Mpofu",
+          "runs": 213,
+          "wickets": 9,
+          "overs": "48.5"
+        },
+        {
+          "player": "EC Rainsford",
+          "runs": 221,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_d_ireland_vs_zimbabwe.json",
+  "match_summary": "2007 World Cup Group D: Ireland vs Zimbabwe (2007-03-15) at Jamaica.\nIreland: 221/9 (49.5 ov)\n  JP Bray: 115* (137b, 10x4, 2x6)\n  E Chigumbura: 2/21 (5.5 ov)\n  GB Brent: 2/40 (10.0 ov)\n  CB Mpofu: 2/58 (10.0 ov)\nZimbabwe: 221 all out (49.5 ov)\n  S Matsikenyeri: 73* (76b, 9x4, 1x6)\n  V Sibanda: 67 (84b, 9x4, 0x6)\n  WK McCallan: 2/56 (8.5 ov)\nZimbabwe won by 23 runs.\nPlayer of the Match: JP Bray."
+}

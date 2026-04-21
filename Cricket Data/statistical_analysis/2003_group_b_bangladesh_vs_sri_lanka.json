@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "fc0a507d538e",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Pietermaritzburg",
+    "city": "",
+    "date": "2003-02-14",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "10 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Khaled Mashud",
+      "team2": "Sanath Jayasuriya"
+    },
+    "player_of_match": "WPUJC Vaas",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2003 World Cup Group B: Bangladesh vs Sri Lanka (2003-02-14) at Pietermaritzburg.\nBangladesh: 124/7 (50 ov)\nSri Lanka: 126/0 (20 ov)\nSri Lanka won by 10 wickets.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 250,
+    "total_wickets_fallen": 7,
+    "average_run_rate": 4.39,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 124,
+      "total_wickets": 7,
+      "total_overs": 50,
+      "run_rate": 2.48,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 126,
+      "total_wickets": 0,
+      "total_overs": 20,
+      "run_rate": 6.3,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Bangladesh scored 124 in 50 overs at 2.48 RPO",
+    "vs Sri Lanka scored 126 in 20 overs at 6.3 RPO"
+  ]
+}

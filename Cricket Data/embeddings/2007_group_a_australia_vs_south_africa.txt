@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2007
+Match: Australia vs South Africa
+Stage: Group A
+Date: 2007-03-24
+Venue: Warner Park, Basseterre, St Kitts
+Captain Australia: Ricky Ponting
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Group A: Australia vs South Africa (2007-03-24) at St Kitts.
+
+Australia: 377/6 (50.0 ov)
+  ML Hayden: 101 (68b, 14x4, 4x6, SR 148.53)
+  MJ Clarke: 92 (75b, 7x4, 4x6, SR 122.67)
+  RT Ponting: 91 (91b, 8x4, 2x6, SR 100.0)
+  AC Gilchrist: 42 (42b, 6x4, 1x6, SR 100.0)
+  A Symonds: 18 (13b, 2x4, 0x6, SR 138.46)
+  AJ Hall: 2/60 (10.0 ov, Econ 6.0)
+  JH Kallis: 1/66 (9.0 ov, Econ 7.33)
+  M Ntini: 1/68 (9.0 ov, Econ 7.56)
+  CK Langeveldt: 1/82 (10.0 ov, Econ 8.2)
+  GC Smith: 0/14 (2.0 ov, Econ 7.0)
+  Extras: 14
+
+South Africa: 294 all out (48.0 ov)
+  AB de Villiers: 92 (70b, 14x4, 2x6, SR 131.43)
+  GC Smith: 74 (69b, 9x4, 2x6, SR 107.25)
+  JH Kallis: 48 (63b, 5x4, 0x6, SR 76.19)
+  MV Boucher: 22 (26b, 1x4, 1x6, SR 84.62)
+  HH Gibbs: 17 (19b, 1x4, 1x6, SR 89.47)
+  GB Hogg: 3/61 (10.0 ov, Econ 6.1)
+  NW Bracken: 2/40 (9.0 ov, Econ 4.44)
+  SW Tait: 2/61 (10.0 ov, Econ 6.1)
+  SR Watson: 1/51 (8.0 ov, Econ 6.38)
+  GD McGrath: 1/62 (9.0 ov, Econ 6.89)
+  Extras: 17
+
+Batting Highlights:
+  Century: ML Hayden scored 101 off 68 balls (SR 148.53, 14 fours, 4 sixes)
+  Half-century: MJ Clarke scored 92 off 75 balls (SR 122.67)
+  Half-century: RT Ponting scored 91 off 91 balls (SR 100.0)
+  Half-century: AB de Villiers scored 92 off 70 balls (SR 131.43)
+  Half-century: GC Smith scored 74 off 69 balls (SR 107.25)
+
+Bowling Highlights:
+  Key spell: GB Hogg took 3/61
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 91 off 91 balls
+  Graeme Smith (South Africa): scored 74 off 69 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  South Africa lost 10 early wickets.
+  Australia scored aggressively in the powerplay (77 runs at 7.7 RPO).
+  South Africa scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: Australia won by 83 runs
+Toss: South Africa won and chose to field
+Player of the Match: ML Hayden

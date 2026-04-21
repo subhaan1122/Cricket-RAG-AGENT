@@ -1,0 +1,797 @@
+{
+  "match_info": {
+    "match_id": "d7655b7a2628",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "date": "2023-10-20",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "62 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Pat Cummins",
+      "team2": "Babar Azam"
+    },
+    "player_of_match": "DA Warner",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Australia vs Pakistan (2023-10-20) at Bengaluru.\nAustralia: 367/9 (50.0 ov)\n  DA Warner: 163 (124b, 14x4, 9x6)\n  MR Marsh: 121 (108b, 10x4, 9x6)\n  Shaheen Shah Afridi: 5/54 (10.0 ov)\n  Haris Rauf: 3/83 (8.0 ov)\nPakistan: 305 all out (45.3 ov)\n  Imam-ul-Haq: 70 (71b, 10x4, 0x6)\n  Abdullah Shafique: 64 (61b, 7x4, 2x6)\n  Mohammad Rizwan: 46 (40b, 5x4, 0x6)\n  A Zampa: 4/53 (10.0 ov)\n  MP Stoinis: 2/40 (5.0 ov)\n  PJ Cummins: 2/62 (7.3 ov)\nAustralia won by 62 runs.\nPlayer of the Match: DA Warner.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 672,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 7.06,
+    "highest_individual_score": 163,
+    "best_bowling_figures": "5/54",
+    "total_sixes": 24,
+    "total_fours": 56
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 367,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 7.34,
+      "top_batters": [
+        {
+          "name": "DA Warner",
+          "runs": 163,
+          "balls": 124,
+          "fours": 14,
+          "sixes": 9,
+          "strike_rate": 131.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MR Marsh",
+          "runs": 121,
+          "balls": 108,
+          "fours": 10,
+          "sixes": 9,
+          "strike_rate": 112.04,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MP Stoinis",
+          "runs": 21,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 13,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 54,
+          "wickets": 5,
+          "economy": 5.4,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Haris Rauf",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 83,
+          "wickets": 3,
+          "economy": 10.38,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Usama Mir",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 82,
+          "wickets": 1,
+          "economy": 9.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 6.14,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MR Marsh",
+          "runs": 259,
+          "wickets": 1,
+          "overs": "33.5"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 259,
+          "wickets": 2,
+          "overs": "33.6"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 284,
+          "wickets": 3,
+          "overs": "38.1"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 325,
+          "wickets": 4,
+          "overs": "42.2"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 339,
+          "wickets": 5,
+          "overs": "44.2"
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 354,
+          "wickets": 6,
+          "overs": "47.1"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 360,
+          "wickets": 7,
+          "overs": "48.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 363,
+          "wickets": 8,
+          "overs": "49.1"
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 363,
+          "wickets": 9,
+          "overs": "49.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 82,
+        "wickets": 0,
+        "run_rate": 8.2,
+        "fours": 10,
+        "sixes": 4,
+        "dot_balls": 36,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 70,
+        "wickets": 6,
+        "run_rate": 7.0,
+        "fours": 5,
+        "sixes": 3,
+        "dot_balls": 29,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 305,
+      "total_wickets": 10,
+      "total_overs": 45.3,
+      "run_rate": 6.78,
+      "top_batters": [
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 70,
+          "balls": 71,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 98.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Abdullah Shafique",
+          "runs": 64,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 104.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 46,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 115.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Saud Shakeel",
+          "runs": 30,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 96.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "runs": 26,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 130.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 4,
+          "economy": 5.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 8.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "7.3",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 8.27,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 3.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 1,
+          "economy": 8.12,
+          "wides": 6,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 134,
+          "wickets": 1,
+          "overs": "21.1"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 154,
+          "wickets": 2,
+          "overs": "23.4"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 175,
+          "wickets": 3,
+          "overs": "26.2"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 232,
+          "wickets": 4,
+          "overs": "34.2"
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 269,
+          "wickets": 5,
+          "overs": "38.5"
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 274,
+          "wickets": 6,
+          "overs": "40.5"
+        },
+        {
+          "player": "Usama Mir",
+          "runs": 277,
+          "wickets": 7,
+          "overs": "41.5"
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 287,
+          "wickets": 8,
+          "overs": "42.6"
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 301,
+          "wickets": 9,
+          "overs": "44.5"
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 305,
+          "wickets": 10,
+          "overs": "45.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 59,
+        "wickets": 0,
+        "run_rate": 5.9,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "5.3",
+        "balls": 33,
+        "runs": 33,
+        "wickets": 5,
+        "run_rate": 6.0,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 20,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "DA Warner": {
+      "batting": {
+        "runs": 163,
+        "balls": 124,
+        "fours": 14,
+        "sixes": 9,
+        "strike_rate": 131.45
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MR Marsh": {
+      "batting": {
+        "runs": 121,
+        "balls": 108,
+        "fours": 10,
+        "sixes": 9,
+        "strike_rate": 112.04
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MP Stoinis": {
+      "batting": {
+        "runs": 21,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 87.5
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 2,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Inglis": {
+      "batting": {
+        "runs": 13,
+        "balls": 9,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 144.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Labuschagne": {
+      "batting": {
+        "runs": 8,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 5,
+        "economy": 5.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Haris Rauf": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 83,
+        "wickets": 3,
+        "economy": 10.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Usama Mir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 82,
+        "wickets": 1,
+        "economy": 9.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Iftikhar Ahmed": {
+      "batting": {
+        "runs": 26,
+        "balls": 20,
+        "fours": 0,
+        "sixes": 3,
+        "strike_rate": 130.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 4.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Nawaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 0,
+        "economy": 6.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imam-ul-Haq": {
+      "batting": {
+        "runs": 70,
+        "balls": 71,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 98.59
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdullah Shafique": {
+      "batting": {
+        "runs": 64,
+        "balls": 61,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 104.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rizwan": {
+      "batting": {
+        "runs": 46,
+        "balls": 40,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 115.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Saud Shakeel": {
+      "batting": {
+        "runs": 30,
+        "balls": 31,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 96.77
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Zampa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 4,
+        "economy": 5.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.5,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 2,
+        "economy": 8.27
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 1,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 1,
+        "economy": 8.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 367 in 50.0 overs at 7.34 RPO",
+    "vs Pakistan scored 305 in 45.3 overs at 6.78 RPO",
+    "Top batsman: DA Warner with 163 runs",
+    "Top bowler: Shaheen Shah Afridi with 5 wickets"
+  ]
+}

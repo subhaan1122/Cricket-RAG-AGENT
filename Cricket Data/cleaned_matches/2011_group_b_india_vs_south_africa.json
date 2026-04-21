@@ -1,0 +1,362 @@
+{
+  "match_id": "dda1b7553b38",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+  "city": "Nagpur",
+  "date": "2011-03-12",
+  "teams": {
+    "team1": "India",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "DW Steyn",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 296,
+      "wickets": 10,
+      "overs": 48.4,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 111,
+          "balls": 101,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 109.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 73,
+          "balls": 66,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 110.61,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "G Gambhir",
+          "runs": 69,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 12,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 12,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DW Steyn",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 5,
+          "economy": 5.17,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RJ Peterson",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 2,
+          "economy": 5.78,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 5.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "F du Plessis",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 8.43,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 142,
+          "wickets": 1,
+          "overs": "17.4"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 267,
+          "wickets": 2,
+          "overs": "39.4"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 268,
+          "wickets": 3,
+          "overs": "40.1"
+        },
+        {
+          "player": "YK Pathan",
+          "runs": 268,
+          "wickets": 4,
+          "overs": "40.3"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 283,
+          "wickets": 5,
+          "overs": "42.6"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 286,
+          "wickets": 6,
+          "overs": "43.6"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 293,
+          "wickets": 7,
+          "overs": "46.5"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 294,
+          "wickets": 8,
+          "overs": "47.4"
+        },
+        {
+          "player": "A Nehra",
+          "runs": 296,
+          "wickets": 9,
+          "overs": "48.3"
+        },
+        {
+          "player": "MM Patel",
+          "runs": 296,
+          "wickets": 10,
+          "overs": "48.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 300,
+      "wickets": 7,
+      "overs": 49.4,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "JH Kallis",
+          "runs": 69,
+          "balls": 88,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.41,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 61,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 84.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 52,
+          "balls": 39,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 25,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 108.7,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "J Botha",
+          "runs": 23,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 153.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Harbhajan Singh",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 3,
+          "economy": 5.89,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "YK Pathan",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 5.88,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 41,
+          "wickets": 1,
+          "overs": "8.3"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 127,
+          "wickets": 2,
+          "overs": "27.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 173,
+          "wickets": 3,
+          "overs": "35.4"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 223,
+          "wickets": 4,
+          "overs": "40.3"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 238,
+          "wickets": 5,
+          "overs": "42.3"
+        },
+        {
+          "player": "MN van Wyk",
+          "runs": 247,
+          "wickets": 6,
+          "overs": "43.6"
+        },
+        {
+          "player": "J Botha",
+          "runs": 279,
+          "wickets": 7,
+          "overs": "47.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_india_vs_south_africa.json",
+  "match_summary": "2011 World Cup Group B: India vs South Africa (2011-03-12) at Nagpur.\nIndia: 296 all out (48.4 ov)\n  SR Tendulkar: 111 (101b, 8x4, 3x6)\n  V Sehwag: 73 (66b, 12x4, 0x6)\n  G Gambhir: 69 (75b, 7x4, 0x6)\n  DW Steyn: 5/50 (9.4 ov)\n  RJ Peterson: 2/52 (9.0 ov)\nSouth Africa: 300/7 (49.4 ov)\n  JH Kallis: 69 (88b, 4x4, 0x6)\n  HM Amla: 61 (72b, 5x4, 0x6)\n  AB de Villiers: 52 (39b, 6x4, 1x6)\n  Harbhajan Singh: 3/53 (9.0 ov)\n  MM Patel: 2/65 (10.0 ov)\nSouth Africa won by 3 wickets.\nPlayer of the Match: DW Steyn."
+}

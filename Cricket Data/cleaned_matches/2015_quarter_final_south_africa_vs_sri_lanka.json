@@ -1,0 +1,306 @@
+{
+  "match_id": "f686e45d1f7e",
+  "world_cup_year": 2015,
+  "stage": "Quarter-Final",
+  "venue": "Sydney Cricket Ground",
+  "city": "",
+  "date": "2015-03-18",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "AB de Villiers",
+    "team2": "Angelo Mathews"
+  },
+  "player_of_match": "Imran Tahir",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 133,
+      "wickets": 10,
+      "overs": 37.2,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 45,
+          "balls": 96,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "runs": 41,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 85.42,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 19,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SL Malinga",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Imran Tahir",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 4,
+          "economy": 3.12,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 29,
+          "wickets": 3,
+          "economy": 3.22,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 2.57,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 3.86,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "KJ Abbott",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 4,
+          "wickets": 2,
+          "overs": "4.1"
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 69,
+          "wickets": 3,
+          "overs": "19.1"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 81,
+          "wickets": 4,
+          "overs": "23.1"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 114,
+          "wickets": 5,
+          "overs": "32.6"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 115,
+          "wickets": 6,
+          "overs": "33.4"
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 116,
+          "wickets": 7,
+          "overs": "34.1"
+        },
+        {
+          "player": "PHT Kaushal",
+          "runs": 116,
+          "wickets": 8,
+          "overs": "34.2"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 127,
+          "wickets": 9,
+          "overs": "36.2"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 133,
+          "wickets": 10,
+          "overs": "37.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 134,
+      "wickets": 1,
+      "overs": 18.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "Q de Kock",
+          "runs": 78,
+          "balls": 57,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 136.84,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 21,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 67.74,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 16,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 7.17,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "PHT Kaushal",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 4.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 10.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 13.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 40,
+          "wickets": 1,
+          "overs": "6.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_quarter_final_south_africa_vs_sri_lanka.json",
+  "match_summary": "2015 World Cup Quarter-Final: South Africa vs Sri Lanka (2015-03-18) at Sydney Cricket Ground.\nSri Lanka: 133 all out (37.2 ov)\n  KC Sangakkara: 45 (96b, 3x4, 0x6)\n  HDRL Thirimanne: 41 (48b, 5x4, 0x6)\n  Imran Tahir: 4/26 (8.2 ov)\n  JP Duminy: 3/29 (9.0 ov)\nSouth Africa: 134/1 (18.0 ov)\n  Q de Kock: 78* (57b, 11x4, 0x6)\nSouth Africa won by 9 wickets.\nPlayer of the Match: Imran Tahir."
+}

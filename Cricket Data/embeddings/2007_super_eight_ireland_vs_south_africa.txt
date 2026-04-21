@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2007
+Match: Ireland vs South Africa
+Stage: Super Eight
+Date: 2007-04-03
+Venue: Providence Stadium, Guyana
+Captain Ireland: Trent Johnston
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Super Eight: Ireland vs South Africa (2007-04-03) at Guyana.
+
+Ireland: 152/8 (35.0 ov)
+  AR White: 30 (30b, 5x4, 0x6, SR 100.0)
+  EJG Morgan: 28 (50b, 4x4, 0x6, SR 56.0)
+  NJ O'Brien: 25 (37b, 3x4, 0x6, SR 67.57)
+  D Langford-Smith: 17 (10b, 1x4, 1x6, SR 170.0)
+  AC Botha: 14 (20b, 0x4, 0x6, SR 70.0)
+  CK Langeveldt: 3/41 (7.0 ov, Econ 5.86)
+  SM Pollock: 2/17 (7.0 ov, Econ 2.43)
+  AJ Hall: 2/37 (7.0 ov, Econ 5.29)
+  GC Smith: 1/5 (1.0 ov, Econ 5.0)
+  M Ntini: 0/14 (7.0 ov, Econ 2.0)
+  Extras: 8
+
+South Africa: 165/3 (31.3 ov)
+  JH Kallis: 66 (86b, 8x4, 0x6, SR 76.74)
+  AG Prince: 47 (44b, 3x4, 1x6, SR 106.82)
+  GC Smith: 41 (45b, 5x4, 0x6, SR 91.11)
+  HH Gibbs: 6 (15b, 1x4, 0x6, SR 40.0)
+  AB de Villiers: 0 (3b, 0x4, 0x6, SR 0.0)
+  WB Rankin: 2/26 (7.0 ov, Econ 3.71)
+  DT Johnston: 1/15 (3.0 ov, Econ 5.0)
+  AC Botha: 0/18 (6.0 ov, Econ 3.0)
+  AR White: 0/8 (2.0 ov, Econ 4.0)
+  WK McCallan: 0/27 (5.0 ov, Econ 5.4)
+  Extras: 5
+
+Batting Highlights:
+  Half-century: JH Kallis scored 66 off 86 balls (SR 76.74)
+
+Bowling Highlights:
+  Key spell: CK Langeveldt took 3/41
+  Economical spell: SM Pollock conceded 17 runs in 7.0 overs (Econ 2.43)
+  Economical spell: M Ntini conceded 14 runs in 7.0 overs (Econ 2.0)
+  Economical spell: AC Botha conceded 18 runs in 6.0 overs (Econ 3.0)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 41 off 45 balls
+
+Key Moments:
+  Ireland lost 8 early wickets.
+  South Africa lost 3 early wickets.
+
+Result: South Africa won by 7 wickets (D/L)
+Toss: South Africa won and chose to field
+Player of the Match: JH Kallis

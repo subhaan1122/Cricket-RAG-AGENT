@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2007
+Match: Kenya vs New Zealand
+Stage: Group C
+Date: 2007-03-20
+Venue: Beausejour Stadium, Gros Islet, St Lucia
+Captain Kenya: Steve Tikolo
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Group C: Kenya vs New Zealand (2007-03-20) at St Lucia.
+
+New Zealand: 331/7 (50.0 ov)
+  LRPL Taylor: 85 (107b, 8x4, 1x6, SR 79.44)
+  CD McMillan: 71 (48b, 3x4, 5x6, SR 147.92)
+  SB Styris: 63 (62b, 3x4, 3x6, SR 101.61)
+  SP Fleming: 60 (61b, 7x4, 3x6, SR 98.36)
+  DL Vettori: 14 (7b, 2x4, 0x6, SR 200.0)
+  TM Odoyo: 2/55 (10.0 ov, Econ 5.5)
+  PJ Ongondo: 2/64 (10.0 ov, Econ 6.4)
+  SO Tikolo: 1/45 (6.0 ov, Econ 7.5)
+  LN Onyango: 1/63 (8.0 ov, Econ 7.88)
+  HA Varaiya: 0/40 (7.0 ov, Econ 5.71)
+  Extras: 29
+
+Kenya: 183 all out (49.2 ov)
+  RD Shah: 71 (89b, 8x4, 2x6, SR 79.78)
+  TM Odoyo: 42 (67b, 4x4, 1x6, SR 62.69)
+  CO Obuya: 21 (31b, 0x4, 0x6, SR 67.74)
+  JK Kamande: 12 (15b, 0x4, 1x6, SR 80.0)
+  SO Tikolo: 7 (16b, 1x4, 0x6, SR 43.75)
+  JEC Franklin: 2/20 (7.2 ov, Econ 2.73)
+  MJ Mason: 2/29 (9.0 ov, Econ 3.22)
+  DL Vettori: 2/45 (10.0 ov, Econ 4.5)
+  SE Bond: 1/19 (8.0 ov, Econ 2.38)
+  CD McMillan: 0/39 (10.0 ov, Econ 3.9)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: LRPL Taylor scored 85 off 107 balls (SR 79.44)
+  Half-century: CD McMillan scored 71 off 48 balls (SR 147.92)
+  Half-century: SB Styris scored 63 off 62 balls (SR 101.61)
+  Half-century: SP Fleming scored 60 off 61 balls (SR 98.36)
+  Half-century: RD Shah scored 71 off 89 balls (SR 79.78)
+
+Bowling Highlights:
+  Economical spell: JEC Franklin conceded 20 runs in 7.2 overs (Econ 2.73)
+  Economical spell: MJ Mason conceded 29 runs in 9.0 overs (Econ 3.22)
+  Economical spell: SE Bond conceded 19 runs in 8.0 overs (Econ 2.38)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 60 off 61 balls
+  Steve Tikolo (Kenya): scored 7 off 16 balls
+
+Key Moments:
+  New Zealand lost 7 early wickets.
+  Kenya lost 10 early wickets.
+  New Zealand exploded in the death overs (100 runs at 10.0 RPO).
+
+Result: New Zealand won by 148 runs
+Toss: Kenya won and chose to field
+Player of the Match: LRPL Taylor

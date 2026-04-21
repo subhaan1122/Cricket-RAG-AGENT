@@ -1,0 +1,775 @@
+{
+  "match_info": {
+    "match_id": "4f6f618b2e7a",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "date": "2019-06-30",
+    "teams": {
+      "team1": "England",
+      "team2": "India"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "England",
+      "margin": "31 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Eoin Morgan",
+      "team2": "Virat Kohli"
+    },
+    "player_of_match": "JM Bairstow",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: England vs India (2019-06-30) at Birmingham.\nEngland: 337/7 (50.0 ov)\n  JM Bairstow: 111 (109b, 10x4, 6x6)\n  BA Stokes: 79 (54b, 6x4, 3x6)\n  JJ Roy: 66 (57b, 7x4, 2x6)\n  Mohammed Shami: 5/69 (10.0 ov)\nIndia: 306/5 (50.0 ov)\n  RG Sharma: 102 (109b, 15x4, 0x6)\n  V Kohli: 66 (76b, 7x4, 0x6)\n  HH Pandya: 45 (33b, 4x4, 0x6)\n  LE Plunkett: 3/55 (10.0 ov)\n  CR Woakes: 2/58 (10.0 ov)\nEngland won by 31 runs.\nPlayer of the Match: JM Bairstow.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 643,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 6.43,
+    "highest_individual_score": 111,
+    "best_bowling_figures": "5/69",
+    "total_sixes": 14,
+    "total_fours": 60
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 337,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 6.74,
+      "top_batters": [
+        {
+          "name": "JM Bairstow",
+          "runs": 111,
+          "balls": 109,
+          "fours": 10,
+          "sixes": 6,
+          "strike_rate": 101.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BA Stokes",
+          "runs": 79,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 146.3,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JJ Roy",
+          "runs": 66,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 115.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Root",
+          "runs": 44,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 20,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 250.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 69,
+          "wickets": 5,
+          "economy": 6.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "YS Chahal",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 88,
+          "wickets": 0,
+          "economy": 8.8,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JJ Roy",
+          "runs": 160,
+          "wickets": 1,
+          "overs": "22.1"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 205,
+          "wickets": 2,
+          "overs": "31.4"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 207,
+          "wickets": 3,
+          "overs": "33.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 277,
+          "wickets": 4,
+          "overs": "44.1"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 310,
+          "wickets": 5,
+          "overs": "46.6"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 319,
+          "wickets": 6,
+          "overs": "48.1"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 336,
+          "wickets": 7,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 47,
+        "wickets": 0,
+        "run_rate": 4.7,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 92,
+        "wickets": 4,
+        "run_rate": 9.2,
+        "fours": 7,
+        "sixes": 4,
+        "dot_balls": 19,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 306,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 6.12,
+      "top_batters": [
+        {
+          "name": "RG Sharma",
+          "runs": 102,
+          "balls": 109,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 93.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 66,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 86.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HH Pandya",
+          "runs": 45,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 42,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 135.48,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RR Pant",
+          "runs": 32,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 110.34,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LE Plunkett",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 3,
+          "economy": 5.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JC Archer",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 6.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 73,
+          "wickets": 0,
+          "economy": 7.3,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KL Rahul",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 146,
+          "wickets": 2,
+          "overs": "28.2"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 198,
+          "wickets": 3,
+          "overs": "36.1"
+        },
+        {
+          "player": "RR Pant",
+          "runs": 226,
+          "wickets": 4,
+          "overs": "39.1"
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 267,
+          "wickets": 5,
+          "overs": "44.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 1,
+        "run_rate": 2.8,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 72,
+        "wickets": 1,
+        "run_rate": 7.2,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 15,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "JM Bairstow": {
+      "batting": {
+        "runs": 111,
+        "balls": 109,
+        "fours": 10,
+        "sixes": 6,
+        "strike_rate": 101.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Stokes": {
+      "batting": {
+        "runs": 79,
+        "balls": 54,
+        "fours": 6,
+        "sixes": 3,
+        "strike_rate": 146.3
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Roy": {
+      "batting": {
+        "runs": 66,
+        "balls": 57,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 115.79
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JE Root": {
+      "batting": {
+        "runs": 44,
+        "balls": 54,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 81.48
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Buttler": {
+      "batting": {
+        "runs": 20,
+        "balls": 8,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 250.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Shami": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 69,
+        "wickets": 5,
+        "economy": 6.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 72,
+        "wickets": 1,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Pandya": {
+      "batting": {
+        "runs": 45,
+        "balls": 33,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 136.36
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "YS Chahal": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 88,
+        "wickets": 0,
+        "economy": 8.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 102,
+        "balls": 109,
+        "fours": 15,
+        "sixes": 0,
+        "strike_rate": 93.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 66,
+        "balls": 76,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 86.84
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 42,
+        "balls": 31,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 135.48
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Pant": {
+      "batting": {
+        "runs": 32,
+        "balls": 29,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 110.34
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LE Plunkett": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 3,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 2,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Archer": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 0,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AU Rashid": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 0,
+        "economy": 6.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Wood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 73,
+        "wickets": 0,
+        "economy": 7.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 337 in 50.0 overs at 6.74 RPO",
+    "vs India scored 306 in 50.0 overs at 6.12 RPO",
+    "Top batsman: JM Bairstow with 111 runs",
+    "Top bowler: Mohammed Shami with 5 wickets"
+  ]
+}

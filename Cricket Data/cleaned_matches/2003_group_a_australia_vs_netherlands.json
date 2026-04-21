@@ -1,0 +1,54 @@
+{
+  "match_id": "beb62ff21dc9",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "Potchefstroom",
+  "city": "",
+  "date": "2003-02-20",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Netherlands",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "75 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Roland Lefebvre"
+  },
+  "player_of_match": "AC Gilchrist",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 170,
+      "wickets": 2,
+      "overs": 36,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 122,
+      "wickets": 10,
+      "overs": 30.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2003_group_a_australia_vs_netherlands.json",
+  "match_summary": "2003 World Cup Group A: Australia vs Netherlands (2003-02-20) at Potchefstroom.\nAustralia: 170/2 (36 ov)\nNetherlands: 122 all out (30.2 ov)\nAustralia won by 75 runs (D/L)."
+}

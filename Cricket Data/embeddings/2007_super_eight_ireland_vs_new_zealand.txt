@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2007
+Match: Ireland vs New Zealand
+Stage: Super Eight
+Date: 2007-04-09
+Venue: Providence Stadium, Guyana
+Captain Ireland: Trent Johnston
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Super Eight: Ireland vs New Zealand (2007-04-09) at Guyana.
+
+New Zealand: 263/8 (50.0 ov)
+  PG Fulton: 83 (110b, 9x4, 0x6, SR 75.45)
+  BB McCullum: 47 (37b, 2x4, 1x6, SR 127.03)
+  JEC Franklin: 34 (22b, 3x4, 1x6, SR 154.55)
+  CD McMillan: 22 (29b, 1x4, 1x6, SR 75.86)
+  JDP Oram: 20 (48b, 0x4, 0x6, SR 41.67)
+  WK McCallan: 2/35 (10.0 ov, Econ 3.5)
+  D Langford-Smith: 2/41 (10.0 ov, Econ 4.1)
+  AR White: 2/45 (10.0 ov, Econ 4.5)
+  DT Johnston: 1/63 (10.0 ov, Econ 6.3)
+  WB Rankin: 1/55 (8.0 ov, Econ 6.88)
+  Extras: 16
+
+Ireland: 134 all out (37.4 ov)
+  KJ O'Brien: 49 (45b, 2x4, 3x6, SR 108.89)
+  NJ O'Brien: 30 (75b, 2x4, 0x6, SR 40.0)
+  EJG Morgan: 15 (37b, 2x4, 0x6, SR 40.54)
+  DT Johnston: 13 (19b, 1x4, 0x6, SR 68.42)
+  WTS Porterfield: 11 (22b, 0x4, 0x6, SR 50.0)
+  DL Vettori: 4/23 (8.4 ov, Econ 2.65)
+  SE Bond: 2/18 (5.0 ov, Econ 3.6)
+  JS Patel: 2/32 (7.0 ov, Econ 4.57)
+  JDP Oram: 1/15 (6.0 ov, Econ 2.5)
+  JEC Franklin: 0/27 (8.0 ov, Econ 3.38)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: PG Fulton scored 83 off 110 balls (SR 75.45)
+  Quickfire innings: JEC Franklin smashed 34 off 22 balls at SR 154.55
+
+Bowling Highlights:
+  Economical spell: WK McCallan conceded 35 runs in 10.0 overs (Econ 3.5)
+  Match-changing spell: DL Vettori took 4/23
+  Economical spell: JDP Oram conceded 15 runs in 6.0 overs (Econ 2.5)
+  Economical spell: JEC Franklin conceded 27 runs in 8.0 overs (Econ 3.38)
+
+Captain Performance:
+  Trent Johnston (Ireland): scored 13 off 19 balls
+
+Key Moments:
+  New Zealand lost 8 early wickets.
+  Ireland lost 10 early wickets.
+
+Result: New Zealand won by 129 runs
+Toss: New Zealand won and chose to bat
+Player of the Match: PG Fulton

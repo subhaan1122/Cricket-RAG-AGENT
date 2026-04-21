@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2015
+Match: India vs United Arab Emirates
+Stage: Group B
+Date: 2015-02-28
+Venue: Western Australia Cricket Association Ground, Perth
+Captain India: MS Dhoni
+Captain United Arab Emirates: Mohammad Tauqir
+
+Match Summary:
+  2015 World Cup Group B: India vs United Arab Emirates (2015-02-28) at Perth.
+
+United Arab Emirates: 102 all out (31.3 ov)
+  Shaiman Anwar: 35 (49b, 6x4, 0x6, SR 71.43)
+  Khurram Khan: 14 (28b, 1x4, 0x6, SR 50.0)
+  AM Guruge: 10 (16b, 1x4, 0x6, SR 62.5)
+  SP Patil: 7 (19b, 1x4, 0x6, SR 36.84)
+  Mohammad Naveed: 6 (7b, 0x4, 1x6, SR 85.71)
+  R Ashwin: 4/25 (10.0 ov, Econ 2.5)
+  UT Yadav: 2/15 (6.3 ov, Econ 2.31)
+  RA Jadeja: 2/23 (5.0 ov, Econ 4.6)
+  MM Sharma: 1/16 (5.0 ov, Econ 3.2)
+  B Kumar: 1/19 (5.0 ov, Econ 3.8)
+  Extras: 13
+
+India: 104/1 (18.5 ov)
+  RG Sharma: 57 (55b, 10x4, 1x6, SR 103.64)
+  V Kohli: 33 (41b, 5x4, 0x6, SR 80.49)
+  S Dhawan: 14 (17b, 3x4, 0x6, SR 82.35)
+  Mohammad Naveed: 1/35 (5.0 ov, Econ 7.0)
+  AM Guruge: 0/19 (6.0 ov, Econ 3.17)
+  Krishna Chandran: 0/17 (3.0 ov, Econ 5.67)
+  Amjad Javed: 0/12 (2.0 ov, Econ 6.0)
+  Mohammad Tauqir: 0/21 (2.5 ov, Econ 7.41)
+
+Batting Highlights:
+  Half-century: RG Sharma scored 57 off 55 balls (SR 103.64)
+
+Bowling Highlights:
+  Match-changing spell: R Ashwin took 4/25
+  Economical spell: UT Yadav conceded 15 runs in 6.3 overs (Econ 2.31)
+  Economical spell: MM Sharma conceded 16 runs in 5.0 overs (Econ 3.2)
+  Economical spell: AM Guruge conceded 19 runs in 6.0 overs (Econ 3.17)
+
+Captain Performance:
+  India captain: MS Dhoni
+  United Arab Emirates captain: Mohammad Tauqir
+
+Key Moments:
+  United Arab Emirates lost 10 early wickets.
+
+Result: India won by 9 wickets
+Toss: United Arab Emirates won and chose to bat
+Player of the Match: R Ashwin

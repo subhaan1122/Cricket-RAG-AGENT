@@ -1,0 +1,729 @@
+{
+  "match_info": {
+    "match_id": "cad09c54cf7c",
+    "world_cup_year": 2007,
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "date": "2007-04-03",
+    "teams": {
+      "team1": "Ireland",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "South Africa",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "7 wickets",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Trent Johnston",
+      "team2": "Graeme Smith"
+    },
+    "player_of_match": "JH Kallis",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Super Eight: Ireland vs South Africa (2007-04-03) at Guyana.\nIreland: 152/8 (35.0 ov)\n  AR White: 30 (30b, 5x4, 0x6)\n  CK Langeveldt: 3/41 (7.0 ov)\n  SM Pollock: 2/17 (7.0 ov)\n  AJ Hall: 2/37 (7.0 ov)\nSouth Africa: 165/3 (31.3 ov)\n  JH Kallis: 66* (86b, 8x4, 0x6)\n  AG Prince: 47* (44b, 3x4, 1x6)\n  GC Smith: 41 (45b, 5x4, 0x6)\n  WB Rankin: 2/26 (7.0 ov)\nSouth Africa won by 7 wickets (D/L).\nPlayer of the Match: JH Kallis.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 317,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 4.83,
+    "highest_individual_score": 66,
+    "best_bowling_figures": "3/41",
+    "total_sixes": 2,
+    "total_fours": 30
+  },
+  "innings_analysis": [
+    {
+      "team": "Ireland",
+      "total_runs": 152,
+      "total_wickets": 8,
+      "total_overs": 35.0,
+      "run_rate": 4.34,
+      "top_batters": [
+        {
+          "name": "AR White",
+          "runs": 30,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 28,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 25,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "D Langford-Smith",
+          "runs": 17,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 170.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Botha",
+          "runs": 14,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CK Langeveldt",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 5.86,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 17,
+          "wickets": 2,
+          "economy": 2.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Hall",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 2,
+          "economy": 5.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GC Smith",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JP Bray",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "12.3"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 63,
+          "wickets": 3,
+          "overs": "19.5"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 77,
+          "wickets": 4,
+          "overs": "22.5"
+        },
+        {
+          "player": "AR White",
+          "runs": 116,
+          "wickets": 5,
+          "overs": "28.6"
+        },
+        {
+          "player": "AC Botha",
+          "runs": 119,
+          "wickets": 6,
+          "overs": "30.1"
+        },
+        {
+          "player": "WK McCallan",
+          "runs": 124,
+          "wickets": 7,
+          "overs": "31.3"
+        },
+        {
+          "player": "PJK Mooney",
+          "runs": 124,
+          "wickets": 8,
+          "overs": "31.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 19,
+        "wickets": 1,
+        "run_rate": 1.9,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 50,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 165,
+      "total_wickets": 3,
+      "total_overs": 31.3,
+      "run_rate": 5.32,
+      "top_batters": [
+        {
+          "name": "JH Kallis",
+          "runs": 66,
+          "balls": 86,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 76.74,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AG Prince",
+          "runs": 47,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 106.82,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 41,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 91.11,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "HH Gibbs",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WB Rankin",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 2,
+          "economy": 3.71,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AC Botha",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AR White",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WK McCallan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 0,
+          "economy": 5.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AB de Villiers",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 71,
+          "wickets": 2,
+          "overs": "12.1"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 85,
+          "wickets": 3,
+          "overs": "16.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 64,
+        "wickets": 1,
+        "run_rate": 6.4,
+        "fours": 11,
+        "sixes": 0,
+        "dot_balls": 38,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "AR White": {
+      "batting": {
+        "runs": 30,
+        "balls": 30,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "EJG Morgan": {
+      "batting": {
+        "runs": 28,
+        "balls": 50,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 56.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ O'Brien": {
+      "batting": {
+        "runs": 25,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 67.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Langford-Smith": {
+      "batting": {
+        "runs": 17,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 170.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Botha": {
+      "batting": {
+        "runs": 14,
+        "balls": 20,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 70.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CK Langeveldt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 3,
+        "economy": 5.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 2.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Hall": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 2,
+        "economy": 5.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 41,
+        "balls": 45,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 91.11
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 5,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 66,
+        "balls": 86,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 76.74
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AG Prince": {
+      "batting": {
+        "runs": 47,
+        "balls": 44,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 106.82
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Gibbs": {
+      "batting": {
+        "runs": 6,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 40.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB de Villiers": {
+      "batting": {
+        "runs": 0,
+        "balls": 3,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WB Rankin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 2,
+        "economy": 3.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Johnston": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WK McCallan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 0,
+        "economy": 5.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Ireland scored 152 in 35.0 overs at 4.34 RPO",
+    "vs South Africa scored 165 in 31.3 overs at 5.32 RPO",
+    "Top batsman: JH Kallis with 66 runs",
+    "Top bowler: CK Langeveldt with 3 wickets"
+  ]
+}

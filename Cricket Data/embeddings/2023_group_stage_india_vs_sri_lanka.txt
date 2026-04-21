@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: India vs Sri Lanka
+Stage: Group Stage
+Date: 2023-11-02
+Venue: Wankhede Stadium, Mumbai, Mumbai
+Captain India: Rohit Sharma
+Captain Sri Lanka: Kusal Mendis
+
+Match Summary:
+  2023 World Cup Group Stage: India vs Sri Lanka (2023-11-02) at Mumbai.
+
+India: 357/8 (50.0 ov)
+  Shubman Gill: 92 (92b, 11x4, 2x6, SR 100.0)
+  V Kohli: 88 (94b, 11x4, 0x6, SR 93.62)
+  SS Iyer: 82 (56b, 3x4, 6x6, SR 146.43)
+  RA Jadeja: 35 (24b, 1x4, 1x6, SR 145.83)
+  KL Rahul: 21 (19b, 2x4, 0x6, SR 110.53)
+  D Madushanka: 5/80 (10.0 ov, Econ 8.0)
+  PVD Chameera: 1/71 (10.0 ov, Econ 7.1)
+  AD Mathews: 0/11 (3.0 ov, Econ 3.67)
+  MADI Hemantha: 0/52 (8.0 ov, Econ 6.5)
+  M Theekshana: 0/67 (10.0 ov, Econ 6.7)
+  Extras: 20
+
+Sri Lanka: 55 all out (19.4 ov)
+  CAK Rajitha: 14 (17b, 2x4, 0x6, SR 82.35)
+  M Theekshana: 12 (23b, 2x4, 0x6, SR 52.17)
+  AD Mathews: 12 (25b, 1x4, 0x6, SR 48.0)
+  D Madushanka: 5 (6b, 1x4, 0x6, SR 83.33)
+  BKG Mendis: 1 (10b, 0x4, 0x6, SR 10.0)
+  Mohammed Shami: 5/18 (5.0 ov, Econ 3.6)
+  Mohammed Siraj: 3/16 (7.0 ov, Econ 2.29)
+  JJ Bumrah: 1/8 (5.0 ov, Econ 1.6)
+  RA Jadeja: 1/4 (0.4 ov, Econ 6.0)
+  Kuldeep Yadav: 0/3 (2.0 ov, Econ 1.5)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: Shubman Gill scored 92 off 92 balls (SR 100.0)
+  Half-century: V Kohli scored 88 off 94 balls (SR 93.62)
+  Half-century: SS Iyer scored 82 off 56 balls (SR 146.43)
+
+Bowling Highlights:
+  Match-changing spell: D Madushanka took 5/80
+  Match-changing spell: Mohammed Shami took 5/18
+  Key spell: Mohammed Siraj took 3/16
+  Economical spell: JJ Bumrah conceded 8 runs in 5.0 overs (Econ 1.6)
+
+Captain Performance:
+  Kusal Mendis (Sri Lanka): scored 1 off 10 balls
+
+Key Moments:
+  India lost 8 early wickets.
+  Sri Lanka lost 10 early wickets.
+  Sri Lanka lost 6 wickets in the powerplay.
+
+Result: India won by 302 runs
+Toss: Sri Lanka won and chose to field
+Player of the Match: Mohammed Shami

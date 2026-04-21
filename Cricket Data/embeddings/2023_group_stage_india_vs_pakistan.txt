@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2023
+Match: Pakistan vs India
+Stage: Group Stage
+Date: 2023-10-14
+Venue: Narendra Modi Stadium, Ahmedabad, Ahmedabad
+Captain Pakistan: Babar Azam
+Captain India: Rohit Sharma
+
+Match Summary:
+  2023 World Cup Group Stage: Pakistan vs India (2023-10-14) at Ahmedabad.
+
+Pakistan: 191 all out (42.5 ov)
+  Babar Azam: 50 (58b, 7x4, 0x6, SR 86.21)
+  Mohammad Rizwan: 49 (69b, 7x4, 0x6, SR 71.01)
+  Imam-ul-Haq: 36 (38b, 6x4, 0x6, SR 94.74)
+  Abdullah Shafique: 20 (24b, 3x4, 0x6, SR 83.33)
+  Hasan Ali: 12 (19b, 2x4, 0x6, SR 63.16)
+  JJ Bumrah: 2/19 (7.0 ov, Econ 2.71)
+  Kuldeep Yadav: 2/35 (10.0 ov, Econ 3.5)
+  RA Jadeja: 2/38 (9.5 ov, Econ 3.86)
+  HH Pandya: 2/34 (6.0 ov, Econ 5.67)
+  Mohammed Siraj: 2/50 (8.0 ov, Econ 6.25)
+  Extras: 4
+
+India: 192/3 (30.3 ov)
+  RG Sharma: 86 (63b, 6x4, 6x6, SR 136.51)
+  SS Iyer: 53 (62b, 3x4, 2x6, SR 85.48)
+  KL Rahul: 19 (29b, 2x4, 0x6, SR 65.52)
+  Shubman Gill: 16 (11b, 4x4, 0x6, SR 145.45)
+  V Kohli: 16 (18b, 3x4, 0x6, SR 88.89)
+  Shaheen Shah Afridi: 2/36 (6.0 ov, Econ 6.0)
+  Hasan Ali: 1/34 (6.0 ov, Econ 5.67)
+  Mohammad Nawaz: 0/47 (8.3 ov, Econ 5.53)
+  Haris Rauf: 0/43 (6.0 ov, Econ 7.17)
+  Shadab Khan: 0/31 (4.0 ov, Econ 7.75)
+  Extras: 2
+
+Batting Highlights:
+  Half-century: Babar Azam scored 50 off 58 balls (SR 86.21)
+  Half-century: RG Sharma scored 86 off 63 balls (SR 136.51)
+  Half-century: SS Iyer scored 53 off 62 balls (SR 85.48)
+
+Bowling Highlights:
+  Economical spell: JJ Bumrah conceded 19 runs in 7.0 overs (Econ 2.71)
+  Economical spell: Kuldeep Yadav conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Babar Azam (Pakistan): scored 50 off 58 balls
+  Rohit Sharma (India): scored 86 off 63 balls
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  India lost 3 early wickets.
+  India scored aggressively in the powerplay (79 runs at 7.9 RPO).
+
+Result: India won by 7 wickets
+Toss: India won and chose to field
+Player of the Match: JJ Bumrah

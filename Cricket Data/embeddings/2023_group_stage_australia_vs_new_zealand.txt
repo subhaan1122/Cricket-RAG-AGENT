@@ -1,0 +1,64 @@
+ICC Cricket World Cup 2023
+Match: Australia vs New Zealand
+Stage: Group Stage
+Date: 2023-10-28
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala, Dharamsala
+Captain Australia: Pat Cummins
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2023 World Cup Group Stage: Australia vs New Zealand (2023-10-28) at Dharamsala.
+
+Australia: 388 all out (49.2 ov)
+  TM Head: 109 (67b, 10x4, 7x6, SR 162.69)
+  DA Warner: 81 (65b, 5x4, 6x6, SR 124.62)
+  GJ Maxwell: 41 (24b, 5x4, 2x6, SR 170.83)
+  JP Inglis: 38 (28b, 4x4, 1x6, SR 135.71)
+  PJ Cummins: 37 (14b, 2x4, 4x6, SR 264.29)
+  GD Phillips: 3/37 (10.0 ov, Econ 3.7)
+  TA Boult: 3/77 (10.0 ov, Econ 7.7)
+  MJ Santner: 2/80 (10.0 ov, Econ 8.0)
+  MJ Henry: 1/67 (6.2 ov, Econ 10.58)
+  JDS Neesham: 1/32 (2.0 ov, Econ 16.0)
+  Extras: 9
+
+New Zealand: 383/9 (50.0 ov)
+  R Ravindra: 116 (89b, 9x4, 5x6, SR 130.34)
+  JDS Neesham: 58 (39b, 3x4, 3x6, SR 148.72)
+  DJ Mitchell: 54 (51b, 6x4, 1x6, SR 105.88)
+  WA Young: 32 (37b, 4x4, 1x6, SR 86.49)
+  DP Conway: 28 (17b, 6x4, 0x6, SR 164.71)
+  A Zampa: 3/74 (10.0 ov, Econ 7.4)
+  PJ Cummins: 2/66 (10.0 ov, Econ 6.6)
+  JR Hazlewood: 2/70 (9.0 ov, Econ 7.78)
+  GJ Maxwell: 1/62 (10.0 ov, Econ 6.2)
+  MR Marsh: 0/18 (2.0 ov, Econ 9.0)
+  Extras: 26
+
+Batting Highlights:
+  Century: TM Head scored 109 off 67 balls (SR 162.69, 10 fours, 7 sixes)
+  Half-century: DA Warner scored 81 off 65 balls (SR 124.62)
+  Quickfire innings: GJ Maxwell smashed 41 off 24 balls at SR 170.83
+  Century: R Ravindra scored 116 off 89 balls (SR 130.34, 9 fours, 5 sixes)
+  Half-century: JDS Neesham scored 58 off 39 balls (SR 148.72)
+  Half-century: DJ Mitchell scored 54 off 51 balls (SR 105.88)
+  Quickfire innings: DP Conway smashed 28 off 17 balls at SR 164.71
+
+Bowling Highlights:
+  Key spell: GD Phillips took 3/37
+  Key spell: TA Boult took 3/77
+  Key spell: A Zampa took 3/74
+
+Captain Performance:
+  Pat Cummins (Australia): scored 37 off 14 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  New Zealand lost 9 early wickets.
+  Australia scored aggressively in the powerplay (118 runs at 11.8 RPO).
+  Australia exploded in the death overs (96 runs at 10.29 RPO).
+  New Zealand scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: Australia won by 5 runs
+Toss: New Zealand won and chose to field
+Player of the Match: TM Head

@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2015
+Match: Australia vs Sri Lanka
+Stage: Group A
+Date: 2015-03-08
+Venue: Sydney Cricket Ground
+Captain Australia: Michael Clarke
+Captain Sri Lanka: Angelo Mathews
+
+Match Summary:
+  2015 World Cup Group A: Australia vs Sri Lanka (2015-03-08) at Sydney Cricket Ground.
+
+Australia: 376/9 (50.0 ov)
+  GJ Maxwell: 102 (53b, 10x4, 4x6, SR 192.45)
+  SPD Smith: 72 (88b, 7x4, 1x6, SR 81.82)
+  MJ Clarke: 68 (68b, 6x4, 0x6, SR 100.0)
+  SR Watson: 67 (41b, 7x4, 2x6, SR 163.41)
+  BJ Haddin: 25 (9b, 4x4, 1x6, SR 277.78)
+  SL Malinga: 2/59 (10.0 ov, Econ 5.9)
+  NLTC Perera: 2/87 (9.0 ov, Econ 9.67)
+  TM Dilshan: 1/33 (5.0 ov, Econ 6.6)
+  S Prasanna: 1/77 (10.0 ov, Econ 7.7)
+  AD Mathews: 1/59 (7.0 ov, Econ 8.43)
+  Extras: 6
+
+Sri Lanka: 312 all out (46.2 ov)
+  KC Sangakkara: 104 (107b, 11x4, 0x6, SR 97.2)
+  TM Dilshan: 62 (60b, 8x4, 0x6, SR 103.33)
+  LD Chandimal: 52 (24b, 8x4, 1x6, SR 216.67)
+  AD Mathews: 35 (31b, 2x4, 1x6, SR 112.9)
+  DPMD Jayawardene: 19 (22b, 1x4, 0x6, SR 86.36)
+  JP Faulkner: 3/48 (9.0 ov, Econ 5.33)
+  MA Starc: 2/29 (8.2 ov, Econ 3.48)
+  MG Johnson: 2/62 (9.0 ov, Econ 6.89)
+  SR Watson: 1/71 (7.0 ov, Econ 10.14)
+  GJ Maxwell: 0/35 (6.0 ov, Econ 5.83)
+  Extras: 11
+
+Batting Highlights:
+  Century: GJ Maxwell scored 102 off 53 balls (SR 192.45, 10 fours, 4 sixes)
+  Half-century: SPD Smith scored 72 off 88 balls (SR 81.82)
+  Half-century: MJ Clarke scored 68 off 68 balls (SR 100.0)
+  Half-century: SR Watson scored 67 off 41 balls (SR 163.41)
+  Century: KC Sangakkara scored 104 off 107 balls (SR 97.2, 11 fours, 0 sixes)
+  Half-century: TM Dilshan scored 62 off 60 balls (SR 103.33)
+  Half-century: LD Chandimal scored 52 off 24 balls (SR 216.67)
+
+Bowling Highlights:
+  Key spell: JP Faulkner took 3/48
+  Economical spell: MA Starc conceded 29 runs in 8.2 overs (Econ 3.48)
+
+Captain Performance:
+  Michael Clarke (Australia): scored 68 off 68 balls
+  Angelo Mathews (Sri Lanka): scored 35 off 31 balls
+
+Key Moments:
+  Australia lost 9 early wickets.
+  Sri Lanka lost 10 early wickets.
+  Australia exploded in the death overs (123 runs at 12.3 RPO).
+
+Result: Australia won by 64 runs
+Toss: Australia won and chose to bat
+Player of the Match: GJ Maxwell

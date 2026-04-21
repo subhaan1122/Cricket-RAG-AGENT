@@ -1,0 +1,38 @@
+ICC Cricket World Cup 2019 — Tournament Summary
+Host(s): England, Wales
+Format: 10 teams – Round Robin, Semi-finals, Final
+Teams: Afghanistan, Australia, Bangladesh, England, India, New Zealand, Pakistan, South Africa, Sri Lanka, West Indies
+Total Matches: 48
+Winner: England
+Runner-up: New Zealand
+Player of the Tournament: Kane Williamson
+Top Run Scorer: RG Sharma (646 runs)
+Top Wicket Taker: MA Starc (26 wickets)
+Highest Individual Score: DA Warner — 166 vs Bangladesh (Group Stage)
+
+Semi-finalists: Australia, England, India, New Zealand
+Finalists: England, New Zealand
+
+Team Standings:
+  England: P11 W8 L3 (Win% 72.7)
+  India: P9 W7 L2 (Win% 77.8)
+  Australia: P10 W7 L3 (Win% 70.0)
+  New Zealand: P10 W6 L4 (Win% 60.0)
+  Pakistan: P8 W5 L3 (Win% 62.5)
+  Sri Lanka: P7 W3 L4 (Win% 42.9)
+  Bangladesh: P8 W3 L5 (Win% 37.5)
+  South Africa: P8 W3 L5 (Win% 37.5)
+  West Indies: P8 W2 L6 (Win% 25.0)
+  Afghanistan: P9 W0 L9 (Win% 0.0)
+
+Captains:
+  Afghanistan: Gulbadin Naib
+  Australia: Aaron Finch
+  Bangladesh: Mashrafe Mortaza
+  England: Eoin Morgan
+  India: Virat Kohli
+  New Zealand: Kane Williamson
+  Pakistan: Sarfaraz Ahmed
+  South Africa: Faf du Plessis
+  Sri Lanka: Dimuth Karunaratne
+  West Indies: Jason Holder

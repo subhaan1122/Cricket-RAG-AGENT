@@ -1,0 +1,739 @@
+{
+  "match_info": {
+    "match_id": "32b7177d6999",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "date": "2003-03-02",
+    "teams": {
+      "team1": "England",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "2 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Nasser Hussain",
+      "team2": "Ricky Ponting"
+    },
+    "player_of_match": "AJ Bichel",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: England vs Australia (2003-03-02) at Gqeberha.\nEngland: 204/8 (50.0 ov)\n  AJ Stewart: 46 (92b, 1x4, 0x6)\n  A Flintoff: 45 (80b, 3x4, 1x6)\n  ME Trescothick: 37 (36b, 5x4, 1x6)\n  AJ Bichel: 7/20 (10.0 ov)\nAustralia: 208/8 (49.4 ov)\n  MG Bevan: 74* (126b, 6x4, 1x6)\n  DS Lehmann: 37 (62b, 3x4, 0x6)\n  AJ Bichel: 34* (36b, 3x4, 1x6)\n  AR Caddick: 4/35 (9.0 ov)\n  AF Giles: 2/42 (10.0 ov)\nAustralia won by 2 wickets.\nPlayer of the Match: AJ Bichel.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 412,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 4.16,
+    "highest_individual_score": 74,
+    "best_bowling_figures": "7/20",
+    "total_sixes": 5,
+    "total_fours": 31
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 204,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 4.08,
+      "top_batters": [
+        {
+          "name": "AJ Stewart",
+          "runs": 46,
+          "balls": 92,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "A Flintoff",
+          "runs": 45,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ME Trescothick",
+          "runs": 37,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 102.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NV Knight",
+          "runs": 30,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C White",
+          "runs": 16,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AJ Bichel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 7,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DS Lehmann",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 6.44,
+          "wides": 1,
+          "no_balls": 4
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "NV Knight",
+          "runs": 66,
+          "wickets": 1,
+          "overs": "9.5"
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 72,
+          "wickets": 2,
+          "overs": "11.1"
+        },
+        {
+          "player": "N Hussain",
+          "runs": 74,
+          "wickets": 3,
+          "overs": "11.6"
+        },
+        {
+          "player": "ME Trescothick",
+          "runs": 74,
+          "wickets": 4,
+          "overs": "12.2"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 87,
+          "wickets": 5,
+          "overs": "17.5"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 177,
+          "wickets": 6,
+          "overs": "42.3"
+        },
+        {
+          "player": "AJ Stewart",
+          "runs": 180,
+          "wickets": 7,
+          "overs": "44.2"
+        },
+        {
+          "player": "AF Giles",
+          "runs": 187,
+          "wickets": 8,
+          "overs": "46.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 67,
+        "wickets": 1,
+        "run_rate": 6.7,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 36,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 33,
+        "wickets": 3,
+        "run_rate": 3.3,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 35,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 208,
+      "total_wickets": 8,
+      "total_overs": 49.4,
+      "run_rate": 4.24,
+      "top_batters": [
+        {
+          "name": "MG Bevan",
+          "runs": 74,
+          "balls": 126,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 58.73,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DS Lehmann",
+          "runs": 37,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Bichel",
+          "runs": 34,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 94.44,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 22,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 18,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AR Caddick",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.89,
+          "wides": 1,
+          "no_balls": 3
+        },
+        {
+          "name": "AF Giles",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "C White",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 2.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Flintoff",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 2.69,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Vaughan",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "4.2"
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 33,
+          "wickets": 3,
+          "overs": "4.5"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 48,
+          "wickets": 4,
+          "overs": "8.4"
+        },
+        {
+          "player": "DS Lehmann",
+          "runs": 111,
+          "wickets": 5,
+          "overs": "28.2"
+        },
+        {
+          "player": "A Symonds",
+          "runs": 112,
+          "wickets": 6,
+          "overs": "29.5"
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 114,
+          "wickets": 7,
+          "overs": "31.5"
+        },
+        {
+          "player": "B Lee",
+          "runs": 135,
+          "wickets": 8,
+          "overs": "37.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 4,
+        "run_rate": 4.8,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 47,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.4",
+        "balls": 58,
+        "runs": 58,
+        "wickets": 0,
+        "run_rate": 6.0,
+        "fours": 5,
+        "sixes": 1,
+        "dot_balls": 23,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "AJ Stewart": {
+      "batting": {
+        "runs": 46,
+        "balls": 92,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Flintoff": {
+      "batting": {
+        "runs": 45,
+        "balls": 80,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 56.25
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 2.69
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ME Trescothick": {
+      "batting": {
+        "runs": 37,
+        "balls": 36,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 102.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NV Knight": {
+      "batting": {
+        "runs": 30,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 90.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C White": {
+      "batting": {
+        "runs": 16,
+        "balls": 21,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 76.19
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 2.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Bichel": {
+      "batting": {
+        "runs": 34,
+        "balls": 36,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 94.44
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 7,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD McGrath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 1,
+        "economy": 4.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Hogg": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 0,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Lehmann": {
+      "batting": {
+        "runs": 37,
+        "balls": 62,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 59.68
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 0,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 0,
+        "economy": 6.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Bevan": {
+      "batting": {
+        "runs": 74,
+        "balls": 126,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 58.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Gilchrist": {
+      "batting": {
+        "runs": 22,
+        "balls": 18,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 122.22
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 18,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AR Caddick": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 4,
+        "economy": 3.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AF Giles": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MP Vaughan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 204 in 50.0 overs at 4.08 RPO",
+    "vs Australia scored 208 in 49.4 overs at 4.24 RPO",
+    "Top batsman: MG Bevan with 74 runs",
+    "Top bowler: AJ Bichel with 7 wickets"
+  ]
+}

@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2011
+Match: India vs Sri Lanka
+Stage: Final
+Date: 2011-04-02
+Venue: Wankhede Stadium, Mumbai
+Captain India: MS Dhoni
+Captain Sri Lanka: Kumar Sangakkara
+
+Match Summary:
+  2011 World Cup Final: India vs Sri Lanka (2011-04-02) at Mumbai.
+
+Sri Lanka: 274/6 (50.0 ov)
+  DPMD Jayawardene: 103 (88b, 13x4, 0x6, SR 117.05)
+  KC Sangakkara: 48 (67b, 5x4, 0x6, SR 71.64)
+  TM Dilshan: 33 (49b, 3x4, 0x6, SR 67.35)
+  KMDN Kulasekara: 32 (30b, 1x4, 1x6, SR 106.67)
+  NLTC Perera: 22 (9b, 3x4, 1x6, SR 244.44)
+  Yuvraj Singh: 2/49 (10.0 ov, Econ 4.9)
+  Z Khan: 2/60 (10.0 ov, Econ 6.0)
+  Harbhajan Singh: 1/50 (10.0 ov, Econ 5.0)
+  MM Patel: 0/41 (9.0 ov, Econ 4.56)
+  SR Tendulkar: 0/12 (2.0 ov, Econ 6.0)
+  Extras: 12
+
+India: 277/4 (48.2 ov)
+  G Gambhir: 97 (122b, 9x4, 0x6, SR 79.51)
+  MS Dhoni: 91 (79b, 8x4, 2x6, SR 115.19)
+  V Kohli: 35 (49b, 4x4, 0x6, SR 71.43)
+  Yuvraj Singh: 21 (24b, 2x4, 0x6, SR 87.5)
+  SR Tendulkar: 18 (14b, 2x4, 0x6, SR 128.57)
+  SL Malinga: 2/42 (9.0 ov, Econ 4.67)
+  TM Dilshan: 1/27 (5.0 ov, Econ 5.4)
+  NLTC Perera: 1/55 (9.0 ov, Econ 6.11)
+  S Randiv: 0/43 (9.0 ov, Econ 4.78)
+  M Muralitharan: 0/39 (8.0 ov, Econ 4.88)
+  Extras: 15
+
+Batting Highlights:
+  Century: DPMD Jayawardene scored 103 off 88 balls (SR 117.05, 13 fours, 0 sixes)
+  Half-century: G Gambhir scored 97 off 122 balls (SR 79.51)
+  Half-century: MS Dhoni scored 91 off 79 balls (SR 115.19)
+
+Bowling Highlights:
+  Best bowling: Yuvraj Singh with 2/49
+
+Captain Performance:
+  Kumar Sangakkara (Sri Lanka): scored 48 off 67 balls
+  MS Dhoni (India): scored 91 off 79 balls
+
+Key Moments:
+  Sri Lanka lost 6 early wickets.
+  India lost 4 early wickets.
+
+Result: India won by 6 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: MS Dhoni

@@ -1,0 +1,31 @@
+{
+  "match_id": "b6f34bc880e5",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "Gymkhana Club Ground",
+  "city": "Nairobi",
+  "date": "2003-02-21",
+  "teams": {
+    "team1": "Kenya",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "Kenya",
+    "margin": "walkover",
+    "method": "walkover",
+    "result_type": "forfeit"
+  },
+  "captains": {
+    "team1": "Steve Tikolo",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_kenya_vs_new_zealand.json",
+  "match_summary": "2003 World Cup Group B: Kenya vs New Zealand (2003-02-21) at Nairobi.\nKenya won (opposition forfeited due to security concerns)."
+}

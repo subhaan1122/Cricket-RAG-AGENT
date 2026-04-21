@@ -1,0 +1,711 @@
+{
+  "match_info": {
+    "match_id": "7f54d9b160cf",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Bellerive Oval",
+    "city": "Hobart",
+    "date": "2015-03-14",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Scotland"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Michael Clarke",
+      "team2": "Preston Mommsen"
+    },
+    "player_of_match": "MA Starc",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group A: Australia vs Scotland (2015-03-14) at Hobart.\nScotland: 130 all out (25.4 ov)\n  MW Machan: 40 (35b, 6x4, 0x6)\n  MA Starc: 4/14 (4.4 ov)\n  PJ Cummins: 3/42 (7.0 ov)\nAustralia: 133/3 (15.2 ov)\n  MJ Clarke: 47 (47b, 7x4, 2x6)\nAustralia won by 7 wickets.\nPlayer of the Match: MA Starc.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 263,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 7.04,
+    "highest_individual_score": 47,
+    "best_bowling_figures": "4/14",
+    "total_sixes": 6,
+    "total_fours": 39
+  },
+  "innings_analysis": [
+    {
+      "team": "Scotland",
+      "total_runs": 130,
+      "total_wickets": 10,
+      "total_overs": 25.4,
+      "run_rate": 5.2,
+      "top_batters": [
+        {
+          "name": "MW Machan",
+          "runs": 40,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Davey",
+          "runs": 26,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.29,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MA Leask",
+          "runs": 23,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 209.09,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CS MacLeod",
+          "runs": 22,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 115.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MH Cross",
+          "runs": 9,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "4.4",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 4,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KJ Coetzer",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "6.6"
+        },
+        {
+          "player": "PL Mommsen",
+          "runs": 37,
+          "wickets": 3,
+          "overs": "7.3"
+        },
+        {
+          "player": "FRJ Coleman",
+          "runs": 50,
+          "wickets": 4,
+          "overs": "10.1"
+        },
+        {
+          "player": "RD Berrington",
+          "runs": 51,
+          "wickets": 5,
+          "overs": "11.1"
+        },
+        {
+          "player": "MW Machan",
+          "runs": 78,
+          "wickets": 6,
+          "overs": "16.2"
+        },
+        {
+          "player": "MH Cross",
+          "runs": 79,
+          "wickets": 7,
+          "overs": "16.4"
+        },
+        {
+          "player": "RML Taylor",
+          "runs": 95,
+          "wickets": 8,
+          "overs": "20.1"
+        },
+        {
+          "player": "JH Davey",
+          "runs": 130,
+          "wickets": 9,
+          "overs": "25.2"
+        },
+        {
+          "player": "I Wardlaw",
+          "runs": 130,
+          "wickets": 10,
+          "overs": "25.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 49,
+        "wickets": 3,
+        "run_rate": 4.9,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 133,
+      "total_wickets": 3,
+      "total_overs": 15.2,
+      "run_rate": 8.87,
+      "top_batters": [
+        {
+          "name": "MJ Clarke",
+          "runs": 47,
+          "balls": 47,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 24,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 21,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 350.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 20,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Faulkner",
+          "runs": 16,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RML Taylor",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Davey",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 7.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "I Wardlaw",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 11.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Leask",
+          "overs": "0.2",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 21.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 88,
+          "wickets": 2,
+          "overs": "12.6"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 92,
+          "wickets": 3,
+          "overs": "13.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 1,
+        "run_rate": 6.3,
+        "fours": 10,
+        "sixes": 2,
+        "dot_balls": 38,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MW Machan": {
+      "batting": {
+        "runs": 40,
+        "balls": 35,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 114.29
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Davey": {
+      "batting": {
+        "runs": 26,
+        "balls": 35,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 74.29
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 1,
+        "economy": 7.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Leask": {
+      "batting": {
+        "runs": 23,
+        "balls": 11,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 209.09
+      },
+      "bowling": {
+        "overs": 0.3333333333333333,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 0,
+        "economy": 21.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CS MacLeod": {
+      "batting": {
+        "runs": 22,
+        "balls": 19,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 115.79
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MH Cross": {
+      "batting": {
+        "runs": 9,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 45.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.666666666666667,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 4,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 3,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 24,
+        "balls": 23,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 104.35
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Clarke": {
+      "batting": {
+        "runs": 47,
+        "balls": 47,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 21,
+        "balls": 6,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 350.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Finch": {
+      "batting": {
+        "runs": 20,
+        "balls": 10,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 200.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Faulkner": {
+      "batting": {
+        "runs": 16,
+        "balls": 6,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 266.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RML Taylor": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 1,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "I Wardlaw": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 1,
+        "economy": 11.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Scotland scored 130 in 25.4 overs at 5.2 RPO",
+    "vs Australia scored 133 in 15.2 overs at 8.87 RPO",
+    "Top batsman: MJ Clarke with 47 runs",
+    "Top bowler: MA Starc with 4 wickets"
+  ]
+}

@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2003
+Match: Zimbabwe vs Australia
+Stage: Group A
+Date: 2003-02-24
+Venue: Queens Sports Club, Bulawayo, Bulawayo
+Captain Zimbabwe: Heath Streak
+Captain Australia: Ricky Ponting
+
+Match Summary:
+  2003 World Cup Group A: Zimbabwe vs Australia (2003-02-24) at Bulawayo.
+
+Zimbabwe: 246/9 (50.0 ov)
+  A Flower: 62 (91b, 8x4, 0x6, SR 68.13)
+  AM Blignaut: 54 (28b, 8x4, 2x6, SR 192.86)
+  GW Flower: 37 (58b, 4x4, 0x6, SR 63.79)
+  HH Streak: 28 (19b, 1x4, 1x6, SR 147.37)
+  T Taibu: 23 (44b, 1x4, 0x6, SR 52.27)
+  GB Hogg: 3/46 (8.0 ov, Econ 5.75)
+  GD McGrath: 2/24 (9.0 ov, Econ 2.67)
+  JN Gillespie: 2/50 (9.0 ov, Econ 5.56)
+  B Lee: 1/63 (10.0 ov, Econ 6.3)
+  A Symonds: 0/35 (10.0 ov, Econ 3.5)
+  Extras: 14
+
+Australia: 248/3 (47.2 ov)
+  AC Gilchrist: 61 (64b, 8x4, 0x6, SR 95.31)
+  DS Lehmann: 56 (48b, 6x4, 0x6, SR 116.67)
+  DR Martyn: 50 (70b, 2x4, 0x6, SR 71.43)
+  RT Ponting: 38 (63b, 2x4, 0x6, SR 60.32)
+  ML Hayden: 34 (39b, 5x4, 0x6, SR 87.18)
+  DA Marillier: 1/32 (10.0 ov, Econ 3.2)
+  BA Murphy: 1/48 (9.0 ov, Econ 5.33)
+  DT Hondo: 1/49 (8.5 ov, Econ 5.55)
+  AM Blignaut: 0/54 (10.0 ov, Econ 5.4)
+  HH Streak: 0/38 (6.0 ov, Econ 6.33)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: A Flower scored 62 off 91 balls (SR 68.13)
+  Half-century: AM Blignaut scored 54 off 28 balls (SR 192.86)
+  Half-century: AC Gilchrist scored 61 off 64 balls (SR 95.31)
+  Half-century: DS Lehmann scored 56 off 48 balls (SR 116.67)
+  Half-century: DR Martyn scored 50 off 70 balls (SR 71.43)
+
+Bowling Highlights:
+  Key spell: GB Hogg took 3/46
+  Economical spell: GD McGrath conceded 24 runs in 9.0 overs (Econ 2.67)
+  Economical spell: A Symonds conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: DA Marillier conceded 32 runs in 10.0 overs (Econ 3.2)
+
+Captain Performance:
+  Heath Streak (Zimbabwe): scored 28 off 19 balls
+  Ricky Ponting (Australia): scored 38 off 63 balls
+
+Key Moments:
+  Zimbabwe lost 9 early wickets.
+  Australia lost 3 early wickets.
+
+Result: Australia won by 7 wickets
+Toss: Zimbabwe won and chose to bat
+Player of the Match: AM Blignaut

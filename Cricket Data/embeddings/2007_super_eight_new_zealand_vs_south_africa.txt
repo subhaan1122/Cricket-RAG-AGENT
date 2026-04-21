@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: New Zealand vs South Africa
+Stage: Super Eight
+Date: 2007-04-14
+Venue: National Cricket Stadium, St George's, Grenada
+Captain New Zealand: Stephen Fleming
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Super Eight: New Zealand vs South Africa (2007-04-14) at Grenada.
+
+South Africa: 193/7 (50.0 ov)
+  HH Gibbs: 60 (100b, 2x4, 1x6, SR 60.0)
+  AG Prince: 37 (57b, 2x4, 0x6, SR 64.91)
+  JH Kallis: 22 (54b, 1x4, 1x6, SR 40.74)
+  SM Pollock: 21 (26b, 0x4, 1x6, SR 80.77)
+  AJ Hall: 17 (17b, 1x4, 0x6, SR 100.0)
+  CD McMillan: 3/23 (5.0 ov, Econ 4.6)
+  SE Bond: 2/26 (10.0 ov, Econ 2.6)
+  JEC Franklin: 1/16 (7.0 ov, Econ 2.29)
+  DL Vettori: 1/50 (10.0 ov, Econ 5.0)
+  JS Patel: 0/36 (10.0 ov, Econ 3.6)
+  Extras: 11
+
+New Zealand: 196/5 (48.2 ov)
+  SB Styris: 56 (84b, 4x4, 0x6, SR 66.67)
+  SP Fleming: 50 (84b, 6x4, 0x6, SR 59.52)
+  CD McMillan: 38 (55b, 2x4, 1x6, SR 69.09)
+  PG Fulton: 16 (32b, 3x4, 0x6, SR 50.0)
+  LRPL Taylor: 10 (17b, 1x4, 0x6, SR 58.82)
+  A Nel: 2/33 (9.2 ov, Econ 3.54)
+  SM Pollock: 1/30 (10.0 ov, Econ 3.0)
+  M Ntini: 1/42 (10.0 ov, Econ 4.2)
+  RJ Peterson: 1/39 (7.0 ov, Econ 5.57)
+  AJ Hall: 0/32 (8.0 ov, Econ 4.0)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: HH Gibbs scored 60 off 100 balls (SR 60.0)
+  Half-century: SB Styris scored 56 off 84 balls (SR 66.67)
+  Half-century: SP Fleming scored 50 off 84 balls (SR 59.52)
+
+Bowling Highlights:
+  Key spell: CD McMillan took 3/23
+  Economical spell: SE Bond conceded 26 runs in 10.0 overs (Econ 2.6)
+  Economical spell: JEC Franklin conceded 16 runs in 7.0 overs (Econ 2.29)
+  Economical spell: SM Pollock conceded 30 runs in 10.0 overs (Econ 3.0)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 50 off 84 balls
+
+Key Moments:
+  South Africa lost 7 early wickets.
+  New Zealand lost 5 early wickets.
+
+Result: New Zealand won by 5 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: CD McMillan

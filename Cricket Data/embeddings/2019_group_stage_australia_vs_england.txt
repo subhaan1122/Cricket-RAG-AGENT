@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: England vs Australia
+Stage: Group Stage
+Date: 2019-06-25
+Venue: Lord's, London
+Captain England: Eoin Morgan
+Captain Australia: Aaron Finch
+
+Match Summary:
+  2019 World Cup Group Stage: England vs Australia (2019-06-25) at London.
+
+Australia: 285/7 (50.0 ov)
+  AJ Finch: 100 (116b, 11x4, 2x6, SR 86.21)
+  DA Warner: 53 (61b, 6x4, 0x6, SR 86.89)
+  AT Carey: 38 (27b, 5x4, 0x6, SR 140.74)
+  SPD Smith: 38 (34b, 5x4, 0x6, SR 111.76)
+  UT Khawaja: 23 (29b, 1x4, 0x6, SR 79.31)
+  CR Woakes: 2/46 (10.0 ov, Econ 4.6)
+  BA Stokes: 1/29 (6.0 ov, Econ 4.83)
+  JC Archer: 1/56 (9.0 ov, Econ 6.22)
+  MA Wood: 1/59 (9.0 ov, Econ 6.56)
+  MM Ali: 1/42 (6.0 ov, Econ 7.0)
+  Extras: 8
+
+England: 221 all out (44.4 ov)
+  BA Stokes: 89 (115b, 8x4, 2x6, SR 77.39)
+  JM Bairstow: 27 (39b, 5x4, 0x6, SR 69.23)
+  CR Woakes: 26 (34b, 2x4, 0x6, SR 76.47)
+  AU Rashid: 25 (20b, 3x4, 1x6, SR 125.0)
+  JC Buttler: 25 (27b, 2x4, 0x6, SR 92.59)
+  JP Behrendorff: 5/44 (10.0 ov, Econ 4.4)
+  MA Starc: 4/43 (8.4 ov, Econ 4.96)
+  MP Stoinis: 1/29 (7.0 ov, Econ 4.14)
+  NM Lyon: 0/43 (9.0 ov, Econ 4.78)
+  PJ Cummins: 0/41 (8.0 ov, Econ 5.12)
+  Extras: 9
+
+Batting Highlights:
+  Century: AJ Finch scored 100 off 116 balls (SR 86.21, 11 fours, 2 sixes)
+  Half-century: DA Warner scored 53 off 61 balls (SR 86.89)
+  Half-century: BA Stokes scored 89 off 115 balls (SR 77.39)
+
+Bowling Highlights:
+  Match-changing spell: JP Behrendorff took 5/44
+  Match-changing spell: MA Starc took 4/43
+
+Captain Performance:
+  Aaron Finch (Australia): scored 100 off 116 balls
+
+Key Moments:
+  Australia lost 7 early wickets.
+  England lost 10 early wickets.
+  England lost 3 wickets in the powerplay.
+
+Result: Australia won by 64 runs
+Toss: England won and chose to field
+Player of the Match: AJ Finch

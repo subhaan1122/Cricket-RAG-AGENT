@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2019
+Match: Bangladesh vs West Indies
+Stage: Group Stage
+Date: 2019-06-17
+Venue: The Cooper Associates County Ground, Taunton
+Captain Bangladesh: Mashrafe Mortaza
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: Bangladesh vs West Indies (2019-06-17) at Taunton.
+
+West Indies: 321/8 (50.0 ov)
+  SD Hope: 96 (121b, 4x4, 1x6, SR 79.34)
+  E Lewis: 70 (67b, 6x4, 2x6, SR 104.48)
+  SO Hetmyer: 50 (26b, 4x4, 3x6, SR 192.31)
+  JO Holder: 33 (15b, 4x4, 2x6, SR 220.0)
+  N Pooran: 25 (30b, 2x4, 1x6, SR 83.33)
+  Mustafizur Rahman: 3/59 (9.0 ov, Econ 6.56)
+  Mohammad Saifuddin: 3/72 (10.0 ov, Econ 7.2)
+  Shakib Al Hasan: 2/54 (8.0 ov, Econ 6.75)
+  Mashrafe Mortaza: 0/37 (8.0 ov, Econ 4.62)
+  Mosaddek Hossain: 0/36 (6.0 ov, Econ 6.0)
+  Extras: 22
+
+Bangladesh: 322/3 (41.3 ov)
+  Shakib Al Hasan: 124 (99b, 16x4, 0x6, SR 125.25)
+  Liton Das: 94 (69b, 8x4, 4x6, SR 136.23)
+  Tamim Iqbal: 48 (53b, 6x4, 0x6, SR 90.57)
+  Soumya Sarkar: 29 (23b, 2x4, 2x6, SR 126.09)
+  Mushfiqur Rahim: 1 (5b, 0x4, 0x6, SR 20.0)
+  AD Russell: 1/42 (6.0 ov, Econ 7.0)
+  O Thomas: 1/52 (6.0 ov, Econ 8.67)
+  SS Cottrell: 0/65 (10.0 ov, Econ 6.5)
+  JO Holder: 0/62 (9.0 ov, Econ 6.89)
+  ST Gabriel: 0/78 (8.3 ov, Econ 9.18)
+  Extras: 26
+
+Batting Highlights:
+  Half-century: SD Hope scored 96 off 121 balls (SR 79.34)
+  Half-century: E Lewis scored 70 off 67 balls (SR 104.48)
+  Half-century: SO Hetmyer scored 50 off 26 balls (SR 192.31)
+  Quickfire innings: JO Holder smashed 33 off 15 balls at SR 220.0
+  Century: Shakib Al Hasan scored 124 off 99 balls (SR 125.25, 16 fours, 0 sixes)
+  Half-century: Liton Das scored 94 off 69 balls (SR 136.23)
+
+Bowling Highlights:
+  Key spell: Mustafizur Rahman took 3/59
+  Key spell: Mohammad Saifuddin took 3/72
+
+Captain Performance:
+  Jason Holder (West Indies): scored 33 off 15 balls
+
+Key Moments:
+  West Indies lost 8 early wickets.
+  Bangladesh lost 3 early wickets.
+  Bangladesh scored aggressively in the powerplay (70 runs at 7.0 RPO).
+  Bangladesh exploded in the death overs (17 runs at 11.33 RPO).
+
+Result: Bangladesh won by 7 wickets
+Toss: Bangladesh won and chose to field
+Player of the Match: Shakib Al Hasan

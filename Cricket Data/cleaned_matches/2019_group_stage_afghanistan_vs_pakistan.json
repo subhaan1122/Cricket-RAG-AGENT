@@ -1,0 +1,54 @@
+{
+  "match_id": "65d52358f9bf",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Headingley, Leeds",
+  "city": "Leeds",
+  "date": "2019-06-29",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Sarfaraz Ahmed"
+  },
+  "player_of_match": "Imad Wasim",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 227,
+      "wickets": 9,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 230,
+      "wickets": 7,
+      "overs": 49.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_pakistan.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Pakistan (2019-06-29) at Leeds.\nAfghanistan: 227/9 (50 ov)\nPakistan: 230/7 (49.4 ov)\nPakistan won by 3 wickets."
+}

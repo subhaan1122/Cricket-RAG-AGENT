@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: Kenya vs Sri Lanka
+Stage: Group B
+Date: 2003-02-24
+Venue: Gymkhana Club Ground, Nairobi, Nairobi
+Captain Kenya: Steve Tikolo
+Captain Sri Lanka: Sanath Jayasuriya
+
+Match Summary:
+  2003 World Cup Group B: Kenya vs Sri Lanka (2003-02-24) at Nairobi.
+
+Kenya: 210/9 (50.0 ov)
+  KO Otieno: 60 (88b, 8x4, 2x6, SR 68.18)
+  MO Odumbe: 26 (44b, 1x4, 0x6, SR 59.09)
+  HS Modi: 26 (56b, 2x4, 0x6, SR 46.43)
+  PJ Ongondo: 20 (18b, 1x4, 0x6, SR 111.11)
+  CO Obuya: 13 (21b, 1x4, 0x6, SR 61.9)
+  M Muralitharan: 4/28 (10.0 ov, Econ 2.8)
+  WPUJC Vaas: 3/41 (10.0 ov, Econ 4.1)
+  ST Jayasuriya: 1/30 (9.0 ov, Econ 3.33)
+  PA de Silva: 1/23 (5.0 ov, Econ 4.6)
+  RAP Nissanka: 0/29 (7.0 ov, Econ 4.14)
+  Extras: 28
+
+Sri Lanka: 157 all out (44.5 ov)
+  PA de Silva: 41 (53b, 4x4, 1x6, SR 77.36)
+  RP Arnold: 25 (37b, 1x4, 0x6, SR 67.57)
+  MS Atapattu: 23 (38b, 4x4, 0x6, SR 60.53)
+  HP Tillakaratne: 23 (47b, 3x4, 0x6, SR 48.94)
+  M Muralitharan: 10 (21b, 1x4, 0x6, SR 47.62)
+  CO Obuya: 5/24 (10.0 ov, Econ 2.4)
+  SO Tikolo: 2/13 (4.5 ov, Econ 2.69)
+  MA Suji: 1/24 (8.0 ov, Econ 3.0)
+  MO Odumbe: 1/39 (10.0 ov, Econ 3.9)
+  TM Odoyo: 1/33 (7.0 ov, Econ 4.71)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: KO Otieno scored 60 off 88 balls (SR 68.18)
+
+Bowling Highlights:
+  Match-changing spell: M Muralitharan took 4/28
+  Key spell: WPUJC Vaas took 3/41
+  Economical spell: ST Jayasuriya conceded 30 runs in 9.0 overs (Econ 3.33)
+  Match-changing spell: CO Obuya took 5/24
+  Economical spell: MA Suji conceded 24 runs in 8.0 overs (Econ 3.0)
+
+Captain Performance:
+  Kenya captain: Steve Tikolo
+  Sri Lanka captain: Sanath Jayasuriya
+
+Key Moments:
+  Kenya lost 9 early wickets.
+  Sri Lanka lost 10 early wickets.
+
+Result: Kenya won by 53 runs
+Toss: Sri Lanka won and chose to field
+Player of the Match: CO Obuya

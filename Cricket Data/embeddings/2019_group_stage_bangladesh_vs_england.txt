@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: England vs Bangladesh
+Stage: Group Stage
+Date: 2019-06-08
+Venue: Sophia Gardens, Cardiff
+Captain England: Eoin Morgan
+Captain Bangladesh: Mashrafe Mortaza
+
+Match Summary:
+  2019 World Cup Group Stage: England vs Bangladesh (2019-06-08) at Cardiff.
+
+England: 386/6 (50.0 ov)
+  JJ Roy: 153 (121b, 14x4, 5x6, SR 126.45)
+  JC Buttler: 64 (44b, 2x4, 4x6, SR 145.45)
+  JM Bairstow: 51 (50b, 7x4, 0x6, SR 102.0)
+  EJG Morgan: 35 (33b, 1x4, 2x6, SR 106.06)
+  LE Plunkett: 27 (9b, 4x4, 1x6, SR 300.0)
+  Mehedi Hasan Miraz: 2/67 (10.0 ov, Econ 6.7)
+  Mohammad Saifuddin: 2/78 (9.0 ov, Econ 8.67)
+  Mashrafe Mortaza: 1/68 (10.0 ov, Econ 6.8)
+  Mustafizur Rahman: 1/75 (9.0 ov, Econ 8.33)
+  Shakib Al Hasan: 0/71 (10.0 ov, Econ 7.1)
+  Extras: 11
+
+Bangladesh: 280 all out (48.5 ov)
+  Shakib Al Hasan: 121 (119b, 12x4, 1x6, SR 101.68)
+  Mushfiqur Rahim: 44 (50b, 2x4, 0x6, SR 88.0)
+  Mahmudullah: 28 (41b, 1x4, 1x6, SR 68.29)
+  Mosaddek Hossain: 26 (16b, 4x4, 0x6, SR 162.5)
+  Tamim Iqbal: 19 (29b, 1x4, 0x6, SR 65.52)
+  JC Archer: 3/29 (8.5 ov, Econ 3.28)
+  BA Stokes: 3/23 (6.0 ov, Econ 3.83)
+  MA Wood: 2/52 (8.0 ov, Econ 6.5)
+  LE Plunkett: 1/36 (8.0 ov, Econ 4.5)
+  AU Rashid: 1/64 (10.0 ov, Econ 6.4)
+  Extras: 19
+
+Batting Highlights:
+  Century: JJ Roy scored 153 off 121 balls (SR 126.45, 14 fours, 5 sixes)
+  Half-century: JC Buttler scored 64 off 44 balls (SR 145.45)
+  Half-century: JM Bairstow scored 51 off 50 balls (SR 102.0)
+  Century: Shakib Al Hasan scored 121 off 119 balls (SR 101.68, 12 fours, 1 sixes)
+  Quickfire innings: Mosaddek Hossain smashed 26 off 16 balls at SR 162.5
+
+Bowling Highlights:
+  Key spell: JC Archer took 3/29
+  Key spell: BA Stokes took 3/23
+
+Captain Performance:
+  Eoin Morgan (England): scored 35 off 33 balls
+
+Key Moments:
+  England lost 6 early wickets.
+  Bangladesh lost 10 early wickets.
+  England exploded in the death overs (111 runs at 11.1 RPO).
+
+Result: England won by 106 runs
+Toss: Bangladesh won and chose to field
+Player of the Match: JJ Roy

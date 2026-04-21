@@ -1,0 +1,753 @@
+{
+  "match_info": {
+    "match_id": "eb6a008385c6",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "city": "Lucknow",
+    "date": "2023-10-21",
+    "teams": {
+      "team1": "Netherlands",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "5 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Scott Edwards",
+      "team2": "Kusal Mendis"
+    },
+    "player_of_match": "S Samarawickrama",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Netherlands vs Sri Lanka (2023-10-21) at Lucknow.\nNetherlands: 262 all out (49.4 ov)\n  SA Engelbrecht: 70 (82b, 4x4, 1x6)\n  LV van Beek: 59 (75b, 1x4, 1x6)\n  D Madushanka: 4/49 (9.4 ov)\n  CAK Rajitha: 4/50 (9.0 ov)\nSri Lanka: 263/5 (48.2 ov)\n  S Samarawickrama: 91* (107b, 7x4, 0x6)\n  P Nissanka: 54 (52b, 9x4, 0x6)\n  KIC Asalanka: 44 (66b, 2x4, 1x6)\n  A Dutt: 3/44 (10.0 ov)\nSri Lanka won by 5 wickets.\nPlayer of the Match: S Samarawickrama.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 525,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 5.42,
+    "highest_individual_score": 91,
+    "best_bowling_figures": "4/50",
+    "total_sixes": 6,
+    "total_fours": 33
+  },
+  "innings_analysis": [
+    {
+      "team": "Netherlands",
+      "total_runs": 262,
+      "total_wickets": 10,
+      "total_overs": 49.4,
+      "run_rate": 5.35,
+      "top_batters": [
+        {
+          "name": "SA Engelbrecht",
+          "runs": 70,
+          "balls": 82,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 85.37,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "LV van Beek",
+          "runs": 59,
+          "balls": 75,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 78.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CN Ackermann",
+          "runs": 29,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 93.55,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Edwards",
+          "runs": 16,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MP O'Dowd",
+          "runs": 16,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 59.26,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Madushanka",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 4,
+          "economy": 5.07,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "CAK Rajitha",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 4,
+          "economy": 5.56,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 3.25,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MADI Hemantha",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Vikramjit Singh",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 48,
+          "wickets": 2,
+          "overs": "9.6"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 54,
+          "wickets": 3,
+          "overs": "11.6"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 68,
+          "wickets": 4,
+          "overs": "16.5"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 71,
+          "wickets": 5,
+          "overs": "18.4"
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 91,
+          "wickets": 6,
+          "overs": "21.2"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 221,
+          "wickets": 7,
+          "overs": "45.1"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 244,
+          "wickets": 8,
+          "overs": "47.2"
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 252,
+          "wickets": 9,
+          "overs": "48.4"
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 262,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 2,
+        "run_rate": 4.8,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 44,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.4",
+        "balls": 58,
+        "runs": 87,
+        "wickets": 4,
+        "run_rate": 9.0,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 13,
+        "extras": 17
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 263,
+      "total_wickets": 5,
+      "total_overs": 48.2,
+      "run_rate": 5.48,
+      "top_batters": [
+        {
+          "name": "S Samarawickrama",
+          "runs": 91,
+          "balls": 107,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 85.05,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "P Nissanka",
+          "runs": 54,
+          "balls": 52,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 103.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KIC Asalanka",
+          "runs": 44,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 30,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 81.08,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 11,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Dutt",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 3,
+          "economy": 4.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 4.68,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 4.88,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RE van der Merwe",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LV van Beek",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 0,
+          "economy": 5.7,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 18,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 52,
+          "wickets": 2,
+          "overs": "9.3"
+        },
+        {
+          "player": "P Nissanka",
+          "runs": 104,
+          "wickets": 3,
+          "overs": "16.1"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 181,
+          "wickets": 4,
+          "overs": "32.4"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 257,
+          "wickets": 5,
+          "overs": "46.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 56,
+        "wickets": 2,
+        "run_rate": 5.6,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 10
+      },
+      "death_overs_stats": {
+        "overs": "8.2",
+        "balls": 50,
+        "runs": 40,
+        "wickets": 1,
+        "run_rate": 4.8,
+        "fours": 2,
+        "sixes": 2,
+        "dot_balls": 31,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SA Engelbrecht": {
+      "batting": {
+        "runs": 70,
+        "balls": 82,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 85.37
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LV van Beek": {
+      "batting": {
+        "runs": 59,
+        "balls": 75,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 78.67
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 0,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CN Ackermann": {
+      "batting": {
+        "runs": 29,
+        "balls": 31,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 93.55
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 4.68
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SA Edwards": {
+      "batting": {
+        "runs": 16,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MP O'Dowd": {
+      "batting": {
+        "runs": 16,
+        "balls": 27,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 59.26
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Madushanka": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 4,
+        "economy": 5.07
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CAK Rajitha": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 4,
+        "economy": 5.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Theekshana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM de Silva": {
+      "batting": {
+        "runs": 30,
+        "balls": 37,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 81.08
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 0,
+        "economy": 3.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MADI Hemantha": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 0,
+        "economy": 5.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Samarawickrama": {
+      "batting": {
+        "runs": 91,
+        "balls": 107,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 85.05
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Nissanka": {
+      "batting": {
+        "runs": 54,
+        "balls": 52,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 103.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KIC Asalanka": {
+      "batting": {
+        "runs": 44,
+        "balls": 66,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BKG Mendis": {
+      "batting": {
+        "runs": 11,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 64.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Dutt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 3,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA van Meekeren": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RE van der Merwe": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 0,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Netherlands scored 262 in 49.4 overs at 5.35 RPO",
+    "vs Sri Lanka scored 263 in 48.2 overs at 5.48 RPO",
+    "Top batsman: S Samarawickrama with 91 runs",
+    "Top bowler: D Madushanka with 4 wickets"
+  ]
+}

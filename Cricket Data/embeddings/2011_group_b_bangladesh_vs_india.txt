@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2011
+Match: Bangladesh vs India
+Stage: Group B
+Date: 2011-02-19
+Venue: Shere Bangla National Stadium, Mirpur
+Captain Bangladesh: Shakib Al Hasan
+Captain India: MS Dhoni
+
+Match Summary:
+  2011 World Cup Group B: Bangladesh vs India (2011-02-19) at Mirpur.
+
+India: 370/4 (50.0 ov)
+  V Sehwag: 175 (140b, 14x4, 5x6, SR 125.0)
+  V Kohli: 100 (83b, 8x4, 2x6, SR 120.48)
+  G Gambhir: 39 (39b, 3x4, 0x6, SR 100.0)
+  SR Tendulkar: 28 (29b, 4x4, 0x6, SR 96.55)
+  YK Pathan: 8 (10b, 0x4, 0x6, SR 80.0)
+  Shakib Al Hasan: 1/61 (10.0 ov, Econ 6.1)
+  Mahmudullah: 1/49 (7.0 ov, Econ 7.0)
+  Shafiul Islam: 1/69 (7.0 ov, Econ 9.86)
+  Rubel Hossain: 0/60 (10.0 ov, Econ 6.0)
+  Naeem Islam: 0/54 (7.0 ov, Econ 7.71)
+  Extras: 20
+
+Bangladesh: 283/9 (50.0 ov)
+  Tamim Iqbal: 70 (86b, 3x4, 1x6, SR 81.4)
+  Shakib Al Hasan: 55 (50b, 5x4, 0x6, SR 110.0)
+  Junaid Siddique: 37 (52b, 1x4, 1x6, SR 71.15)
+  Imrul Kayes: 34 (29b, 6x4, 0x6, SR 117.24)
+  Raqibul Hasan: 28 (28b, 0x4, 1x6, SR 100.0)
+  MM Patel: 4/48 (10.0 ov, Econ 4.8)
+  Z Khan: 2/40 (10.0 ov, Econ 4.0)
+  Harbhajan Singh: 1/41 (10.0 ov, Econ 4.1)
+  YK Pathan: 1/49 (8.0 ov, Econ 6.12)
+  Yuvraj Singh: 0/42 (7.0 ov, Econ 6.0)
+  Extras: 24
+
+Batting Highlights:
+  Century: V Sehwag scored 175 off 140 balls (SR 125.0, 14 fours, 5 sixes)
+  Century: V Kohli scored 100 off 83 balls (SR 120.48, 8 fours, 2 sixes)
+  Half-century: Tamim Iqbal scored 70 off 86 balls (SR 81.4)
+  Half-century: Shakib Al Hasan scored 55 off 50 balls (SR 110.0)
+
+Bowling Highlights:
+  Match-changing spell: MM Patel took 4/48
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 55 off 50 balls
+
+Key Moments:
+  India lost 4 early wickets.
+  Bangladesh lost 9 early wickets.
+
+Result: India won by 87 runs
+Toss: Bangladesh won and chose to field
+Player of the Match: V Sehwag

@@ -1,0 +1,328 @@
+{
+  "match_id": "7f54d9b160cf",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Bellerive Oval",
+  "city": "Hobart",
+  "date": "2015-03-14",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Scotland"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "Preston Mommsen"
+  },
+  "player_of_match": "MA Starc",
+  "innings": [
+    {
+      "team": "Scotland",
+      "runs": 130,
+      "wickets": 10,
+      "overs": 25.4,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "MW Machan",
+          "runs": 40,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Davey",
+          "runs": 26,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.29,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MA Leask",
+          "runs": 23,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 209.09,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CS MacLeod",
+          "runs": 22,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 115.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MH Cross",
+          "runs": 9,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "4.4",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 4,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KJ Coetzer",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "6.6"
+        },
+        {
+          "player": "PL Mommsen",
+          "runs": 37,
+          "wickets": 3,
+          "overs": "7.3"
+        },
+        {
+          "player": "FRJ Coleman",
+          "runs": 50,
+          "wickets": 4,
+          "overs": "10.1"
+        },
+        {
+          "player": "RD Berrington",
+          "runs": 51,
+          "wickets": 5,
+          "overs": "11.1"
+        },
+        {
+          "player": "MW Machan",
+          "runs": 78,
+          "wickets": 6,
+          "overs": "16.2"
+        },
+        {
+          "player": "MH Cross",
+          "runs": 79,
+          "wickets": 7,
+          "overs": "16.4"
+        },
+        {
+          "player": "RML Taylor",
+          "runs": 95,
+          "wickets": 8,
+          "overs": "20.1"
+        },
+        {
+          "player": "JH Davey",
+          "runs": 130,
+          "wickets": 9,
+          "overs": "25.2"
+        },
+        {
+          "player": "I Wardlaw",
+          "runs": 130,
+          "wickets": 10,
+          "overs": "25.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 133,
+      "wickets": 3,
+      "overs": 15.2,
+      "extras": 5,
+      "top_batters": [
+        {
+          "name": "MJ Clarke",
+          "runs": 47,
+          "balls": 47,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 24,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 21,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 350.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 20,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Faulkner",
+          "runs": 16,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RML Taylor",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Davey",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 7.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "I Wardlaw",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 11.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Leask",
+          "overs": "0.2",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 21.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 88,
+          "wickets": 2,
+          "overs": "12.6"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 92,
+          "wickets": 3,
+          "overs": "13.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_a_australia_vs_scotland.json",
+  "match_summary": "2015 World Cup Group A: Australia vs Scotland (2015-03-14) at Hobart.\nScotland: 130 all out (25.4 ov)\n  MW Machan: 40 (35b, 6x4, 0x6)\n  MA Starc: 4/14 (4.4 ov)\n  PJ Cummins: 3/42 (7.0 ov)\nAustralia: 133/3 (15.2 ov)\n  MJ Clarke: 47 (47b, 7x4, 2x6)\nAustralia won by 7 wickets.\nPlayer of the Match: MA Starc."
+}

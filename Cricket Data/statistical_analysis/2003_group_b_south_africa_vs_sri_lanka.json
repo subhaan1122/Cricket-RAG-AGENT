@@ -1,0 +1,713 @@
+{
+  "match_info": {
+    "match_id": "b0c7fc5bb630",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "date": "2003-03-03",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "1 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sanath Jayasuriya",
+      "team2": "Shaun Pollock"
+    },
+    "player_of_match": "MS Atapattu",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: Sri Lanka vs South Africa (2003-03-03) at Durban.\nSri Lanka: 268/9 (50.0 ov)\n  MS Atapattu: 124 (129b, 17x4, 0x6)\n  PA de Silva: 73 (78b, 6x4, 2x6)\n  JH Kallis: 3/41 (10.0 ov)\n  AJ Hall: 2/62 (10.0 ov)\nSouth Africa: 229/6 (45.0 ov)\n  HH Gibbs: 73 (88b, 7x4, 2x6)\n  MV Boucher: 45* (50b, 2x4, 1x6)\n  GC Smith: 35 (34b, 5x4, 0x6)\n  PA de Silva: 2/36 (8.0 ov)\n  ST Jayasuriya: 2/49 (10.0 ov)\nSouth Africa won by 1 wickets.\nPlayer of the Match: MS Atapattu.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 497,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 5.22,
+    "highest_individual_score": 124,
+    "best_bowling_figures": "3/41",
+    "total_sixes": 5,
+    "total_fours": 42
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 268,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 5.36,
+      "top_batters": [
+        {
+          "name": "MS Atapattu",
+          "runs": 124,
+          "balls": 129,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 96.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PA de Silva",
+          "runs": 73,
+          "balls": 78,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 93.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 16,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "HP Tillakaratne",
+          "runs": 14,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RP Arnold",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JH Kallis",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Hall",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.2,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "M Ntini",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "M Zondeki",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 5.83,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 37,
+          "wickets": 1,
+          "overs": "8.6"
+        },
+        {
+          "player": "HP Tillakaratne",
+          "runs": 77,
+          "wickets": 2,
+          "overs": "17.4"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 90,
+          "wickets": 3,
+          "overs": "22.1"
+        },
+        {
+          "player": "MS Atapattu",
+          "runs": 242,
+          "wickets": 4,
+          "overs": "44.5"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 243,
+          "wickets": 5,
+          "overs": "45.1"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 258,
+          "wickets": 6,
+          "overs": "47.5"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 261,
+          "wickets": 7,
+          "overs": "48.4"
+        },
+        {
+          "player": "M Muralitharan",
+          "runs": 266,
+          "wickets": 8,
+          "overs": "49.2"
+        },
+        {
+          "player": "WPUJC Vaas",
+          "runs": 268,
+          "wickets": 9,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 41,
+        "wickets": 1,
+        "run_rate": 4.1,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 74,
+        "wickets": 6,
+        "run_rate": 7.4,
+        "fours": 5,
+        "sixes": 2,
+        "dot_balls": 23,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 229,
+      "total_wickets": 6,
+      "total_overs": 45.0,
+      "run_rate": 5.09,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 73,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 82.95,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MV Boucher",
+          "runs": 45,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 90.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 35,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 102.94,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SM Pollock",
+          "runs": 25,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 67.57,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PA de Silva",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 1,
+          "economy": 5.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RP Arnold",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PW Gunaratne",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 65,
+          "wickets": 1,
+          "overs": "11.1"
+        },
+        {
+          "player": "G Kirsten",
+          "runs": 91,
+          "wickets": 2,
+          "overs": "17.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 124,
+          "wickets": 3,
+          "overs": "23.3"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 149,
+          "wickets": 4,
+          "overs": "28.6"
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 149,
+          "wickets": 5,
+          "overs": "29.1"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 212,
+          "wickets": 6,
+          "overs": "42.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 60,
+        "wickets": 0,
+        "run_rate": 6.0,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 37,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "5.0",
+        "balls": 30,
+        "runs": 30,
+        "wickets": 1,
+        "run_rate": 6.0,
+        "fours": 1,
+        "sixes": 1,
+        "dot_balls": 16,
+        "extras": 5
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MS Atapattu": {
+      "batting": {
+        "runs": 124,
+        "balls": 129,
+        "fours": 17,
+        "sixes": 0,
+        "strike_rate": 96.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA de Silva": {
+      "batting": {
+        "runs": 73,
+        "balls": 78,
+        "fours": 6,
+        "sixes": 2,
+        "strike_rate": 93.59
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 16,
+        "balls": 30,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 53.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HP Tillakaratne": {
+      "batting": {
+        "runs": 14,
+        "balls": 28,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Arnold": {
+      "batting": {
+        "runs": 8,
+        "balls": 11,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 16,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 84.21
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 3,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Hall": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 2,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 25,
+        "balls": 37,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 67.57
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Zondeki": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 0,
+        "economy": 5.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Gibbs": {
+      "batting": {
+        "runs": 73,
+        "balls": 88,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 82.95
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MV Boucher": {
+      "batting": {
+        "runs": 45,
+        "balls": 50,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 90.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 35,
+        "balls": 34,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 102.94
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 1,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PW Gunaratne": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 4.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 268 in 50.0 overs at 5.36 RPO",
+    "vs South Africa scored 229 in 45.0 overs at 5.09 RPO",
+    "Top batsman: MS Atapattu with 124 runs",
+    "Top bowler: JH Kallis with 3 wickets"
+  ]
+}

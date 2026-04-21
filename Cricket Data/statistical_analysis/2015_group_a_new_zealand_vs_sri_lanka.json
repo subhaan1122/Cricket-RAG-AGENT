@@ -1,0 +1,779 @@
+{
+  "match_info": {
+    "match_id": "c49de50de693",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Hagley Oval",
+    "city": "Christchurch",
+    "date": "2015-02-14",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "98 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Brendon McCullum",
+      "team2": "Angelo Mathews"
+    },
+    "player_of_match": "CJ Anderson",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group A: New Zealand vs Sri Lanka (2015-02-14) at Christchurch.\nNew Zealand: 331/6 (50.0 ov)\n  CJ Anderson: 75 (46b, 8x4, 2x6)\n  BB McCullum: 65 (49b, 9x4, 1x6)\n  KS Williamson: 57 (65b, 5x4, 1x6)\n  BMAJ Mendis: 2/5 (2.0 ov)\n  RAS Lakmal: 2/62 (10.0 ov)\nSri Lanka: 233 all out (46.1 ov)\n  HDRL Thirimanne: 65 (60b, 8x4, 0x6)\n  AD Mathews: 46 (52b, 5x4, 0x6)\n  KC Sangakkara: 39 (38b, 5x4, 0x6)\n  DL Vettori: 2/34 (10.0 ov)\n  TG Southee: 2/43 (10.0 ov)\n  AF Milne: 2/56 (10.0 ov)\nNew Zealand won by 98 runs.\nPlayer of the Match: CJ Anderson.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 564,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 5.85,
+    "highest_individual_score": 75,
+    "best_bowling_figures": "2/64",
+    "total_sixes": 4,
+    "total_fours": 51
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 331,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 6.62,
+      "top_batters": [
+        {
+          "name": "CJ Anderson",
+          "runs": 75,
+          "balls": 46,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 163.04,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 65,
+          "balls": 49,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 132.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 57,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 87.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 49,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.03,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "L Ronchi",
+          "runs": 29,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 152.63,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "BMAJ Mendis",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 2,
+          "economy": 2.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RAS Lakmal",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HMRKB Herath",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.11,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 78,
+          "wickets": 1,
+          "economy": 9.75,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 111,
+          "wickets": 1,
+          "overs": "15.5"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 136,
+          "wickets": 2,
+          "overs": "22.2"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 193,
+          "wickets": 3,
+          "overs": "33.3"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 193,
+          "wickets": 4,
+          "overs": "33.4"
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 258,
+          "wickets": 5,
+          "overs": "43.5"
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 331,
+          "wickets": 6,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 77,
+        "wickets": 0,
+        "run_rate": 7.7,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 33,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 102,
+        "wickets": 2,
+        "run_rate": 10.2,
+        "fours": 12,
+        "sixes": 1,
+        "dot_balls": 10,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 233,
+      "total_wickets": 10,
+      "total_overs": 46.1,
+      "run_rate": 5.07,
+      "top_batters": [
+        {
+          "name": "HDRL Thirimanne",
+          "runs": 65,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 46,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 39,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 102.63,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 24,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "FDM Karunaratne",
+          "runs": 14,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.3,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AF Milne",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 5.6,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "CJ Anderson",
+          "overs": "3.1",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 5.68,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 2,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Dilshan",
+          "runs": 67,
+          "wickets": 1,
+          "overs": "12.6"
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 124,
+          "wickets": 2,
+          "overs": "21.6"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 125,
+          "wickets": 3,
+          "overs": "22.6"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 129,
+          "wickets": 4,
+          "overs": "23.5"
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 163,
+          "wickets": 5,
+          "overs": "31.3"
+        },
+        {
+          "player": "BMAJ Mendis",
+          "runs": 168,
+          "wickets": 6,
+          "overs": "31.6"
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 196,
+          "wickets": 7,
+          "overs": "38.2"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 216,
+          "wickets": 8,
+          "overs": "41.2"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "41.5"
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 233,
+          "wickets": 10,
+          "overs": "46.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 0,
+        "run_rate": 4.6,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 38,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "6.1",
+        "balls": 37,
+        "runs": 24,
+        "wickets": 3,
+        "run_rate": 3.89,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 25,
+        "extras": 4
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "CJ Anderson": {
+      "batting": {
+        "runs": 75,
+        "balls": 46,
+        "fours": 8,
+        "sixes": 2,
+        "strike_rate": 163.04
+      },
+      "bowling": {
+        "overs": 3.1666666666666665,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 5.68
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BB McCullum": {
+      "batting": {
+        "runs": 65,
+        "balls": 49,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 132.65
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 57,
+        "balls": 65,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 87.69
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 49,
+        "balls": 62,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 79.03
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Ronchi": {
+      "batting": {
+        "runs": 29,
+        "balls": 19,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 152.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BMAJ Mendis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 5,
+        "wickets": 2,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RAS Lakmal": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 2,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HMRKB Herath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 1,
+        "economy": 4.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KMDN Kulasekara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 78,
+        "wickets": 1,
+        "economy": 9.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Mathews": {
+      "batting": {
+        "runs": 46,
+        "balls": 52,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 88.46
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 0,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HDRL Thirimanne": {
+      "batting": {
+        "runs": 65,
+        "balls": 60,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 108.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 39,
+        "balls": 38,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 102.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Dilshan": {
+      "batting": {
+        "runs": 24,
+        "balls": 41,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 58.54
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "FDM Karunaratne": {
+      "batting": {
+        "runs": 14,
+        "balls": 21,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TG Southee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AF Milne": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 2,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 2,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 331 in 50.0 overs at 6.62 RPO",
+    "vs Sri Lanka scored 233 in 46.1 overs at 5.07 RPO",
+    "Top batsman: CJ Anderson with 75 runs",
+    "Top bowler: BMAJ Mendis with 2 wickets"
+  ]
+}

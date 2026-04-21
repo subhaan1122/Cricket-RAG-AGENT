@@ -1,0 +1,54 @@
+{
+  "match_id": "5d05b58f1459",
+  "world_cup_year": 2007,
+  "stage": "Group C",
+  "venue": "Warner Park, Basseterre, St Kitts",
+  "city": "St Kitts",
+  "date": "2007-03-14",
+  "teams": {
+    "team1": "Canada",
+    "team2": "Kenya"
+  },
+  "toss": {
+    "winner": "Kenya",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Kenya",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "John Davison",
+    "team2": "Steve Tikolo"
+  },
+  "player_of_match": "SO Tikolo",
+  "innings": [
+    {
+      "team": "Canada",
+      "runs": 199,
+      "wickets": 10,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "runs": 203,
+      "wickets": 3,
+      "overs": 43.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2007_group_c_canada_vs_kenya.json",
+  "match_summary": "2007 World Cup Group C: Canada vs Kenya (2007-03-14) at St Kitts.\nCanada: 199 all out (50 ov)\nKenya: 203/3 (43.2 ov)\nKenya won by 7 wickets. Player of the Match: SO Tikolo."
+}

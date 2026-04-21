@@ -1,0 +1,49 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Bangladesh
+Stage: Super Eight
+Date: 2007-03-31
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain Australia: Ricky Ponting
+Captain Bangladesh: Habibul Bashar
+
+Match Summary:
+  2007 World Cup Super Eight: Australia vs Bangladesh (2007-03-31) at Antigua.
+
+Bangladesh: 104/6 (22.0 ov)
+  Mashrafe Mortaza: 25 (17b, 2x4, 1x6, SR 147.06)
+  Shakib Al Hasan: 25 (36b, 0x4, 1x6, SR 69.44)
+  Habibul Bashar: 24 (43b, 0x4, 0x6, SR 55.81)
+  Aftab Ahmed: 11 (7b, 1x4, 0x6, SR 157.14)
+  Mohammad Ashraful: 6 (8b, 1x4, 0x6, SR 75.0)
+  GD McGrath: 3/16 (5.0 ov, Econ 3.2)
+  NW Bracken: 2/20 (4.0 ov, Econ 5.0)
+  SW Tait: 1/28 (4.0 ov, Econ 7.0)
+  SR Watson: 0/4 (1.4 ov, Econ 2.4)
+  GB Hogg: 0/20 (5.0 ov, Econ 4.0)
+  Extras: 7
+
+Australia: 106/0 (13.5 ov)
+  AC Gilchrist: 59 (44b, 8x4, 1x6, SR 134.09)
+  ML Hayden: 47 (39b, 3x4, 3x6, SR 120.51)
+  Mashrafe Mortaza: 0/20 (4.0 ov, Econ 5.0)
+  Abdur Razzak: 0/15 (3.0 ov, Econ 5.0)
+  Aftab Ahmed: 0/1 (0.1 ov, Econ 6.0)
+  Mohammad Rafique: 0/21 (3.0 ov, Econ 7.0)
+  Tapash Baisya: 0/35 (2.5 ov, Econ 12.35)
+
+Batting Highlights:
+  Half-century: AC Gilchrist scored 59 off 44 balls (SR 134.09)
+
+Bowling Highlights:
+  Key spell: GD McGrath took 3/16
+
+Captain Performance:
+  Habibul Bashar (Bangladesh): scored 24 off 43 balls
+
+Key Moments:
+  Bangladesh lost 6 early wickets.
+  Bangladesh lost 4 wickets in the powerplay.
+
+Result: Australia won by 10 wickets
+Toss: Australia won and chose to field
+Player of the Match: GD McGrath

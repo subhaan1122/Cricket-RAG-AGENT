@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: England vs New Zealand
+Stage: Group C
+Date: 2007-03-16
+Venue: Beausejour Stadium, Gros Islet, St Lucia
+Captain England: Michael Vaughan
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Group C: England vs New Zealand (2007-03-16) at St Lucia.
+
+England: 209/7 (50.0 ov)
+  KP Pietersen: 60 (92b, 4x4, 1x6, SR 65.22)
+  PA Nixon: 42 (41b, 4x4, 0x6, SR 102.44)
+  PD Collingwood: 31 (54b, 2x4, 0x6, SR 57.41)
+  LE Plunkett: 29 (34b, 1x4, 1x6, SR 85.29)
+  MP Vaughan: 26 (52b, 3x4, 0x6, SR 50.0)
+  SE Bond: 2/19 (10.0 ov, Econ 1.9)
+  SB Styris: 2/25 (7.0 ov, Econ 3.57)
+  JEC Franklin: 2/43 (9.0 ov, Econ 4.78)
+  JDP Oram: 1/25 (6.0 ov, Econ 4.17)
+  JS Patel: 0/42 (8.0 ov, Econ 5.25)
+  Extras: 13
+
+New Zealand: 210/4 (41.0 ov)
+  SB Styris: 87 (113b, 9x4, 0x6, SR 76.99)
+  JDP Oram: 63 (83b, 4x4, 1x6, SR 75.9)
+  CD McMillan: 27 (34b, 3x4, 0x6, SR 79.41)
+  SP Fleming: 7 (11b, 1x4, 0x6, SR 63.64)
+  LRPL Taylor: 0 (1b, 0x4, 0x6, SR 0.0)
+  JM Anderson: 2/39 (8.0 ov, Econ 4.88)
+  MS Panesar: 1/47 (10.0 ov, Econ 4.7)
+  LE Plunkett: 1/43 (7.0 ov, Econ 6.14)
+  KP Pietersen: 0/2 (1.0 ov, Econ 2.0)
+  A Flintoff: 0/17 (8.0 ov, Econ 2.12)
+  Extras: 26
+
+Batting Highlights:
+  Half-century: KP Pietersen scored 60 off 92 balls (SR 65.22)
+  Half-century: SB Styris scored 87 off 113 balls (SR 76.99)
+  Half-century: JDP Oram scored 63 off 83 balls (SR 75.9)
+
+Bowling Highlights:
+  Economical spell: SE Bond conceded 19 runs in 10.0 overs (Econ 1.9)
+  Economical spell: A Flintoff conceded 17 runs in 8.0 overs (Econ 2.12)
+
+Captain Performance:
+  Michael Vaughan (England): scored 26 off 52 balls
+  Stephen Fleming (New Zealand): scored 7 off 11 balls
+
+Key Moments:
+  England lost 7 early wickets.
+  New Zealand lost 4 early wickets.
+  New Zealand lost 3 wickets in the powerplay.
+  New Zealand exploded in the death overs (11 runs at 11.0 RPO).
+
+Result: New Zealand won by 6 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: SB Styris

@@ -1,0 +1,719 @@
+{
+  "match_info": {
+    "match_id": "69b35d9f959d",
+    "world_cup_year": 2007,
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "date": "2007-03-20",
+    "teams": {
+      "team1": "Scotland",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "South Africa",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Craig Wright",
+      "team2": "Graeme Smith"
+    },
+    "player_of_match": "GC Smith",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group A: Scotland vs South Africa (2007-03-20) at St Kitts.\nScotland: 186/8 (50.0 ov)\n  DR Brown: 45* (64b, 3x4, 0x6)\n  RR Watson: 31 (50b, 4x4, 0x6)\n  AJ Hall: 3/48 (10.0 ov)\n  CK Langeveldt: 2/48 (10.0 ov)\nSouth Africa: 188/3 (23.2 ov)\n  GC Smith: 91 (65b, 13x4, 1x6)\n  AB de Villiers: 62 (45b, 9x4, 2x6)\n  RM Haq: 2/43 (6.0 ov)\nSouth Africa won by 7 wickets.\nPlayer of the Match: GC Smith.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 374,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 5.95,
+    "highest_individual_score": 91,
+    "best_bowling_figures": "3/48",
+    "total_sixes": 7,
+    "total_fours": 39
+  },
+  "innings_analysis": [
+    {
+      "team": "Scotland",
+      "total_runs": 186,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 3.72,
+      "top_batters": [
+        {
+          "name": "DR Brown",
+          "runs": 45,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.31,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RR Watson",
+          "runs": 31,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DF Watts",
+          "runs": 24,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JAR Blain",
+          "runs": 23,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PJC Hoffmann",
+          "runs": 18,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AJ Hall",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 4.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 4.8,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 2.62,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 2.78,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RM Haq",
+          "runs": 35,
+          "wickets": 1,
+          "overs": "11.2"
+        },
+        {
+          "player": "DF Watts",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "14.1"
+        },
+        {
+          "player": "GM Hamilton",
+          "runs": 63,
+          "wickets": 3,
+          "overs": "19.1"
+        },
+        {
+          "player": "NFI McCallum",
+          "runs": 71,
+          "wickets": 4,
+          "overs": "24.2"
+        },
+        {
+          "player": "RR Watson",
+          "runs": 84,
+          "wickets": 5,
+          "overs": "29.3"
+        },
+        {
+          "player": "CJO Smith",
+          "runs": 113,
+          "wickets": 6,
+          "overs": "38.4"
+        },
+        {
+          "player": "JAR Blain",
+          "runs": 163,
+          "wickets": 7,
+          "overs": "47.4"
+        },
+        {
+          "player": "PJC Hoffmann",
+          "runs": 186,
+          "wickets": 8,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 31,
+        "wickets": 0,
+        "run_rate": 3.1,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 47,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 72,
+        "wickets": 2,
+        "run_rate": 7.2,
+        "fours": 7,
+        "sixes": 2,
+        "dot_balls": 28,
+        "extras": 6
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 188,
+      "total_wickets": 3,
+      "total_overs": 23.2,
+      "run_rate": 8.17,
+      "top_batters": [
+        {
+          "name": "GC Smith",
+          "runs": 91,
+          "balls": 65,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 62,
+          "balls": 45,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 137.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AG Prince",
+          "runs": 21,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.3,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Kemp",
+          "runs": 12,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 171.43,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RM Haq",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 7.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Rogers",
+          "overs": "5.2",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 8.81,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PJC Hoffmann",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JAR Blain",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 8.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JD Nel",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 8.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AB de Villiers",
+          "runs": 134,
+          "wickets": 1,
+          "overs": "15.5"
+        },
+        {
+          "player": "AG Prince",
+          "runs": 162,
+          "wickets": 2,
+          "overs": "20.6"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 178,
+          "wickets": 3,
+          "overs": "22.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 77,
+        "wickets": 0,
+        "run_rate": 7.7,
+        "fours": 14,
+        "sixes": 0,
+        "dot_balls": 29,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "DR Brown": {
+      "batting": {
+        "runs": 45,
+        "balls": 64,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 70.31
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Watson": {
+      "batting": {
+        "runs": 31,
+        "balls": 50,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 62.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DF Watts": {
+      "batting": {
+        "runs": 24,
+        "balls": 44,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JAR Blain": {
+      "batting": {
+        "runs": 23,
+        "balls": 35,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 65.71
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJC Hoffmann": {
+      "batting": {
+        "runs": 18,
+        "balls": 11,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 163.64
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Hall": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 3,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CK Langeveldt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 2,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 2.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 0,
+        "economy": 2.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 91,
+        "balls": 65,
+        "fours": 13,
+        "sixes": 1,
+        "strike_rate": 140.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB de Villiers": {
+      "batting": {
+        "runs": 62,
+        "balls": 45,
+        "fours": 9,
+        "sixes": 2,
+        "strike_rate": 137.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AG Prince": {
+      "batting": {
+        "runs": 21,
+        "balls": 23,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 91.3
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Kemp": {
+      "batting": {
+        "runs": 12,
+        "balls": 7,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 171.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RM Haq": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 7.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GA Rogers": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.333333333333333,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 8.81
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JD Nel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Scotland scored 186 in 50.0 overs at 3.72 RPO",
+    "vs South Africa scored 188 in 23.2 overs at 8.17 RPO",
+    "Top batsman: GC Smith with 91 runs",
+    "Top bowler: AJ Hall with 3 wickets"
+  ]
+}

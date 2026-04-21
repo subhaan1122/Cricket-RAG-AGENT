@@ -1,0 +1,164 @@
+{
+  "match_id": "9f064f337d0a",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-05",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "112 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kumar Sangakkara",
+    "team2": "Ricky Ponting"
+  },
+  "player_of_match": "TM Dilshan",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 146,
+      "wickets": 3,
+      "overs": 32.5,
+      "extras": 6,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 73,
+          "balls": 102,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 71.57,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "TT Samaraweera",
+          "runs": 34,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 23,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 6,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SW Tait",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 5.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 3.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 4.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SPD Smith",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 4.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Dilshan",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 75,
+          "wickets": 3,
+          "overs": "15.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_australia_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Group A: Sri Lanka vs Australia (2011-03-05) at Colombo.\nSri Lanka: 146/3 (32.5 ov)\n  KC Sangakkara: 73* (102b, 7x4, 0x6)\n  TT Samaraweera: 34* (48b, 2x4, 0x6)\nSri Lanka won by 112 runs. Player of the Match: TM Dilshan."
+}

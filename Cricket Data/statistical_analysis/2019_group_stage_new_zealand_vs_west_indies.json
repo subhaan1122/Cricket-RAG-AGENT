@@ -1,0 +1,711 @@
+{
+  "match_info": {
+    "match_id": "e1e661f82ea8",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "date": "2019-06-22",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "West Indies",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "5 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kane Williamson",
+      "team2": "Jason Holder"
+    },
+    "player_of_match": "KS Williamson",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: New Zealand vs West Indies (2019-06-22) at Manchester.\nNew Zealand: 291/8 (50.0 ov)\n  KS Williamson: 148 (154b, 15x4, 1x6)\n  LRPL Taylor: 69 (95b, 7x4, 0x6)\n  SS Cottrell: 4/56 (10.0 ov)\n  CR Brathwaite: 2/58 (6.0 ov)\nWest Indies: 286 all out (49.0 ov)\n  CR Brathwaite: 101 (82b, 9x4, 5x6)\n  CH Gayle: 87 (84b, 8x4, 6x6)\n  SO Hetmyer: 54 (45b, 8x4, 1x6)\n  TA Boult: 4/30 (10.0 ov)\n  LH Ferguson: 3/59 (10.0 ov)\nNew Zealand won by 5 runs.\nPlayer of the Match: KS Williamson.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 577,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 5.83,
+    "highest_individual_score": 148,
+    "best_bowling_figures": "4/56",
+    "total_sixes": 16,
+    "total_fours": 51
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 291,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 5.82,
+      "top_batters": [
+        {
+          "name": "KS Williamson",
+          "runs": 148,
+          "balls": 154,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 96.1,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 69,
+          "balls": 95,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 72.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 28,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 121.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C de Grandhomme",
+          "runs": 16,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "TWM Latham",
+          "runs": 12,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SS Cottrell",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 56,
+          "wickets": 4,
+          "economy": 5.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Brathwaite",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 9.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "O Thomas",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "C Munro",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "0.5"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 167,
+          "wickets": 3,
+          "overs": "34.3"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 210,
+          "wickets": 4,
+          "overs": "41.5"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 251,
+          "wickets": 5,
+          "overs": "46.3"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 270,
+          "wickets": 6,
+          "overs": "48.1"
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 291,
+          "wickets": 7,
+          "overs": "49.5"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 291,
+          "wickets": 8,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 30,
+        "wickets": 2,
+        "run_rate": 3.0,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 92,
+        "wickets": 5,
+        "run_rate": 9.2,
+        "fours": 6,
+        "sixes": 4,
+        "dot_balls": 16,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 286,
+      "total_wickets": 10,
+      "total_overs": 49.0,
+      "run_rate": 5.84,
+      "top_batters": [
+        {
+          "name": "CR Brathwaite",
+          "runs": 101,
+          "balls": 82,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 123.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 87,
+          "balls": 84,
+          "fours": 8,
+          "sixes": 6,
+          "strike_rate": 103.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Hetmyer",
+          "runs": 54,
+          "balls": 45,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SS Cottrell",
+          "runs": 15,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KAJ Roach",
+          "runs": 14,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 45.16,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 4,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 3,
+          "economy": 5.9,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.83,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 8.44,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SD Hope",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "2.4"
+        },
+        {
+          "player": "N Pooran",
+          "runs": 20,
+          "wickets": 2,
+          "overs": "6.2"
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 142,
+          "wickets": 3,
+          "overs": "22.1"
+        },
+        {
+          "player": "JO Holder",
+          "runs": 142,
+          "wickets": 4,
+          "overs": "22.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 152,
+          "wickets": 5,
+          "overs": "23.6"
+        },
+        {
+          "player": "AR Nurse",
+          "runs": 163,
+          "wickets": 6,
+          "overs": "26.2"
+        },
+        {
+          "player": "E Lewis",
+          "runs": 164,
+          "wickets": 7,
+          "overs": "26.5"
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 211,
+          "wickets": 8,
+          "overs": "38.1"
+        },
+        {
+          "player": "SS Cottrell",
+          "runs": 245,
+          "wickets": 9,
+          "overs": "44.6"
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 286,
+          "wickets": 10,
+          "overs": "48.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 59,
+        "wickets": 2,
+        "run_rate": 5.9,
+        "fours": 6,
+        "sixes": 3,
+        "dot_balls": 39,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.0",
+        "balls": 54,
+        "runs": 64,
+        "wickets": 2,
+        "run_rate": 7.11,
+        "fours": 5,
+        "sixes": 4,
+        "dot_balls": 30,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "KS Williamson": {
+      "batting": {
+        "runs": 148,
+        "balls": 154,
+        "fours": 15,
+        "sixes": 1,
+        "strike_rate": 96.1
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LRPL Taylor": {
+      "batting": {
+        "runs": 69,
+        "balls": 95,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 72.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDS Neesham": {
+      "batting": {
+        "runs": 28,
+        "balls": 23,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 121.74
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 5.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C de Grandhomme": {
+      "batting": {
+        "runs": 16,
+        "balls": 6,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 266.67
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TWM Latham": {
+      "batting": {
+        "runs": 12,
+        "balls": 16,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SS Cottrell": {
+      "batting": {
+        "runs": 15,
+        "balls": 26,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 57.69
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 4,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Brathwaite": {
+      "batting": {
+        "runs": 101,
+        "balls": 82,
+        "fours": 9,
+        "sixes": 5,
+        "strike_rate": 123.17
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 2,
+        "economy": 9.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 87,
+        "balls": 84,
+        "fours": 8,
+        "sixes": 6,
+        "strike_rate": 103.57
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KAJ Roach": {
+      "batting": {
+        "runs": 14,
+        "balls": 31,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 45.16
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 0,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "O Thomas": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Hetmyer": {
+      "batting": {
+        "runs": 54,
+        "balls": 45,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 120.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 4,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 3,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 76,
+        "wickets": 1,
+        "economy": 8.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 291 in 50.0 overs at 5.82 RPO",
+    "vs West Indies scored 286 in 49.0 overs at 5.84 RPO",
+    "Top batsman: KS Williamson with 148 runs",
+    "Top bowler: SS Cottrell with 4 wickets"
+  ]
+}

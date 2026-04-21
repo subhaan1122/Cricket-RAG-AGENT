@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2015
+Match: India vs Pakistan
+Stage: Group B
+Date: 2015-02-15
+Venue: Adelaide Oval
+Captain India: MS Dhoni
+Captain Pakistan: Misbah-ul-Haq
+
+Match Summary:
+  2015 World Cup Group B: India vs Pakistan (2015-02-15) at Adelaide Oval.
+
+India: 300/7 (50.0 ov)
+  V Kohli: 107 (126b, 8x4, 0x6, SR 84.92)
+  SK Raina: 74 (56b, 5x4, 3x6, SR 132.14)
+  S Dhawan: 73 (76b, 7x4, 1x6, SR 96.05)
+  MS Dhoni: 18 (13b, 1x4, 1x6, SR 138.46)
+  RG Sharma: 15 (20b, 2x4, 0x6, SR 75.0)
+  Sohail Khan: 5/55 (10.0 ov, Econ 5.5)
+  Wahab Riaz: 1/49 (10.0 ov, Econ 4.9)
+  Mohammad Irfan: 0/58 (10.0 ov, Econ 5.8)
+  Shahid Afridi: 0/50 (8.0 ov, Econ 6.25)
+  Haris Sohail: 0/26 (4.0 ov, Econ 6.5)
+  Extras: 6
+
+Pakistan: 224 all out (47.0 ov)
+  Misbah-ul-Haq: 76 (84b, 9x4, 1x6, SR 90.48)
+  Ahmed Shehzad: 47 (73b, 5x4, 0x6, SR 64.38)
+  Haris Sohail: 36 (48b, 3x4, 0x6, SR 75.0)
+  Shahid Afridi: 22 (22b, 1x4, 1x6, SR 100.0)
+  Yasir Shah: 13 (23b, 1x4, 0x6, SR 56.52)
+  Mohammed Shami: 4/35 (9.0 ov, Econ 3.89)
+  MM Sharma: 2/35 (9.0 ov, Econ 3.89)
+  UT Yadav: 2/50 (10.0 ov, Econ 5.0)
+  R Ashwin: 1/41 (8.0 ov, Econ 5.12)
+  RA Jadeja: 1/56 (10.0 ov, Econ 5.6)
+  Extras: 12
+
+Batting Highlights:
+  Century: V Kohli scored 107 off 126 balls (SR 84.92, 8 fours, 0 sixes)
+  Half-century: SK Raina scored 74 off 56 balls (SR 132.14)
+  Half-century: S Dhawan scored 73 off 76 balls (SR 96.05)
+  Half-century: Misbah-ul-Haq scored 76 off 84 balls (SR 90.48)
+
+Bowling Highlights:
+  Match-changing spell: Sohail Khan took 5/55
+  Match-changing spell: Mohammed Shami took 4/35
+
+Captain Performance:
+  MS Dhoni (India): scored 18 off 13 balls
+  Misbah-ul-Haq (Pakistan): scored 76 off 84 balls
+
+Key Moments:
+  India lost 7 early wickets.
+  Pakistan lost 10 early wickets.
+
+Result: India won by 76 runs
+Toss: India won and chose to bat
+Player of the Match: V Kohli

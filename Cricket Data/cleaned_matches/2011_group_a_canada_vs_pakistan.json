@@ -1,0 +1,380 @@
+{
+  "match_id": "fc38675046f7",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-03",
+  "teams": {
+    "team1": "Canada",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "46 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ashish Bagai",
+    "team2": "Shahid Afridi"
+  },
+  "player_of_match": "Shahid Afridi",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 184,
+      "wickets": 10,
+      "overs": 43.0,
+      "extras": 24,
+      "top_batters": [
+        {
+          "name": "Umar Akmal",
+          "runs": 48,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Misbah-ul-Haq",
+          "runs": 37,
+          "balls": 68,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 20,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 117.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kamran Akmal",
+          "runs": 16,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HS Baidwan",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 4.38,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AS Hansra",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 3.83,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rizwan Cheema",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.12,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Balaji Rao",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "H Osinde",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 3.57,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "3.1"
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 42,
+          "wickets": 2,
+          "overs": "8.5"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 55,
+          "wickets": 3,
+          "overs": "12.5"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 67,
+          "wickets": 4,
+          "overs": "15.3"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 140,
+          "wickets": 5,
+          "overs": "34.6"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 165,
+          "wickets": 6,
+          "overs": "38.2"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 181,
+          "wickets": 7,
+          "overs": "40.5"
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 181,
+          "wickets": 8,
+          "overs": "41.1"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 181,
+          "wickets": 9,
+          "overs": "41.4"
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 184,
+          "wickets": 10,
+          "overs": "42.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Canada",
+      "runs": 138,
+      "wickets": 10,
+      "overs": 42.5,
+      "extras": 23,
+      "top_batters": [
+        {
+          "name": "AS Hansra",
+          "runs": 43,
+          "balls": 75,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 57.33,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "ZE Surkari",
+          "runs": 27,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.3,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 16,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.71,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "TG Gordon",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "R Gunasekera",
+          "runs": 8,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shahid Afridi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 5,
+          "economy": 2.3,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 2.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Umar Gul",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 2.86,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Saeed Ajmal",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.88,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "5.5",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 3.94,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "R Gunasekera",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "NR Kumar",
+          "runs": 16,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 44,
+          "wickets": 3,
+          "overs": "17.1"
+        },
+        {
+          "player": "ZE Surkari",
+          "runs": 104,
+          "wickets": 4,
+          "overs": "33.3"
+        },
+        {
+          "player": "Rizwan Cheema",
+          "runs": 111,
+          "wickets": 5,
+          "overs": "34.6"
+        },
+        {
+          "player": "AS Hansra",
+          "runs": 114,
+          "wickets": 6,
+          "overs": "36.4"
+        },
+        {
+          "player": "HS Baidwan",
+          "runs": 114,
+          "wickets": 7,
+          "overs": "36.5"
+        },
+        {
+          "player": "TG Gordon",
+          "runs": 130,
+          "wickets": 8,
+          "overs": "38.4"
+        },
+        {
+          "player": "WD Balaji Rao",
+          "runs": 134,
+          "wickets": 9,
+          "overs": "41.4"
+        },
+        {
+          "player": "H Osinde",
+          "runs": 138,
+          "wickets": 10,
+          "overs": "42.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_canada_vs_pakistan.json",
+  "match_summary": "2011 World Cup Group A: Canada vs Pakistan (2011-03-03) at Colombo.\nPakistan: 184 all out (43.0 ov)\n  Umar Akmal: 48 (68b, 4x4, 1x6)\n  Misbah-ul-Haq: 37 (68b, 1x4, 0x6)\n  HS Baidwan: 3/35 (8.0 ov)\n  AS Hansra: 2/23 (6.0 ov)\n  Rizwan Cheema: 2/33 (8.0 ov)\nCanada: 138 all out (42.5 ov)\n  AS Hansra: 43 (75b, 4x4, 1x6)\n  Shahid Afridi: 5/23 (10.0 ov)\nPakistan won by 46 runs.\nPlayer of the Match: Shahid Afridi."
+}

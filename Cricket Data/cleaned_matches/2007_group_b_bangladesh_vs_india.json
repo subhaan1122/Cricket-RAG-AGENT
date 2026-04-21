@@ -1,0 +1,350 @@
+{
+  "match_id": "5137a43e8ae8",
+  "world_cup_year": 2007,
+  "stage": "Group B",
+  "venue": "Queen's Park Oval, Port of Spain",
+  "city": "Trinidad",
+  "date": "2007-03-17",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Habibul Bashar",
+    "team2": "Rahul Dravid"
+  },
+  "player_of_match": "Mashrafe Mortaza",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 191,
+      "wickets": 10,
+      "overs": 49.3,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "SC Ganguly",
+          "runs": 66,
+          "balls": 129,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 47,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 81.03,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MM Patel",
+          "runs": 15,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Z Khan",
+          "runs": 15,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "R Dravid",
+          "runs": 14,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "9.3",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 4,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 6
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 3,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Syed Rasel",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 3.1,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "RV Uthappa",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 40,
+          "wickets": 3,
+          "overs": "14.6"
+        },
+        {
+          "player": "R Dravid",
+          "runs": 72,
+          "wickets": 4,
+          "overs": "24.1"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 157,
+          "wickets": 5,
+          "overs": "42.4"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 158,
+          "wickets": 6,
+          "overs": "43.2"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 159,
+          "wickets": 7,
+          "overs": "43.5"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 159,
+          "wickets": 8,
+          "overs": "44.2"
+        },
+        {
+          "player": "AB Agarkar",
+          "runs": 159,
+          "wickets": 9,
+          "overs": "45.1"
+        },
+        {
+          "player": "MM Patel",
+          "runs": 191,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 192,
+      "wickets": 5,
+      "overs": 48.3,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 56,
+          "balls": 107,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 52.34,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 53,
+          "balls": 86,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 61.63,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 51,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 96.23,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 8,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "V Sehwag",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "8.3",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 2,
+          "economy": 4.59,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.56,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "SR Tendulkar",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 2.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shahriar Nafees",
+          "runs": 24,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 69,
+          "wickets": 2,
+          "overs": "13.2"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 79,
+          "wickets": 3,
+          "overs": "15.6"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 163,
+          "wickets": 4,
+          "overs": "38.4"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 175,
+          "wickets": 5,
+          "overs": "42.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_b_bangladesh_vs_india.json",
+  "match_summary": "2007 World Cup Group B: Bangladesh vs India (2007-03-17) at Trinidad.\nIndia: 191 all out (49.3 ov)\n  SC Ganguly: 66 (129b, 5x4, 0x6)\n  Yuvraj Singh: 47 (58b, 3x4, 1x6)\n  Mashrafe Mortaza: 4/38 (9.3 ov)\n  Mohammad Rafique: 3/35 (10.0 ov)\n  Abdur Razzak: 3/38 (10.0 ov)\nBangladesh: 192/5 (48.3 ov)\n  Mushfiqur Rahim: 56* (107b, 3x4, 2x6)\n  Shakib Al Hasan: 53 (86b, 5x4, 1x6)\n  Tamim Iqbal: 51 (53b, 7x4, 2x6)\n  V Sehwag: 2/17 (5.0 ov)\n  MM Patel: 2/39 (8.3 ov)\nBangladesh won by 5 wickets.\nPlayer of the Match: Mashrafe Mortaza."
+}

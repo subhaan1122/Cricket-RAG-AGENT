@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: India vs England
+Stage: Group B
+Date: 2011-02-27
+Venue: M Chinnaswamy Stadium, Bangalore
+Captain India: MS Dhoni
+Captain England: Andrew Strauss
+
+Match Summary:
+  2011 World Cup Group B: India vs England (2011-02-27) at Bangalore.
+
+India: 338 all out (49.5 ov)
+  SR Tendulkar: 120 (115b, 10x4, 5x6, SR 104.35)
+  Yuvraj Singh: 58 (50b, 9x4, 0x6, SR 116.0)
+  G Gambhir: 51 (61b, 5x4, 0x6, SR 83.61)
+  V Sehwag: 35 (26b, 6x4, 0x6, SR 134.62)
+  MS Dhoni: 31 (25b, 3x4, 1x6, SR 124.0)
+  TT Bresnan: 5/48 (10.0 ov, Econ 4.8)
+  MH Yardy: 1/64 (10.0 ov, Econ 6.4)
+  GP Swann: 1/59 (9.0 ov, Econ 6.56)
+  JM Anderson: 1/91 (9.5 ov, Econ 9.25)
+  A Shahzad: 0/53 (8.0 ov, Econ 6.62)
+  Extras: 15
+
+England: 338/8 (50.0 ov)
+  AJ Strauss: 158 (145b, 18x4, 1x6, SR 108.97)
+  IR Bell: 69 (71b, 4x4, 1x6, SR 97.18)
+  KP Pietersen: 31 (22b, 5x4, 0x6, SR 140.91)
+  IJL Trott: 16 (19b, 1x4, 0x6, SR 84.21)
+  GP Swann: 15 (9b, 0x4, 1x6, SR 166.67)
+  Z Khan: 3/64 (10.0 ov, Econ 6.4)
+  MM Patel: 2/70 (10.0 ov, Econ 7.0)
+  PP Chawla: 2/71 (10.0 ov, Econ 7.1)
+  Harbhajan Singh: 1/58 (10.0 ov, Econ 5.8)
+  Yuvraj Singh: 0/46 (7.0 ov, Econ 6.57)
+  Extras: 11
+
+Batting Highlights:
+  Century: SR Tendulkar scored 120 off 115 balls (SR 104.35, 10 fours, 5 sixes)
+  Half-century: Yuvraj Singh scored 58 off 50 balls (SR 116.0)
+  Half-century: G Gambhir scored 51 off 61 balls (SR 83.61)
+  Century: AJ Strauss scored 158 off 145 balls (SR 108.97, 18 fours, 1 sixes)
+  Half-century: IR Bell scored 69 off 71 balls (SR 97.18)
+
+Bowling Highlights:
+  Match-changing spell: TT Bresnan took 5/48
+  Key spell: Z Khan took 3/64
+
+Captain Performance:
+  MS Dhoni (India): scored 31 off 25 balls
+  Andrew Strauss (England): scored 158 off 145 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  England lost 8 early wickets.
+  England scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: India won by 6 runs
+Toss: India won and chose to bat
+Player of the Match: AJ Strauss

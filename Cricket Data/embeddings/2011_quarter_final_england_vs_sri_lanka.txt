@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2011
+Match: Sri Lanka vs England
+Stage: Quarter-Final
+Date: 2011-03-26
+Venue: R Premadasa Stadium, Colombo
+Captain Sri Lanka: Kumar Sangakkara
+Captain England: Andrew Strauss
+
+Match Summary:
+  2011 World Cup Quarter-Final: Sri Lanka vs England (2011-03-26) at Colombo.
+
+England: 229/6 (50.0 ov)
+  IJL Trott: 86 (115b, 2x4, 0x6, SR 74.78)
+  EJG Morgan: 50 (55b, 4x4, 0x6, SR 90.91)
+  RS Bopara: 31 (56b, 1x4, 0x6, SR 55.36)
+  IR Bell: 25 (32b, 3x4, 0x6, SR 78.12)
+  MJ Prior: 22 (19b, 2x4, 0x6, SR 115.79)
+  M Muralitharan: 2/54 (9.0 ov, Econ 6.0)
+  BAW Mendis: 1/34 (10.0 ov, Econ 3.4)
+  AD Mathews: 1/20 (5.0 ov, Econ 4.0)
+  TM Dilshan: 1/25 (6.0 ov, Econ 4.17)
+  SL Malinga: 1/46 (10.0 ov, Econ 4.6)
+  Extras: 9
+
+Sri Lanka: 231/0 (39.3 ov)
+  TM Dilshan: 108 (115b, 10x4, 2x6, SR 93.91)
+  WU Tharanga: 102 (122b, 12x4, 1x6, SR 83.61)
+  LJ Wright: 0/17 (4.0 ov, Econ 4.25)
+  RS Bopara: 0/22 (5.0 ov, Econ 4.4)
+  TT Bresnan: 0/40 (8.0 ov, Econ 5.0)
+  CT Tremlett: 0/38 (7.3 ov, Econ 5.07)
+  JC Tredwell: 0/38 (6.0 ov, Econ 6.33)
+  Extras: 21
+
+Batting Highlights:
+  Half-century: IJL Trott scored 86 off 115 balls (SR 74.78)
+  Half-century: EJG Morgan scored 50 off 55 balls (SR 90.91)
+  Century: TM Dilshan scored 108 off 115 balls (SR 93.91, 10 fours, 2 sixes)
+  Century: WU Tharanga scored 102 off 122 balls (SR 83.61, 12 fours, 1 sixes)
+
+Bowling Highlights:
+  Economical spell: BAW Mendis conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  Sri Lanka captain: Kumar Sangakkara
+  England captain: Andrew Strauss
+
+Key Moments:
+  England lost 6 early wickets.
+
+Result: Sri Lanka won by 10 wickets
+Toss: England won and chose to bat
+Player of the Match: TM Dilshan

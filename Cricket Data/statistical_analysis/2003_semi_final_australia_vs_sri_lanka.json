@@ -1,0 +1,707 @@
+{
+  "match_info": {
+    "match_id": "26af14ebb212",
+    "world_cup_year": 2003,
+    "stage": "Semi-Final",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "date": "2003-03-18",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "48 runs",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Sanath Jayasuriya"
+    },
+    "player_of_match": "A Symonds",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Semi-Final: Australia vs Sri Lanka (2003-03-18) at Gqeberha.\nAustralia: 212/7 (50.0 ov)\n  A Symonds: 91* (118b, 7x4, 1x6)\n  DS Lehmann: 36 (66b, 2x4, 0x6)\n  WPUJC Vaas: 3/34 (10.0 ov)\n  PA de Silva: 2/36 (10.0 ov)\n  ST Jayasuriya: 2/42 (10.0 ov)\nSri Lanka: 123/7 (38.1 ov)\n  KC Sangakkara: 39* (70b, 3x4, 0x6)\n  B Lee: 3/35 (8.0 ov)\n  GB Hogg: 2/30 (10.0 ov)\nAustralia won by 48 runs (D/L).\nPlayer of the Match: A Symonds.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 335,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 3.74,
+    "highest_individual_score": 91,
+    "best_bowling_figures": "3/35",
+    "total_sixes": 5,
+    "total_fours": 22
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 212,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 4.24,
+      "top_batters": [
+        {
+          "name": "A Symonds",
+          "runs": 91,
+          "balls": 118,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 77.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DS Lehmann",
+          "runs": 36,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 22,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 20,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Bichel",
+          "runs": 19,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 90.48,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WPUJC Vaas",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "PA de Silva",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 2.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RP Arnold",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 34,
+          "wickets": 1,
+          "overs": "5.2"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "6.5"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 51,
+          "wickets": 3,
+          "overs": "12.2"
+        },
+        {
+          "player": "DS Lehmann",
+          "runs": 144,
+          "wickets": 4,
+          "overs": "34.6"
+        },
+        {
+          "player": "MG Bevan",
+          "runs": 144,
+          "wickets": 5,
+          "overs": "36.1"
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 158,
+          "wickets": 6,
+          "overs": "40.3"
+        },
+        {
+          "player": "IJ Harvey",
+          "runs": 175,
+          "wickets": 7,
+          "overs": "43.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 2,
+        "run_rate": 4.8,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 36,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 55,
+        "wickets": 2,
+        "run_rate": 5.5,
+        "fours": 1,
+        "sixes": 2,
+        "dot_balls": 28,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 123,
+      "total_wickets": 7,
+      "total_overs": 38.1,
+      "run_rate": 3.24,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 39,
+          "balls": 70,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WPUJC Vaas",
+          "runs": 21,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 42.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 17,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 70.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Atapattu",
+          "runs": 14,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "PA de Silva",
+          "runs": 11,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "B Lee",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 4.38,
+          "wides": 2,
+          "no_balls": 2
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 2.86,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Bichel",
+          "overs": "10.0",
+          "maidens": 4,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 1.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DS Lehmann",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MS Atapattu",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "8.5"
+        },
+        {
+          "player": "HP Tillakaratne",
+          "runs": 37,
+          "wickets": 3,
+          "overs": "9.3"
+        },
+        {
+          "player": "DA Gunawardene",
+          "runs": 43,
+          "wickets": 4,
+          "overs": "11.2"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 51,
+          "wickets": 5,
+          "overs": "13.1"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 60,
+          "wickets": 6,
+          "overs": "16.1"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 76,
+          "wickets": 7,
+          "overs": "24.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 38,
+        "wickets": 3,
+        "run_rate": 3.8,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 44,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "A Symonds": {
+      "batting": {
+        "runs": 91,
+        "balls": 118,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 77.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Lehmann": {
+      "batting": {
+        "runs": 36,
+        "balls": 66,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Gilchrist": {
+      "batting": {
+        "runs": 22,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 110.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ML Hayden": {
+      "batting": {
+        "runs": 20,
+        "balls": 38,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 52.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Bichel": {
+      "batting": {
+        "runs": 19,
+        "balls": 21,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 90.48
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 1.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 21,
+        "balls": 50,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 42.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 3,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA de Silva": {
+      "batting": {
+        "runs": 11,
+        "balls": 16,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 68.75
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 2,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 17,
+        "balls": 24,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 70.83
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 2.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Arnold": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 39,
+        "balls": 70,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 55.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Atapattu": {
+      "batting": {
+        "runs": 14,
+        "balls": 17,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 82.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 3,
+        "economy": 4.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Hogg": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 2,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD McGrath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 1,
+        "economy": 2.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 212 in 50.0 overs at 4.24 RPO",
+    "vs Sri Lanka scored 123 in 38.1 overs at 3.24 RPO",
+    "Top batsman: A Symonds with 91 runs",
+    "Top bowler: WPUJC Vaas with 3 wickets"
+  ]
+}

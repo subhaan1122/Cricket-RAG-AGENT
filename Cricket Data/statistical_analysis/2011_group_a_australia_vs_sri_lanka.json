@@ -1,0 +1,403 @@
+{
+  "match_info": {
+    "match_id": "9f064f337d0a",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "R Premadasa Stadium",
+    "city": "Colombo",
+    "date": "2011-03-05",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "112 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kumar Sangakkara",
+      "team2": "Ricky Ponting"
+    },
+    "player_of_match": "TM Dilshan",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Sri Lanka vs Australia (2011-03-05) at Colombo.\nSri Lanka: 146/3 (32.5 ov)\n  KC Sangakkara: 73* (102b, 7x4, 0x6)\n  TT Samaraweera: 34* (48b, 2x4, 0x6)\nSri Lanka won by 112 runs.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 146,
+    "total_wickets_fallen": 3,
+    "average_run_rate": 4.56,
+    "highest_individual_score": 73,
+    "best_bowling_figures": "1/27",
+    "total_sixes": 0,
+    "total_fours": 13
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 146,
+      "total_wickets": 3,
+      "total_overs": 32.5,
+      "run_rate": 4.56,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 73,
+          "balls": 102,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 71.57,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "TT Samaraweera",
+          "runs": 34,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 23,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 6,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SW Tait",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 5.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 3.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 4.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SPD Smith",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 4.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Dilshan",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 75,
+          "wickets": 3,
+          "overs": "15.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 52,
+        "wickets": 2,
+        "run_rate": 5.2,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 73,
+        "balls": 102,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 71.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TT Samaraweera": {
+      "batting": {
+        "runs": 34,
+        "balls": 48,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 70.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DPMD Jayawardene": {
+      "batting": {
+        "runs": 23,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 92.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WU Tharanga": {
+      "batting": {
+        "runs": 6,
+        "balls": 18,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 33.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Dilshan": {
+      "batting": {
+        "runs": 4,
+        "balls": 4,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 1,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 5.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 0,
+        "economy": 3.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 4.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 4.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Top batsman: KC Sangakkara with 73 runs",
+    "Top bowler: SW Tait with 1 wickets"
+  ]
+}

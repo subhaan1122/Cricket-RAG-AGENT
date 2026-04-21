@@ -1,0 +1,63 @@
+ICC Cricket World Cup 2023
+Match: India vs New Zealand
+Stage: Semi-Final
+Date: 2023-11-15
+Venue: Wankhede Stadium, Mumbai, Mumbai
+Captain India: Rohit Sharma
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2023 World Cup Semi-Final: India vs New Zealand (2023-11-15) at Mumbai.
+
+India: 397/4 (50.0 ov)
+  V Kohli: 117 (113b, 9x4, 2x6, SR 103.54)
+  SS Iyer: 105 (70b, 4x4, 8x6, SR 150.0)
+  Shubman Gill: 80 (66b, 8x4, 3x6, SR 121.21)
+  RG Sharma: 47 (29b, 4x4, 4x6, SR 162.07)
+  KL Rahul: 39 (20b, 5x4, 2x6, SR 195.0)
+  TG Southee: 3/100 (10.0 ov, Econ 10.0)
+  TA Boult: 1/86 (10.0 ov, Econ 8.6)
+  MJ Santner: 0/51 (10.0 ov, Econ 5.1)
+  GD Phillips: 0/33 (5.0 ov, Econ 6.6)
+  LH Ferguson: 0/65 (8.0 ov, Econ 8.12)
+  Extras: 8
+
+New Zealand: 327 all out (48.5 ov)
+  DJ Mitchell: 134 (119b, 8x4, 7x6, SR 112.61)
+  KS Williamson: 69 (73b, 9x4, 1x6, SR 94.52)
+  GD Phillips: 41 (33b, 4x4, 2x6, SR 124.24)
+  DP Conway: 13 (15b, 3x4, 0x6, SR 86.67)
+  R Ravindra: 13 (22b, 3x4, 0x6, SR 59.09)
+  Mohammed Shami: 7/57 (9.5 ov, Econ 5.8)
+  Kuldeep Yadav: 1/56 (10.0 ov, Econ 5.6)
+  JJ Bumrah: 1/64 (10.0 ov, Econ 6.4)
+  Mohammed Siraj: 1/78 (9.0 ov, Econ 8.67)
+  RA Jadeja: 0/63 (10.0 ov, Econ 6.3)
+  Extras: 29
+
+Batting Highlights:
+  Century: V Kohli scored 117 off 113 balls (SR 103.54, 9 fours, 2 sixes)
+  Century: SS Iyer scored 105 off 70 balls (SR 150.0, 4 fours, 8 sixes)
+  Half-century: Shubman Gill scored 80 off 66 balls (SR 121.21)
+  Quickfire innings: RG Sharma smashed 47 off 29 balls at SR 162.07
+  Quickfire innings: KL Rahul smashed 39 off 20 balls at SR 195.0
+  Century: DJ Mitchell scored 134 off 119 balls (SR 112.61, 8 fours, 7 sixes)
+  Half-century: KS Williamson scored 69 off 73 balls (SR 94.52)
+
+Bowling Highlights:
+  Key spell: TG Southee took 3/100
+  Match-changing spell: Mohammed Shami took 7/57
+
+Captain Performance:
+  Rohit Sharma (India): scored 47 off 29 balls
+  Kane Williamson (New Zealand): scored 69 off 73 balls
+
+Key Moments:
+  India lost 4 early wickets.
+  New Zealand lost 10 early wickets.
+  India scored aggressively in the powerplay (84 runs at 8.4 RPO).
+  India exploded in the death overs (110 runs at 11.0 RPO).
+
+Result: India won by 70 runs
+Toss: India won and chose to bat
+Player of the Match: Mohammed Shami

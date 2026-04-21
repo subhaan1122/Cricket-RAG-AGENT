@@ -1,0 +1,344 @@
+{
+  "match_id": "b5b8d3223b44",
+  "world_cup_year": 2023,
+  "stage": "Final",
+  "venue": "Narendra Modi Stadium, Ahmedabad",
+  "city": "Ahmedabad",
+  "date": "2023-11-19",
+  "teams": {
+    "team1": "India",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Rohit Sharma",
+    "team2": "Pat Cummins"
+  },
+  "player_of_match": "TM Head",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 240,
+      "wickets": 10,
+      "overs": 50.0,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "KL Rahul",
+          "runs": 66,
+          "balls": 107,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 54,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 47,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 151.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Yadav",
+          "runs": 18,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "runs": 10,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 3,
+          "economy": 5.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shubman Gill",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 76,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 81,
+          "wickets": 3,
+          "overs": "10.2"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 148,
+          "wickets": 4,
+          "overs": "28.3"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "35.5"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 203,
+          "wickets": 6,
+          "overs": "41.3"
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 211,
+          "wickets": 7,
+          "overs": "43.4"
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 214,
+          "wickets": 8,
+          "overs": "44.5"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 226,
+          "wickets": 9,
+          "overs": "47.3"
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "runs": 240,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 241,
+      "wickets": 4,
+      "overs": 43.0,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "TM Head",
+          "runs": 137,
+          "balls": 120,
+          "fours": 15,
+          "sixes": 4,
+          "strike_rate": 114.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 58,
+          "balls": 110,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.73,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MR Marsh",
+          "runs": 15,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 7,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 233.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JJ Bumrah",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 6.71,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 4.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 41,
+          "wickets": 2,
+          "overs": "4.3"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 47,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "TM Head",
+          "runs": 239,
+          "wickets": 4,
+          "overs": "42.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_final_australia_vs_india.json",
+  "match_summary": "2023 World Cup Final: India vs Australia (2023-11-19) at Ahmedabad.\nIndia: 240 all out (50.0 ov)\n  KL Rahul: 66 (107b, 1x4, 0x6)\n  V Kohli: 54 (63b, 4x4, 0x6)\n  RG Sharma: 47 (31b, 4x4, 3x6)\n  MA Starc: 3/55 (10.0 ov)\n  PJ Cummins: 2/34 (10.0 ov)\n  JR Hazlewood: 2/60 (10.0 ov)\nAustralia: 241/4 (43.0 ov)\n  TM Head: 137 (120b, 15x4, 4x6)\n  M Labuschagne: 58* (110b, 4x4, 0x6)\n  JJ Bumrah: 2/43 (9.0 ov)\nAustralia won by 6 wickets.\nPlayer of the Match: TM Head."
+}

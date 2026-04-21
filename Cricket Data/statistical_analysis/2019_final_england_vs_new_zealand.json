@@ -1,0 +1,948 @@
+{
+  "match_info": {
+    "match_id": "20c26e99835d",
+    "world_cup_year": 2019,
+    "stage": "Final",
+    "venue": "Lord's",
+    "city": "London",
+    "date": "2019-07-14",
+    "teams": {
+      "team1": "England",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "England",
+      "margin": "1 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Eoin Morgan",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "BA Stokes",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Final: England vs New Zealand (2019-07-14) at London.\nNew Zealand: 241/8 (50.0 ov)\n  HM Nicholls: 55 (77b, 4x4, 0x6)\n  TWM Latham: 47 (56b, 2x4, 1x6)\n  KS Williamson: 30 (53b, 2x4, 0x6)\n  CR Woakes: 3/37 (9.0 ov)\n  LE Plunkett: 3/42 (10.0 ov)\nEngland: 241 all out (50.0 ov)\n  BA Stokes: 84* (98b, 5x4, 3x6)\n  JC Buttler: 59 (60b, 6x4, 0x6)\n  JM Bairstow: 36 (55b, 7x4, 0x6)\n  LH Ferguson: 3/50 (10.0 ov)\n  JDS Neesham: 3/43 (7.0 ov)\nEngland: 15/0 (1.0 ov)\nNew Zealand: 15/1 (1.0 ov)\nEngland won by 1 wickets.\nPlayer of the Match: BA Stokes.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 512,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 9.91,
+    "highest_individual_score": 84,
+    "best_bowling_figures": "3/50",
+    "total_sixes": 6,
+    "total_fours": 37
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 241,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 4.82,
+      "top_batters": [
+        {
+          "name": "HM Nicholls",
+          "runs": 55,
+          "balls": 77,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "TWM Latham",
+          "runs": 47,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 83.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 30,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.6,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 19,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 105.56,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 19,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CR Woakes",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 3,
+          "economy": 4.11,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JC Archer",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 4.88,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 103,
+          "wickets": 2,
+          "overs": "22.4"
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 118,
+          "wickets": 3,
+          "overs": "26.5"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 141,
+          "wickets": 4,
+          "overs": "33.1"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 173,
+          "wickets": 5,
+          "overs": "38.6"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 219,
+          "wickets": 6,
+          "overs": "46.5"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 232,
+          "wickets": 7,
+          "overs": "48.3"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 240,
+          "wickets": 8,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 33,
+        "wickets": 1,
+        "run_rate": 3.3,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 44,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 62,
+        "wickets": 3,
+        "run_rate": 6.2,
+        "fours": 1,
+        "sixes": 1,
+        "dot_balls": 26,
+        "extras": 18
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 241,
+      "total_wickets": 10,
+      "total_overs": 50.0,
+      "run_rate": 4.82,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 84,
+          "balls": 98,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 85.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 59,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 98.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 36,
+          "balls": 55,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 65.45,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JJ Roy",
+          "runs": 17,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LE Plunkett",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 6.14,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 3.67,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JJ Roy",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 59,
+          "wickets": 2,
+          "overs": "16.3"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 71,
+          "wickets": 3,
+          "overs": "19.3"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 86,
+          "wickets": 4,
+          "overs": "23.1"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 196,
+          "wickets": 5,
+          "overs": "44.5"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 203,
+          "wickets": 6,
+          "overs": "46.1"
+        },
+        {
+          "player": "LE Plunkett",
+          "runs": 220,
+          "wickets": 7,
+          "overs": "48.3"
+        },
+        {
+          "player": "JC Archer",
+          "runs": 227,
+          "wickets": 8,
+          "overs": "48.6"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 240,
+          "wickets": 9,
+          "overs": "49.5"
+        },
+        {
+          "player": "MA Wood",
+          "runs": 241,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 39,
+        "wickets": 1,
+        "run_rate": 3.9,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 71,
+        "wickets": 6,
+        "run_rate": 7.1,
+        "fours": 5,
+        "sixes": 3,
+        "dot_balls": 25,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 15,
+      "total_wickets": 0,
+      "total_overs": 1.0,
+      "run_rate": 15.0,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 8,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 266.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 7,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 233.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TA Boult",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 15.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "1.0",
+        "balls": 6,
+        "runs": 15,
+        "wickets": 0,
+        "run_rate": 15.0,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 15,
+      "total_wickets": 1,
+      "total_overs": 1.0,
+      "run_rate": 15.0,
+      "top_batters": [
+        {
+          "name": "JDS Neesham",
+          "runs": 13,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 260.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JC Archer",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 15.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "0.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "1.0",
+        "balls": 6,
+        "runs": 15,
+        "wickets": 1,
+        "run_rate": 15.0,
+        "fours": 0,
+        "sixes": 1,
+        "dot_balls": 0,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "HM Nicholls": {
+      "batting": {
+        "runs": 55,
+        "balls": 77,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TWM Latham": {
+      "batting": {
+        "runs": 47,
+        "balls": 56,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 83.93
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 30,
+        "balls": 53,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 56.6
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 20,
+        "balls": 19,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 105.26
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDS Neesham": {
+      "batting": {
+        "runs": 32,
+        "balls": 30,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 106.67
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 3,
+        "economy": 6.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 3,
+        "economy": 4.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LE Plunkett": {
+      "batting": {
+        "runs": 10,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 3,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Archer": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 11.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 1,
+        "economy": 5.18
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Wood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AU Rashid": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 0,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Stokes": {
+      "batting": {
+        "runs": 92,
+        "balls": 101,
+        "fours": 6,
+        "sixes": 3,
+        "strike_rate": 91.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Buttler": {
+      "batting": {
+        "runs": 66,
+        "balls": 63,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 104.76
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Bairstow": {
+      "batting": {
+        "runs": 36,
+        "balls": 55,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 65.45
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Roy": {
+      "batting": {
+        "runs": 17,
+        "balls": 20,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 85.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C de Grandhomme": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 241 in 50.0 overs at 4.82 RPO",
+    "vs England scored 241 in 50.0 overs at 4.82 RPO",
+    "Top batsman: BA Stokes with 84 runs",
+    "Top bowler: CR Woakes with 3 wickets"
+  ]
+}

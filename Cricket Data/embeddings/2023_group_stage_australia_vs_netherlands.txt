@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: Australia vs Netherlands
+Stage: Group Stage
+Date: 2023-10-25
+Venue: Arun Jaitley Stadium, Delhi, Delhi
+Captain Australia: Pat Cummins
+Captain Netherlands: Scott Edwards
+
+Match Summary:
+  2023 World Cup Group Stage: Australia vs Netherlands (2023-10-25) at Delhi.
+
+Australia: 399/8 (50.0 ov)
+  GJ Maxwell: 106 (44b, 9x4, 8x6, SR 240.91)
+  DA Warner: 104 (93b, 11x4, 3x6, SR 111.83)
+  SPD Smith: 71 (68b, 9x4, 1x6, SR 104.41)
+  M Labuschagne: 62 (47b, 7x4, 2x6, SR 131.91)
+  JP Inglis: 14 (12b, 1x4, 1x6, SR 116.67)
+  LV van Beek: 4/74 (10.0 ov, Econ 7.4)
+  BFW de Leede: 2/115 (10.0 ov, Econ 11.5)
+  A Dutt: 1/59 (7.0 ov, Econ 8.43)
+  CN Ackermann: 0/19 (4.0 ov, Econ 4.75)
+  PA van Meekeren: 0/64 (10.0 ov, Econ 6.4)
+  Extras: 12
+
+Netherlands: 90 all out (21.0 ov)
+  Vikramjit Singh: 25 (25b, 6x4, 0x6, SR 100.0)
+  AT Nidamanuru: 14 (18b, 2x4, 0x6, SR 77.78)
+  SA Edwards: 12 (22b, 0x4, 0x6, SR 54.55)
+  SA Engelbrecht: 11 (21b, 1x4, 0x6, SR 52.38)
+  CN Ackermann: 10 (11b, 2x4, 0x6, SR 90.91)
+  A Zampa: 4/8 (3.0 ov, Econ 2.67)
+  MR Marsh: 2/19 (4.0 ov, Econ 4.75)
+  PJ Cummins: 1/14 (4.0 ov, Econ 3.5)
+  JR Hazlewood: 1/27 (6.0 ov, Econ 4.5)
+  MA Starc: 1/22 (4.0 ov, Econ 5.5)
+  Extras: 7
+
+Batting Highlights:
+  Century: GJ Maxwell scored 106 off 44 balls (SR 240.91, 9 fours, 8 sixes)
+  Century: DA Warner scored 104 off 93 balls (SR 111.83, 11 fours, 3 sixes)
+  Half-century: SPD Smith scored 71 off 68 balls (SR 104.41)
+  Half-century: M Labuschagne scored 62 off 47 balls (SR 131.91)
+
+Bowling Highlights:
+  Match-changing spell: LV van Beek took 4/74
+  Match-changing spell: A Zampa took 4/8
+
+Captain Performance:
+  Scott Edwards (Netherlands): scored 12 off 22 balls
+
+Key Moments:
+  Australia lost 8 early wickets.
+  Netherlands lost 10 early wickets.
+  Australia exploded in the death overs (131 runs at 13.1 RPO).
+  Netherlands lost 3 wickets in the powerplay.
+
+Result: Australia won by 309 runs
+Toss: Australia won and chose to bat
+Player of the Match: GJ Maxwell

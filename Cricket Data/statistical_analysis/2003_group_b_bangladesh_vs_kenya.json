@@ -1,0 +1,745 @@
+{
+  "match_info": {
+    "match_id": "3968914c1320",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "date": "2003-03-01",
+    "teams": {
+      "team1": "Kenya",
+      "team2": "Bangladesh"
+    },
+    "toss": {
+      "winner": "Kenya",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Kenya",
+      "margin": "32 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Steve Tikolo",
+      "team2": "Khaled Mashud"
+    },
+    "player_of_match": "MO Odumbe",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: Kenya vs Bangladesh (2003-03-01) at Johannesburg.\nKenya: 217/7 (50.0 ov)\n  MO Odumbe: 52* (46b, 4x4, 0x6)\n  RD Shah: 37 (54b, 6x4, 0x6)\n  BJ Patel: 32 (60b, 6x4, 0x6)\n  Sanwar Hossain: 3/49 (10.0 ov)\nBangladesh: 185 all out (47.2 ov)\n  Tushar Imran: 48 (81b, 3x4, 1x6)\n  Akram Khan: 44 (60b, 3x4, 0x6)\n  MO Odumbe: 4/38 (10.0 ov)\n  SO Tikolo: 3/14 (5.2 ov)\n  MA Suji: 2/27 (8.0 ov)\nKenya won by 32 runs.\nPlayer of the Match: MO Odumbe.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 402,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 4.14,
+    "highest_individual_score": 52,
+    "best_bowling_figures": "4/38",
+    "total_sixes": 4,
+    "total_fours": 29
+  },
+  "innings_analysis": [
+    {
+      "team": "Kenya",
+      "total_runs": 217,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 4.34,
+      "top_batters": [
+        {
+          "name": "MO Odumbe",
+          "runs": 52,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 113.04,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RD Shah",
+          "runs": 37,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BJ Patel",
+          "runs": 32,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 27,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 22,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 104.76,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Sanwar Hossain",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 3,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Tapash Baisya",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 2.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Khaled Mahmud",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 3.9,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Manjural Islam",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 4.29,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KO Otieno",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "BJ Patel",
+          "runs": 68,
+          "wickets": 2,
+          "overs": "17.6"
+        },
+        {
+          "player": "RD Shah",
+          "runs": 80,
+          "wickets": 3,
+          "overs": "20.4"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 116,
+          "wickets": 4,
+          "overs": "32.3"
+        },
+        {
+          "player": "HS Modi",
+          "runs": 124,
+          "wickets": 5,
+          "overs": "34.4"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 164,
+          "wickets": 6,
+          "overs": "42.5"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 197,
+          "wickets": 7,
+          "overs": "47.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 29,
+        "wickets": 1,
+        "run_rate": 2.9,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 50,
+        "extras": 8
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 70,
+        "wickets": 2,
+        "run_rate": 7.0,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 20,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "total_runs": 185,
+      "total_wickets": 10,
+      "total_overs": 47.2,
+      "run_rate": 3.94,
+      "top_batters": [
+        {
+          "name": "Tushar Imran",
+          "runs": 48,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 59.26,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Akram Khan",
+          "runs": 44,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Alok Kapali",
+          "runs": 18,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 69.23,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sanwar Hossain",
+          "runs": 16,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Al Sahariar",
+          "runs": 14,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MO Odumbe",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 4,
+          "economy": 3.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "5.2",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 3,
+          "economy": 2.62,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Suji",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 3.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.44,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 9,
+          "wickets": 0,
+          "economy": 2.25,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Al Sahariar",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "2.6"
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 17,
+          "wickets": 2,
+          "overs": "4.1"
+        },
+        {
+          "player": "Khaled Mashud",
+          "runs": 53,
+          "wickets": 3,
+          "overs": "16.3"
+        },
+        {
+          "player": "Alok Kapali",
+          "runs": 99,
+          "wickets": 4,
+          "overs": "26.3"
+        },
+        {
+          "player": "Tushar Imran",
+          "runs": 111,
+          "wickets": 5,
+          "overs": "28.5"
+        },
+        {
+          "player": "Sanwar Hossain",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "38.1"
+        },
+        {
+          "player": "Khaled Mahmud",
+          "runs": 158,
+          "wickets": 7,
+          "overs": "40.5"
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 180,
+          "wickets": 8,
+          "overs": "45.4"
+        },
+        {
+          "player": "Akram Khan",
+          "runs": 180,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "Manjural Islam",
+          "runs": 185,
+          "wickets": 10,
+          "overs": "47.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 2,
+        "run_rate": 2.8,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 51,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "7.2",
+        "balls": 44,
+        "runs": 28,
+        "wickets": 4,
+        "run_rate": 3.82,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 26,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MO Odumbe": {
+      "batting": {
+        "runs": 52,
+        "balls": 46,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 113.04
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 4,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RD Shah": {
+      "batting": {
+        "runs": 37,
+        "balls": 54,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 68.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BJ Patel": {
+      "batting": {
+        "runs": 32,
+        "balls": 60,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 53.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 27,
+        "balls": 45,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 60.0
+      },
+      "bowling": {
+        "overs": 5.333333333333333,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 3,
+        "economy": 2.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 22,
+        "balls": 21,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 104.76
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 4.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sanwar Hossain": {
+      "batting": {
+        "runs": 16,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 3,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Tapash Baisya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 2.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Khaled Mahmud": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 3.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Manjural Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 4.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rafique": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Tushar Imran": {
+      "batting": {
+        "runs": 48,
+        "balls": 81,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 59.26
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Akram Khan": {
+      "batting": {
+        "runs": 44,
+        "balls": 60,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 73.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Alok Kapali": {
+      "batting": {
+        "runs": 18,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 69.23
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Al Sahariar": {
+      "batting": {
+        "runs": 14,
+        "balls": 12,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Suji": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 2,
+        "economy": 3.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 9,
+        "wickets": 0,
+        "economy": 2.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Kenya scored 217 in 50.0 overs at 4.34 RPO",
+    "vs Bangladesh scored 185 in 47.2 overs at 3.94 RPO",
+    "Top batsman: MO Odumbe with 52 runs",
+    "Top bowler: MO Odumbe with 4 wickets"
+  ]
+}

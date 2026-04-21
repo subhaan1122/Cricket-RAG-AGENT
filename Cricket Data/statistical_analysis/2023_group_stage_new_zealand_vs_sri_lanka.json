@@ -1,0 +1,713 @@
+{
+  "match_info": {
+    "match_id": "0de25269b18d",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "city": "Bengaluru",
+    "date": "2023-11-09",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "5 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kusal Mendis",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "TA Boult",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Sri Lanka vs New Zealand (2023-11-09) at Bengaluru.\nSri Lanka: 171 all out (46.4 ov)\n  MDKJ Perera: 51 (28b, 9x4, 2x6)\n  M Theekshana: 38* (91b, 3x4, 0x6)\n  TA Boult: 3/37 (10.0 ov)\n  MJ Santner: 2/22 (10.0 ov)\n  R Ravindra: 2/21 (7.4 ov)\nNew Zealand: 172/5 (23.2 ov)\n  DP Conway: 45 (42b, 9x4, 0x6)\n  DJ Mitchell: 43 (31b, 5x4, 2x6)\n  R Ravindra: 42 (34b, 3x4, 3x6)\n  AD Mathews: 2/29 (4.0 ov)\nNew Zealand won by 5 wickets.\nPlayer of the Match: TA Boult.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 343,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 5.6,
+    "highest_individual_score": 51,
+    "best_bowling_figures": "3/37",
+    "total_sixes": 8,
+    "total_fours": 40
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 171,
+      "total_wickets": 10,
+      "total_overs": 46.4,
+      "run_rate": 3.72,
+      "top_batters": [
+        {
+          "name": "MDKJ Perera",
+          "runs": 51,
+          "balls": 28,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 182.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Theekshana",
+          "runs": 38,
+          "balls": 91,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.76,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 19,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 79.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "D Madushanka",
+          "runs": 19,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 16,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 37,
+          "wickets": 3,
+          "economy": 3.7,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 2,
+          "economy": 2.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ravindra",
+          "overs": "7.4",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 2.74,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "P Nissanka",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "1.5"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 30,
+          "wickets": 2,
+          "overs": "4.1"
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 32,
+          "wickets": 3,
+          "overs": "4.4"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 70,
+          "wickets": 4,
+          "overs": "8.2"
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 70,
+          "wickets": 5,
+          "overs": "9.3"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 104,
+          "wickets": 6,
+          "overs": "16.4"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 105,
+          "wickets": 7,
+          "overs": "18.3"
+        },
+        {
+          "player": "C Karunaratne",
+          "runs": 113,
+          "wickets": 8,
+          "overs": "23.3"
+        },
+        {
+          "player": "PVD Chameera",
+          "runs": 128,
+          "wickets": 9,
+          "overs": "32.1"
+        },
+        {
+          "player": "D Madushanka",
+          "runs": 171,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 74,
+        "wickets": 5,
+        "run_rate": 7.4,
+        "fours": 12,
+        "sixes": 2,
+        "dot_balls": 35,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "6.4",
+        "balls": 40,
+        "runs": 16,
+        "wickets": 1,
+        "run_rate": 2.4,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 28,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 172,
+      "total_wickets": 5,
+      "total_overs": 23.2,
+      "run_rate": 7.48,
+      "top_batters": [
+        {
+          "name": "DP Conway",
+          "runs": 45,
+          "balls": 42,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 107.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Mitchell",
+          "runs": 43,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 138.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "R Ravindra",
+          "runs": 42,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 123.53,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GD Phillips",
+          "runs": 17,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 170.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AD Mathews",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 7.25,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PVD Chameera",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 6.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Madushanka",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 9.16,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 11.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 86,
+          "wickets": 1,
+          "overs": "12.2"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 88,
+          "wickets": 2,
+          "overs": "13.3"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 130,
+          "wickets": 3,
+          "overs": "18.2"
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 145,
+          "wickets": 4,
+          "overs": "20.3"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 162,
+          "wickets": 5,
+          "overs": "22.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 73,
+        "wickets": 0,
+        "run_rate": 7.3,
+        "fours": 11,
+        "sixes": 2,
+        "dot_balls": 33,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MDKJ Perera": {
+      "batting": {
+        "runs": 51,
+        "balls": 28,
+        "fours": 9,
+        "sixes": 2,
+        "strike_rate": 182.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Theekshana": {
+      "batting": {
+        "runs": 38,
+        "balls": 91,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 41.76
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 6.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM de Silva": {
+      "batting": {
+        "runs": 19,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 79.17
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 0,
+        "economy": 11.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Madushanka": {
+      "batting": {
+        "runs": 19,
+        "balls": 48,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 39.58
+      },
+      "bowling": {
+        "overs": 6.333333333333333,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 0,
+        "economy": 9.16
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Mathews": {
+      "batting": {
+        "runs": 16,
+        "balls": 27,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 59.26
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 2,
+        "economy": 7.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 3,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 2.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ravindra": {
+      "batting": {
+        "runs": 42,
+        "balls": 34,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 123.53
+      },
+      "bowling": {
+        "overs": 7.666666666666667,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 2,
+        "economy": 2.74
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TG Southee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DP Conway": {
+      "batting": {
+        "runs": 45,
+        "balls": 42,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 107.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Mitchell": {
+      "batting": {
+        "runs": 43,
+        "balls": 31,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 138.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD Phillips": {
+      "batting": {
+        "runs": 17,
+        "balls": 10,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 170.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 14,
+        "balls": 15,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 93.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PVD Chameera": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 171 in 46.4 overs at 3.72 RPO",
+    "vs New Zealand scored 172 in 23.2 overs at 7.48 RPO",
+    "Top batsman: MDKJ Perera with 51 runs",
+    "Top bowler: TA Boult with 3 wickets"
+  ]
+}

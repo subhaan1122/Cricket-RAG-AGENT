@@ -1,0 +1,737 @@
+{
+  "match_info": {
+    "match_id": "abf0cec6b8c7",
+    "world_cup_year": 2007,
+    "stage": "Group D",
+    "venue": "Sabina Park, Kingston",
+    "city": "Jamaica",
+    "date": "2007-03-19",
+    "teams": {
+      "team1": "West Indies",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "West Indies",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "West Indies",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Brian Lara",
+      "team2": "Prosper Utseya"
+    },
+    "player_of_match": "SC Williams",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group D: West Indies vs Zimbabwe (2007-03-19) at Jamaica.\nZimbabwe: 202/5 (50.0 ov)\n  SC Williams: 70* (88b, 7x4, 0x6)\n  BRM Taylor: 50 (121b, 1x4, 1x6)\n  E Chigumbura: 30* (29b, 5x4, 0x6)\n  JE Taylor: 2/42 (10.0 ov)\nWest Indies: 204/4 (47.5 ov)\n  BC Lara: 44* (68b, 2x4, 1x6)\n  CH Gayle: 40 (48b, 3x4, 3x6)\n  DJ Bravo: 37* (46b, 3x4, 2x6)\nWest Indies won by 6 wickets.\nPlayer of the Match: SC Williams.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 406,
+    "total_wickets_fallen": 9,
+    "average_run_rate": 4.19,
+    "highest_individual_score": 70,
+    "best_bowling_figures": "2/42",
+    "total_sixes": 7,
+    "total_fours": 31
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 202,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 4.04,
+      "top_batters": [
+        {
+          "name": "SC Williams",
+          "runs": 70,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 50,
+          "balls": 121,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 41.32,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "E Chigumbura",
+          "runs": 30,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 103.45,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "S Matsikenyeri",
+          "runs": 16,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CJ Chibhabha",
+          "runs": 12,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 7,
+          "no_balls": 0
+        },
+        {
+          "name": "DBL Powell",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DR Smith",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 5.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CD Collymore",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 3.22,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "F Kasteni",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 2,
+          "wickets": 2,
+          "overs": "2.2"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 31,
+          "wickets": 3,
+          "overs": "9.2"
+        },
+        {
+          "player": "S Matsikenyeri",
+          "runs": 59,
+          "wickets": 4,
+          "overs": "17.4"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 142,
+          "wickets": 5,
+          "overs": "40.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 3,
+        "run_rate": 3.2,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 46,
+        "extras": 9
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 62,
+        "wickets": 1,
+        "run_rate": 6.2,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 33,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 204,
+      "total_wickets": 4,
+      "total_overs": 47.5,
+      "run_rate": 4.34,
+      "top_batters": [
+        {
+          "name": "BC Lara",
+          "runs": 44,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 64.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 40,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Bravo",
+          "runs": 37,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 80.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 28,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 21,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CB Mpofu",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 8,
+          "no_balls": 0
+        },
+        {
+          "name": "T Mupariwa",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.58,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "AJ Ireland",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Chanderpaul",
+          "runs": 73,
+          "wickets": 1,
+          "overs": "17.3"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 73,
+          "wickets": 2,
+          "overs": "18.1"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 106,
+          "wickets": 3,
+          "overs": "24.6"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 129,
+          "wickets": 4,
+          "overs": "32.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 0,
+        "run_rate": 3.2,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 49,
+        "extras": 11
+      },
+      "death_overs_stats": {
+        "overs": "7.5",
+        "balls": 47,
+        "runs": 42,
+        "wickets": 0,
+        "run_rate": 5.36,
+        "fours": 3,
+        "sixes": 2,
+        "dot_balls": 31,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SC Williams": {
+      "batting": {
+        "runs": 70,
+        "balls": 88,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 79.55
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BRM Taylor": {
+      "batting": {
+        "runs": 50,
+        "balls": 121,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 41.32
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Chigumbura": {
+      "batting": {
+        "runs": 30,
+        "balls": 29,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 103.45
+      },
+      "bowling": {
+        "overs": 9.833333333333334,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 4.58
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Matsikenyeri": {
+      "batting": {
+        "runs": 16,
+        "balls": 27,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 59.26
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CJ Chibhabha": {
+      "batting": {
+        "runs": 12,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 48.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JE Taylor": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DBL Powell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DR Smith": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 1,
+        "economy": 5.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 40,
+        "balls": 48,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 0,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CD Collymore": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 3.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BC Lara": {
+      "batting": {
+        "runs": 44,
+        "balls": 68,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 64.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Bravo": {
+      "batting": {
+        "runs": 37,
+        "balls": 46,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 80.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MN Samuels": {
+      "batting": {
+        "runs": 28,
+        "balls": 48,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 58.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Chanderpaul": {
+      "batting": {
+        "runs": 21,
+        "balls": 60,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 35.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CB Mpofu": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Mupariwa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Ireland": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 1,
+        "economy": 5.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Utseya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 202 in 50.0 overs at 4.04 RPO",
+    "vs West Indies scored 204 in 47.5 overs at 4.34 RPO",
+    "Top batsman: SC Williams with 70 runs",
+    "Top bowler: JE Taylor with 2 wickets"
+  ]
+}

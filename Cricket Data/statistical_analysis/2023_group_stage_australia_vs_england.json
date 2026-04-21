@@ -1,0 +1,763 @@
+{
+  "match_info": {
+    "match_id": "c0d69a46d54c",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "date": "2023-11-04",
+    "teams": {
+      "team1": "Australia",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "33 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Pat Cummins",
+      "team2": "Jos Buttler"
+    },
+    "player_of_match": "A Zampa",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Australia vs England (2023-11-04) at Ahmedabad.\nAustralia: 286 all out (49.3 ov)\n  M Labuschagne: 71 (83b, 7x4, 0x6)\n  C Green: 47 (52b, 5x4, 0x6)\n  SPD Smith: 44 (52b, 3x4, 0x6)\n  CR Woakes: 4/54 (9.3 ov)\n  AU Rashid: 2/38 (10.0 ov)\n  MA Wood: 2/70 (10.0 ov)\nEngland: 253 all out (48.1 ov)\n  BA Stokes: 64 (90b, 2x4, 3x6)\n  DJ Malan: 50 (64b, 4x4, 1x6)\n  MM Ali: 42 (43b, 6x4, 0x6)\n  A Zampa: 3/21 (10.0 ov)\n  PJ Cummins: 2/49 (10.0 ov)\n  JR Hazlewood: 2/49 (9.1 ov)\nAustralia won by 33 runs.\nPlayer of the Match: A Zampa.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 539,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 5.55,
+    "highest_individual_score": 71,
+    "best_bowling_figures": "4/54",
+    "total_sixes": 8,
+    "total_fours": 39
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 286,
+      "total_wickets": 10,
+      "total_overs": 49.3,
+      "run_rate": 5.84,
+      "top_batters": [
+        {
+          "name": "M Labuschagne",
+          "runs": 71,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 85.54,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "C Green",
+          "runs": 47,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 90.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 44,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MP Stoinis",
+          "runs": 35,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 109.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Zampa",
+          "runs": 29,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 152.63,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CR Woakes",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 4,
+          "economy": 5.68,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Willey",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LS Livingstone",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Head",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 38,
+          "wickets": 2,
+          "overs": "5.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 113,
+          "wickets": 3,
+          "overs": "21.4"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "23.1"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 178,
+          "wickets": 5,
+          "overs": "32.6"
+        },
+        {
+          "player": "C Green",
+          "runs": 223,
+          "wickets": 6,
+          "overs": "40.4"
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 241,
+          "wickets": 7,
+          "overs": "43.4"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 247,
+          "wickets": 8,
+          "overs": "44.2"
+        },
+        {
+          "player": "A Zampa",
+          "runs": 285,
+          "wickets": 9,
+          "overs": "49.1"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 286,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 2,
+        "run_rate": 4.8,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 41,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.3",
+        "balls": 57,
+        "runs": 66,
+        "wickets": 5,
+        "run_rate": 6.95,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 22,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 253,
+      "total_wickets": 10,
+      "total_overs": 48.1,
+      "run_rate": 5.27,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 64,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 71.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Malan",
+          "runs": 50,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MM Ali",
+          "runs": 42,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 97.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CR Woakes",
+          "runs": 32,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 96.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AU Rashid",
+          "runs": 20,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 3,
+          "economy": 2.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "9.1",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 5.35,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 2,
+          "economy": 6.6,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 8.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "JE Root",
+          "runs": 19,
+          "wickets": 2,
+          "overs": "4.3"
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 103,
+          "wickets": 3,
+          "overs": "22.3"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 106,
+          "wickets": 4,
+          "overs": "25.1"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 169,
+          "wickets": 5,
+          "overs": "35.3"
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 174,
+          "wickets": 6,
+          "overs": "36.6"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 186,
+          "wickets": 7,
+          "overs": "39.1"
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 216,
+          "wickets": 8,
+          "overs": "43.2"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 253,
+          "wickets": 9,
+          "overs": "47.6"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 253,
+          "wickets": 10,
+          "overs": "48.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 38,
+        "wickets": 2,
+        "run_rate": 3.8,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 43,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "8.1",
+        "balls": 49,
+        "runs": 66,
+        "wickets": 3,
+        "run_rate": 8.08,
+        "fours": 7,
+        "sixes": 2,
+        "dot_balls": 22,
+        "extras": 5
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "M Labuschagne": {
+      "batting": {
+        "runs": 71,
+        "balls": 83,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 85.54
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C Green": {
+      "batting": {
+        "runs": 47,
+        "balls": 52,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 90.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 44,
+        "balls": 52,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 84.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MP Stoinis": {
+      "batting": {
+        "runs": 35,
+        "balls": 32,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 109.38
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 8.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Zampa": {
+      "batting": {
+        "runs": 29,
+        "balls": 19,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 152.63
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 3,
+        "economy": 2.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 32,
+        "balls": 33,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 96.97
+      },
+      "bowling": {
+        "overs": 9.5,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 4,
+        "economy": 5.68
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AU Rashid": {
+      "batting": {
+        "runs": 20,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 133.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 2,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Wood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 70,
+        "wickets": 2,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Willey": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LS Livingstone": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Stokes": {
+      "batting": {
+        "runs": 64,
+        "balls": 90,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 71.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Malan": {
+      "batting": {
+        "runs": 50,
+        "balls": 64,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 78.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 42,
+        "balls": 43,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 97.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.166666666666666,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 5.35
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 66,
+        "wickets": 2,
+        "economy": 6.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 286 in 49.3 overs at 5.84 RPO",
+    "vs England scored 253 in 48.1 overs at 5.27 RPO",
+    "Top batsman: M Labuschagne with 71 runs",
+    "Top bowler: CR Woakes with 4 wickets"
+  ]
+}

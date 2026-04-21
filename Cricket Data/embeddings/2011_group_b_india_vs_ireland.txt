@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: India vs Ireland
+Stage: Group B
+Date: 2011-03-06
+Venue: M Chinnaswamy Stadium, Bangalore
+Captain India: MS Dhoni
+Captain Ireland: William Porterfield
+
+Match Summary:
+  2011 World Cup Group B: India vs Ireland (2011-03-06) at Bangalore.
+
+Ireland: 207 all out (47.5 ov)
+  WTS Porterfield: 75 (104b, 6x4, 1x6, SR 72.12)
+  NJ O'Brien: 46 (78b, 3x4, 0x6, SR 58.97)
+  AR Cusack: 24 (30b, 3x4, 0x6, SR 80.0)
+  DT Johnston: 17 (20b, 2x4, 0x6, SR 85.0)
+  KJ O'Brien: 9 (13b, 1x4, 0x6, SR 69.23)
+  Yuvraj Singh: 5/31 (10.0 ov, Econ 3.1)
+  Z Khan: 3/30 (9.0 ov, Econ 3.33)
+  MM Patel: 1/25 (4.5 ov, Econ 5.17)
+  Harbhajan Singh: 0/29 (9.0 ov, Econ 3.22)
+  YK Pathan: 0/32 (7.0 ov, Econ 4.57)
+  Extras: 18
+
+India: 210/5 (46.0 ov)
+  Yuvraj Singh: 50 (75b, 3x4, 0x6, SR 66.67)
+  SR Tendulkar: 38 (56b, 4x4, 0x6, SR 67.86)
+  MS Dhoni: 34 (50b, 2x4, 0x6, SR 68.0)
+  V Kohli: 34 (53b, 3x4, 0x6, SR 64.15)
+  YK Pathan: 30 (24b, 2x4, 3x6, SR 125.0)
+  DT Johnston: 2/16 (5.0 ov, Econ 3.2)
+  GH Dockrell: 2/49 (10.0 ov, Econ 4.9)
+  KJ O'Brien: 0/3 (1.0 ov, Econ 3.0)
+  WB Rankin: 0/34 (10.0 ov, Econ 3.4)
+  PR Stirling: 0/45 (10.0 ov, Econ 4.5)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: WTS Porterfield scored 75 off 104 balls (SR 72.12)
+  Half-century: Yuvraj Singh scored 50 off 75 balls (SR 66.67)
+
+Bowling Highlights:
+  Match-changing spell: Yuvraj Singh took 5/31
+  Key spell: Z Khan took 3/30
+  Economical spell: Harbhajan Singh conceded 29 runs in 9.0 overs (Econ 3.22)
+  Economical spell: DT Johnston conceded 16 runs in 5.0 overs (Econ 3.2)
+  Economical spell: WB Rankin conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  William Porterfield (Ireland): scored 75 off 104 balls
+  MS Dhoni (India): scored 34 off 50 balls
+
+Key Moments:
+  Ireland lost 10 early wickets.
+  India lost 5 early wickets.
+
+Result: India won by 5 wickets
+Toss: India won and chose to field
+Player of the Match: Yuvraj Singh

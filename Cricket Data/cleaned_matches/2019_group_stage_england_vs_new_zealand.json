@@ -1,0 +1,368 @@
+{
+  "match_id": "00c2aadfdab1",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Riverside Ground",
+  "city": "Chester-le-Street",
+  "date": "2019-07-03",
+  "teams": {
+    "team1": "England",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "119 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Eoin Morgan",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "JM Bairstow",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 305,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "JM Bairstow",
+          "runs": 106,
+          "balls": 99,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 107.07,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JJ Roy",
+          "runs": 60,
+          "balls": 61,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 98.36,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 42,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Root",
+          "runs": 24,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 96.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AU Rashid",
+          "runs": 16,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JDS Neesham",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 2,
+          "economy": 5.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 5.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 1,
+          "economy": 7.78,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JJ Roy",
+          "runs": 123,
+          "wickets": 1,
+          "overs": "18.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 194,
+          "wickets": 2,
+          "overs": "30.1"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 206,
+          "wickets": 3,
+          "overs": "31.4"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 214,
+          "wickets": 4,
+          "overs": "34.2"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 248,
+          "wickets": 5,
+          "overs": "41.6"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 259,
+          "wickets": 6,
+          "overs": "44.5"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 272,
+          "wickets": 7,
+          "overs": "46.1"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 301,
+          "wickets": 8,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 186,
+      "wickets": 10,
+      "overs": 45.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "TWM Latham",
+          "runs": 57,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 87.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 28,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 27,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.5,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 19,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Santner",
+          "runs": 12,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Wood",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.78,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 1,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JC Archer",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 17,
+          "wickets": 1,
+          "economy": 2.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Nicholls",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 14,
+          "wickets": 2,
+          "overs": "5.2"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 61,
+          "wickets": 3,
+          "overs": "15.1"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 69,
+          "wickets": 4,
+          "overs": "16.4"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 123,
+          "wickets": 5,
+          "overs": "25.1"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 128,
+          "wickets": 6,
+          "overs": "28.1"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 164,
+          "wickets": 7,
+          "overs": "38.3"
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 166,
+          "wickets": 8,
+          "overs": "39.2"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 181,
+          "wickets": 9,
+          "overs": "43.4"
+        },
+        {
+          "player": "TA Boult",
+          "runs": 186,
+          "wickets": 10,
+          "overs": "44.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_england_vs_new_zealand.json",
+  "match_summary": "2019 World Cup Group Stage: England vs New Zealand (2019-07-03) at Chester-le-Street.\nEngland: 305/8 (50.0 ov)\n  JM Bairstow: 106 (99b, 15x4, 1x6)\n  JJ Roy: 60 (61b, 8x4, 0x6)\n  EJG Morgan: 42 (40b, 5x4, 0x6)\n  JDS Neesham: 2/41 (10.0 ov)\n  MJ Henry: 2/54 (10.0 ov)\n  TA Boult: 2/56 (10.0 ov)\nNew Zealand: 186 all out (45.0 ov)\n  TWM Latham: 57 (65b, 5x4, 0x6)\n  MA Wood: 3/34 (9.0 ov)\nEngland won by 119 runs.\nPlayer of the Match: JM Bairstow."
+}

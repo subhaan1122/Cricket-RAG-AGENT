@@ -1,0 +1,356 @@
+{
+  "match_id": "650cef6cad74",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "Pallekele International Cricket Stadium",
+  "city": "",
+  "date": "2011-03-10",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "139 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kumar Sangakkara",
+    "team2": "Elton Chigumbura"
+  },
+  "player_of_match": "TM Dilshan",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 327,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "TM Dilshan",
+          "runs": 144,
+          "balls": 131,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 109.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 133,
+          "balls": 141,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 94.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 11,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 9,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TT Samaraweera",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CB Mpofu",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 4,
+          "economy": 8.86,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "P Utseya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RW Price",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 5.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AG Cremer",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Lamb",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 0,
+          "economy": 6.38,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 282,
+          "wickets": 1,
+          "overs": "44.4"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 289,
+          "wickets": 2,
+          "overs": "45.4"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 296,
+          "wickets": 3,
+          "overs": "46.3"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 300,
+          "wickets": 4,
+          "overs": "47.1"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 302,
+          "wickets": 5,
+          "overs": "47.3"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 308,
+          "wickets": 6,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 188,
+      "wickets": 10,
+      "overs": 39.0,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "BRM Taylor",
+          "runs": 80,
+          "balls": 72,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RW Chakabva",
+          "runs": 35,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CR Ervine",
+          "runs": 17,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AG Cremer",
+          "runs": 14,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RW Price",
+          "runs": 11,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TM Dilshan",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 4,
+          "wickets": 4,
+          "economy": 1.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 4.12,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RW Chakabva",
+          "runs": 116,
+          "wickets": 1,
+          "overs": "19.5"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 125,
+          "wickets": 2,
+          "overs": "22.1"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 132,
+          "wickets": 3,
+          "overs": "24.1"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 150,
+          "wickets": 4,
+          "overs": "27.3"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 156,
+          "wickets": 5,
+          "overs": "29.3"
+        },
+        {
+          "player": "GA Lamb",
+          "runs": 156,
+          "wickets": 6,
+          "overs": "29.4"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 165,
+          "wickets": 7,
+          "overs": "31.5"
+        },
+        {
+          "player": "RW Price",
+          "runs": 185,
+          "wickets": 8,
+          "overs": "36.5"
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 185,
+          "wickets": 9,
+          "overs": "37.4"
+        },
+        {
+          "player": "CB Mpofu",
+          "runs": 188,
+          "wickets": 10,
+          "overs": "38.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_sri_lanka_vs_zimbabwe.json",
+  "match_summary": "2011 World Cup Group A: Sri Lanka vs Zimbabwe (2011-03-10) at Pallekele International Cricket Stadium.\nSri Lanka: 327/6 (50.0 ov)\n  TM Dilshan: 144 (131b, 16x4, 1x6)\n  WU Tharanga: 133 (141b, 17x4, 0x6)\n  CB Mpofu: 4/62 (7.0 ov)\nZimbabwe: 188 all out (39.0 ov)\n  BRM Taylor: 80 (72b, 9x4, 1x6)\n  RW Chakabva: 35 (61b, 3x4, 0x6)\n  TM Dilshan: 4/4 (3.0 ov)\n  M Muralitharan: 3/34 (9.0 ov)\n  AD Mathews: 2/29 (5.0 ov)\nSri Lanka won by 139 runs.\nPlayer of the Match: TM Dilshan."
+}

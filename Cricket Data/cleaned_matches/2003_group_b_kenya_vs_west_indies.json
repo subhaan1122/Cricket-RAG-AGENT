@@ -1,0 +1,54 @@
+{
+  "match_id": "942ca0cb776f",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "Kimberley",
+  "city": "",
+  "date": "2003-03-04",
+  "teams": {
+    "team1": "Kenya",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "142 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Steve Tikolo",
+    "team2": "Brian Lara"
+  },
+  "player_of_match": "CO Obuya",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 246,
+      "wickets": 5,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "runs": 104,
+      "wickets": 10,
+      "overs": 34.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2003_group_b_kenya_vs_west_indies.json",
+  "match_summary": "2003 World Cup Group B: Kenya vs West Indies (2003-03-04) at Kimberley.\nWest Indies: 246/5 (50 ov)\nKenya: 104 all out (34.2 ov)\nWest Indies won by 142 runs. Player of the Match: CO Obuya."
+}

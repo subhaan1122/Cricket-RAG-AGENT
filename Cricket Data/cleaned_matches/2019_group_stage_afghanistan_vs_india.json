@@ -1,0 +1,54 @@
+{
+  "match_id": "57d9f744d663",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Rose Bowl, Southampton",
+  "city": "Southampton",
+  "date": "2019-06-22",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "11 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Virat Kohli"
+  },
+  "player_of_match": "Mohammed Shami",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 224,
+      "wickets": 8,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 213,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_india.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs India (2019-06-22) at Southampton.\nIndia: 224/8 (50 ov)\nAfghanistan: 213 all out (49.5 ov)\nIndia won by 11 runs."
+}

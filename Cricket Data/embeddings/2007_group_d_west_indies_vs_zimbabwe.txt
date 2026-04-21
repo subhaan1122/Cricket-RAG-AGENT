@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Zimbabwe
+Stage: Group D
+Date: 2007-03-19
+Venue: Sabina Park, Kingston, Jamaica
+Captain West Indies: Brian Lara
+Captain Zimbabwe: Prosper Utseya
+
+Match Summary:
+  2007 World Cup Group D: West Indies vs Zimbabwe (2007-03-19) at Jamaica.
+
+Zimbabwe: 202/5 (50.0 ov)
+  SC Williams: 70 (88b, 7x4, 0x6, SR 79.55)
+  BRM Taylor: 50 (121b, 1x4, 1x6, SR 41.32)
+  E Chigumbura: 30 (29b, 5x4, 0x6, SR 103.45)
+  S Matsikenyeri: 16 (27b, 2x4, 0x6, SR 59.26)
+  CJ Chibhabha: 12 (25b, 2x4, 0x6, SR 48.0)
+  JE Taylor: 2/42 (10.0 ov, Econ 4.2)
+  DBL Powell: 1/15 (6.0 ov, Econ 2.5)
+  DR Smith: 1/28 (5.0 ov, Econ 5.6)
+  CH Gayle: 0/32 (10.0 ov, Econ 3.2)
+  CD Collymore: 0/29 (9.0 ov, Econ 3.22)
+  Extras: 23
+
+West Indies: 204/4 (47.5 ov)
+  BC Lara: 44 (68b, 2x4, 1x6, SR 64.71)
+  CH Gayle: 40 (48b, 3x4, 3x6, SR 83.33)
+  DJ Bravo: 37 (46b, 3x4, 2x6, SR 80.43)
+  MN Samuels: 28 (48b, 3x4, 0x6, SR 58.33)
+  S Chanderpaul: 21 (60b, 3x4, 0x6, SR 35.0)
+  CB Mpofu: 1/34 (9.0 ov, Econ 3.78)
+  T Mupariwa: 1/34 (9.0 ov, Econ 3.78)
+  E Chigumbura: 1/45 (9.5 ov, Econ 4.58)
+  AJ Ireland: 1/38 (7.0 ov, Econ 5.43)
+  P Utseya: 0/26 (10.0 ov, Econ 2.6)
+  Extras: 22
+
+Batting Highlights:
+  Half-century: SC Williams scored 70 off 88 balls (SR 79.55)
+  Half-century: BRM Taylor scored 50 off 121 balls (SR 41.32)
+
+Bowling Highlights:
+  Economical spell: DBL Powell conceded 15 runs in 6.0 overs (Econ 2.5)
+  Economical spell: CH Gayle conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: CD Collymore conceded 29 runs in 9.0 overs (Econ 3.22)
+  Economical spell: P Utseya conceded 26 runs in 10.0 overs (Econ 2.6)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 44 off 68 balls
+
+Key Moments:
+  Zimbabwe lost 5 early wickets.
+  West Indies lost 4 early wickets.
+  Zimbabwe lost 3 wickets in the powerplay.
+
+Result: West Indies won by 6 wickets
+Toss: West Indies won and chose to field
+Player of the Match: SC Williams

@@ -1,0 +1,296 @@
+{
+  "match_id": "81d2ba1994d2",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "SuperSport Park, Centurion",
+  "city": "Centurion",
+  "date": "2003-02-15",
+  "teams": {
+    "team1": "India",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Sourav Ganguly",
+    "team2": "Ricky Ponting"
+  },
+  "player_of_match": "JN Gillespie",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 125,
+      "wickets": 10,
+      "overs": 41.4,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 36,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.02,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Harbhajan Singh",
+          "runs": 28,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "A Kumble",
+          "runs": 16,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "D Mongia",
+          "runs": 13,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Ganguly",
+          "runs": 9,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JN Gillespie",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 13,
+          "wickets": 3,
+          "economy": 1.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 4.0,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "DS Lehmann",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 1,
+          "economy": 1.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "8.0",
+          "maidens": 3,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 2.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "4.4",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SC Ganguly",
+          "runs": 22,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 41,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "R Dravid",
+          "runs": 44,
+          "wickets": 3,
+          "overs": "13.1"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 45,
+          "wickets": 4,
+          "overs": "14.6"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 50,
+          "wickets": 5,
+          "overs": "17.6"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 78,
+          "wickets": 6,
+          "overs": "27.3"
+        },
+        {
+          "player": "D Mongia",
+          "runs": 80,
+          "wickets": 7,
+          "overs": "28.3"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 120,
+          "wickets": 8,
+          "overs": "37.2"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 125,
+          "wickets": 9,
+          "overs": "40.4"
+        },
+        {
+          "player": "J Srinath",
+          "runs": 125,
+          "wickets": 10,
+          "overs": "41.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 128,
+      "wickets": 1,
+      "overs": 22.2,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "AC Gilchrist",
+          "runs": 48,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.69,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 45,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 91.84,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 24,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Kumble",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 3.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "J Srinath",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "7.2",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 6.68,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 100,
+          "wickets": 1,
+          "overs": "17.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_australia_vs_india.json",
+  "match_summary": "2003 World Cup Group A: India vs Australia (2003-02-15) at Centurion.\nIndia: 125 all out (41.4 ov)\n  SR Tendulkar: 36 (59b, 3x4, 0x6)\n  JN Gillespie: 3/13 (10.0 ov)\n  B Lee: 3/36 (9.0 ov)\nAustralia: 128/1 (22.2 ov)\n  AC Gilchrist: 48 (61b, 6x4, 0x6)\n  ML Hayden: 45* (49b, 1x4, 2x6)\nAustralia won by 9 wickets.\nPlayer of the Match: JN Gillespie."
+}

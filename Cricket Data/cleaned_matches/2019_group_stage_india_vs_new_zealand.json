@@ -1,0 +1,31 @@
+{
+  "match_id": "e330f22ddbb2",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Trent Bridge, Nottingham",
+  "city": "Nottingham",
+  "date": "2019-06-13",
+  "teams": {
+    "team1": "India",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result"
+  },
+  "captains": {
+    "team1": "Virat Kohli",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_india_vs_new_zealand.json",
+  "match_summary": "2019 World Cup Group Stage: India vs New Zealand (2019-06-13) at Nottingham.\nMatch had no result (abandoned / no play possible)."
+}

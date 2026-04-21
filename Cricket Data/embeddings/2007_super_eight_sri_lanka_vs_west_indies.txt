@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Sri Lanka
+Stage: Super Eight
+Date: 2007-04-01
+Venue: Providence Stadium, Guyana
+Captain West Indies: Brian Lara
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs Sri Lanka (2007-04-01) at Guyana.
+
+Sri Lanka: 303/5 (50.0 ov)
+  ST Jayasuriya: 115 (101b, 10x4, 4x6, SR 113.86)
+  DPMD Jayawardene: 82 (113b, 2x4, 1x6, SR 72.57)
+  TM Dilshan: 39 (22b, 2x4, 2x6, SR 177.27)
+  LPC Silva: 23 (31b, 0x4, 0x6, SR 74.19)
+  WU Tharanga: 8 (24b, 1x4, 0x6, SR 33.33)
+  DBL Powell: 2/38 (10.0 ov, Econ 3.8)
+  RR Sarwan: 1/17 (3.0 ov, Econ 5.67)
+  IDR Bradshaw: 1/67 (10.0 ov, Econ 6.7)
+  DJ Bravo: 1/59 (7.0 ov, Econ 8.43)
+  JE Taylor: 0/32 (8.0 ov, Econ 4.0)
+  Extras: 25
+
+West Indies: 190 all out (44.3 ov)
+  S Chanderpaul: 76 (110b, 1x4, 5x6, SR 69.09)
+  RR Sarwan: 44 (68b, 1x4, 1x6, SR 64.71)
+  DJ Bravo: 21 (24b, 3x4, 0x6, SR 87.5)
+  JE Taylor: 13 (9b, 2x4, 0x6, SR 144.44)
+  CH Gayle: 10 (21b, 1x4, 0x6, SR 47.62)
+  ST Jayasuriya: 3/38 (8.3 ov, Econ 4.47)
+  WPUJC Vaas: 2/19 (8.0 ov, Econ 2.38)
+  M Muralitharan: 2/59 (9.0 ov, Econ 6.56)
+  SL Malinga: 2/34 (5.0 ov, Econ 6.8)
+  CRD Fernando: 0/19 (7.0 ov, Econ 2.71)
+  Extras: 11
+
+Batting Highlights:
+  Century: ST Jayasuriya scored 115 off 101 balls (SR 113.86, 10 fours, 4 sixes)
+  Half-century: DPMD Jayawardene scored 82 off 113 balls (SR 72.57)
+  Quickfire innings: TM Dilshan smashed 39 off 22 balls at SR 177.27
+  Half-century: S Chanderpaul scored 76 off 110 balls (SR 69.09)
+
+Bowling Highlights:
+  Key spell: ST Jayasuriya took 3/38
+  Economical spell: WPUJC Vaas conceded 19 runs in 8.0 overs (Econ 2.38)
+  Economical spell: CRD Fernando conceded 19 runs in 7.0 overs (Econ 2.71)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 82 off 113 balls
+
+Key Moments:
+  Sri Lanka lost 5 early wickets.
+  West Indies lost 10 early wickets.
+
+Result: Sri Lanka won by 113 runs
+Toss: West Indies won and chose to field
+Player of the Match: ST Jayasuriya

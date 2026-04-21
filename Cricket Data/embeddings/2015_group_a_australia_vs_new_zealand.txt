@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: New Zealand vs Australia
+Stage: Group A
+Date: 2015-02-28
+Venue: Eden Park, Auckland
+Captain New Zealand: Brendon McCullum
+Captain Australia: Michael Clarke
+
+Match Summary:
+  2015 World Cup Group A: New Zealand vs Australia (2015-02-28) at Auckland.
+
+Australia: 151 all out (32.2 ov)
+  BJ Haddin: 43 (41b, 4x4, 2x6, SR 104.88)
+  DA Warner: 34 (42b, 2x4, 1x6, SR 80.95)
+  SR Watson: 23 (30b, 2x4, 0x6, SR 76.67)
+  AJ Finch: 14 (7b, 1x4, 1x6, SR 200.0)
+  MJ Clarke: 12 (18b, 1x4, 0x6, SR 66.67)
+  TA Boult: 5/27 (10.0 ov, Econ 2.7)
+  DL Vettori: 2/41 (10.0 ov, Econ 4.1)
+  TG Southee: 2/65 (9.0 ov, Econ 7.22)
+  CJ Anderson: 1/6 (0.2 ov, Econ 18.0)
+  AF Milne: 0/6 (3.0 ov, Econ 2.0)
+  Extras: 12
+
+New Zealand: 152/9 (23.1 ov)
+  BB McCullum: 50 (24b, 7x4, 3x6, SR 208.33)
+  KS Williamson: 45 (42b, 5x4, 1x6, SR 107.14)
+  CJ Anderson: 26 (42b, 2x4, 1x6, SR 61.9)
+  MJ Guptill: 11 (14b, 0x4, 1x6, SR 78.57)
+  L Ronchi: 6 (7b, 0x4, 1x6, SR 85.71)
+  MA Starc: 6/28 (9.0 ov, Econ 3.11)
+  PJ Cummins: 2/38 (6.1 ov, Econ 6.16)
+  GJ Maxwell: 1/7 (1.0 ov, Econ 7.0)
+  MR Marsh: 0/11 (1.0 ov, Econ 11.0)
+  MG Johnson: 0/68 (6.0 ov, Econ 11.33)
+  Extras: 11
+
+Batting Highlights:
+  Half-century: BB McCullum scored 50 off 24 balls (SR 208.33)
+
+Bowling Highlights:
+  Match-changing spell: TA Boult took 5/27
+  Match-changing spell: MA Starc took 6/28
+
+Captain Performance:
+  Michael Clarke (Australia): scored 12 off 18 balls
+  Brendon McCullum (New Zealand): scored 50 off 24 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  New Zealand lost 9 early wickets.
+  New Zealand scored aggressively in the powerplay (81 runs at 8.1 RPO).
+  New Zealand lost 4 wickets in the powerplay.
+
+Result: New Zealand won by 1 wickets
+Toss: Australia won and chose to bat
+Player of the Match: TA Boult

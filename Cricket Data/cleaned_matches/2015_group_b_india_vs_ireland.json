@@ -1,0 +1,322 @@
+{
+  "match_id": "6c549889e686",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Seddon Park",
+  "city": "Hamilton",
+  "date": "2015-03-10",
+  "teams": {
+    "team1": "India",
+    "team2": "Ireland"
+  },
+  "toss": {
+    "winner": "Ireland",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "William Porterfield"
+  },
+  "player_of_match": "S Dhawan",
+  "innings": [
+    {
+      "team": "Ireland",
+      "runs": 259,
+      "wickets": 10,
+      "overs": 49.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "NJ O'Brien",
+          "runs": 75,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 67,
+          "balls": 93,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 72.04,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PR Stirling",
+          "runs": 42,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 102.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Balbirnie",
+          "runs": 24,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JF Mooney",
+          "runs": 12,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.56,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SK Raina",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PR Stirling",
+          "runs": 89,
+          "wickets": 1,
+          "overs": "14.6"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 92,
+          "wickets": 2,
+          "overs": "17.2"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 145,
+          "wickets": 3,
+          "overs": "31.2"
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 206,
+          "wickets": 4,
+          "overs": "38.6"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 208,
+          "wickets": 5,
+          "overs": "39.3"
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 222,
+          "wickets": 6,
+          "overs": "41.2"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 226,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "SR Thompson",
+          "runs": 227,
+          "wickets": 8,
+          "overs": "42.3"
+        },
+        {
+          "player": "GH Dockrell",
+          "runs": 238,
+          "wickets": 9,
+          "overs": "45.3"
+        },
+        {
+          "player": "AR Cusack",
+          "runs": 259,
+          "wickets": 10,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 260,
+      "wickets": 2,
+      "overs": 36.5,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "S Dhawan",
+          "runs": 100,
+          "balls": 85,
+          "fours": 11,
+          "sixes": 5,
+          "strike_rate": 117.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 64,
+          "balls": 66,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 96.97,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 44,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 104.76,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AM Rahane",
+          "runs": 33,
+          "balls": 28,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 117.86,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SR Thompson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 7.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "AR Cusack",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 5.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "6.5",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 6.15,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PR Stirling",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 7.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 7.33,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 174,
+          "wickets": 1,
+          "overs": "23.2"
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 190,
+          "wickets": 2,
+          "overs": "27.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_india_vs_ireland.json",
+  "match_summary": "2015 World Cup Group B: India vs Ireland (2015-03-10) at Hamilton.\nIreland: 259 all out (49.0 ov)\n  NJ O'Brien: 75 (75b, 7x4, 3x6)\n  WTS Porterfield: 67 (93b, 5x4, 1x6)\n  PR Stirling: 42 (41b, 4x4, 2x6)\n  Mohammed Shami: 3/41 (9.0 ov)\n  R Ashwin: 2/38 (10.0 ov)\nIndia: 260/2 (36.5 ov)\n  S Dhawan: 100 (85b, 11x4, 5x6)\n  RG Sharma: 64 (66b, 3x4, 3x6)\n  V Kohli: 44* (42b, 4x4, 1x6)\n  SR Thompson: 2/45 (6.0 ov)\nIndia won by 8 wickets.\nPlayer of the Match: S Dhawan."
+}

@@ -1,0 +1,128 @@
+{
+  "match_id": "97d339b97966",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "The Rose Bowl",
+  "city": "Southampton",
+  "date": "2019-06-10",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result"
+  },
+  "captains": {
+    "team1": "Faf du Plessis",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 29,
+      "wickets": 2,
+      "overs": 7.3,
+      "extras": 1,
+      "top_batters": [
+        {
+          "name": "Q de Kock",
+          "runs": 17,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SS Cottrell",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "O Thomas",
+          "overs": "0.3",
+          "maidens": 0,
+          "runs_conceded": 1,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 3.33,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 28,
+          "wickets": 2,
+          "overs": "6.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_south_africa_vs_west_indies.json",
+  "match_summary": "2019 World Cup Group Stage: South Africa vs West Indies (2019-06-10) at Southampton.\nMatch had no result (abandoned / no play possible)."
+}

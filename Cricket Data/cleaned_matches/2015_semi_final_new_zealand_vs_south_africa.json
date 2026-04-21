@@ -1,0 +1,326 @@
+{
+  "match_id": "6d16147aa363",
+  "world_cup_year": 2015,
+  "stage": "Semi-Final",
+  "venue": "Eden Park",
+  "city": "Auckland",
+  "date": "2015-03-24",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "4 wickets",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brendon McCullum",
+    "team2": "AB de Villiers"
+  },
+  "player_of_match": "GD Elliott",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 281,
+      "wickets": 5,
+      "overs": 43.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "F du Plessis",
+          "runs": 82,
+          "balls": 107,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 76.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 65,
+          "balls": 45,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 49,
+          "balls": 18,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 272.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Rossouw",
+          "runs": 39,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 73.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CJ Anderson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 3,
+          "economy": 12.0,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 5.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KS Williamson",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 5.11,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "7.5"
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 114,
+          "wickets": 3,
+          "overs": "26.1"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 217,
+          "wickets": 4,
+          "overs": "38.2"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 272,
+          "wickets": 5,
+          "overs": "42.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 299,
+      "wickets": 6,
+      "overs": 42.5,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "GD Elliott",
+          "runs": 84,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 115.07,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 59,
+          "balls": 26,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 226.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CJ Anderson",
+          "runs": 58,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 101.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 34,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 30,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Morkel",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 3,
+          "economy": 6.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 8.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 8.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 4.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "VD Philander",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 71,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 81,
+          "wickets": 2,
+          "overs": "8.5"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 128,
+          "wickets": 3,
+          "overs": "17.1"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 149,
+          "wickets": 4,
+          "overs": "21.4"
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 252,
+          "wickets": 5,
+          "overs": "37.6"
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 269,
+          "wickets": 6,
+          "overs": "40.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_semi_final_new_zealand_vs_south_africa.json",
+  "match_summary": "2015 World Cup Semi-Final: New Zealand vs South Africa (2015-03-24) at Auckland.\nSouth Africa: 281/5 (43.0 ov)\n  F du Plessis: 82 (107b, 7x4, 1x6)\n  AB de Villiers: 65* (45b, 8x4, 1x6)\n  DA Miller: 49 (18b, 6x4, 3x6)\n  CJ Anderson: 3/72 (6.0 ov)\n  TA Boult: 2/53 (9.0 ov)\nNew Zealand: 299/6 (42.5 ov)\n  GD Elliott: 84* (73b, 7x4, 3x6)\n  BB McCullum: 59 (26b, 8x4, 4x6)\n  CJ Anderson: 58 (57b, 6x4, 2x6)\n  M Morkel: 3/59 (9.0 ov)\nNew Zealand won by 4 wickets (D/L).\nPlayer of the Match: GD Elliott."
+}

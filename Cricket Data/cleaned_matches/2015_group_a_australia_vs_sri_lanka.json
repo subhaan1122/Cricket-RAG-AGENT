@@ -1,0 +1,374 @@
+{
+  "match_id": "0f40439ae89d",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Sydney Cricket Ground",
+  "city": "",
+  "date": "2015-03-08",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "64 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "Angelo Mathews"
+  },
+  "player_of_match": "GJ Maxwell",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 376,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 6,
+      "top_batters": [
+        {
+          "name": "GJ Maxwell",
+          "runs": 102,
+          "balls": 53,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 192.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 72,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 68,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 67,
+          "balls": 41,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 163.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BJ Haddin",
+          "runs": 25,
+          "balls": 9,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 277.78,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 87,
+          "wickets": 2,
+          "economy": 9.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 6.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "S Prasanna",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 77,
+          "wickets": 1,
+          "economy": 7.7,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 8.43,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 41,
+          "wickets": 2,
+          "overs": "8.4"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 175,
+          "wickets": 3,
+          "overs": "31.5"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 177,
+          "wickets": 4,
+          "overs": "32.3"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 337,
+          "wickets": 5,
+          "overs": "46.1"
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 338,
+          "wickets": 6,
+          "overs": "46.3"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 368,
+          "wickets": 7,
+          "overs": "48.6"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 373,
+          "wickets": 8,
+          "overs": "49.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 374,
+          "wickets": 9,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 312,
+      "wickets": 10,
+      "overs": 46.2,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 104,
+          "balls": 107,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 97.2,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 62,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 103.33,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "LD Chandimal",
+          "runs": 52,
+          "balls": 24,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": true,
+          "dismissal": "retired hurt"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 35,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 112.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 19,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JP Faulkner",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 5.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 3.48,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.89,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 10.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 5.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 135,
+          "wickets": 2,
+          "overs": "21.3"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 188,
+          "wickets": 3,
+          "overs": "30.6"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 201,
+          "wickets": 4,
+          "overs": "33.5"
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 281,
+          "wickets": 5,
+          "overs": "41.1"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 283,
+          "wickets": 6,
+          "overs": "41.3"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 293,
+          "wickets": 7,
+          "overs": "42.2"
+        },
+        {
+          "player": "S Prasanna",
+          "runs": 305,
+          "wickets": 8,
+          "overs": "44.3"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 307,
+          "wickets": 9,
+          "overs": "45.2"
+        },
+        {
+          "player": "SMSM Senanayake",
+          "runs": 312,
+          "wickets": 10,
+          "overs": "46.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_a_australia_vs_sri_lanka.json",
+  "match_summary": "2015 World Cup Group A: Australia vs Sri Lanka (2015-03-08) at Sydney Cricket Ground.\nAustralia: 376/9 (50.0 ov)\n  GJ Maxwell: 102 (53b, 10x4, 4x6)\n  SPD Smith: 72 (88b, 7x4, 1x6)\n  MJ Clarke: 68 (68b, 6x4, 0x6)\n  SL Malinga: 2/59 (10.0 ov)\n  NLTC Perera: 2/87 (9.0 ov)\nSri Lanka: 312 all out (46.2 ov)\n  KC Sangakkara: 104 (107b, 11x4, 0x6)\n  TM Dilshan: 62 (60b, 8x4, 0x6)\n  LD Chandimal: 52 (24b, 8x4, 1x6)\n  JP Faulkner: 3/48 (9.0 ov)\n  MA Starc: 2/29 (8.2 ov)\n  MG Johnson: 2/62 (9.0 ov)\nAustralia won by 64 runs.\nPlayer of the Match: GJ Maxwell."
+}

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: England vs New Zealand
+Stage: Group Stage
+Date: 2019-07-03
+Venue: Riverside Ground, Chester-le-Street
+Captain England: Eoin Morgan
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2019 World Cup Group Stage: England vs New Zealand (2019-07-03) at Chester-le-Street.
+
+England: 305/8 (50.0 ov)
+  JM Bairstow: 106 (99b, 15x4, 1x6, SR 107.07)
+  JJ Roy: 60 (61b, 8x4, 0x6, SR 98.36)
+  EJG Morgan: 42 (40b, 5x4, 0x6, SR 105.0)
+  JE Root: 24 (25b, 1x4, 0x6, SR 96.0)
+  AU Rashid: 16 (12b, 1x4, 0x6, SR 133.33)
+  JDS Neesham: 2/41 (10.0 ov, Econ 4.1)
+  MJ Henry: 2/54 (10.0 ov, Econ 5.4)
+  TA Boult: 2/56 (10.0 ov, Econ 5.6)
+  MJ Santner: 1/65 (10.0 ov, Econ 6.5)
+  TG Southee: 1/70 (9.0 ov, Econ 7.78)
+  Extras: 15
+
+New Zealand: 186 all out (45.0 ov)
+  TWM Latham: 57 (65b, 5x4, 0x6, SR 87.69)
+  LRPL Taylor: 28 (42b, 2x4, 0x6, SR 66.67)
+  KS Williamson: 27 (40b, 3x4, 0x6, SR 67.5)
+  JDS Neesham: 19 (27b, 1x4, 0x6, SR 70.37)
+  MJ Santner: 12 (30b, 1x4, 0x6, SR 40.0)
+  MA Wood: 3/34 (9.0 ov, Econ 3.78)
+  BA Stokes: 1/10 (5.0 ov, Econ 2.0)
+  JC Archer: 1/17 (7.0 ov, Econ 2.43)
+  LE Plunkett: 1/28 (8.0 ov, Econ 3.5)
+  CR Woakes: 1/44 (8.0 ov, Econ 5.5)
+  Extras: 14
+
+Batting Highlights:
+  Century: JM Bairstow scored 106 off 99 balls (SR 107.07, 15 fours, 1 sixes)
+  Half-century: JJ Roy scored 60 off 61 balls (SR 98.36)
+  Half-century: TWM Latham scored 57 off 65 balls (SR 87.69)
+
+Bowling Highlights:
+  Key spell: MA Wood took 3/34
+  Economical spell: BA Stokes conceded 10 runs in 5.0 overs (Econ 2.0)
+  Economical spell: JC Archer conceded 17 runs in 7.0 overs (Econ 2.43)
+  Economical spell: LE Plunkett conceded 28 runs in 8.0 overs (Econ 3.5)
+
+Captain Performance:
+  Eoin Morgan (England): scored 42 off 40 balls
+  Kane Williamson (New Zealand): scored 27 off 40 balls
+
+Key Moments:
+  England lost 8 early wickets.
+  New Zealand lost 10 early wickets.
+
+Result: England won by 119 runs
+Toss: England won and chose to bat
+Player of the Match: JM Bairstow

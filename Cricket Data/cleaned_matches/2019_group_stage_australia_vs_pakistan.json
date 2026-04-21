@@ -1,0 +1,380 @@
+{
+  "match_id": "5927949d4ad0",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "The Cooper Associates County Ground",
+  "city": "Taunton",
+  "date": "2019-06-12",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Pakistan"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "41 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Aaron Finch",
+    "team2": "Sarfaraz Ahmed"
+  },
+  "player_of_match": "DA Warner",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 307,
+      "wickets": 10,
+      "overs": 49.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "DA Warner",
+          "runs": 107,
+          "balls": 111,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 96.4,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 82,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 97.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SE Marsh",
+          "runs": 23,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 20,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AT Carey",
+          "runs": 20,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.24,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Amir",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 30,
+          "wickets": 5,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 1,
+          "economy": 6.7,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 8.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 146,
+          "wickets": 1,
+          "overs": "22.1"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 189,
+          "wickets": 2,
+          "overs": "28.4"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 223,
+          "wickets": 3,
+          "overs": "33.4"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 242,
+          "wickets": 4,
+          "overs": "37.5"
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 277,
+          "wickets": 5,
+          "overs": "42.1"
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 288,
+          "wickets": 6,
+          "overs": "44.3"
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 299,
+          "wickets": 7,
+          "overs": "46.2"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 302,
+          "wickets": 8,
+          "overs": "47.3"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 304,
+          "wickets": 9,
+          "overs": "48.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 307,
+          "wickets": 10,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "runs": 266,
+      "wickets": 10,
+      "overs": 45.4,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 53,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 46,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 93.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Wahab Riaz",
+          "runs": 45,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 115.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sarfraz Ahmed",
+          "runs": 40,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Hasan Ali",
+          "runs": 32,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 213.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 3,
+          "economy": 3.3,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "MA Starc",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "KW Richardson",
+          "overs": "8.4",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 7.15,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "NM Coulter-Nile",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 1,
+          "economy": 5.89,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Finch",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 56,
+          "wickets": 2,
+          "overs": "10.5"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 136,
+          "wickets": 3,
+          "overs": "25.1"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 146,
+          "wickets": 4,
+          "overs": "26.6"
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 147,
+          "wickets": 5,
+          "overs": "27.3"
+        },
+        {
+          "player": "Asif Ali",
+          "runs": 160,
+          "wickets": 6,
+          "overs": "29.6"
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 200,
+          "wickets": 7,
+          "overs": "33.5"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 264,
+          "wickets": 8,
+          "overs": "44.2"
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 265,
+          "wickets": 9,
+          "overs": "44.4"
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 266,
+          "wickets": 10,
+          "overs": "45.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_australia_vs_pakistan.json",
+  "match_summary": "2019 World Cup Group Stage: Australia vs Pakistan (2019-06-12) at Taunton.\nAustralia: 307 all out (49.0 ov)\n  DA Warner: 107 (111b, 11x4, 1x6)\n  AJ Finch: 82 (84b, 6x4, 4x6)\n  Mohammad Amir: 5/30 (10.0 ov)\n  Shaheen Shah Afridi: 2/70 (10.0 ov)\nPakistan: 266 all out (45.4 ov)\n  Imam-ul-Haq: 53 (75b, 7x4, 0x6)\n  Mohammad Hafeez: 46 (49b, 3x4, 1x6)\n  Wahab Riaz: 45 (39b, 2x4, 3x6)\n  PJ Cummins: 3/33 (10.0 ov)\n  MA Starc: 2/43 (9.0 ov)\n  KW Richardson: 2/62 (8.4 ov)\nAustralia won by 41 runs.\nPlayer of the Match: DA Warner."
+}

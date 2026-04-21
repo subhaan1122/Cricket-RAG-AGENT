@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: England vs Netherlands
+Stage: Group B
+Date: 2011-02-22
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Captain England: Andrew Strauss
+Captain Netherlands: Peter Borren
+
+Match Summary:
+  2011 World Cup Group B: England vs Netherlands (2011-02-22) at Nagpur.
+
+Netherlands: 292/6 (50.0 ov)
+  RN ten Doeschate: 119 (110b, 8x4, 3x6, SR 108.18)
+  TLW Cooper: 47 (73b, 3x4, 0x6, SR 64.38)
+  PW Borren: 35 (24b, 4x4, 0x6, SR 145.83)
+  W Barresi: 29 (25b, 6x4, 0x6, SR 116.0)
+  TN de Grooth: 28 (31b, 3x4, 0x6, SR 90.32)
+  GP Swann: 2/35 (10.0 ov, Econ 3.5)
+  SCJ Broad: 2/65 (10.0 ov, Econ 6.5)
+  TT Bresnan: 1/49 (10.0 ov, Econ 4.9)
+  PD Collingwood: 1/46 (8.0 ov, Econ 5.75)
+  JM Anderson: 0/72 (10.0 ov, Econ 7.2)
+  Extras: 11
+
+England: 296/4 (48.4 ov)
+  AJ Strauss: 88 (83b, 9x4, 0x6, SR 106.02)
+  IJL Trott: 62 (65b, 4x4, 0x6, SR 95.38)
+  KP Pietersen: 39 (61b, 5x4, 0x6, SR 63.93)
+  IR Bell: 33 (40b, 1x4, 0x6, SR 82.5)
+  RS Bopara: 30 (20b, 2x4, 1x6, SR 150.0)
+  RN ten Doeschate: 2/47 (10.0 ov, Econ 4.7)
+  PM Seelaar: 1/54 (10.0 ov, Econ 5.4)
+  Mudassar Bukhari: 1/54 (9.0 ov, Econ 6.0)
+  BA Westdijk: 0/41 (7.0 ov, Econ 5.86)
+  BP Loots: 0/74 (9.4 ov, Econ 7.66)
+  Extras: 14
+
+Batting Highlights:
+  Century: RN ten Doeschate scored 119 off 110 balls (SR 108.18, 8 fours, 3 sixes)
+  Half-century: AJ Strauss scored 88 off 83 balls (SR 106.02)
+  Half-century: IJL Trott scored 62 off 65 balls (SR 95.38)
+  Quickfire innings: RS Bopara smashed 30 off 20 balls at SR 150.0
+
+Bowling Highlights:
+  Economical spell: GP Swann conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Peter Borren (Netherlands): scored 35 off 24 balls
+  Andrew Strauss (England): scored 88 off 83 balls
+
+Key Moments:
+  Netherlands lost 6 early wickets.
+  England lost 4 early wickets.
+  Netherlands exploded in the death overs (104 runs at 10.4 RPO).
+
+Result: England won by 6 wickets
+Toss: Netherlands won and chose to bat
+Player of the Match: RN ten Doeschate

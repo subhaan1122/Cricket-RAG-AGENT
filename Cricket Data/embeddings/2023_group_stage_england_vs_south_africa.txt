@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2023
+Match: South Africa vs England
+Stage: Group Stage
+Date: 2023-10-21
+Venue: Wankhede Stadium, Mumbai, Mumbai
+Captain South Africa: Temba Bavuma
+Captain England: Jos Buttler
+
+Match Summary:
+  2023 World Cup Group Stage: South Africa vs England (2023-10-21) at Mumbai.
+
+South Africa: 399/7 (50.0 ov)
+  H Klaasen: 109 (67b, 12x4, 4x6, SR 162.69)
+  RR Hendricks: 85 (75b, 9x4, 3x6, SR 113.33)
+  M Jansen: 75 (42b, 3x4, 6x6, SR 178.57)
+  HE van der Dussen: 60 (61b, 8x4, 0x6, SR 98.36)
+  AK Markram: 42 (44b, 4x4, 0x6, SR 95.45)
+  RJW Topley: 3/88 (8.5 ov, Econ 9.96)
+  AU Rashid: 2/61 (10.0 ov, Econ 6.1)
+  AAP Atkinson: 2/60 (9.0 ov, Econ 6.67)
+  DJ Willey: 0/61 (9.0 ov, Econ 6.78)
+  JE Root: 0/48 (6.1 ov, Econ 7.78)
+  Extras: 15
+
+England: 170/9 (22.0 ov)
+  MA Wood: 43 (17b, 2x4, 5x6, SR 252.94)
+  AAP Atkinson: 35 (21b, 7x4, 0x6, SR 166.67)
+  HC Brook: 17 (25b, 2x4, 1x6, SR 68.0)
+  JC Buttler: 15 (7b, 2x4, 1x6, SR 214.29)
+  DJ Willey: 12 (12b, 1x4, 1x6, SR 100.0)
+  G Coetzee: 3/35 (4.0 ov, Econ 8.75)
+  L Ngidi: 2/26 (5.0 ov, Econ 5.2)
+  M Jansen: 2/35 (5.0 ov, Econ 7.0)
+  K Rabada: 1/38 (6.0 ov, Econ 6.33)
+  KA Maharaj: 1/27 (2.0 ov, Econ 13.5)
+  Extras: 15
+
+Batting Highlights:
+  Century: H Klaasen scored 109 off 67 balls (SR 162.69, 12 fours, 4 sixes)
+  Half-century: RR Hendricks scored 85 off 75 balls (SR 113.33)
+  Half-century: M Jansen scored 75 off 42 balls (SR 178.57)
+  Half-century: HE van der Dussen scored 60 off 61 balls (SR 98.36)
+  Quickfire innings: MA Wood smashed 43 off 17 balls at SR 252.94
+  Quickfire innings: AAP Atkinson smashed 35 off 21 balls at SR 166.67
+
+Bowling Highlights:
+  Key spell: RJW Topley took 3/88
+  Key spell: G Coetzee took 3/35
+
+Captain Performance:
+  Jos Buttler (England): scored 15 off 7 balls
+
+Key Moments:
+  South Africa lost 7 early wickets.
+  England lost 9 early wickets.
+  South Africa exploded in the death overs (143 runs at 14.3 RPO).
+  England lost 4 wickets in the powerplay.
+
+Result: South Africa won by 229 runs
+Toss: England won and chose to field
+Player of the Match: H Klaasen

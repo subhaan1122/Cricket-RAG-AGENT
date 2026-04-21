@@ -1,0 +1,380 @@
+{
+  "match_id": "c0a3bc7f14f7",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Eden Park",
+  "city": "Auckland",
+  "date": "2015-03-07",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "29 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Misbah-ul-Haq",
+    "team2": "AB de Villiers"
+  },
+  "player_of_match": "Sarfraz Ahmed",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 222,
+      "wickets": 10,
+      "overs": 46.4,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "Misbah-ul-Haq",
+          "runs": 56,
+          "balls": 86,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sarfraz Ahmed",
+          "runs": 49,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 37,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.09,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 22,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 146.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "runs": 18,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DW Steyn",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 2,
+          "economy": 2.59,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "KJ Abbott",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 4.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AB de Villiers",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 7.17,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "8.4"
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 92,
+          "wickets": 2,
+          "overs": "16.4"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 132,
+          "wickets": 3,
+          "overs": "26.4"
+        },
+        {
+          "player": "Sohaib Maqsood",
+          "runs": 156,
+          "wickets": 4,
+          "overs": "31.6"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 175,
+          "wickets": 5,
+          "overs": "36.5"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 212,
+          "wickets": 6,
+          "overs": "41.4"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 212,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 218,
+          "wickets": 8,
+          "overs": "43.5"
+        },
+        {
+          "player": "Rahat Ali",
+          "runs": 221,
+          "wickets": 9,
+          "overs": "45.2"
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 222,
+          "wickets": 10,
+          "overs": "46.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 202,
+      "wickets": 10,
+      "overs": 33.3,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "AB de Villiers",
+          "runs": 77,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 132.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 38,
+          "balls": 27,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 140.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 27,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 93.1,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DW Steyn",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Duminy",
+          "runs": 12,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Rahat Ali",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "7.3",
+          "maidens": 2,
+          "runs_conceded": 45,
+          "wickets": 3,
+          "economy": 6.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Irfan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 3,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Sohail Khan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "9.3"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 67,
+          "wickets": 3,
+          "overs": "10.1"
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 74,
+          "wickets": 4,
+          "overs": "12.2"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 77,
+          "wickets": 5,
+          "overs": "15.5"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 102,
+          "wickets": 6,
+          "overs": "19.4"
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 138,
+          "wickets": 7,
+          "overs": "23.6"
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 172,
+          "wickets": 8,
+          "overs": "29.2"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 200,
+          "wickets": 9,
+          "overs": "32.2"
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 202,
+          "wickets": 10,
+          "overs": "33.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_pakistan_vs_south_africa.json",
+  "match_summary": "2015 World Cup Group B: Pakistan vs South Africa (2015-03-07) at Auckland.\nPakistan: 222 all out (46.4 ov)\n  Misbah-ul-Haq: 56 (86b, 4x4, 0x6)\n  Sarfraz Ahmed: 49 (49b, 5x4, 3x6)\n  Younis Khan: 37 (44b, 4x4, 0x6)\n  DW Steyn: 3/30 (10.0 ov)\n  M Morkel: 2/25 (9.4 ov)\n  KJ Abbott: 2/45 (9.0 ov)\nSouth Africa: 202 all out (33.3 ov)\n  AB de Villiers: 77 (58b, 7x4, 5x6)\n  HM Amla: 38 (27b, 9x4, 0x6)\n  Rahat Ali: 3/40 (8.0 ov)\n  Wahab Riaz: 3/45 (7.3 ov)\n  Mohammad Irfan: 3/52 (8.0 ov)\nPakistan won by 29 runs (D/L).\nPlayer of the Match: Sarfraz Ahmed."
+}

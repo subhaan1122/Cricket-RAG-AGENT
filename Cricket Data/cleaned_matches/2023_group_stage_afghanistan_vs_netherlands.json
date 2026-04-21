@@ -1,0 +1,54 @@
+{
+  "match_id": "10b462d50afd",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Ekana Cricket Stadium, Lucknow",
+  "city": "Lucknow",
+  "date": "2023-11-03",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Netherlands",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Afghanistan",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Scott Edwards"
+  },
+  "player_of_match": "Rahmanullah Gurbaz",
+  "innings": [
+    {
+      "team": "Netherlands",
+      "runs": 179,
+      "wickets": 10,
+      "overs": 46.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 181,
+      "wickets": 3,
+      "overs": 31.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_netherlands.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs Netherlands (2023-11-03) at Lucknow.\nNetherlands: 179 all out (46.3 ov)\nAfghanistan: 181/3 (31.3 ov)\nAfghanistan won by 7 wickets. Player of the Match: Rahmanullah Gurbaz."
+}

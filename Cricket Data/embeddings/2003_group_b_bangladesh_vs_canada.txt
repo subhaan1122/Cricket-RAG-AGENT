@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Canada vs Bangladesh
+Stage: Group B
+Date: 2003-02-11
+Venue: Kingsmead, Durban, Durban
+Captain Canada: Joe Harris
+Captain Bangladesh: Khaled Mashud
+
+Match Summary:
+  2003 World Cup Group B: Canada vs Bangladesh (2003-02-11) at Durban.
+
+Canada: 180 all out (49.1 ov)
+  IS Billcliff: 42 (63b, 6x4, 0x6, SR 66.67)
+  DR Chumney: 28 (25b, 3x4, 1x6, SR 112.0)
+  I Maraj: 24 (43b, 3x4, 0x6, SR 55.81)
+  A Codrington: 16 (31b, 1x4, 0x6, SR 51.61)
+  AF Sattaur: 13 (40b, 0x4, 1x6, SR 32.5)
+  Sanwar Hossain: 2/26 (10.0 ov, Econ 2.6)
+  Mashrafe Mortaza: 2/38 (8.0 ov, Econ 4.75)
+  Alok Kapali: 1/19 (10.0 ov, Econ 1.9)
+  Mohammad Rafique: 1/34 (10.0 ov, Econ 3.4)
+  Manjural Islam: 1/30 (8.1 ov, Econ 3.67)
+  Extras: 23
+
+Bangladesh: 120 all out (28.0 ov)
+  Sanwar Hossain: 25 (24b, 2x4, 0x6, SR 104.17)
+  Hannan Sarkar: 25 (35b, 4x4, 0x6, SR 71.43)
+  Alok Kapali: 19 (25b, 2x4, 0x6, SR 76.0)
+  Ehsanul Haque: 13 (17b, 2x4, 0x6, SR 76.47)
+  Mohammad Rafique: 12 (19b, 2x4, 0x6, SR 63.16)
+  A Codrington: 5/27 (9.0 ov, Econ 3.0)
+  JM Davison: 2/15 (5.0 ov, Econ 3.0)
+  D Joseph: 2/42 (8.0 ov, Econ 5.25)
+  S Thuraisingam: 1/34 (6.0 ov, Econ 5.67)
+  Extras: 16
+
+Batting Highlights:
+  Top scorer: IS Billcliff with 42 runs
+
+Bowling Highlights:
+  Economical spell: Sanwar Hossain conceded 26 runs in 10.0 overs (Econ 2.6)
+  Economical spell: Alok Kapali conceded 19 runs in 10.0 overs (Econ 1.9)
+  Economical spell: Mohammad Rafique conceded 34 runs in 10.0 overs (Econ 3.4)
+  Match-changing spell: A Codrington took 5/27
+  Economical spell: JM Davison conceded 15 runs in 5.0 overs (Econ 3.0)
+
+Captain Performance:
+  Canada captain: Joe Harris
+  Bangladesh captain: Khaled Mashud
+
+Key Moments:
+  Canada lost 10 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: Canada won by 60 runs
+Toss: Canada won and chose to bat
+Player of the Match: A Codrington

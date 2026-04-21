@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: Australia vs New Zealand
+Stage: Final
+Date: 2015-03-29
+Venue: Melbourne Cricket Ground
+Captain Australia: Michael Clarke
+Captain New Zealand: Brendon McCullum
+
+Match Summary:
+  2015 World Cup Final: Australia vs New Zealand (2015-03-29) at Melbourne Cricket Ground.
+
+New Zealand: 183 all out (45.0 ov)
+  GD Elliott: 83 (82b, 7x4, 1x6, SR 101.22)
+  LRPL Taylor: 40 (72b, 2x4, 0x6, SR 55.56)
+  MJ Guptill: 15 (34b, 1x4, 1x6, SR 44.12)
+  KS Williamson: 12 (33b, 1x4, 0x6, SR 36.36)
+  TG Southee: 11 (11b, 0x4, 1x6, SR 100.0)
+  MG Johnson: 3/30 (9.0 ov, Econ 3.33)
+  JP Faulkner: 3/36 (9.0 ov, Econ 4.0)
+  MA Starc: 2/20 (8.0 ov, Econ 2.5)
+  GJ Maxwell: 1/37 (7.0 ov, Econ 5.29)
+  JR Hazlewood: 0/30 (8.0 ov, Econ 3.75)
+  Extras: 13
+
+Australia: 186/3 (33.1 ov)
+  MJ Clarke: 74 (72b, 10x4, 1x6, SR 102.78)
+  SPD Smith: 56 (71b, 3x4, 0x6, SR 78.87)
+  DA Warner: 45 (46b, 7x4, 0x6, SR 97.83)
+  SR Watson: 2 (5b, 0x4, 0x6, SR 40.0)
+  AJ Finch: 0 (5b, 0x4, 0x6, SR 0.0)
+  MJ Henry: 2/46 (9.1 ov, Econ 5.02)
+  TA Boult: 1/40 (10.0 ov, Econ 4.0)
+  DL Vettori: 0/25 (5.0 ov, Econ 5.0)
+  CJ Anderson: 0/7 (1.0 ov, Econ 7.0)
+  TG Southee: 0/65 (8.0 ov, Econ 8.12)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: GD Elliott scored 83 off 82 balls (SR 101.22)
+  Half-century: MJ Clarke scored 74 off 72 balls (SR 102.78)
+  Half-century: SPD Smith scored 56 off 71 balls (SR 78.87)
+
+Bowling Highlights:
+  Key spell: MG Johnson took 3/30
+  Key spell: JP Faulkner took 3/36
+  Economical spell: MA Starc conceded 20 runs in 8.0 overs (Econ 2.5)
+
+Captain Performance:
+  Michael Clarke (Australia): scored 74 off 72 balls
+
+Key Moments:
+  New Zealand lost 10 early wickets.
+  Australia lost 3 early wickets.
+
+Result: Australia won by 7 wickets
+Toss: New Zealand won and chose to bat
+Player of the Match: JP Faulkner

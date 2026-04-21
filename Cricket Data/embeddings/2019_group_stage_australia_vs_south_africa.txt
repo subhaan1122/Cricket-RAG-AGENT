@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: Australia vs South Africa
+Stage: Group Stage
+Date: 2019-07-06
+Venue: Old Trafford, Manchester
+Captain Australia: Aaron Finch
+Captain South Africa: Faf du Plessis
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs South Africa (2019-07-06) at Manchester.
+
+South Africa: 325/6 (50.0 ov)
+  F du Plessis: 100 (94b, 7x4, 2x6, SR 106.38)
+  HE van der Dussen: 95 (97b, 4x4, 4x6, SR 97.94)
+  Q de Kock: 52 (51b, 7x4, 0x6, SR 101.96)
+  AK Markram: 34 (37b, 6x4, 1x6, SR 91.89)
+  JP Duminy: 14 (13b, 1x4, 0x6, SR 107.69)
+  NM Lyon: 2/53 (10.0 ov, Econ 5.3)
+  MA Starc: 2/59 (9.0 ov, Econ 6.56)
+  JP Behrendorff: 1/55 (8.0 ov, Econ 6.88)
+  PJ Cummins: 1/66 (9.0 ov, Econ 7.33)
+  SPD Smith: 0/5 (1.0 ov, Econ 5.0)
+  Extras: 24
+
+Australia: 315 all out (49.5 ov)
+  DA Warner: 122 (117b, 15x4, 2x6, SR 104.27)
+  AT Carey: 85 (69b, 11x4, 1x6, SR 123.19)
+  MP Stoinis: 22 (34b, 4x4, 0x6, SR 64.71)
+  UT Khawaja: 18 (14b, 3x4, 0x6, SR 128.57)
+  MA Starc: 16 (11b, 1x4, 1x6, SR 145.45)
+  K Rabada: 3/56 (10.0 ov, Econ 5.6)
+  D Pretorius: 2/27 (6.0 ov, Econ 4.5)
+  AL Phehlukwayo: 2/22 (2.5 ov, Econ 7.76)
+  Imran Tahir: 1/59 (9.0 ov, Econ 6.56)
+  CH Morris: 1/63 (9.0 ov, Econ 7.0)
+  Extras: 7
+
+Batting Highlights:
+  Century: F du Plessis scored 100 off 94 balls (SR 106.38, 7 fours, 2 sixes)
+  Half-century: HE van der Dussen scored 95 off 97 balls (SR 97.94)
+  Half-century: Q de Kock scored 52 off 51 balls (SR 101.96)
+  Century: DA Warner scored 122 off 117 balls (SR 104.27, 15 fours, 2 sixes)
+  Half-century: AT Carey scored 85 off 69 balls (SR 123.19)
+
+Bowling Highlights:
+  Key spell: K Rabada took 3/56
+
+Captain Performance:
+  Faf du Plessis (South Africa): scored 100 off 94 balls
+
+Key Moments:
+  South Africa lost 6 early wickets.
+  Australia lost 10 early wickets.
+  South Africa scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: South Africa won by 10 runs
+Toss: South Africa won and chose to bat
+Player of the Match: F du Plessis

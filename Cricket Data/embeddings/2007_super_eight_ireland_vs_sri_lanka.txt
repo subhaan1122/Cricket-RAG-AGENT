@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: Ireland vs Sri Lanka
+Stage: Super Eight
+Date: 2007-04-18
+Venue: National Cricket Stadium, St George's, Grenada
+Captain Ireland: Trent Johnston
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Super Eight: Ireland vs Sri Lanka (2007-04-18) at Grenada.
+
+Ireland: 77 all out (27.4 ov)
+  JP Bray: 20 (29b, 4x4, 0x6, SR 68.97)
+  D Langford-Smith: 18 (21b, 2x4, 1x6, SR 85.71)
+  WTS Porterfield: 17 (51b, 1x4, 0x6, SR 33.33)
+  WB Rankin: 7 (17b, 1x4, 0x6, SR 41.18)
+  NJ O'Brien: 4 (28b, 0x4, 0x6, SR 14.29)
+  MF Maharoof: 4/25 (10.0 ov, Econ 2.5)
+  M Muralitharan: 4/19 (5.0 ov, Econ 3.8)
+  WPUJC Vaas: 1/18 (5.4 ov, Econ 3.18)
+  KMDN Kulasekara: 0/10 (7.0 ov, Econ 1.43)
+  Extras: 9
+
+Sri Lanka: 81/2 (10.0 ov)
+  DPMD Jayawardene: 39 (27b, 6x4, 1x6, SR 144.44)
+  ST Jayasuriya: 24 (20b, 3x4, 1x6, SR 120.0)
+  KC Sangakkara: 10 (9b, 1x4, 0x6, SR 111.11)
+  WU Tharanga: 0 (7b, 0x4, 0x6, SR 0.0)
+  WB Rankin: 1/36 (4.0 ov, Econ 9.0)
+  D Langford-Smith: 1/29 (3.0 ov, Econ 9.67)
+  AC Botha: 0/4 (1.0 ov, Econ 4.0)
+  KJ O'Brien: 0/4 (1.0 ov, Econ 4.0)
+  KED Carroll: 0/8 (1.0 ov, Econ 8.0)
+  Extras: 8
+
+Batting Highlights:
+  Top scorer: DPMD Jayawardene with 39 runs
+
+Bowling Highlights:
+  Match-changing spell: MF Maharoof took 4/25
+  Match-changing spell: M Muralitharan took 4/19
+  Economical spell: WPUJC Vaas conceded 18 runs in 5.4 overs (Econ 3.18)
+  Economical spell: KMDN Kulasekara conceded 10 runs in 7.0 overs (Econ 1.43)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 39 off 27 balls
+
+Key Moments:
+  Ireland lost 10 early wickets.
+  Ireland lost 3 wickets in the powerplay.
+  Sri Lanka scored aggressively in the powerplay (81 runs at 8.1 RPO).
+
+Result: Sri Lanka won by 8 wickets
+Toss: Sri Lanka won and chose to field
+Player of the Match: MF Maharoof

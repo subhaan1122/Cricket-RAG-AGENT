@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2011
+Match: South Africa vs West Indies
+Stage: Group B
+Date: 2011-02-24
+Venue: Feroz Shah Kotla, Delhi
+Captain South Africa: Graeme Smith
+Captain West Indies: Darren Sammy
+
+Match Summary:
+  2011 World Cup Group B: South Africa vs West Indies (2011-02-24) at Delhi.
+
+West Indies: 222 all out (47.3 ov)
+  DM Bravo: 73 (82b, 8x4, 1x6, SR 89.02)
+  DJ Bravo: 40 (37b, 1x4, 3x6, SR 108.11)
+  DS Smith: 36 (57b, 3x4, 0x6, SR 63.16)
+  S Chanderpaul: 31 (51b, 1x4, 1x6, SR 60.78)
+  DC Thomas: 15 (26b, 1x4, 0x6, SR 57.69)
+  Imran Tahir: 4/41 (10.0 ov, Econ 4.1)
+  DW Steyn: 3/24 (7.3 ov, Econ 3.2)
+  J Botha: 2/48 (9.0 ov, Econ 5.33)
+  M Morkel: 0/35 (8.0 ov, Econ 4.38)
+  RJ Peterson: 0/49 (10.0 ov, Econ 4.9)
+  Extras: 15
+
+South Africa: 223/3 (42.5 ov)
+  AB de Villiers: 107 (105b, 8x4, 2x6, SR 101.9)
+  GC Smith: 45 (78b, 2x4, 0x6, SR 57.69)
+  JP Duminy: 42 (53b, 1x4, 0x6, SR 79.25)
+  HM Amla: 14 (15b, 2x4, 0x6, SR 93.33)
+  JH Kallis: 4 (7b, 0x4, 0x6, SR 57.14)
+  KA Pollard: 1/37 (7.5 ov, Econ 4.72)
+  SJ Benn: 1/51 (10.0 ov, Econ 5.1)
+  KAJ Roach: 1/42 (8.0 ov, Econ 5.25)
+  CH Gayle: 0/26 (6.0 ov, Econ 4.33)
+  DJG Sammy: 0/40 (8.0 ov, Econ 5.0)
+  Extras: 11
+
+Batting Highlights:
+  Half-century: DM Bravo scored 73 off 82 balls (SR 89.02)
+  Century: AB de Villiers scored 107 off 105 balls (SR 101.9, 8 fours, 2 sixes)
+
+Bowling Highlights:
+  Match-changing spell: Imran Tahir took 4/41
+  Key spell: DW Steyn took 3/24
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 45 off 78 balls
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  South Africa lost 3 early wickets.
+
+Result: South Africa won by 7 wickets
+Toss: South Africa won and chose to field
+Player of the Match: AB de Villiers

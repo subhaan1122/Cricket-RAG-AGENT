@@ -1,0 +1,782 @@
+{
+  "year": 2019,
+  "host_countries": [
+    "England",
+    "Wales"
+  ],
+  "format": "10 teams – Round Robin, Semi-finals, Final",
+  "total_matches": 48,
+  "completed_matches": 44,
+  "winner": "England",
+  "runner_up": "New Zealand",
+  "semi_finalists": [
+    "Australia",
+    "England",
+    "India",
+    "New Zealand"
+  ],
+  "finalists": [
+    "England",
+    "New Zealand"
+  ],
+  "teams": [
+    "Afghanistan",
+    "Australia",
+    "Bangladesh",
+    "England",
+    "India",
+    "New Zealand",
+    "Pakistan",
+    "South Africa",
+    "Sri Lanka",
+    "West Indies"
+  ],
+  "player_of_tournament": "Kane Williamson",
+  "top_run_scorer": {
+    "name": "RG Sharma",
+    "runs": 646
+  },
+  "top_wicket_taker": {
+    "name": "MA Starc",
+    "wickets": 26
+  },
+  "highest_individual_score": {
+    "name": "DA Warner",
+    "runs": 166,
+    "against": "Bangladesh",
+    "match_stage": "Group Stage"
+  },
+  "team_standings": [
+    {
+      "team": "England",
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "win_pct": 72.7
+    },
+    {
+      "team": "India",
+      "played": 9,
+      "won": 7,
+      "lost": 2,
+      "win_pct": 77.8
+    },
+    {
+      "team": "Australia",
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "win_pct": 70.0
+    },
+    {
+      "team": "New Zealand",
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "win_pct": 60.0
+    },
+    {
+      "team": "Pakistan",
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "win_pct": 62.5
+    },
+    {
+      "team": "Sri Lanka",
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "win_pct": 42.9
+    },
+    {
+      "team": "Bangladesh",
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "win_pct": 37.5
+    },
+    {
+      "team": "South Africa",
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "win_pct": 37.5
+    },
+    {
+      "team": "West Indies",
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "win_pct": 25.0
+    },
+    {
+      "team": "Afghanistan",
+      "played": 9,
+      "won": 0,
+      "lost": 9,
+      "win_pct": 0.0
+    }
+  ],
+  "captains": {
+    "England": "Eoin Morgan",
+    "New Zealand": "Kane Williamson",
+    "India": "Virat Kohli",
+    "Australia": "Aaron Finch",
+    "Pakistan": "Sarfaraz Ahmed",
+    "South Africa": "Faf du Plessis",
+    "Sri Lanka": "Dimuth Karunaratne",
+    "Bangladesh": "Mashrafe Mortaza",
+    "West Indies": "Jason Holder",
+    "Afghanistan": "Gulbadin Naib"
+  },
+  "team_performance": {
+    "Afghanistan": {
+      "matches": 9,
+      "wins": 0,
+      "losses": 9,
+      "no_results": 0,
+      "runs_scored": 1831,
+      "runs_conceded": 2138,
+      "wickets_taken": 51,
+      "wickets_lost": 87,
+      "highest_total": 288,
+      "lowest_total": 125,
+      "win_percentage": 0.0
+    },
+    "Australia": {
+      "matches": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 2901,
+      "runs_conceded": 2607,
+      "wickets_taken": 80,
+      "wickets_lost": 81,
+      "highest_total": 381,
+      "lowest_total": 209,
+      "win_percentage": 70.0
+    },
+    "Bangladesh": {
+      "matches": 9,
+      "wins": 3,
+      "losses": 5,
+      "no_results": 1,
+      "runs_scored": 2278,
+      "runs_conceded": 2474,
+      "wickets_taken": 63,
+      "wickets_lost": 64,
+      "highest_total": 333,
+      "lowest_total": 221,
+      "win_percentage": 33.3
+    },
+    "England": {
+      "matches": 11,
+      "wins": 8,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 3198,
+      "runs_conceded": 2782,
+      "wickets_taken": 96,
+      "wickets_lost": 78,
+      "highest_total": 397,
+      "lowest_total": 15,
+      "win_percentage": 72.7
+    },
+    "India": {
+      "matches": 10,
+      "wins": 7,
+      "losses": 2,
+      "no_results": 1,
+      "runs_scored": 2516,
+      "runs_conceded": 2237,
+      "wickets_taken": 77,
+      "wickets_lost": 56,
+      "highest_total": 352,
+      "lowest_total": 221,
+      "win_percentage": 70.0
+    },
+    "New Zealand": {
+      "matches": 11,
+      "wins": 6,
+      "losses": 4,
+      "no_results": 1,
+      "runs_scored": 2169,
+      "runs_conceded": 2345,
+      "wickets_taken": 87,
+      "wickets_lost": 68,
+      "highest_total": 291,
+      "lowest_total": 15,
+      "win_percentage": 54.5
+    },
+    "Pakistan": {
+      "matches": 9,
+      "wins": 5,
+      "losses": 3,
+      "no_results": 1,
+      "runs_scored": 2025,
+      "runs_conceded": 2029,
+      "wickets_taken": 61,
+      "wickets_lost": 61,
+      "highest_total": 348,
+      "lowest_total": 105,
+      "win_percentage": 55.6
+    },
+    "South Africa": {
+      "matches": 9,
+      "wins": 3,
+      "losses": 5,
+      "no_results": 1,
+      "runs_scored": 1934,
+      "runs_conceded": 2067,
+      "wickets_taken": 61,
+      "wickets_lost": 52,
+      "highest_total": 325,
+      "lowest_total": 29,
+      "win_percentage": 33.3
+    },
+    "Sri Lanka": {
+      "matches": 9,
+      "wins": 3,
+      "losses": 4,
+      "no_results": 2,
+      "runs_scored": 1621,
+      "runs_conceded": 1621,
+      "wickets_taken": 40,
+      "wickets_lost": 62,
+      "highest_total": 338,
+      "lowest_total": 136,
+      "win_percentage": 33.3
+    },
+    "West Indies": {
+      "matches": 9,
+      "wins": 2,
+      "losses": 6,
+      "no_results": 1,
+      "runs_scored": 1969,
+      "runs_conceded": 2142,
+      "wickets_taken": 58,
+      "wickets_lost": 65,
+      "highest_total": 321,
+      "lowest_total": 108,
+      "win_percentage": 22.2
+    }
+  },
+  "head_to_head": {
+    "England vs New Zealand": {
+      "matches": 2,
+      "wins": {
+        "England": 2
+      },
+      "results": [
+        "England won by 1 wickets",
+        "England won by 119 runs"
+      ]
+    },
+    "Afghanistan vs Australia": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 7 wickets"
+      ]
+    },
+    "Afghanistan vs Bangladesh": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 62 runs"
+      ]
+    },
+    "Afghanistan vs England": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 150 runs"
+      ]
+    },
+    "Afghanistan vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 11 runs"
+      ]
+    },
+    "Afghanistan vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 7 wickets"
+      ]
+    },
+    "Afghanistan vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 3 wickets"
+      ]
+    },
+    "Afghanistan vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 9 wickets"
+      ]
+    },
+    "Afghanistan vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 34 runs"
+      ]
+    },
+    "Afghanistan vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 23 runs"
+      ]
+    },
+    "Australia vs Bangladesh": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 48 runs"
+      ]
+    },
+    "Australia vs England": {
+      "matches": 2,
+      "wins": {
+        "Australia": 1,
+        "England": 1
+      },
+      "results": [
+        "Australia won by 64 runs",
+        "England won by 8 wickets"
+      ]
+    },
+    "Australia vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 36 runs"
+      ]
+    },
+    "Australia vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 86 runs"
+      ]
+    },
+    "Australia vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 41 runs"
+      ]
+    },
+    "Australia vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 10 runs"
+      ]
+    },
+    "Australia vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 87 runs"
+      ]
+    },
+    "Australia vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 15 runs"
+      ]
+    },
+    "Bangladesh vs England": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 106 runs"
+      ]
+    },
+    "Bangladesh vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 28 runs"
+      ]
+    },
+    "Bangladesh vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 2 wickets"
+      ]
+    },
+    "Bangladesh vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 94 runs"
+      ]
+    },
+    "Bangladesh vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 21 runs"
+      ]
+    },
+    "Bangladesh vs Sri Lanka": {
+      "matches": 1,
+      "wins": {},
+      "results": [
+        "No result"
+      ]
+    },
+    "Bangladesh vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 7 wickets"
+      ]
+    },
+    "England vs India": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 31 runs"
+      ]
+    },
+    "England vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 14 runs"
+      ]
+    },
+    "England vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 104 runs"
+      ]
+    },
+    "England vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 20 runs"
+      ]
+    },
+    "England vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 8 wickets"
+      ]
+    },
+    "India vs New Zealand": {
+      "matches": 2,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "No result",
+        "New Zealand won by 18 runs"
+      ]
+    },
+    "India vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 89 runs"
+      ]
+    },
+    "India vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 6 wickets"
+      ]
+    },
+    "India vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 7 wickets"
+      ]
+    },
+    "India vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 125 runs"
+      ]
+    },
+    "New Zealand vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 6 wickets"
+      ]
+    },
+    "New Zealand vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 4 wickets"
+      ]
+    },
+    "New Zealand vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 10 wickets"
+      ]
+    },
+    "New Zealand vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 5 runs"
+      ]
+    },
+    "Pakistan vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 49 runs"
+      ]
+    },
+    "Pakistan vs Sri Lanka": {
+      "matches": 1,
+      "wins": {},
+      "results": [
+        "No result"
+      ]
+    },
+    "Pakistan vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 7 wickets"
+      ]
+    },
+    "South Africa vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 9 wickets"
+      ]
+    },
+    "South Africa vs West Indies": {
+      "matches": 1,
+      "wins": {},
+      "results": [
+        "No result"
+      ]
+    },
+    "Sri Lanka vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 23 runs"
+      ]
+    }
+  },
+  "captain_performance": {
+    "Eoin Morgan": {
+      "team": "England",
+      "matches_as_captain": 11,
+      "wins": 8,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 6,
+      "batting_runs": 200,
+      "batting_innings": 5,
+      "win_percentage": 72.7
+    },
+    "Kane Williamson": {
+      "team": "New Zealand",
+      "matches_as_captain": 11,
+      "wins": 6,
+      "losses": 4,
+      "no_results": 1,
+      "toss_wins": 7,
+      "batting_runs": 499,
+      "batting_innings": 8,
+      "win_percentage": 54.5
+    },
+    "Virat Kohli": {
+      "team": "India",
+      "matches_as_captain": 10,
+      "wins": 7,
+      "losses": 2,
+      "no_results": 1,
+      "toss_wins": 4,
+      "batting_runs": 375,
+      "batting_innings": 7,
+      "win_percentage": 70.0
+    },
+    "Aaron Finch": {
+      "team": "Australia",
+      "matches_as_captain": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 3,
+      "batting_runs": 424,
+      "batting_innings": 5,
+      "win_percentage": 70.0
+    },
+    "Sarfaraz Ahmed": {
+      "team": "Pakistan",
+      "matches_as_captain": 9,
+      "wins": 5,
+      "losses": 3,
+      "no_results": 1,
+      "toss_wins": 4,
+      "batting_runs": 107,
+      "batting_innings": 3,
+      "win_percentage": 55.6
+    },
+    "Faf du Plessis": {
+      "team": "South Africa",
+      "matches_as_captain": 9,
+      "wins": 3,
+      "losses": 5,
+      "no_results": 1,
+      "toss_wins": 6,
+      "batting_runs": 382,
+      "batting_innings": 7,
+      "win_percentage": 33.3
+    },
+    "Dimuth Karunaratne": {
+      "team": "Sri Lanka",
+      "matches_as_captain": 9,
+      "wins": 3,
+      "losses": 4,
+      "no_results": 2,
+      "toss_wins": 3,
+      "batting_runs": 181,
+      "batting_innings": 3,
+      "win_percentage": 33.3
+    },
+    "Mashrafe Mortaza": {
+      "team": "Bangladesh",
+      "matches_as_captain": 9,
+      "wins": 3,
+      "losses": 5,
+      "no_results": 1,
+      "toss_wins": 2,
+      "batting_runs": 0,
+      "batting_innings": 0,
+      "win_percentage": 33.3
+    },
+    "Jason Holder": {
+      "team": "West Indies",
+      "matches_as_captain": 9,
+      "wins": 2,
+      "losses": 6,
+      "no_results": 1,
+      "toss_wins": 6,
+      "batting_runs": 110,
+      "batting_innings": 3,
+      "win_percentage": 22.2
+    },
+    "Gulbadin Naib": {
+      "team": "Afghanistan",
+      "matches_as_captain": 9,
+      "wins": 0,
+      "losses": 9,
+      "no_results": 0,
+      "toss_wins": 4,
+      "batting_runs": 0,
+      "batting_innings": 0,
+      "win_percentage": 0.0
+    }
+  }
+}

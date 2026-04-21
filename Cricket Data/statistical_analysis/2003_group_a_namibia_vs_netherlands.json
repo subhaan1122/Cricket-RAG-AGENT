@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "e828ea51ee75",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "date": "2003-03-03",
+    "teams": {
+      "team1": "Netherlands",
+      "team2": "Namibia"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Netherlands",
+      "margin": "64 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Roland Lefebvre",
+      "team2": "Deon Kotze"
+    },
+    "player_of_match": "JF Kloppenburg",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: Netherlands vs Namibia (2003-03-03) at Bloemfontein.\nNetherlands: 314/4 (50.0 ov)\n  KJJ van Noortwijk: 134* (129b, 11x4, 3x6)\n  JF Kloppenburg: 121 (142b, 6x4, 4x6)\n  LJ Burger: 2/49 (10.0 ov)\nNamibia: 250 all out (46.5 ov)\n  GB Murgatroyd: 52 (62b, 4x4, 0x6)\n  D Keulder: 52 (67b, 2x4, 0x6)\n  AJ Burger: 41 (42b, 6x4, 0x6)\n  JF Kloppenburg: 4/42 (10.0 ov)\n  Adeel Raja: 4/42 (8.5 ov)\nNetherlands won by 64 runs.\nPlayer of the Match: JF Kloppenburg.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 564,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.86,
+    "highest_individual_score": 134,
+    "best_bowling_figures": "4/42",
+    "total_sixes": 9,
+    "total_fours": 36
+  },
+  "innings_analysis": [
+    {
+      "team": "Netherlands",
+      "total_runs": 314,
+      "total_wickets": 4,
+      "total_overs": 50.0,
+      "run_rate": 6.28,
+      "top_batters": [
+        {
+          "name": "KJJ van Noortwijk",
+          "runs": 134,
+          "balls": 129,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 103.88,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JF Kloppenburg",
+          "runs": 121,
+          "balls": 142,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 85.21,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LP van Troost",
+          "runs": 16,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "E Schiferli",
+          "runs": 10,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "B Zuiderent",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LJ Burger",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "G Snyman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 7,
+          "no_balls": 4
+        },
+        {
+          "name": "RJ van Vuuren",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Burger",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SF Burger",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "E Schiferli",
+          "runs": 25,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "JF Kloppenburg",
+          "runs": 253,
+          "wickets": 2,
+          "overs": "43.6"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 270,
+          "wickets": 3,
+          "overs": "46.2"
+        },
+        {
+          "player": "TBM de Leede",
+          "runs": 270,
+          "wickets": 4,
+          "overs": "46.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 1,
+        "run_rate": 4.6,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 13
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 89,
+        "wickets": 3,
+        "run_rate": 8.9,
+        "fours": 5,
+        "sixes": 3,
+        "dot_balls": 17,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Namibia",
+      "total_runs": 250,
+      "total_wickets": 10,
+      "total_overs": 46.5,
+      "run_rate": 5.43,
+      "top_batters": [
+        {
+          "name": "GB Murgatroyd",
+          "runs": 52,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.87,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "D Keulder",
+          "runs": 52,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.61,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AJ Burger",
+          "runs": 41,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 97.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Karg",
+          "runs": 41,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 80.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DB Kotze",
+          "runs": 25,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JF Kloppenburg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 4,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Adeel Raja",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 4,
+          "economy": 4.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TBM de Leede",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HJC Mol",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Esmeijer",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 6.14,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Burger",
+          "runs": 76,
+          "wickets": 1,
+          "overs": "13.4"
+        },
+        {
+          "player": "M Karg",
+          "runs": 87,
+          "wickets": 2,
+          "overs": "16.4"
+        },
+        {
+          "player": "D Keulder",
+          "runs": 179,
+          "wickets": 3,
+          "overs": "34.5"
+        },
+        {
+          "player": "GB Murgatroyd",
+          "runs": 209,
+          "wickets": 4,
+          "overs": "39.2"
+        },
+        {
+          "player": "LJ Burger",
+          "runs": 213,
+          "wickets": 5,
+          "overs": "40.2"
+        },
+        {
+          "player": "G Snyman",
+          "runs": 213,
+          "wickets": 6,
+          "overs": "40.3"
+        },
+        {
+          "player": "SF Burger",
+          "runs": 224,
+          "wickets": 7,
+          "overs": "42.5"
+        },
+        {
+          "player": "DB Kotze",
+          "runs": 237,
+          "wickets": 8,
+          "overs": "44.3"
+        },
+        {
+          "player": "M van Schoor",
+          "runs": 250,
+          "wickets": 9,
+          "overs": "46.3"
+        },
+        {
+          "player": "RJ van Vuuren",
+          "runs": 250,
+          "wickets": 10,
+          "overs": "46.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 62,
+        "wickets": 0,
+        "run_rate": 6.2,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 35,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "6.5",
+        "balls": 41,
+        "runs": 37,
+        "wickets": 6,
+        "run_rate": 5.41,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 20,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "KJJ van Noortwijk": {
+      "batting": {
+        "runs": 134,
+        "balls": 129,
+        "fours": 11,
+        "sixes": 3,
+        "strike_rate": 103.88
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JF Kloppenburg": {
+      "batting": {
+        "runs": 121,
+        "balls": 142,
+        "fours": 6,
+        "sixes": 4,
+        "strike_rate": 85.21
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 4,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LP van Troost": {
+      "batting": {
+        "runs": 16,
+        "balls": 10,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 160.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Schiferli": {
+      "batting": {
+        "runs": 10,
+        "balls": 15,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Zuiderent": {
+      "batting": {
+        "runs": 5,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LJ Burger": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Snyman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RJ van Vuuren": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 1,
+        "economy": 6.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Burger": {
+      "batting": {
+        "runs": 41,
+        "balls": 42,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 97.62
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SF Burger": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Murgatroyd": {
+      "batting": {
+        "runs": 52,
+        "balls": 62,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 83.87
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Keulder": {
+      "batting": {
+        "runs": 52,
+        "balls": 67,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 77.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Karg": {
+      "batting": {
+        "runs": 41,
+        "balls": 51,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 80.39
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DB Kotze": {
+      "batting": {
+        "runs": 25,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 86.21
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Adeel Raja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.833333333333334,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 4,
+        "economy": 4.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TBM de Leede": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HJC Mol": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Esmeijer": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 0,
+        "economy": 6.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Netherlands scored 314 in 50.0 overs at 6.28 RPO",
+    "vs Namibia scored 250 in 46.5 overs at 5.43 RPO",
+    "Top batsman: KJJ van Noortwijk with 134 runs",
+    "Top bowler: JF Kloppenburg with 4 wickets"
+  ]
+}

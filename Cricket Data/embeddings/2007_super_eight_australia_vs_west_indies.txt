@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Australia
+Stage: Super Eight
+Date: 2007-03-27
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain West Indies: Brian Lara
+Captain Australia: Ricky Ponting
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs Australia (2007-03-27) at Antigua.
+
+Australia: 322/6 (50.0 ov)
+  ML Hayden: 158 (143b, 14x4, 4x6, SR 110.49)
+  MJ Clarke: 41 (47b, 4x4, 0x6, SR 87.23)
+  RT Ponting: 35 (36b, 4x4, 1x6, SR 97.22)
+  SR Watson: 33 (26b, 3x4, 1x6, SR 126.92)
+  A Symonds: 13 (18b, 1x4, 0x6, SR 72.22)
+  DBL Powell: 2/53 (10.0 ov, Econ 5.3)
+  DJ Bravo: 2/49 (7.0 ov, Econ 7.0)
+  MN Samuels: 1/58 (9.0 ov, Econ 6.44)
+  CD Collymore: 0/56 (10.0 ov, Econ 5.6)
+  JE Taylor: 0/67 (10.0 ov, Econ 6.7)
+  Extras: 21
+
+West Indies: 219 all out (45.3 ov)
+  BC Lara: 77 (83b, 8x4, 1x6, SR 92.77)
+  D Ramdin: 52 (43b, 6x4, 0x6, SR 120.93)
+  RR Sarwan: 29 (58b, 1x4, 0x6, SR 50.0)
+  JE Taylor: 10 (18b, 1x4, 0x6, SR 55.56)
+  DR Smith: 9 (7b, 0x4, 1x6, SR 128.57)
+  GD McGrath: 3/31 (8.0 ov, Econ 3.88)
+  GB Hogg: 3/56 (10.0 ov, Econ 5.6)
+  SW Tait: 2/43 (7.3 ov, Econ 5.73)
+  NW Bracken: 1/25 (9.0 ov, Econ 2.78)
+  A Symonds: 1/32 (4.0 ov, Econ 8.0)
+  Extras: 16
+
+Batting Highlights:
+  Century: ML Hayden scored 158 off 143 balls (SR 110.49, 14 fours, 4 sixes)
+  Half-century: BC Lara scored 77 off 83 balls (SR 92.77)
+  Half-century: D Ramdin scored 52 off 43 balls (SR 120.93)
+
+Bowling Highlights:
+  Key spell: GD McGrath took 3/31
+  Key spell: GB Hogg took 3/56
+  Economical spell: NW Bracken conceded 25 runs in 9.0 overs (Econ 2.78)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 35 off 36 balls
+  Brian Lara (West Indies): scored 77 off 83 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  West Indies lost 10 early wickets.
+  West Indies lost 3 wickets in the powerplay.
+
+Result: Australia won by 103 runs
+Toss: West Indies won and chose to field
+Player of the Match: ML Hayden

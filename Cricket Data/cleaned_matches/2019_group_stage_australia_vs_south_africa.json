@@ -1,0 +1,356 @@
+{
+  "match_id": "b0802920b207",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Old Trafford",
+  "city": "Manchester",
+  "date": "2019-07-06",
+  "teams": {
+    "team1": "Australia",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "10 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Aaron Finch",
+    "team2": "Faf du Plessis"
+  },
+  "player_of_match": "F du Plessis",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 325,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 24,
+      "top_batters": [
+        {
+          "name": "F du Plessis",
+          "runs": 100,
+          "balls": 94,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 106.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HE van der Dussen",
+          "runs": 95,
+          "balls": 97,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 97.94,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 52,
+          "balls": 51,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 101.96,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 34,
+          "balls": 37,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 91.89,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "JP Duminy",
+          "runs": 14,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NM Lyon",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 5.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 6.56,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Behrendorff",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SPD Smith",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AK Markram",
+          "runs": 79,
+          "wickets": 1,
+          "overs": "11.3"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 114,
+          "wickets": 2,
+          "overs": "17.4"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 265,
+          "wickets": 3,
+          "overs": "42.6"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 295,
+          "wickets": 4,
+          "overs": "46.5"
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 317,
+          "wickets": 5,
+          "overs": "48.5"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 325,
+          "wickets": 6,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 315,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "DA Warner",
+          "runs": 122,
+          "balls": 117,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 104.27,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AT Carey",
+          "runs": 85,
+          "balls": 69,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 123.19,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MP Stoinis",
+          "runs": 22,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "UT Khawaja",
+          "runs": 18,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MA Starc",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 145.45,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 3,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Pretorius",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "2.5",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 2,
+          "economy": 7.76,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Morris",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "6.3"
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 95,
+          "wickets": 3,
+          "overs": "18.3"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 119,
+          "wickets": 4,
+          "overs": "24.1"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 227,
+          "wickets": 5,
+          "overs": "39.1"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 272,
+          "wickets": 6,
+          "overs": "44.4"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 275,
+          "wickets": 7,
+          "overs": "45.2"
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 301,
+          "wickets": 8,
+          "overs": "48.1"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 306,
+          "wickets": 9,
+          "overs": "48.5"
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 315,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_australia_vs_south_africa.json",
+  "match_summary": "2019 World Cup Group Stage: Australia vs South Africa (2019-07-06) at Manchester.\nSouth Africa: 325/6 (50.0 ov)\n  F du Plessis: 100 (94b, 7x4, 2x6)\n  HE van der Dussen: 95 (97b, 4x4, 4x6)\n  Q de Kock: 52 (51b, 7x4, 0x6)\n  NM Lyon: 2/53 (10.0 ov)\n  MA Starc: 2/59 (9.0 ov)\nAustralia: 315 all out (49.5 ov)\n  DA Warner: 122 (117b, 15x4, 2x6)\n  AT Carey: 85 (69b, 11x4, 1x6)\n  K Rabada: 3/56 (10.0 ov)\n  D Pretorius: 2/27 (6.0 ov)\n  AL Phehlukwayo: 2/22 (2.5 ov)\nSouth Africa won by 10 runs.\nPlayer of the Match: F du Plessis."
+}

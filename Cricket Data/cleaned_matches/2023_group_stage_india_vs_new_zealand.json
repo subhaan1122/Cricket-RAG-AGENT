@@ -1,0 +1,356 @@
+{
+  "match_id": "04a4ae3307ce",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+  "city": "Dharamsala",
+  "date": "2023-10-22",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kane Williamson",
+    "team2": "Rohit Sharma"
+  },
+  "player_of_match": "Mohammed Shami",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 273,
+      "wickets": 10,
+      "overs": 50.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "DJ Mitchell",
+          "runs": 130,
+          "balls": 127,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 102.36,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "R Ravindra",
+          "runs": 75,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 86.21,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GD Phillips",
+          "runs": 23,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 88.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WA Young",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MS Chapman",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 5,
+          "economy": 5.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 73,
+          "wickets": 2,
+          "economy": 7.3,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "WA Young",
+          "runs": 19,
+          "wickets": 2,
+          "overs": "8.1"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 178,
+          "wickets": 3,
+          "overs": "33.3"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 205,
+          "wickets": 4,
+          "overs": "36.5"
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 243,
+          "wickets": 5,
+          "overs": "44.2"
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 257,
+          "wickets": 6,
+          "overs": "46.6"
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 260,
+          "wickets": 7,
+          "overs": "47.4"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 260,
+          "wickets": 8,
+          "overs": "47.5"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 273,
+          "wickets": 9,
+          "overs": "49.5"
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 273,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 274,
+      "wickets": 6,
+      "overs": 48.0,
+      "extras": 5,
+      "top_batters": [
+        {
+          "name": "V Kohli",
+          "runs": 95,
+          "balls": 104,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 91.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 46,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 115.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RA Jadeja",
+          "runs": 39,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.64,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 33,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 113.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 27,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 77.14,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LH Ferguson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 2,
+          "economy": 7.88,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 3.7,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.11,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ravindra",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 5.11,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 71,
+          "wickets": 1,
+          "overs": "11.1"
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 76,
+          "wickets": 2,
+          "overs": "13.2"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 128,
+          "wickets": 3,
+          "overs": "21.3"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 182,
+          "wickets": 4,
+          "overs": "32.1"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 191,
+          "wickets": 5,
+          "overs": "33.5"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 269,
+          "wickets": 6,
+          "overs": "47.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_india_vs_new_zealand.json",
+  "match_summary": "2023 World Cup Group Stage: New Zealand vs India (2023-10-22) at Dharamsala.\nNew Zealand: 273 all out (50.0 ov)\n  DJ Mitchell: 130 (127b, 9x4, 5x6)\n  R Ravindra: 75 (87b, 6x4, 1x6)\n  Mohammed Shami: 5/54 (10.0 ov)\n  Kuldeep Yadav: 2/73 (10.0 ov)\nIndia: 274/6 (48.0 ov)\n  V Kohli: 95 (104b, 8x4, 2x6)\n  RG Sharma: 46 (40b, 4x4, 4x6)\n  RA Jadeja: 39* (44b, 3x4, 1x6)\n  LH Ferguson: 2/63 (8.0 ov)\nIndia won by 4 wickets.\nPlayer of the Match: Mohammed Shami."
+}

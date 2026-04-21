@@ -1,0 +1,733 @@
+{
+  "match_info": {
+    "match_id": "06d93269eb17",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "date": "2003-02-11",
+    "teams": {
+      "team1": "Canada",
+      "team2": "Bangladesh"
+    },
+    "toss": {
+      "winner": "Canada",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Canada",
+      "margin": "60 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Joe Harris",
+      "team2": "Khaled Mashud"
+    },
+    "player_of_match": "A Codrington",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: Canada vs Bangladesh (2003-02-11) at Durban.\nCanada: 180 all out (49.1 ov)\n  IS Billcliff: 42 (63b, 6x4, 0x6)\n  Sanwar Hossain: 2/26 (10.0 ov)\n  Mashrafe Mortaza: 2/38 (8.0 ov)\nBangladesh: 120 all out (28.0 ov)\n  A Codrington: 5/27 (9.0 ov)\n  JM Davison: 2/15 (5.0 ov)\n  D Joseph: 2/42 (8.0 ov)\nCanada won by 60 runs.\nPlayer of the Match: A Codrington.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 300,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 3.98,
+    "highest_individual_score": 42,
+    "best_bowling_figures": "5/27",
+    "total_sixes": 2,
+    "total_fours": 25
+  },
+  "innings_analysis": [
+    {
+      "team": "Canada",
+      "total_runs": 180,
+      "total_wickets": 10,
+      "total_overs": 49.1,
+      "run_rate": 3.67,
+      "top_batters": [
+        {
+          "name": "IS Billcliff",
+          "runs": 42,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DR Chumney",
+          "runs": 28,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 112.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "I Maraj",
+          "runs": 24,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Codrington",
+          "runs": 16,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AF Sattaur",
+          "runs": 13,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 32.5,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Sanwar Hossain",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 2,
+          "economy": 2.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 4.75,
+          "wides": 5,
+          "no_balls": 2
+        },
+        {
+          "name": "Alok Kapali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 1.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "Manjural Islam",
+          "overs": "8.1",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Davison",
+          "runs": 18,
+          "wickets": 1,
+          "overs": "5.1"
+        },
+        {
+          "player": "I Maraj",
+          "runs": 47,
+          "wickets": 2,
+          "overs": "11.5"
+        },
+        {
+          "player": "DR Chumney",
+          "runs": 70,
+          "wickets": 3,
+          "overs": "14.3"
+        },
+        {
+          "player": "JV Harris",
+          "runs": 92,
+          "wickets": 4,
+          "overs": "21.6"
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 104,
+          "wickets": 5,
+          "overs": "23.5"
+        },
+        {
+          "player": "AF Sattaur",
+          "runs": 130,
+          "wickets": 6,
+          "overs": "34.3"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 134,
+          "wickets": 7,
+          "overs": "36.3"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 146,
+          "wickets": 8,
+          "overs": "39.5"
+        },
+        {
+          "player": "S Thuraisingam",
+          "runs": 159,
+          "wickets": 9,
+          "overs": "43.3"
+        },
+        {
+          "player": "A Codrington",
+          "runs": 180,
+          "wickets": 10,
+          "overs": "49.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 35,
+        "wickets": 1,
+        "run_rate": 3.5,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 46,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "9.1",
+        "balls": 55,
+        "runs": 33,
+        "wickets": 2,
+        "run_rate": 3.6,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 38,
+        "extras": 8
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "total_runs": 120,
+      "total_wickets": 10,
+      "total_overs": 28.0,
+      "run_rate": 4.29,
+      "top_batters": [
+        {
+          "name": "Sanwar Hossain",
+          "runs": 25,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 104.17,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Hannan Sarkar",
+          "runs": 25,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Alok Kapali",
+          "runs": 19,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Ehsanul Haque",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rafique",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Codrington",
+          "overs": "9.0",
+          "maidens": 3,
+          "runs_conceded": 27,
+          "wickets": 5,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Joseph",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 5.25,
+          "wides": 8,
+          "no_balls": 0
+        },
+        {
+          "name": "S Thuraisingam",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 5.67,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Al Sahariar",
+          "runs": 33,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 44,
+          "wickets": 2,
+          "overs": "9.3"
+        },
+        {
+          "player": "Hannan Sarkar",
+          "runs": 46,
+          "wickets": 3,
+          "overs": "10.4"
+        },
+        {
+          "player": "Ehsanul Haque",
+          "runs": 76,
+          "wickets": 4,
+          "overs": "15.2"
+        },
+        {
+          "player": "Sanwar Hossain",
+          "runs": 106,
+          "wickets": 5,
+          "overs": "20.5"
+        },
+        {
+          "player": "Alok Kapali",
+          "runs": 108,
+          "wickets": 6,
+          "overs": "21.6"
+        },
+        {
+          "player": "Khaled Mashud",
+          "runs": 108,
+          "wickets": 7,
+          "overs": "22.3"
+        },
+        {
+          "player": "Tapash Baisya",
+          "runs": 119,
+          "wickets": 8,
+          "overs": "25.2"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 119,
+          "wickets": 9,
+          "overs": "25.4"
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 120,
+          "wickets": 10,
+          "overs": "27.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 2,
+        "run_rate": 4.6,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 47,
+        "extras": 12
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "IS Billcliff": {
+      "batting": {
+        "runs": 42,
+        "balls": 63,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DR Chumney": {
+      "batting": {
+        "runs": 28,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 112.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "I Maraj": {
+      "batting": {
+        "runs": 24,
+        "balls": 43,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 55.81
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Codrington": {
+      "batting": {
+        "runs": 16,
+        "balls": 31,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 51.61
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 5,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AF Sattaur": {
+      "batting": {
+        "runs": 13,
+        "balls": 40,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 32.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sanwar Hossain": {
+      "batting": {
+        "runs": 25,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 104.17
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 2,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mashrafe Mortaza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 2,
+        "economy": 4.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Alok Kapali": {
+      "batting": {
+        "runs": 19,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 76.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 1,
+        "economy": 1.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rafique": {
+      "batting": {
+        "runs": 12,
+        "balls": 19,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 63.16
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Manjural Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.166666666666666,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Hannan Sarkar": {
+      "batting": {
+        "runs": 25,
+        "balls": 35,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Ehsanul Haque": {
+      "batting": {
+        "runs": 13,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 76.47
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Davison": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 2,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Joseph": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 5.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Thuraisingam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Canada scored 180 in 49.1 overs at 3.67 RPO",
+    "vs Bangladesh scored 120 in 28.0 overs at 4.29 RPO",
+    "Top batsman: IS Billcliff with 42 runs",
+    "Top bowler: A Codrington with 5 wickets"
+  ]
+}

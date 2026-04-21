@@ -1,0 +1,773 @@
+{
+  "match_info": {
+    "match_id": "86e649808a6a",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "date": "2023-11-05",
+    "teams": {
+      "team1": "India",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "243 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Rohit Sharma",
+      "team2": "Temba Bavuma"
+    },
+    "player_of_match": "V Kohli",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: India vs South Africa (2023-11-05) at Kolkata.\nIndia: 326/5 (50.0 ov)\n  V Kohli: 101* (121b, 10x4, 0x6)\n  SS Iyer: 77 (87b, 7x4, 2x6)\n  RG Sharma: 40 (24b, 6x4, 2x6)\nSouth Africa: 83 all out (27.1 ov)\n  RA Jadeja: 5/33 (9.0 ov)\n  Kuldeep Yadav: 2/7 (5.1 ov)\n  Mohammed Shami: 2/18 (4.0 ov)\nIndia won by 243 runs.\nPlayer of the Match: V Kohli.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 409,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.79,
+    "highest_individual_score": 101,
+    "best_bowling_figures": "5/33",
+    "total_sixes": 6,
+    "total_fours": 37
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 326,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 6.52,
+      "top_batters": [
+        {
+          "name": "V Kohli",
+          "runs": 101,
+          "balls": 121,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 83.47,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 77,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 88.51,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 40,
+          "balls": 24,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 166.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RA Jadeja",
+          "runs": 29,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 193.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shubman Gill",
+          "runs": 23,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 95.83,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "KA Maharaj",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "T Shamsi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 7,
+          "no_balls": 1
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 7.56,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "M Jansen",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 94,
+          "wickets": 1,
+          "economy": 9.72,
+          "wides": 7,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 62,
+          "wickets": 1,
+          "overs": "5.5"
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 93,
+          "wickets": 2,
+          "overs": "10.3"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 227,
+          "wickets": 3,
+          "overs": "36.5"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 249,
+          "wickets": 4,
+          "overs": "42.1"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 285,
+          "wickets": 5,
+          "overs": "45.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 91,
+        "wickets": 1,
+        "run_rate": 9.1,
+        "fours": 14,
+        "sixes": 3,
+        "dot_balls": 36,
+        "extras": 10
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 87,
+        "wickets": 2,
+        "run_rate": 8.7,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 20,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 83,
+      "total_wickets": 10,
+      "total_overs": 27.1,
+      "run_rate": 3.07,
+      "top_batters": [
+        {
+          "name": "M Jansen",
+          "runs": 14,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HE van der Dussen",
+          "runs": 13,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.62,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "T Bavuma",
+          "runs": 11,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RA Jadeja",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 5,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "5.1",
+          "maidens": 1,
+          "runs_conceded": 7,
+          "wickets": 2,
+          "economy": 1.35,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 2.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 22,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 35,
+          "wickets": 3,
+          "overs": "9.5"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 40,
+          "wickets": 4,
+          "overs": "12.5"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 40,
+          "wickets": 5,
+          "overs": "13.1"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 59,
+          "wickets": 6,
+          "overs": "16.3"
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 67,
+          "wickets": 7,
+          "overs": "18.4"
+        },
+        {
+          "player": "M Jansen",
+          "runs": 79,
+          "wickets": 8,
+          "overs": "25.4"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 79,
+          "wickets": 9,
+          "overs": "26.2"
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 83,
+          "wickets": 10,
+          "overs": "27.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 35,
+        "wickets": 3,
+        "run_rate": 3.5,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "V Kohli": {
+      "batting": {
+        "runs": 101,
+        "balls": 121,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 83.47
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SS Iyer": {
+      "batting": {
+        "runs": 77,
+        "balls": 87,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 88.51
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 40,
+        "balls": 24,
+        "fours": 6,
+        "sixes": 2,
+        "strike_rate": 166.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 29,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 193.33
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 5,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shubman Gill": {
+      "batting": {
+        "runs": 23,
+        "balls": 24,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 95.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Maharaj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "K Rabada": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Shamsi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 72,
+        "wickets": 1,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Ngidi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 1,
+        "economy": 7.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Jansen": {
+      "batting": {
+        "runs": 14,
+        "balls": 30,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 46.67
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 94,
+        "wickets": 1,
+        "economy": 9.72
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HE van der Dussen": {
+      "batting": {
+        "runs": 13,
+        "balls": 32,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 40.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Miller": {
+      "batting": {
+        "runs": 11,
+        "balls": 11,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Bavuma": {
+      "batting": {
+        "runs": 11,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 57.89
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AK Markram": {
+      "batting": {
+        "runs": 9,
+        "balls": 6,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.166666666666667,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 2,
+        "economy": 1.35
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Shami": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Siraj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 2.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 326 in 50.0 overs at 6.52 RPO",
+    "vs South Africa scored 83 in 27.1 overs at 3.07 RPO",
+    "Top batsman: V Kohli with 101 runs",
+    "Top bowler: RA Jadeja with 5 wickets"
+  ]
+}

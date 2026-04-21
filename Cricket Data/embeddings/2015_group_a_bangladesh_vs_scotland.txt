@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2015
+Match: Bangladesh vs Scotland
+Stage: Group A
+Date: 2015-03-05
+Venue: Saxton Oval, Nelson
+Captain Bangladesh: Mashrafe Mortaza
+Captain Scotland: Preston Mommsen
+
+Match Summary:
+  2015 World Cup Group A: Bangladesh vs Scotland (2015-03-05) at Nelson.
+
+Scotland: 318/8 (50.0 ov)
+  KJ Coetzer: 156 (134b, 17x4, 4x6, SR 116.42)
+  PL Mommsen: 39 (38b, 2x4, 1x6, SR 102.63)
+  MW Machan: 35 (50b, 2x4, 1x6, SR 70.0)
+  RD Berrington: 26 (16b, 1x4, 2x6, SR 162.5)
+  MH Cross: 20 (14b, 1x4, 1x6, SR 142.86)
+  Taskin Ahmed: 3/43 (7.0 ov, Econ 6.14)
+  Nasir Hossain: 2/32 (5.0 ov, Econ 6.4)
+  Shakib Al Hasan: 1/46 (10.0 ov, Econ 4.6)
+  Sabbir Rahman: 1/47 (7.0 ov, Econ 6.71)
+  Mashrafe Mortaza: 1/60 (8.0 ov, Econ 7.5)
+  Extras: 7
+
+Bangladesh: 322/4 (48.1 ov)
+  Tamim Iqbal: 95 (100b, 9x4, 1x6, SR 95.0)
+  Mahmudullah: 62 (62b, 6x4, 1x6, SR 100.0)
+  Mushfiqur Rahim: 60 (42b, 6x4, 2x6, SR 142.86)
+  Shakib Al Hasan: 52 (41b, 5x4, 1x6, SR 126.83)
+  Sabbir Rahman: 42 (40b, 4x4, 2x6, SR 105.0)
+  JH Davey: 2/68 (10.0 ov, Econ 6.8)
+  AC Evans: 1/67 (10.0 ov, Econ 6.7)
+  I Wardlaw: 1/75 (9.1 ov, Econ 8.18)
+  RM Haq: 0/49 (10.0 ov, Econ 4.9)
+  MW Machan: 0/45 (7.0 ov, Econ 6.43)
+  Extras: 9
+
+Batting Highlights:
+  Century: KJ Coetzer scored 156 off 134 balls (SR 116.42, 17 fours, 4 sixes)
+  Quickfire innings: RD Berrington smashed 26 off 16 balls at SR 162.5
+  Half-century: Tamim Iqbal scored 95 off 100 balls (SR 95.0)
+  Half-century: Mahmudullah scored 62 off 62 balls (SR 100.0)
+  Half-century: Mushfiqur Rahim scored 60 off 42 balls (SR 142.86)
+  Half-century: Shakib Al Hasan scored 52 off 41 balls (SR 126.83)
+
+Bowling Highlights:
+  Key spell: Taskin Ahmed took 3/43
+
+Captain Performance:
+  Preston Mommsen (Scotland): scored 39 off 38 balls
+
+Key Moments:
+  Scotland lost 8 early wickets.
+  Bangladesh lost 4 early wickets.
+
+Result: Bangladesh won by 6 wickets
+Toss: Bangladesh won and chose to field
+Player of the Match: KJ Coetzer

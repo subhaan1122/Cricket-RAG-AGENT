@@ -1,0 +1,332 @@
+{
+  "match_id": "1e2f448da0b3",
+  "world_cup_year": 2007,
+  "stage": "Final",
+  "venue": "Kensington Oval, Bridgetown",
+  "city": "Barbados",
+  "date": "2007-04-28",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "53 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Mahela Jayawardene"
+  },
+  "player_of_match": "AC Gilchrist",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 281,
+      "wickets": 4,
+      "overs": 38.0,
+      "extras": 23,
+      "top_batters": [
+        {
+          "name": "AC Gilchrist",
+          "runs": 149,
+          "balls": 104,
+          "fours": 13,
+          "sixes": 8,
+          "strike_rate": 143.27,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 38,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 69.09,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 37,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 88.1,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "A Symonds",
+          "runs": 23,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.52,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 6.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 1,
+          "economy": 9.25,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 6.29,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 6.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 0,
+          "economy": 6.75,
+          "wides": 1,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 172,
+          "wickets": 1,
+          "overs": "22.5"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 224,
+          "wickets": 2,
+          "overs": "30.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 261,
+          "wickets": 3,
+          "overs": "35.4"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 266,
+          "wickets": 4,
+          "overs": "36.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 215,
+      "wickets": 8,
+      "overs": 36.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "ST Jayasuriya",
+          "runs": 63,
+          "balls": 67,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 94.03,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 54,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 103.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 21,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 95.45,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 19,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Clarke",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 6.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "A Symonds",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 4.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 5.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 123,
+          "wickets": 2,
+          "overs": "19.5"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 145,
+          "wickets": 3,
+          "overs": "22.6"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 156,
+          "wickets": 4,
+          "overs": "25.5"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 188,
+          "wickets": 5,
+          "overs": "29.6"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 190,
+          "wickets": 6,
+          "overs": "30.1"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 194,
+          "wickets": 7,
+          "overs": "31.5"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 211,
+          "wickets": 8,
+          "overs": "33.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_final_australia_vs_sri_lanka.json",
+  "match_summary": "2007 World Cup Final: Australia vs Sri Lanka (2007-04-28) at Barbados.\nAustralia: 281/4 (38.0 ov)\n  AC Gilchrist: 149 (104b, 13x4, 8x6)\n  ML Hayden: 38 (55b, 3x4, 1x6)\n  RT Ponting: 37 (42b, 1x4, 1x6)\n  SL Malinga: 2/49 (8.0 ov)\nSri Lanka: 215/8 (36.0 ov)\n  ST Jayasuriya: 63 (67b, 9x4, 0x6)\n  KC Sangakkara: 54 (52b, 6x4, 1x6)\n  MJ Clarke: 2/33 (5.0 ov)\nAustralia won by 53 runs (D/L).\nPlayer of the Match: AC Gilchrist."
+}

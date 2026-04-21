@@ -1,0 +1,771 @@
+{
+  "match_info": {
+    "match_id": "4a737123fe00",
+    "world_cup_year": 2019,
+    "stage": "Semi-Final",
+    "venue": "Old Trafford",
+    "city": "Manchester",
+    "date": "2019-07-09",
+    "teams": {
+      "team1": "India",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "18 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Virat Kohli",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "MJ Henry",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Semi-Final: India vs New Zealand (2019-07-09) at Manchester.\nNew Zealand: 239/8 (50.0 ov)\n  LRPL Taylor: 74 (90b, 3x4, 1x6)\n  KS Williamson: 67 (95b, 6x4, 0x6)\n  B Kumar: 3/43 (10.0 ov)\nIndia: 221 all out (49.3 ov)\n  RA Jadeja: 77 (59b, 4x4, 4x6)\n  MS Dhoni: 50 (72b, 1x4, 1x6)\n  RR Pant: 32 (56b, 4x4, 0x6)\n  MJ Henry: 3/37 (10.0 ov)\n  MJ Santner: 2/34 (10.0 ov)\n  TA Boult: 2/42 (10.0 ov)\nNew Zealand won by 18 runs.\nPlayer of the Match: MJ Henry.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 460,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 4.64,
+    "highest_individual_score": 77,
+    "best_bowling_figures": "3/43",
+    "total_sixes": 6,
+    "total_fours": 26
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 239,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 4.78,
+      "top_batters": [
+        {
+          "name": "LRPL Taylor",
+          "runs": 74,
+          "balls": 90,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 82.22,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 67,
+          "balls": 95,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.53,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HM Nicholls",
+          "runs": 28,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.9,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "C de Grandhomme",
+          "runs": 16,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 12,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "B Kumar",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 3.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "YS Chahal",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 69,
+          "wickets": 2,
+          "overs": "18.2"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 134,
+          "wickets": 3,
+          "overs": "35.2"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 162,
+          "wickets": 4,
+          "overs": "40.6"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 200,
+          "wickets": 5,
+          "overs": "44.4"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 225,
+          "wickets": 6,
+          "overs": "47.6"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 225,
+          "wickets": 7,
+          "overs": "48.1"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 232,
+          "wickets": 8,
+          "overs": "48.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 27,
+        "wickets": 1,
+        "run_rate": 2.7,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 84,
+        "wickets": 5,
+        "run_rate": 8.4,
+        "fours": 5,
+        "sixes": 1,
+        "dot_balls": 14,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 221,
+      "total_wickets": 10,
+      "total_overs": 49.3,
+      "run_rate": 4.51,
+      "top_batters": [
+        {
+          "name": "RA Jadeja",
+          "runs": 77,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 130.51,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 50,
+          "balls": 72,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 69.44,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "RR Pant",
+          "runs": 32,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HH Pandya",
+          "runs": 32,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KD Karthik",
+          "runs": 6,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Henry",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 3,
+          "economy": 3.7,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "7.3",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 6.53,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 5,
+          "wickets": 2,
+          "overs": "2.4"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 5,
+          "wickets": 3,
+          "overs": "3.1"
+        },
+        {
+          "player": "KD Karthik",
+          "runs": 24,
+          "wickets": 4,
+          "overs": "9.6"
+        },
+        {
+          "player": "RR Pant",
+          "runs": 71,
+          "wickets": 5,
+          "overs": "22.5"
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 92,
+          "wickets": 6,
+          "overs": "30.3"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 208,
+          "wickets": 7,
+          "overs": "47.5"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 216,
+          "wickets": 8,
+          "overs": "48.3"
+        },
+        {
+          "player": "B Kumar",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "48.6"
+        },
+        {
+          "player": "YS Chahal",
+          "runs": 221,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 24,
+        "wickets": 4,
+        "run_rate": 2.4,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 50,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "9.3",
+        "balls": 57,
+        "runs": 71,
+        "wickets": 4,
+        "run_rate": 7.47,
+        "fours": 3,
+        "sixes": 3,
+        "dot_balls": 19,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "LRPL Taylor": {
+      "batting": {
+        "runs": 74,
+        "balls": 90,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 82.22
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 67,
+        "balls": 95,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 70.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HM Nicholls": {
+      "batting": {
+        "runs": 28,
+        "balls": 51,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.9
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C de Grandhomme": {
+      "batting": {
+        "runs": 16,
+        "balls": 10,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 160.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDS Neesham": {
+      "batting": {
+        "runs": 12,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 7.5,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 6.53
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Kumar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 3,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 77,
+        "balls": 59,
+        "fours": 4,
+        "sixes": 4,
+        "strike_rate": 130.51
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 3.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Pandya": {
+      "batting": {
+        "runs": 32,
+        "balls": 62,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 51.61
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "YS Chahal": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 1,
+        "economy": 6.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 50,
+        "balls": 72,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 69.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Pant": {
+      "batting": {
+        "runs": 32,
+        "balls": 56,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KD Karthik": {
+      "batting": {
+        "runs": 6,
+        "balls": 25,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 24.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 3,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 239 in 50.0 overs at 4.78 RPO",
+    "vs India scored 221 in 49.3 overs at 4.51 RPO",
+    "Top batsman: RA Jadeja with 77 runs",
+    "Top bowler: B Kumar with 3 wickets"
+  ]
+}

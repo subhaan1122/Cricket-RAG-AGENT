@@ -1,0 +1,705 @@
+{
+  "match_info": {
+    "match_id": "9203c0ebef16",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "City Oval, Pietermaritzburg",
+    "city": "Pietermaritzburg",
+    "date": "2003-02-23",
+    "teams": {
+      "team1": "India",
+      "team2": "Namibia"
+    },
+    "toss": {
+      "winner": "Namibia",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "181 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sourav Ganguly",
+      "team2": "Deon Kotze"
+    },
+    "player_of_match": "SR Tendulkar",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: India vs Namibia (2003-02-23) at Pietermaritzburg.\nIndia: 311/2 (50.0 ov)\n  SR Tendulkar: 152 (151b, 18x4, 0x6)\n  SC Ganguly: 112* (119b, 6x4, 4x6)\n  RJ van Vuuren: 2/53 (10.0 ov)\nNamibia: 130 all out (42.3 ov)\n  Yuvraj Singh: 4/6 (4.3 ov)\n  D Mongia: 2/24 (10.0 ov)\n  Z Khan: 2/24 (7.5 ov)\nIndia won by 181 runs.\nPlayer of the Match: SR Tendulkar.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 441,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 4.66,
+    "highest_individual_score": 152,
+    "best_bowling_figures": "4/6",
+    "total_sixes": 6,
+    "total_fours": 38
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 311,
+      "total_wickets": 2,
+      "total_overs": 50.0,
+      "run_rate": 6.22,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 152,
+          "balls": 151,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 100.66,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SC Ganguly",
+          "runs": 112,
+          "balls": 119,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 94.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 24,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RJ van Vuuren",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 5.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "G Snyman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 0,
+          "economy": 5.7,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "BO van Rooi",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DB Kotze",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 0,
+          "economy": 6.25,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "BL Kotze",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 46,
+          "wickets": 1,
+          "overs": "7.5"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 290,
+          "wickets": 2,
+          "overs": "47.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 1,
+        "run_rate": 4.8,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 85,
+        "wickets": 1,
+        "run_rate": 8.5,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 14,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Namibia",
+      "total_runs": 130,
+      "total_wickets": 10,
+      "total_overs": 42.3,
+      "run_rate": 3.1,
+      "top_batters": [
+        {
+          "name": "AJ Burger",
+          "runs": 29,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 96.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DB Kotze",
+          "runs": 27,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 54.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "M van Schoor",
+          "runs": 24,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.34,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BO van Rooi",
+          "runs": 17,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SJ Swanepoel",
+          "runs": 9,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Yuvraj Singh",
+          "overs": "4.3",
+          "maidens": 2,
+          "runs_conceded": 6,
+          "wickets": 4,
+          "economy": 1.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Mongia",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 2.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 3.06,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "A Nehra",
+          "overs": "0.1",
+          "maidens": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SJ Swanepoel",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "5.2"
+        },
+        {
+          "player": "LJ Burger",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "D Keulder",
+          "runs": 43,
+          "wickets": 3,
+          "overs": "12.5"
+        },
+        {
+          "player": "AJ Burger",
+          "runs": 47,
+          "wickets": 4,
+          "overs": "13.3"
+        },
+        {
+          "player": "GB Murgatroyd",
+          "runs": 47,
+          "wickets": 5,
+          "overs": "14.6"
+        },
+        {
+          "player": "DB Kotze",
+          "runs": 98,
+          "wickets": 6,
+          "overs": "31.6"
+        },
+        {
+          "player": "M van Schoor",
+          "runs": 99,
+          "wickets": 7,
+          "overs": "33.2"
+        },
+        {
+          "player": "BO van Rooi",
+          "runs": 124,
+          "wickets": 8,
+          "overs": "40.3"
+        },
+        {
+          "player": "BL Kotze",
+          "runs": 124,
+          "wickets": 9,
+          "overs": "40.6"
+        },
+        {
+          "player": "G Snyman",
+          "runs": 130,
+          "wickets": 10,
+          "overs": "42.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 27,
+        "wickets": 2,
+        "run_rate": 2.7,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 49,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "2.3",
+        "balls": 15,
+        "runs": 6,
+        "wickets": 3,
+        "run_rate": 2.4,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 13,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 152,
+        "balls": 151,
+        "fours": 18,
+        "sixes": 0,
+        "strike_rate": 100.66
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Ganguly": {
+      "batting": {
+        "runs": 112,
+        "balls": 119,
+        "fours": 6,
+        "sixes": 4,
+        "strike_rate": 94.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 24,
+        "balls": 24,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 7,
+        "balls": 7,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 4.5,
+        "maidens": 0,
+        "runs": 6,
+        "wickets": 4,
+        "economy": 1.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RJ van Vuuren": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 2,
+        "economy": 5.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Snyman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 0,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BO van Rooi": {
+      "batting": {
+        "runs": 17,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.84
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DB Kotze": {
+      "batting": {
+        "runs": 27,
+        "balls": 50,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 54.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 0,
+        "economy": 6.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BL Kotze": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 0,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Burger": {
+      "batting": {
+        "runs": 29,
+        "balls": 30,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 96.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M van Schoor": {
+      "batting": {
+        "runs": 24,
+        "balls": 61,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 39.34
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SJ Swanepoel": {
+      "batting": {
+        "runs": 9,
+        "balls": 21,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 42.86
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Mongia": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 2,
+        "economy": 2.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.833333333333333,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 2,
+        "economy": 3.06
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Harbhajan Singh": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Nehra": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 0.16666666666666666,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 311 in 50.0 overs at 6.22 RPO",
+    "vs Namibia scored 130 in 42.3 overs at 3.1 RPO",
+    "Top batsman: SR Tendulkar with 152 runs",
+    "Top bowler: Yuvraj Singh with 4 wickets"
+  ]
+}

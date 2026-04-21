@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2015
+Match: Australia vs Scotland
+Stage: Group A
+Date: 2015-03-14
+Venue: Bellerive Oval, Hobart
+Captain Australia: Michael Clarke
+Captain Scotland: Preston Mommsen
+
+Match Summary:
+  2015 World Cup Group A: Australia vs Scotland (2015-03-14) at Hobart.
+
+Scotland: 130 all out (25.4 ov)
+  MW Machan: 40 (35b, 6x4, 0x6, SR 114.29)
+  JH Davey: 26 (35b, 4x4, 0x6, SR 74.29)
+  MA Leask: 23 (11b, 4x4, 0x6, SR 209.09)
+  CS MacLeod: 22 (19b, 5x4, 0x6, SR 115.79)
+  MH Cross: 9 (20b, 2x4, 0x6, SR 45.0)
+  MA Starc: 4/14 (4.4 ov, Econ 3.0)
+  PJ Cummins: 3/42 (7.0 ov, Econ 6.0)
+  MG Johnson: 1/16 (4.0 ov, Econ 4.0)
+  SR Watson: 1/18 (3.0 ov, Econ 6.0)
+  GJ Maxwell: 1/24 (4.0 ov, Econ 6.0)
+  Extras: 9
+
+Australia: 133/3 (15.2 ov)
+  MJ Clarke: 47 (47b, 7x4, 2x6, SR 100.0)
+  SR Watson: 24 (23b, 4x4, 0x6, SR 104.35)
+  DA Warner: 21 (6b, 2x4, 2x6, SR 350.0)
+  AJ Finch: 20 (10b, 3x4, 1x6, SR 200.0)
+  JP Faulkner: 16 (6b, 2x4, 1x6, SR 266.67)
+  RML Taylor: 1/29 (5.0 ov, Econ 5.8)
+  JH Davey: 1/38 (5.0 ov, Econ 7.6)
+  I Wardlaw: 1/57 (5.0 ov, Econ 11.4)
+  MA Leask: 0/7 (0.2 ov, Econ 21.0)
+  Extras: 5
+
+Batting Highlights:
+  Top scorer: MJ Clarke with 47 runs
+
+Bowling Highlights:
+  Match-changing spell: MA Starc took 4/14
+  Key spell: PJ Cummins took 3/42
+
+Captain Performance:
+  Michael Clarke (Australia): scored 47 off 47 balls
+
+Key Moments:
+  Scotland lost 10 early wickets.
+  Australia lost 3 early wickets.
+  Scotland lost 3 wickets in the powerplay.
+
+Result: Australia won by 7 wickets
+Toss: Australia won and chose to field
+Player of the Match: MA Starc

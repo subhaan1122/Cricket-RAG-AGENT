@@ -1,0 +1,665 @@
+{
+  "match_info": {
+    "match_id": "739f75b322a5",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "New Wanderers Stadium, Johannesburg",
+    "city": "Johannesburg",
+    "date": "2003-02-16",
+    "teams": {
+      "team1": "South Africa",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "South Africa",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "9 wickets",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shaun Pollock",
+      "team2": "Stephen Fleming"
+    },
+    "player_of_match": "SP Fleming",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: South Africa vs New Zealand (2003-02-16) at Johannesburg.\nSouth Africa: 306/6 (50.0 ov)\n  HH Gibbs: 143 (141b, 19x4, 3x6)\n  L Klusener: 33* (21b, 4x4, 1x6)\n  JH Kallis: 33 (48b, 1x4, 1x6)\n  JDP Oram: 2/52 (8.0 ov)\nNew Zealand: 229/1 (36.5 ov)\n  SP Fleming: 134* (132b, 21x4, 0x6)\n  NJ Astle: 54* (57b, 4x4, 0x6)\nNew Zealand won by 9 wickets (D/L).\nPlayer of the Match: SP Fleming.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 535,
+    "total_wickets_fallen": 7,
+    "average_run_rate": 6.24,
+    "highest_individual_score": 143,
+    "best_bowling_figures": "2/52",
+    "total_sixes": 6,
+    "total_fours": 59
+  },
+  "innings_analysis": [
+    {
+      "team": "South Africa",
+      "total_runs": 306,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 6.12,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 143,
+          "balls": 141,
+          "fours": 19,
+          "sixes": 3,
+          "strike_rate": 101.42,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "L Klusener",
+          "runs": 33,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 157.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 33,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 68.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "N Boje",
+          "runs": 29,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 23,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 82.14,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JDP Oram",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "SB Styris",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AR Adams",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 73,
+          "wickets": 1,
+          "economy": 7.3,
+          "wides": 3,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 60,
+          "wickets": 1,
+          "overs": "9.5"
+        },
+        {
+          "player": "N Boje",
+          "runs": 126,
+          "wickets": 2,
+          "overs": "23.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 193,
+          "wickets": 3,
+          "overs": "38.1"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 243,
+          "wickets": 4,
+          "overs": "43.2"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 260,
+          "wickets": 5,
+          "overs": "45.2"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 287,
+          "wickets": 6,
+          "overs": "48.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 60,
+        "wickets": 1,
+        "run_rate": 6.0,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 42,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 98,
+        "wickets": 3,
+        "run_rate": 9.8,
+        "fours": 10,
+        "sixes": 2,
+        "dot_balls": 15,
+        "extras": 9
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 229,
+      "total_wickets": 1,
+      "total_overs": 36.5,
+      "run_rate": 6.36,
+      "top_batters": [
+        {
+          "name": "SP Fleming",
+          "runs": 134,
+          "balls": 132,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 101.52,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "NJ Astle",
+          "runs": 54,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 25,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AA Donald",
+          "overs": "5.5",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 8.91,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 4.12,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 5.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "L Klusener",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 7.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CD McMillan",
+          "runs": 89,
+          "wickets": 1,
+          "overs": "14.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 45,
+        "wickets": 0,
+        "run_rate": 4.5,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 38,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "HH Gibbs": {
+      "batting": {
+        "runs": 143,
+        "balls": 141,
+        "fours": 19,
+        "sixes": 3,
+        "strike_rate": 101.42
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Klusener": {
+      "batting": {
+        "runs": 33,
+        "balls": 21,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 157.14
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 33,
+        "balls": 48,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 68.75
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 0,
+        "economy": 5.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "N Boje": {
+      "batting": {
+        "runs": 29,
+        "balls": 37,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 78.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 23,
+        "balls": 28,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 82.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 2,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 1,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AR Adams": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 1,
+        "economy": 6.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SE Bond": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 73,
+        "wickets": 1,
+        "economy": 7.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SP Fleming": {
+      "batting": {
+        "runs": 134,
+        "balls": 132,
+        "fours": 21,
+        "sixes": 0,
+        "strike_rate": 101.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ Astle": {
+      "batting": {
+        "runs": 54,
+        "balls": 57,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 94.74
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CD McMillan": {
+      "batting": {
+        "runs": 25,
+        "balls": 32,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 78.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AA Donald": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.833333333333333,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 1,
+        "economy": 8.91
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: South Africa scored 306 in 50.0 overs at 6.12 RPO",
+    "vs New Zealand scored 229 in 36.5 overs at 6.36 RPO",
+    "Top batsman: HH Gibbs with 143 runs",
+    "Top bowler: JDP Oram with 2 wickets"
+  ]
+}

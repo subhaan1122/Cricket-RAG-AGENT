@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Zimbabwe vs Netherlands
+Stage: Group A
+Date: 2003-02-28
+Venue: Queens Sports Club, Bulawayo, Bulawayo
+Captain Zimbabwe: Heath Streak
+Captain Netherlands: Roland Lefebvre
+
+Match Summary:
+  2003 World Cup Group A: Zimbabwe vs Netherlands (2003-02-28) at Bulawayo.
+
+Zimbabwe: 301/8 (50.0 ov)
+  A Flower: 71 (72b, 7x4, 0x6, SR 98.61)
+  AM Blignaut: 58 (38b, 7x4, 0x6, SR 152.63)
+  HH Streak: 44 (22b, 6x4, 1x6, SR 200.0)
+  DD Ebrahim: 32 (41b, 1x4, 0x6, SR 78.05)
+  GJ Whittall: 30 (37b, 2x4, 1x6, SR 81.08)
+  JF Kloppenburg: 2/40 (10.0 ov, Econ 4.0)
+  E Schiferli: 2/43 (10.0 ov, Econ 4.3)
+  RP Lefebvre: 2/38 (8.0 ov, Econ 4.75)
+  TBM de Leede: 2/69 (7.0 ov, Econ 9.86)
+  JJ Esmeijer: 0/60 (9.0 ov, Econ 6.67)
+  Extras: 10
+
+Netherlands: 202/9 (50.0 ov)
+  DLS van Bunge: 37 (47b, 5x4, 0x6, SR 78.72)
+  RP Lefebvre: 30 (23b, 3x4, 1x6, SR 130.43)
+  LP van Troost: 26 (25b, 2x4, 1x6, SR 104.0)
+  HJC Mol: 23 (40b, 3x4, 0x6, SR 57.5)
+  E Schiferli: 22 (27b, 3x4, 0x6, SR 81.48)
+  BA Murphy: 3/44 (10.0 ov, Econ 4.4)
+  DA Marillier: 2/49 (9.0 ov, Econ 5.44)
+  DT Hondo: 1/16 (6.0 ov, Econ 2.67)
+  HH Streak: 1/36 (10.0 ov, Econ 3.6)
+  GJ Whittall: 1/19 (5.0 ov, Econ 3.8)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: A Flower scored 71 off 72 balls (SR 98.61)
+  Half-century: AM Blignaut scored 58 off 38 balls (SR 152.63)
+  Quickfire innings: HH Streak smashed 44 off 22 balls at SR 200.0
+
+Bowling Highlights:
+  Key spell: BA Murphy took 3/44
+  Economical spell: DT Hondo conceded 16 runs in 6.0 overs (Econ 2.67)
+
+Captain Performance:
+  Heath Streak (Zimbabwe): scored 44 off 22 balls
+  Roland Lefebvre (Netherlands): scored 30 off 23 balls
+
+Key Moments:
+  Zimbabwe lost 8 early wickets.
+  Netherlands lost 9 early wickets.
+
+Result: Zimbabwe won by 99 runs
+Toss: Netherlands won and chose to field
+Player of the Match: HH Streak

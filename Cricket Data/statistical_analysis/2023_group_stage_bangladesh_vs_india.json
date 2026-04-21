@@ -1,0 +1,769 @@
+{
+  "match_info": {
+    "match_id": "6e6df99d7d9f",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "city": "Pune",
+    "date": "2023-10-19",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "India"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shakib Al Hasan",
+      "team2": "Rohit Sharma"
+    },
+    "player_of_match": "V Kohli",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Bangladesh vs India (2023-10-19) at Pune.\nBangladesh: 256/8 (50.0 ov)\n  Liton Das: 66 (82b, 7x4, 0x6)\n  Tanzid Hasan: 51 (43b, 5x4, 3x6)\n  Mahmudullah: 46 (36b, 3x4, 3x6)\n  RA Jadeja: 2/38 (10.0 ov)\n  JJ Bumrah: 2/41 (10.0 ov)\n  Mohammed Siraj: 2/60 (10.0 ov)\nIndia: 261/3 (41.3 ov)\n  V Kohli: 103* (97b, 5x4, 4x6)\n  Shubman Gill: 53 (55b, 5x4, 2x6)\n  RG Sharma: 48 (40b, 7x4, 2x6)\n  Mehedi Hasan Miraz: 2/47 (10.0 ov)\nIndia won by 7 wickets.\nPlayer of the Match: V Kohli.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 517,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 5.75,
+    "highest_individual_score": 103,
+    "best_bowling_figures": "2/60",
+    "total_sixes": 16,
+    "total_fours": 38
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 256,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 5.12,
+      "top_batters": [
+        {
+          "name": "Liton Das",
+          "runs": 66,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 80.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Tanzid Hasan",
+          "runs": 51,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 118.6,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mahmudullah",
+          "runs": 46,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 127.78,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 38,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Towhid Hridoy",
+          "runs": 16,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SN Thakur",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tanzid Hasan",
+          "runs": 93,
+          "wickets": 1,
+          "overs": "14.4"
+        },
+        {
+          "player": "Nazmul Hossain Shanto",
+          "runs": 110,
+          "wickets": 2,
+          "overs": "19.6"
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 129,
+          "wickets": 3,
+          "overs": "24.1"
+        },
+        {
+          "player": "Liton Das",
+          "runs": 137,
+          "wickets": 4,
+          "overs": "27.4"
+        },
+        {
+          "player": "Towhid Hridoy",
+          "runs": 179,
+          "wickets": 5,
+          "overs": "37.2"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 201,
+          "wickets": 6,
+          "overs": "42.3"
+        },
+        {
+          "player": "Nasum Ahmed",
+          "runs": 233,
+          "wickets": 7,
+          "overs": "46.5"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 248,
+          "wickets": 8,
+          "overs": "49.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 0,
+        "run_rate": 6.3,
+        "fours": 8,
+        "sixes": 3,
+        "dot_balls": 39,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 67,
+        "wickets": 3,
+        "run_rate": 6.7,
+        "fours": 4,
+        "sixes": 4,
+        "dot_balls": 29,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 261,
+      "total_wickets": 3,
+      "total_overs": 41.3,
+      "run_rate": 6.37,
+      "top_batters": [
+        {
+          "name": "V Kohli",
+          "runs": 103,
+          "balls": 97,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 106.19,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shubman Gill",
+          "runs": 53,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 96.36,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 48,
+          "balls": 40,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 120.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 34,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 19,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mehedi Hasan Miraz",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Mahmud",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 1,
+          "economy": 8.12,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "Mustafizur Rahman",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mahmudullah",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Nasum Ahmed",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.32,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 88,
+          "wickets": 1,
+          "overs": "12.4"
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 132,
+          "wickets": 2,
+          "overs": "19.2"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 178,
+          "wickets": 3,
+          "overs": "29.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 0,
+        "run_rate": 6.3,
+        "fours": 8,
+        "sixes": 3,
+        "dot_balls": 38,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "1.3",
+        "balls": 9,
+        "runs": 12,
+        "wickets": 0,
+        "run_rate": 8.0,
+        "fours": 0,
+        "sixes": 1,
+        "dot_balls": 5,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Liton Das": {
+      "batting": {
+        "runs": 66,
+        "balls": 82,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 80.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Tanzid Hasan": {
+      "batting": {
+        "runs": 51,
+        "balls": 43,
+        "fours": 5,
+        "sixes": 3,
+        "strike_rate": 118.6
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mahmudullah": {
+      "batting": {
+        "runs": 46,
+        "balls": 36,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 127.78
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 6,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mushfiqur Rahim": {
+      "batting": {
+        "runs": 38,
+        "balls": 46,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 82.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Towhid Hridoy": {
+      "batting": {
+        "runs": 16,
+        "balls": 35,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 45.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 2,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Siraj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SN Thakur": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 6.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 103,
+        "balls": 97,
+        "fours": 5,
+        "sixes": 4,
+        "strike_rate": 106.19
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shubman Gill": {
+      "batting": {
+        "runs": 53,
+        "balls": 55,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 96.36
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 48,
+        "balls": 40,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 120.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KL Rahul": {
+      "batting": {
+        "runs": 34,
+        "balls": 34,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SS Iyer": {
+      "batting": {
+        "runs": 19,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 76.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mehedi Hasan Miraz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Hasan Mahmud": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 1,
+        "economy": 8.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mustafizur Rahman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Nasum Ahmed": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.5,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 0,
+        "economy": 6.32
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 256 in 50.0 overs at 5.12 RPO",
+    "vs India scored 261 in 41.3 overs at 6.37 RPO",
+    "Top batsman: V Kohli with 103 runs",
+    "Top bowler: RA Jadeja with 2 wickets"
+  ]
+}

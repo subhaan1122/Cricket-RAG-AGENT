@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs England
+Stage: Super Eight
+Date: 2007-04-11
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain Bangladesh: Habibul Bashar
+Captain England: Michael Vaughan
+
+Match Summary:
+  2007 World Cup Super Eight: Bangladesh vs England (2007-04-11) at Barbados.
+
+Bangladesh: 143 all out (37.2 ov)
+  Shakib Al Hasan: 57 (95b, 6x4, 1x6, SR 60.0)
+  Abdur Razzak: 15 (17b, 3x4, 0x6, SR 88.24)
+  Mashrafe Mortaza: 13 (43b, 0x4, 0x6, SR 30.23)
+  Aftab Ahmed: 10 (5b, 1x4, 0x6, SR 200.0)
+  Shahriar Nafees: 9 (18b, 1x4, 0x6, SR 50.0)
+  SI Mahmood: 3/27 (8.2 ov, Econ 3.24)
+  MS Panesar: 3/25 (7.0 ov, Econ 3.57)
+  JM Anderson: 2/30 (8.0 ov, Econ 3.75)
+  A Flintoff: 1/38 (8.0 ov, Econ 4.75)
+  RS Bopara: 0/6 (2.0 ov, Econ 3.0)
+  Extras: 15
+
+England: 147/6 (44.5 ov)
+  MP Vaughan: 30 (59b, 3x4, 0x6, SR 50.85)
+  A Flintoff: 23 (21b, 3x4, 1x6, SR 109.52)
+  AJ Strauss: 23 (37b, 2x4, 1x6, SR 62.16)
+  PD Collingwood: 23 (74b, 1x4, 0x6, SR 31.08)
+  PA Nixon: 20 (39b, 1x4, 1x6, SR 51.28)
+  Syed Rasel: 2/25 (10.0 ov, Econ 2.5)
+  Abdur Razzak: 2/30 (10.0 ov, Econ 3.0)
+  Mohammad Rafique: 2/33 (10.0 ov, Econ 3.3)
+  Shakib Al Hasan: 0/19 (6.0 ov, Econ 3.17)
+  Mashrafe Mortaza: 0/28 (8.5 ov, Econ 3.17)
+  Extras: 18
+
+Batting Highlights:
+  Half-century: Shakib Al Hasan scored 57 off 95 balls (SR 60.0)
+
+Bowling Highlights:
+  Key spell: SI Mahmood took 3/27
+  Key spell: MS Panesar took 3/25
+  Economical spell: Syed Rasel conceded 25 runs in 10.0 overs (Econ 2.5)
+  Economical spell: Abdur Razzak conceded 30 runs in 10.0 overs (Econ 3.0)
+  Economical spell: Mohammad Rafique conceded 33 runs in 10.0 overs (Econ 3.3)
+  Economical spell: Shakib Al Hasan conceded 19 runs in 6.0 overs (Econ 3.17)
+  Economical spell: Mashrafe Mortaza conceded 28 runs in 8.5 overs (Econ 3.17)
+
+Captain Performance:
+  Michael Vaughan (England): scored 30 off 59 balls
+
+Key Moments:
+  Bangladesh lost 10 early wickets.
+  England lost 6 early wickets.
+  Bangladesh lost 3 wickets in the powerplay.
+
+Result: England won by 4 wickets
+Toss: England won and chose to field
+Player of the Match: SI Mahmood

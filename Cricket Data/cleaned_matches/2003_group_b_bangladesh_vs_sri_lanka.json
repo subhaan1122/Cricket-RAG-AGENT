@@ -1,0 +1,54 @@
+{
+  "match_id": "fc0a507d538e",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "Pietermaritzburg",
+  "city": "",
+  "date": "2003-02-14",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Khaled Mashud",
+    "team2": "Sanath Jayasuriya"
+  },
+  "player_of_match": "WPUJC Vaas",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 124,
+      "wickets": 7,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 126,
+      "wickets": 0,
+      "overs": 20,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2003_group_b_bangladesh_vs_sri_lanka.json",
+  "match_summary": "2003 World Cup Group B: Bangladesh vs Sri Lanka (2003-02-14) at Pietermaritzburg.\nBangladesh: 124/7 (50 ov)\nSri Lanka: 126/0 (20 ov)\nSri Lanka won by 10 wickets. Player of the Match: WPUJC Vaas."
+}

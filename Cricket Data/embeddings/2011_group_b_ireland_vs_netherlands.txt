@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: Ireland vs Netherlands
+Stage: Group B
+Date: 2011-03-18
+Venue: Eden Gardens, Kolkata
+Captain Ireland: William Porterfield
+Captain Netherlands: Peter Borren
+
+Match Summary:
+  2011 World Cup Group B: Ireland vs Netherlands (2011-03-18) at Kolkata.
+
+Netherlands: 306 all out (50.0 ov)
+  RN ten Doeschate: 106 (108b, 13x4, 1x6, SR 98.15)
+  PW Borren: 84 (82b, 10x4, 0x6, SR 102.44)
+  W Barresi: 44 (49b, 4x4, 2x6, SR 89.8)
+  AF Buurman: 26 (30b, 4x4, 0x6, SR 86.67)
+  AN Kervezee: 12 (16b, 2x4, 0x6, SR 75.0)
+  PR Stirling: 2/51 (10.0 ov, Econ 5.1)
+  JF Mooney: 2/59 (10.0 ov, Econ 5.9)
+  DT Johnston: 1/50 (10.0 ov, Econ 5.0)
+  WB Rankin: 1/74 (9.0 ov, Econ 8.22)
+  GH Dockrell: 0/15 (3.4 ov, Econ 4.09)
+  Extras: 17
+
+Ireland: 307/4 (47.4 ov)
+  PR Stirling: 101 (72b, 14x4, 2x6, SR 140.28)
+  WTS Porterfield: 68 (93b, 10x4, 0x6, SR 73.12)
+  NJ O'Brien: 57 (58b, 7x4, 0x6, SR 98.28)
+  EC Joyce: 28 (33b, 3x4, 0x6, SR 84.85)
+  GC Wilson: 27 (21b, 2x4, 2x6, SR 128.57)
+  TLW Cooper: 2/31 (7.0 ov, Econ 4.43)
+  PM Seelaar: 1/55 (9.4 ov, Econ 5.69)
+  RN ten Doeschate: 1/58 (9.0 ov, Econ 6.44)
+  Adeel Raja: 0/44 (8.0 ov, Econ 5.5)
+  Mudassar Bukhari: 0/42 (7.0 ov, Econ 6.0)
+  Extras: 11
+
+Batting Highlights:
+  Century: RN ten Doeschate scored 106 off 108 balls (SR 98.15, 13 fours, 1 sixes)
+  Half-century: PW Borren scored 84 off 82 balls (SR 102.44)
+  Century: PR Stirling scored 101 off 72 balls (SR 140.28, 14 fours, 2 sixes)
+  Half-century: WTS Porterfield scored 68 off 93 balls (SR 73.12)
+  Half-century: NJ O'Brien scored 57 off 58 balls (SR 98.28)
+
+Bowling Highlights:
+  Best bowling: PR Stirling with 2/51
+
+Captain Performance:
+  Peter Borren (Netherlands): scored 84 off 82 balls
+  William Porterfield (Ireland): scored 68 off 93 balls
+
+Key Moments:
+  Netherlands lost 10 early wickets.
+  Ireland lost 4 early wickets.
+  Ireland scored aggressively in the powerplay (81 runs at 8.1 RPO).
+
+Result: Ireland won by 6 wickets
+Toss: Ireland won and chose to field
+Player of the Match: PR Stirling

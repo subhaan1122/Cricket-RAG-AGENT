@@ -1,0 +1,309 @@
+{
+  "test_run": "2026-04-20 20:09:38",
+  "total_queries": 30,
+  "passed": 29,
+  "failed": 1,
+  "pass_rate": "96.7%",
+  "results": [
+    {
+      "query_number": 1,
+      "query_type": "player",
+      "question": "Tell me the complete performance of MS Dhoni across all World Cups from 2003 to 2023",
+      "answer": "### MS Dhoni –Performance Summary (Based on Available Context Data)\n\nBased on the available data, I can provide the following performances by **MS Dhoni** in ICC Cricket World Cup matches. No other World Cup appearances or statistics are documented in the provided context.\n\n| Year | Match (Opponent) | Runs Scored | Balls Faced | Result / Key Note |\n| --- | --- | --- | --- | --- |\n| **2011** | World Cup Final vs **Sri Lanka** | **91*** | Not specified in context | India won by 6 wickets; Dhoni remained not out |\n| **2015** | Group Stage vs **Zimbabwe** | **85** | **76** | India won by 6 wickets; Dhoni’s innings included a strike rate of ~111 |\n\n**What is NOT available in the context:**\n- Any detailed batting statistics for Dhoni in **2003**, **2019**, or **2023** World Cups.  \n- Exact ball‑by‑ball breakdown, strike rate, or boundaries for the 2011 final innings.  - Performance details from any other matches involving Dhoni in those tournaments.  \n\nIf you need further clarification on the missing data or have other specific queries, feel free to ask!",
+      "status": "PASS",
+      "answer_length": 1064,
+      "timestamp": "2026-04-20 20:01:46",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 2,
+      "query_type": "player",
+      "question": "How did Virat Kohli perform in each World Cup edition? Give tournament-by-tournament stats",
+      "answer": "### Virat Kohli – Tournament‑by‑Tournament Performance (Based on Available Data)\n\n| Tournament | Match (Opponent) | Runs Scored |\n| --- | --- | --- |\n| **2011** | Bangladesh (Group) | **100** |\n| **2015** | Pakistan (Group) | **107** |\n| **2019** | Australia (Group) | **82** |\n|  | England (Group) | **66** |\n|  | Sri Lanka (Group) | **34** |\n|  | South Africa (Group) | **18** |\n\n**Key takeaways from the data**\n\n- **2011 World Cup** – Kohli’s only recorded innings was a **century (100)** against Bangladesh.  \n- **2015 World Cup** – He scored **107** runs against Pakistan in the group stage.  \n- **2019 World Cup** – Kohli accumulated **82**, **66**, **34**, and **18** runs across four group‑stage matches against Australia, England, Sri Lanka, and South Africa respectively.  \n\n**What is not covered in the available records**\n\n- No batting statistics for Kohli in the **2003**, **2007**, or **2023** World Cups are present in the provided data.  \n- Detailed match‑by‑match scores, strike rates, or additional tournaments where Kohli may have played are not available here.  \n\nIf you need clarification on any specific match or want to explore other players, just let me know!",
+      "status": "PASS",
+      "answer_length": 1183,
+      "timestamp": "2026-04-20 20:01:56",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 3,
+      "query_type": "player",
+      "question": "Compare Ricky Ponting and Sachin Tendulkar's World Cup careers with runs in each edition",
+      "answer": "### Ricky Ponting vs Sachin Tendulkar – World Cup Runs by Edition  \n*(Based **only** on the data provided in the context)*  | Tournament | **Ricky Ponting** Runs* | **Sachin Tendulkar** Runs* |\n|------------|------------------------|----------------------------|\n| 1996 | N/A | **523** |\n| 1999 | N/A | N/A |\n| 2003 | **140\\*** (scored in the final) – total tournament runs not specified | **673** |\n| 2007 | **37** (scored in the final) – total tournament runs not specified | N/A |\n| 2011 | N/A | N/A |\n\n\\*The context gives **exact match‑level scores** for Ponting in the 2003 and 2007 finals, and it lists **total tournament runs** for Tendulkar in 1996 (523) and 2003 (673). No per‑edition run totals are provided for any other year or for Ponting outside those finals.\n\n#### What the data **does not** contain\n- Complete tournament‑wide run tallies for Ponting in 1996, 1999, or 2011.  \n- Any run figures for Tendulkar in 1992, 1999, 2007, or 2011.  \n- Detailed breakdowns (e.g., average, strike rate, number of centuries) beyond the limited numbers above.\n\n#### Verdict (based solely on the available numbers)  \n- **Sachin Tendulkar** has documented **tournament‑wide** run totals that exceed the known figures for Ponting (523 runs in 1996 and 673 runs in 2003).  \n- **Ricky Ponting**’s recorded runs are limited to **match‑specific** scores (140* in the 2003 final and 37 in the 2007 final); the context does not provide his total runs for those editions.  \n\nTherefore, **within the constraints of the supplied data, Tendulkar’s known tournament run totals are higher than the figures we have for Ponting**, but a full career‑wide comparison cannot be made because the necessary data for several editions is missing.  If you need clarification on any specific match or want to explore other players, just let me know!",
+      "status": "PASS",
+      "answer_length": 1825,
+      "timestamp": "2026-04-20 20:02:12",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 4,
+      "query_type": "player",
+      "question": "What are Kumar Sangakkara's batting stats across all World Cups he played in?",
+      "answer": "###Kumar Sangakkara – World Cup Batting Summary  \n\n| World‑Cup Edition | Matches | Innings | Not‑Outs | Runs | Average | Strike Rate | Highest | 100s | 50s | 4s | 6s |\n|-------------------|---------|---------|----------|------|---------|-------------|---------|------|-----|----|----|\n| **2003** – 2015 (combined) | **28** | **28** | **8** | **1,475** | **73.75** | **89.18** | **124** | **5** | **7** | **140** | **14** |\n\n**Key points from the available data**\n\n- **Total runs:** 1,475 runs across all World Cup matches he played.  \n- **Average:** 73.75 (calculated from 28 innings).  \n- **Strike rate:** 89.18 runs per 100 balls.  - **Highest score:** 124* (not out).  \n- **Centuries:** 5 times he scored a hundred.  \n- **Fifties:** 7 half‑centuries.  \n- **Boundaries:** 140 fours and 14 sixes.  \n\n**What the records do not include**\n\n- No per‑edition run breakdown (e.g., runs in 2003 vs. 2007 vs. 2011 vs. 2015).  \n- No detailed match‑by‑match scores or venue‑specific performances.  \n- No bowling statistics for Sangakkara in World Cups (the context lists him only as a batter).  \n\nIf you need clarification on any specific tournament or have other player queries, feel free to ask!",
+      "status": "PASS",
+      "answer_length": 1188,
+      "timestamp": "2026-04-20 20:02:27",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 5,
+      "query_type": "statistical",
+      "question": "Who are the best death overs bowlers in World Cup history from 2003 to 2023?",
+      "answer": "### Best Death‑Overs Bowlers in World Cup History (2003‑2023)\n\n**What the available data can tell us**\n\n- The context does **not** contain any specific “death‑overs” statistics (e.g., balls bowled in the final 10‑15 overs, economy rates in that phase, or death‑over wicket tallies).  \n- The only bowler‑related figures that are explicitly provided are **total tournament wickets** for a few editions:\n\n| Tournament | Top Wicket‑Taker | Wickets Taken |\n|------------|------------------|---------------|\n| 2003       | **Brett Lee** (Australia) | **22** |\n| 2023       | **Mohammed Shami** (India) | **24** |\n\nThese numbers represent the **overall** wicket haul for the tournament, not performance in the death overs specifically.\n\n**Key takeaways**\n\n- Based on the data that *is* present, the bowlers with the highest **overall** wicket counts in a single World Cup are **Brett Lee** (22 wickets, 2003) and **Mohammed Shami** (24 wickets, 2023).  \n- Because the context does not break down bowling figures by “death overs,” we cannot identify a definitive list of the best death‑overs specialists for the World Cups between 2003 and 2023.  \n- If you need detailed death‑overs analysis (e.g., economy, wickets in the final 10‑15 overs), that information is **not available** in the supplied records.  \n\nFeel free to ask about any other player or tournament statistic that is covered in the data!",
+      "status": "PASS",
+      "answer_length": 1393,
+      "timestamp": "2026-04-20 20:02:34",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 6,
+      "query_type": "statistical",
+      "question": "What are the death overs batting and bowling statistics across World Cup tournaments?",
+      "answer": "**The context does not contain any explicit “death‑overs” statistics** (e.g., balls bowled in the final 10‑15 overs, economy rates in that phase, or runs scored in the death overs).  \n\nWhat *is* available are only overall tournament‑level batting and bowling figures for a few players. Those numbers cannot be broken down into a death‑overs context.\n\n### Available overall bowling numbers (tournament‑wide wickets)\n\n| Tournament | Player (Team) | Wickets Taken |\n|------------|---------------|---------------|\n| **2003**   | **Brett Lee** (Australia) | **22** |\n| **2023**   | **Mohammed Shami** (India) | **24** |\n\n### Available overall batting numbers (tournament‑wide runs)\n\n| Tournament | Player (Team) | Runs Scored |\n|------------|---------------|------------|\n| **1996**   | **Sachin Tendulkar** (India) | **523** |\n| **2003**   | **Sachin Tendulkar** (India) | **673** |\n\n*No other death‑overs‑specific metrics (e.g., “runs in the last 10 overs”, “wickets taken in the death phase”, “strike rate in the death overs”) appear in the supplied data.*\n\n### Key Takeaways\n- **No death‑overs data** is present in the context; therefore a definitive ranking of best death‑overs batsmen or bowlers cannot be provided.  \n- The only statistics we can cite are **total tournament wickets** (Lee 22, Shami 24) and **total tournament runs** (Tendulkar 523, 673).  \n- If you need detailed death‑overs analysis, the required information is **missing** from the current records.  \n\nFeel free to ask about any of the overall statistics that *are* available, or about other players and tournaments covered in the context.",
+      "status": "PASS",
+      "answer_length": 1610,
+      "timestamp": "2026-04-20 20:02:41",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 7,
+      "query_type": "statistical",
+      "question": "Which bowlers have the best economy rate in the powerplay overs in World Cup history?",
+      "answer": "###Powerplay Economy Rate – What theAvailable Records Show  \n\n**Based on the available data, I can provide the following:**  \n\n- The supplied statistics include **overall tournament bowling figures** (wickets, average, economy) for a handful of players, but they are **not broken down by the powerplay overs**.  - No player is listed with a separate “powerplay economy” number, nor are there any fields that specify balls bowled or runs conceded specifically in the first 10‑15 overs of an innings.  \n\n**Key points from the data that *are* present**\n\n| Player | Tournament(s) | Matches | Wickets | Economy (overall) |\n|--------|---------------|---------|---------|-------------------|\n| **Brett Lee** | 2003 | – | 22 | – |\n| **Mohammed Shami** | 2023 | – | 24 | – |\n| **V Kohli** (bowling) | 2011‑2023 | 27 | 1 | **4.33** |\n| **KC Sangakkara** (bowling) | 2003‑2015 | 28 | – | – |\n| **AC Gilchrist** (bowling) | 2003‑2007 | 17 | 4 | 3.38 |\n| **V Sehwag** (bowling) | 2003‑2011 | 17 | 4 | 3.38 |\n\n*These economy figures refer to the **entire tournament**, not to the powerplay phase.*\n\n###What’s Missing  \n\n- **Powerplay‑specific economy rates** (runs per over in the first 10‑15 overs).  \n- **Bowling analysis** that separates powerplay from middle‑overs or death overs.  \n- Any **rankings** of bowlers based on powerplay economy.  Because the required details are **absent** from the supplied records, I cannot identify which bowlers have the best powerplay economy in World Cup history. If you have access to data that includes powerplay breakdowns, I can help analyse it, but with the current dataset the information is simply not available.",
+      "status": "PASS",
+      "answer_length": 1644,
+      "timestamp": "2026-04-20 20:02:49",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 8,
+      "query_type": "statistical",
+      "question": "Has any team scored over 400 in a World Cup match? List all 400+ team scores",
+      "answer": "**Yes – three team innings of 400 + runs have been recorded in World Cup history according to the supplied data.**  \n\n| Team | Score (wickets) | Opponent | Tournament & Year |\n|------|----------------|----------|--------------------|\n| **Australia** | 417/6 | Afghanistan | 2015 |\n| **India** | 413/5 | Bermuda | 2007 |\n| **South Africa** | 408/5 | West Indies | 2015 |\n\n**Key Takeaways**\n\n- All three 400‑plus totals occurred in **One‑Day International (ODI) World Cup** matches.  \n- The highest team total listed is **Australia’s 417/6** against Afghanistan in 2015.  \n- No other team scores of 400 + are mentioned elsewhere in the provided context.  \n\n*If you need details on the matches (e.g., venue, match result), that information is not included in the current dataset.*",
+      "status": "PASS",
+      "answer_length": 777,
+      "timestamp": "2026-04-20 20:02:57",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 9,
+      "query_type": "statistical",
+      "question": "What is the fastest century in World Cup history and who scored it?",
+      "answer": "**Fastest Century in World Cup History**\n\n- **Player:** **Kevin O’Brien**  \n- **Runs:** 113  \n- **Balls faced:** **63** (recorded as the fastest century at the time; some sources later claimed 50 balls)  \n- **Match:** Ireland vs England, 2011 ICC Cricket World Cup (Group stage)  \n\n**Key points from the available data**\n\n- The context explicitly identifies Kevin O’Brien’s 113‑off‑63 as the *fastest century in World Cup history (at that time)*.  \n- It notes that “**some sources claim the century came off 50 balls**, but the recorded figure in the records is 63 balls.”  - Other fast innings mentioned (e.g., AB de Villiers’ 162* off 66 balls, Glenn Maxwell’s rapid centuries) are highlighted for their speed but are **not** identified as the *fastest century*.\n\n**Summary**\n\nBased on the supplied records, the fastest century in World Cup history was scored by **Kevin O’Brien**, reaching 113 runs in **63 balls** (with occasional references to a 50‑ball version). No other century in the provided data is described as faster.",
+      "status": "PASS",
+      "answer_length": 1030,
+      "timestamp": "2026-04-20 20:03:08",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 10,
+      "query_type": "statistical",
+      "question": "What is the highest individual score ever in a World Cup match?",
+      "answer": "###Highest Individual Scorein World Cup History  \n\n**Player:** **Martin Guptill**  \n**Score:** **237\\*** (not out)  \n**Match:** Ireland vs West Indies – Quarter‑Final, 2015 ICC Cricket World Cup  \n**Venue:** Wellington Regional Stadium, Wellington  \n**Date:** 21 March 2015  \n\n**Key Takeaways**\n\n- Guptill’s 237\\* is the **highest individual score ever recorded in a World Cup match** and remains the record as of the latest data.  \n- This innings surpassed the previous record (Gary Kirsten’s 188\\* in 1996) and stood as the top score until the present.  \n- The context does not list any higher individual score in any other World Cup match.  \n\n*No other player or score exceeds 237\\* in the provided records.*",
+      "status": "PASS",
+      "answer_length": 711,
+      "timestamp": "2026-04-20 20:03:15",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 11,
+      "query_type": "statistical",
+      "question": "List the top 5 highest team totals in World Cup history 2003-2023",
+      "answer": "**Top 5 HighestTeam Totals in World Cup History (2003‑2023)**  \n\n| Team | Score (wickets) | Opponent | Tournament & Year |\n|------|----------------|----------|--------------------|\n| **Australia** | 417/6 | Afghanistan | 2015 |\n| **India** | 413/5 | Bermuda | 2007 |\n| **South Africa** | 408/5 | West Indies | 2015 |\n| **Australia** | 377/6 | South Africa | 2007 |\n| **India** | 374/4 | Sri Lanka | *World Cup match (year not specified)* |\n\n**Key Takeaways**\n\n- All of the above scores are **recorded team innings of 374 runs or more** in official World Cup ODI matches.  \n- The **highest total** is **Australia’s 417/6** against Afghanistan in 2015, the only innings above 400 runs in the dataset.  \n- Two different **Australian** scores appear in the top five (417/6 and 377/6), highlighting their dominance in large‑total matches.  \n\n*No other team totals of 374+ runs are listed elsewhere in the provided records.*",
+      "status": "PASS",
+      "answer_length": 918,
+      "timestamp": "2026-04-20 20:03:34",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 12,
+      "query_type": "comparative",
+      "question": "Compare Eoin Morgan and Kane Williamson as World Cup captains with detailed stats",
+      "answer": "**Comparison of Eoin Morganand Kane Williamson as World Cup Captains**\n\n| Captain | Team | World Cup(s) Captained | Match (vs) | Runs Scored | Balls Faced | Strike Rate* | Result for Team |\n|---------|------|------------------------|------------|------------|------------|--------------|-----------------|\n| **Eoin Morgan** | England | 2019 World Cup (Group vs NZ) | New Zealand | **42** | 40 | **≈105** | England won (group‑stage) |\n|         |      | 2019 World Cup Final | New Zealand | – (no run tally in the records) | – | – | England finished as champions |\n| **Kane Williamson** | New Zealand | 2019 World Cup (Group vs ENG) | England | **27** | 40 | **≈67.5** | New Zealand lost |\n|         |      | 2019 World Cup Final | England | **30** | 53 | **≈56.6** | New Zealand finished runners‑up |\n|         |      | 2019 World Cup Semi‑final | India | – (no run tally provided) | – | – | New Zealand lost |\n\n\\*Strike Rate is calculated from the runs ÷ balls × 100 where the data is available.\n\n**Key Observations from the Data**\n\n- **Match‑level impact:** In the only game where both captains’ scores are directly comparable (the 2019 group‑stage England vs New Zealand clash), **Morgan’s 42 off 40** out‑performed **Williamson’s 27 off 40** both in runs and strike rate.  \n- **Team outcomes:** England, under Morgan’s captaincy, topped the 2019 tournament standings with a **72.7 % win rate**, whereas New Zealand, led by Williamson, finished with a **60 % win rate** and were runners‑up in the final.  \n- **Final performance:** Williamson contributed **30 off 53** in the final, but the records do not list any runs for Morgan in that match.  - **Overall captaincy record in the data set:** Morgan captained England in two recorded matches (group stage and final); Williamson captained New Zealand in three recorded matches (group stage, final, semi‑final), but only two of those provide his personal scoring data.\n\n### Verdict (based solely on the supplied information)\n\n- **Scoring impact:** Morgan’s recorded strike rate (≈105) is markedly higher than Williamson’s recorded strike rates (≈67.5 and ≈56.6) in the matches where both captains’ scores are available.  \n- **Team success:** England’s higher win percentage under Morgan’s leadership suggests a more dominant team performance in the tournament, though Williamson’s New Zealand also reached the final.  **Therefore, within the constraints of the provided data, Eoin Morgan’s captaincy is associated with a higher personal scoring impact and a better team win rate, but both captains led their sides to the latter stages of the competition.**",
+      "status": "PASS",
+      "answer_length": 2608,
+      "timestamp": "2026-04-20 20:04:33",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 13,
+      "query_type": "comparative",
+      "question": "Which captain has the best win percentage in World Cup history from 2003 to 2023?",
+      "answer": "###Answer  \n\nBased on theavailable data, I can provide the following:\n\n- The context lists **Winners by Year** and **Runners‑up by Year**, showing which teams won each tournament from 2003‑2023.  \n- It also records **individual match results** (e.g., Australia beat India in 2003, England beat New Zealand in 2019, Australia beat India in 2023).  \n- **However, the data does not include a compiled win‑loss record for any captain**, nor does it provide the number of matches each captain led or the resulting wins and losses.\n\n**Conclusion**  \nWith the information currently available, I **cannot determine which captain has the best win percentage** in World Cup history from 2003‑2023. To calculate win percentages, detailed match‑by‑match results under each captain’s leadership would be required.\n\n**Key Takeaways**\n\n- Winners list is present, but **win‑percentage metrics for captains are missing**.  - No captain’s overall win‑loss tally is supplied in the context.  \n- Additional data on matches captained would be needed to answer the question accurately.",
+      "status": "PASS",
+      "answer_length": 1063,
+      "timestamp": "2026-04-20 20:04:42",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 14,
+      "query_type": "tournament",
+      "question": "What were the most memorable moments of the 2015 World Cup?",
+      "answer": "**Based on the available data, the most memorable moments of the 2015 ICC Cricket World Cup are:**\n\n- **Winner:** Australia **defeated New Zealand** in the final at the Melbourne Cricket Ground to lift the trophy.  \n- **Top Run‑Scorer:**  \n  - **Martin Guptill** – **547 runs** (as reported in the tournament summary).  \n  - **KC Sangakkara** – **534 runs** (also listed as the tournament’s leading run‑getter).  - **Highest Individual Score:** **Martin Guptill** – **237 runs** against West Indies in the quarter‑final.  \n- **Player of the Tournament:** **Mitchell Starc** – took **22 wickets** (average 10.18, economy 3.50).  \n- **Top Wicket‑Taker:** **Mitchell Starc** – **22 wickets** for the tournament.  \n\nThese points represent the key highlights that the supplied records identify as memorable moments of the 2015 World Cup. No additional details about specific match‑day incidents are provided in the context.",
+      "status": "PASS",
+      "answer_length": 918,
+      "timestamp": "2026-04-20 20:04:51",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 15,
+      "query_type": "tournament",
+      "question": "What were the key highlights and memorable events of the 2007 World Cup?",
+      "answer": "###Key Highlights of the 2007 ICC Cricket World Cup  \n\n- **Host Country:** **West Indies** (various Caribbean islands)  \n- **Tournament Format:** 16 teams – 4 groups of 4, **Super Eight**, **Semi‑finals**, **Final**  \n- **Total Matches Played:** **51**  \n- **Winner:** **Australia** (defeated Sri Lanka in the final)  \n- **Runner‑up:** **Sri Lanka**  \n- **Player of the Tournament:** **Glenn McGrath**  - **Top Run‑Scorer:** **Matthew Hayden** – **659 runs**  \n- **Top Wicket‑Taker:** **Glenn McGrath** – **26 wickets**  \n- **Highest Individual Score in a Final:** **Adam Gilchrist** – **149 runs off 104 balls** (World Cup final)  \n- **Historical Milestone:** **Australia’s third consecutive World Cup title** (1999, 2003, 2007) and their **unbeaten run extended to 29 consecutive World Cup wins**  \n\n###Memorable Events  \n\n- **Major Upset:** **Ireland beat Pakistan** by 3 wickets in a Group D match (17 March 2007), eliminating the defending champions Pakistan.  \n- **Record‑breaking Batting:** **Herschelle Gibbs** smashed **6 sixes in an over** against the Netherlands.  \n- **Glenn McGrath’s Farewell:** The fast bowler concluded his World Cup career with **26 wickets**, earning **Player of the Tournament** honors.  \n- **Adam Gilchrist’s Final innings:** His **149‑run knock** in the final remains the highest score ever recorded in a World Cup final.  - **Australia’s Dominance:** The team remained **unbeaten throughout the tournament**, culminating in a comfortable victory over Sri Lanka in the final.  \n\nThese points capture the principal highlights and standout moments from the 2007 World Cup as recorded in the supplied data.",
+      "status": "PASS",
+      "answer_length": 1640,
+      "timestamp": "2026-04-20 20:05:01",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 16,
+      "query_type": "tournament",
+      "question": "Describe the most dramatic moments from the 2023 World Cup",
+      "answer": "I could not generate a response. Please try rephrasing your question.",
+      "status": "FAIL",
+      "answer_length": 69,
+      "timestamp": "2026-04-20 20:06:44",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 17,
+      "query_type": "match_specific",
+      "question": "How did the 2019 World Cup final end? Explain the Super Over and boundary count rule",
+      "answer": "###How the 2019 World Cup Final Ended  - **Scores after 50 overs:** Both teams finished on **241 runs**.  \n- **Super Over:**  \n  - Each side faced **6 balls**.  \n  - The runs scored were **tied at 15‑15**.  \n- **Boundary countback:** Because the Super Over was also tied, the winner was decided by the **boundary countback rule**.  \n  - **England** hit **26 boundaries** in the match (including the Super Over).  \n  - **New Zealand** hit **17 boundaries** in the match (including the Super Over).  \n  - The team with the **higher number of boundaries** was declared the champion – **England**.\n\n####Boundary Countback Details  \n\n| Team | Boundaries (match total) |\n|------|--------------------------|\n| **England** | **26** |\n| **New Zealand** | **17** |\n\n- The rule counted **all boundaries** (fours and sixes) hit during the entire match **including** the Super Over.  \n- Since England’s total (26) was greater than New Zealand’s (17), England was awarded the trophy.\n\n####Key Takeaways  \n\n- The final was the **first World Cup final decided by a Super Over**.  \n- The Super Over itself ended **tied 15‑15**, forcing the use of the **boundary countback** to separate the teams.  \n- This was the **only World Cup final ever decided by boundary countback**; the rule was **abolished by the ICC after the tournament**.  \n- The dramatic finish featured a controversial **overthrow incident** involving **Ben Stokes**, which contributed to the scores being level.  \n\nThese points capture the decisive moments and the mechanics of the Super Over and boundary‑countback rule as recorded in the provided context.",
+      "status": "PASS",
+      "answer_length": 1606,
+      "timestamp": "2026-04-20 20:07:22",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 18,
+      "query_type": "match_specific",
+      "question": "What was the overthrow controversy in the 2019 World Cup final?",
+      "answer": "**Overthrow controversy – 2019 World Cup Final**\n\n- The incident occurred when **Ben Stokes** was **running between the wickets**.  \n- A throw from the fielding side **deflected off Stokes’s bat** accidentally.  \n- According to the records, **Stokes was NOT out** at that moment; the deflection simply added runs to England’s total.  \n- The extra runs helped England reach the target and forced the match into a **Super Over**, which ultimately led to the boundary‑countback decision.  \n\nThis is the only detail about the overthrow controversy that appears in the provided context.",
+      "status": "PASS",
+      "answer_length": 581,
+      "timestamp": "2026-04-20 20:07:26",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 19,
+      "query_type": "statistical",
+      "question": "What are the average scores at major World Cup venues? Which ground has the highest average first innings score?",
+      "answer": "###Answer  \n\nBased on the available data, I can provide the following:\n\n- The context includes specific match scores and venue details (e.g., the 2023 final at **Narendra Modi Stadium**, the 2015 final at **Melbourne Cricket Ground**, etc.) but it **does not** contain any information about **average scores at major World Cup venues** or which ground has the **highest average first‑innings score**.\n\n**Missing data**\n\n- Average scores at major World Cup venues.  \n- The ground with the highest average first‑innings score.\n\nTherefore, I cannot answer the question with the information provided.",
+      "status": "PASS",
+      "answer_length": 596,
+      "timestamp": "2026-04-20 20:08:04",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 20,
+      "query_type": "statistical",
+      "question": "What is India's win-loss record across all World Cups from 2003 to 2023?",
+      "answer": "###India's World Cup win‑loss record (based on the data that is available)\n\n| Tournament | Played | Won | Lost |\n|------------|--------|-----|------|\n| **2003**   | 11     | **9** | **2** |\n| **2023**   | 11     | **10**| **1** |\n\n**Key points from the available records**\n\n- In the **2003** edition India played **11** matches, winning **9** and losing **2**.  \n- In the **2023** edition India played **11** matches, winning **10** and losing **1**.  \n\n**What the context does NOT provide**\n\n- Win‑loss details for the **2007**, **2011**, **2015**, and **2019** World Cups.  \n- A complete **overall** tally (total wins, losses, and win‑percentage) across all tournaments from 2003‑2023 cannot be calculated because those figures are not present in the supplied data.  \n\n**Therefore, based on the available information, the only concrete win‑loss numbers are for 2003 and 2023 as shown above.**",
+      "status": "PASS",
+      "answer_length": 894,
+      "timestamp": "2026-04-20 20:08:16",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 21,
+      "query_type": "comparative",
+      "question": "Which team has the worst win-loss ratio in World Cups from 2003 to 2023 with minimum 20 matches?",
+      "answer": "###AnswerBased on the available data, I can provide the following:\n\n- The context includes India’s win‑loss record for the **2003** World Cup (**9 wins, 2 losses**) and for the **2023** World Cup (**10 wins, 1 loss**).  - It also lists the number of matches played by each team in those tournaments (e.g., Australia 11, India 11, etc.).  \n- **However, the context does not contain cumulative win‑loss records for any team across all World Cups from 2003‑2023**, nor does it show any team that played **20 or more matches** in total.  \n\nTherefore, there is not enough information to identify which team has the worst win‑loss ratio with a minimum of 20 matches.\n\n**Key Takeaways**\n\n- Only per‑tournament win‑loss figures (2003 and 2023) are present.  \n- No team in the provided data has 20+ matches recorded.  \n- Consequently, the question cannot be answered from the given context.",
+      "status": "PASS",
+      "answer_length": 881,
+      "timestamp": "2026-04-20 20:08:24",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 22,
+      "query_type": "statistical",
+      "question": "What is Australia's World Cup record? How many titles have they won from 2003-2023?",
+      "answer": "###Answer  \n- **Australia’s World Cup record from 2003 – 2023:**  \n  - **2003:** Champions (defeated India in the final)  \n  - **2007:** Champions (defeated Sri Lanka in the final)  \n  - **2015:** Champions (defeated New Zealand in the final)  \n  - **2023:** Champions (defeated India in the final)  \n\n- **Number of titles won during 2003‑2023:** **4**  \n\n**Key Takeaways**  - Australia captured **four** World Cup titles in the specified period, adding to their historic total of six championships.  \n- They are the only team to win the tournament in three different decades (2000s, 2010s, and 2020s) within this range.  \n- The context does not provide a full win‑loss record or detailed statistics beyond the titles listed above.",
+      "status": "PASS",
+      "answer_length": 731,
+      "timestamp": "2026-04-20 20:08:31",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 23,
+      "query_type": "tournament",
+      "question": "Who won the Player of the Tournament award in each World Cup from 2003 to 2023?",
+      "answer": "###AnswerBased on the available data, I can provide the following:\n\n| Year | Player of the Tournament |\n|------|---------------------------|\n| **2003** | **Sachin Tendulkar** |\n| **2023** | **Virat Kohli** |\n\n**Key Takeaways**\n\n- The context explicitly names the Player of the Tournament for **2003** as **Sachin Tendulkar** and for **2023** as **Virat Kohli**.  - For the intervening World Cups (**2007**, **2011**, **2015**, **2019**), the supplied material does not mention the Player of the Tournament award, so no information is available for those years.  \n\n**What the context does not cover**\n\n- The award winners for **2007**, **2011**, **2015**, and **2019** are not listed in any of the provided chunks.  \n- Consequently, a complete year‑by‑year list from 2003‑2023 cannot be completed with the current data.",
+      "status": "PASS",
+      "answer_length": 818,
+      "timestamp": "2026-04-20 20:08:41",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 24,
+      "query_type": "statistical",
+      "question": "Who were the top run scorers (Golden Bat winners) in each World Cup edition?",
+      "answer": "###Answer\n**Golden Bat winners byWorld Cup edition (as recorded in the provided data):**\n\n| Year | Golden Bat Winner |\n|------|-------------------|\n| **2003** | **Sachin Tendulkar** |\n| **2007** | **Matthew Hayden** |\n| **2011** | **Tillakaratne Dilshan** |\n| **2015** | **Kumar Sangakkara** |\n| **2019** | **Rohit Sharma** |\n| **2023** | **Virat Kohli** |\n\n**Key Takeaways**\n\n- The context supplies a Golden Bat winner for each World Cup from **2003 through 2023**.  \n- All listed players are the **top run‑scorers** of their respective tournaments, with the exact run totals implied by the context (e.g., 669 runs for Tendulkar in 2003).  \n- No other World Cup editions are mentioned, so the list above represents the complete set of Golden Bat winners available in the supplied data.",
+      "status": "PASS",
+      "answer_length": 786,
+      "timestamp": "2026-04-20 20:08:48",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 25,
+      "query_type": "comparative",
+      "question": "What is India vs Pakistan head to head record in World Cups from 2003 to 2023?",
+      "answer": "###Answer  \n**India vs Pakistan head‑to‑head in World Cups (2003 – 2023)**  \n\n| Year | Match (Venue) | Result | India’s Score | Pakistan’s Score |\n|------|----------------|--------|---------------|------------------|\n| **2003** | India vs Pakistan – Centurion, South Africa | **India won** | **276/4** (45.4 ov) | 273/7 (50 ov) |\n| **2023** | India vs Pakistan – Ahmedabad, India | **India won** | **192/3** (30.3 ov) | 191 all out (42.5 ov) |\n\n**Key Takeaways**\n\n- **Overall record:** India **2‑0** against Pakistan in World Cup encounters from 2003 to 2023.  \n- Both meetings listed in the context resulted in comfortable chases for India, with no loss recorded against Pakistan in the provided data.  \n- The context supplies full scorecards for each match, including notable individual performances (e.g., **Sachin Tendulkar**’s 98 in 2003, **Rohit Sharma**’s 86 in 2023), but does not mention any Pakistan victory over India in this period.  \n\n**Verdict**  \nBased solely on the data supplied, India holds a **perfect winning record** (2‑0) over Pakistan in World Cup matches between 2003 and 2023. No losses or draws are recorded for India in the context.",
+      "status": "PASS",
+      "answer_length": 1159,
+      "timestamp": "2026-04-20 20:08:58",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 26,
+      "query_type": "tournament",
+      "question": "What were the biggest upsets in World Cup history from 2003 to 2023?",
+      "answer": "###Answer  \n**The biggest upset in World Cup history (2003‑2023) – Ireland’s victory over Pakistan in 2007**\n\n- **Match:** Ireland **defeated** Pakistan  \n- **Date:** 17 March 2007  \n- **Venue:** Sabina Park, Kingston, Jamaica  \n- **Result:** Ireland won by **3 wickets** (chasing 133/7; Pakistan were all out for 132)  \n- **Key performances**  \n  - **Niall O'Brien** (Ireland) – **72 runs**  \n  - **Boyd Rankin** (Ireland) – **3/32**  **Why it’s considered the biggest upset**\n\n- Pakistan, a top‑ranked team, were eliminated from the group stage after this loss.  \n- The win shocked the cricket world and is highlighted in the records as *“the biggest upset in World Cup history.”*  \n\n*No other upsets are mentioned in the provided data for the 2003‑2023 World Cup period.*",
+      "status": "PASS",
+      "answer_length": 774,
+      "timestamp": "2026-04-20 20:09:06",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 27,
+      "query_type": "tournament",
+      "question": "Tell me about Bob Woolmer's death during the 2007 World Cup",
+      "answer": "###Answer**Bob Woolmer’s death** occurred during the 2007 ICC Cricket World Cup.\n\n- **Date & location:** 18 March 2007, in his hotel room in **Kingston, Jamaica**, the day after Pakistan were eliminated from the tournament.  \n- **Circumstances:** He was found **unconscious** and later **pronounced dead** at the hospital.  \n- **Initial reports:** Suggested **murder** – manual strangulation was reported.  \n- **Investigation outcome:** In **June 2007**, Jamaican authorities **re‑classified** the cause of death as **natural causes (heart failure)**.  \n- **Significance:** The incident is described as **one of the most shocking and tragic events in cricket history**, casting a somber shadow over the tournament.  \n\n**Key takeaways**\n\n- The death happened **immediately after Pakistan's group‑stage exit**.  \n- It triggered a high‑profile police investigation that later shifted the narrative from homicide to natural cardiac failure.  \n- Woolmer’s passing remains a poignant and controversial moment in World Cup lore.  \n\n*No additional details are provided in the supplied records.*",
+      "status": "PASS",
+      "answer_length": 1086,
+      "timestamp": "2026-04-20 20:09:12",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 28,
+      "query_type": "comparative",
+      "question": "Compare Glenn Maxwell's 201* vs Afghanistan in 2023 with other great World Cup knocks",
+      "answer": "###Answer**Glenn Maxwell**’s 201* innings is not mentioned in the supplied records. The provided match summaries for Afghanistan’s 2023 World Cup games state **“No detailed batting data available for this match.”** Consequently, the data does not contain:\n\n- Maxwell’s score or any other individual batting figures.  \n- Any other World Cup centuries, scores, or performance metrics that could be compared.  **What the data does provide**\n\n- A list of Afghanistan’s group‑stage opponents and match venues.  \n- General team performance statistics (e.g., wins, losses, highest/lowest totals).  \n- No player‑level statistics, strike rates, or centuries are included.\n\n**Verdict**  \nBased solely on the available information, **no comparison can be made** between Maxwell’s knock and other World Cup innings, because the necessary batting details are absent from the records.",
+      "status": "PASS",
+      "answer_length": 870,
+      "timestamp": "2026-04-20 20:09:20",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 29,
+      "query_type": "statistical",
+      "question": "How many centuries did Rohit Sharma score in the 2019 World Cup? Is that a record?",
+      "answer": "**Answer**- **Rohit Sharma scored 5 centuries** in the 2019 World Cup.  \n- **Yes – that total is a record** for the most centuries by a player in a single World Cup.\n\n**Most centuries in a single World Cup (all tournaments)**  \n\n| Player | Centuries (Single WC) |\n|--------|----------------------|\n| **Rohit Sharma** | **5** |\n| Kumar Sangakkara | 4 |\n| Sachin Tendulkar | 3 |\n\n**Key Takeaways**  \n- Rohit’s **5 centuries** remain the highest tally ever recorded in a single World Cup.  \n- The record has **not been surpassed** in the data available up to 2023.  \n- Only two other players (Sangakkara and Tendulkar) have reached **4** and **3** centuries respectively in a single edition.",
+      "status": "PASS",
+      "answer_length": 688,
+      "timestamp": "2026-04-20 20:09:33",
+      "retrieval_score": null
+    },
+    {
+      "query_number": 30,
+      "query_type": "match_specific",
+      "question": "Describe the 2011 World Cup final. How did Dhoni finish the match?",
+      "answer": "###Answer  \nThe **2011 ICC Cricket World Cup Final** was contested between **India** and **Sri Lanka**.\n\n- **Date:** 2 April 2011  \n- **Venue:** Wankhede Stadium, **Mumbai**  - **Toss:** India won the toss and chose to **field**  \n- **Sri Lanka innings:** 274/6 in 50 overs  \n  - Mahela Jayawardene scored 103* off 88 balls  \n- **India innings:** 277/4 in **48.2 overs**  \n  - Gautam Gambhir: 97 off 122 balls  \n  - **MS Dhoni:** 91* off 79 balls, finishing the match with a **six** off Nuwan Kulasekara  \n\n**Result:** India won by **6 wickets** with **10 balls remaining**.  \n**Player of the Match:** **MS Dhoni**.  \n\n**How Dhoni finished the match**  \n- After a steady chase, Dhoni was at the crease when India needed a few runs to win.  \n- He struck a **six** off the bowling of Nuwan Kulasekara, sealing the victory and completing the chase.  \n\n*All details are drawn directly from the supplied match summary.*",
+      "status": "PASS",
+      "answer_length": 914,
+      "timestamp": "2026-04-20 20:09:37",
+      "retrieval_score": null
+    }
+  ]
+}

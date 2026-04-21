@@ -1,0 +1,338 @@
+{
+  "match_id": "ef8cd1da71ee",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "SuperSport Park, Centurion",
+  "city": "Centurion",
+  "date": "2003-02-23",
+  "teams": {
+    "team1": "Canada",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Joe Harris",
+    "team2": "Brian Lara"
+  },
+  "player_of_match": "JM Davison",
+  "innings": [
+    {
+      "team": "Canada",
+      "runs": 202,
+      "wickets": 10,
+      "overs": 42.5,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "JM Davison",
+          "runs": 111,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 6,
+          "strike_rate": 146.05,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DR Chumney",
+          "runs": 19,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 76.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IS Billcliff",
+          "runs": 16,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "I Maraj",
+          "runs": 16,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NA de Groot",
+          "runs": 11,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.38,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "VC Drakes",
+          "overs": "9.5",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 5,
+          "economy": 4.47,
+          "wides": 0,
+          "no_balls": 3
+        },
+        {
+          "name": "WW Hinds",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 4.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PT Collins",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 3
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 3.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CL Hooper",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 3.88,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "I Maraj",
+          "runs": 96,
+          "wickets": 1,
+          "overs": "11.6"
+        },
+        {
+          "player": "DR Chumney",
+          "runs": 155,
+          "wickets": 2,
+          "overs": "20.6"
+        },
+        {
+          "player": "JM Davison",
+          "runs": 156,
+          "wickets": 3,
+          "overs": "22.1"
+        },
+        {
+          "player": "N Ifill",
+          "runs": 174,
+          "wickets": 4,
+          "overs": "28.4"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 185,
+          "wickets": 5,
+          "overs": "34.1"
+        },
+        {
+          "player": "JV Harris",
+          "runs": 190,
+          "wickets": 6,
+          "overs": "38.3"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 197,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "A Codrington",
+          "runs": 202,
+          "wickets": 8,
+          "overs": "42.3"
+        },
+        {
+          "player": "BB Seebaran",
+          "runs": 202,
+          "wickets": 9,
+          "overs": "42.4"
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 202,
+          "wickets": 10,
+          "overs": "42.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 206,
+      "wickets": 3,
+      "overs": 20.3,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "BC Lara",
+          "runs": 73,
+          "balls": 40,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 182.5,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "WW Hinds",
+          "runs": 64,
+          "balls": 31,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 206.45,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 42,
+          "balls": 32,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 131.25,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CL Hooper",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JM Davison",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NA de Groot",
+          "overs": "2.3",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 8.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Joseph",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 11.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "A Codrington",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 6.25,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "N Ifill",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 11.5,
+          "wides": 4,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 32,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "WW Hinds",
+          "runs": 134,
+          "wickets": 2,
+          "overs": "11.3"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 177,
+          "wickets": 3,
+          "overs": "16.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_canada_vs_west_indies.json",
+  "match_summary": "2003 World Cup Group B: Canada vs West Indies (2003-02-23) at Centurion.\nCanada: 202 all out (42.5 ov)\n  JM Davison: 111 (76b, 7x4, 6x6)\n  VC Drakes: 5/44 (9.5 ov)\n  WW Hinds: 2/19 (4.0 ov)\nWest Indies: 206/3 (20.3 ov)\n  BC Lara: 73 (40b, 7x4, 5x6)\n  WW Hinds: 64 (31b, 10x4, 3x6)\n  RR Sarwan: 42* (32b, 9x4, 0x6)\nWest Indies won by 7 wickets.\nPlayer of the Match: JM Davison."
+}

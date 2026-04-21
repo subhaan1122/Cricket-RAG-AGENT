@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2023
+Match: South Africa vs Australia
+Stage: Semi-Final
+Date: 2023-11-16
+Venue: Eden Gardens, Kolkata, Kolkata
+Captain South Africa: Temba Bavuma
+Captain Australia: Pat Cummins
+
+Match Summary:
+  2023 World Cup Semi-Final: South Africa vs Australia (2023-11-16) at Kolkata.
+
+South Africa: 212 all out (49.4 ov)
+  DA Miller: 101 (116b, 8x4, 5x6, SR 87.07)
+  H Klaasen: 47 (48b, 4x4, 2x6, SR 97.92)
+  G Coetzee: 19 (39b, 2x4, 0x6, SR 48.72)
+  K Rabada: 10 (12b, 0x4, 1x6, SR 83.33)
+  AK Markram: 10 (20b, 2x4, 0x6, SR 50.0)
+  MA Starc: 3/34 (10.0 ov, Econ 3.4)
+  PJ Cummins: 3/51 (9.4 ov, Econ 5.28)
+  JR Hazlewood: 2/12 (8.0 ov, Econ 1.5)
+  TM Head: 2/21 (5.0 ov, Econ 4.2)
+  GJ Maxwell: 0/35 (10.0 ov, Econ 3.5)
+  Extras: 11
+
+Australia: 215/7 (47.2 ov)
+  TM Head: 62 (48b, 9x4, 2x6, SR 129.17)
+  SPD Smith: 30 (62b, 2x4, 0x6, SR 48.39)
+  DA Warner: 29 (18b, 1x4, 4x6, SR 161.11)
+  JP Inglis: 28 (49b, 3x4, 0x6, SR 57.14)
+  M Labuschagne: 18 (31b, 2x4, 0x6, SR 58.06)
+  T Shamsi: 2/42 (10.0 ov, Econ 4.2)
+  G Coetzee: 2/47 (9.0 ov, Econ 5.22)
+  KA Maharaj: 1/24 (10.0 ov, Econ 2.4)
+  AK Markram: 1/23 (8.0 ov, Econ 2.88)
+  K Rabada: 1/41 (6.0 ov, Econ 6.83)
+  Extras: 17
+
+Batting Highlights:
+  Century: DA Miller scored 101 off 116 balls (SR 87.07, 8 fours, 5 sixes)
+  Half-century: TM Head scored 62 off 48 balls (SR 129.17)
+  Quickfire innings: DA Warner smashed 29 off 18 balls at SR 161.11
+
+Bowling Highlights:
+  Key spell: MA Starc took 3/34
+  Key spell: PJ Cummins took 3/51
+  Economical spell: JR Hazlewood conceded 12 runs in 8.0 overs (Econ 1.5)
+  Economical spell: GJ Maxwell conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: KA Maharaj conceded 24 runs in 10.0 overs (Econ 2.4)
+  Economical spell: AK Markram conceded 23 runs in 8.0 overs (Econ 2.88)
+
+Captain Performance:
+  South Africa captain: Temba Bavuma
+  Australia captain: Pat Cummins
+
+Key Moments:
+  South Africa lost 10 early wickets.
+  Australia lost 7 early wickets.
+  Australia scored aggressively in the powerplay (74 runs at 7.4 RPO).
+
+Result: Australia won by 3 wickets
+Toss: South Africa won and chose to bat
+Player of the Match: TM Head

@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: India vs Pakistan
+Stage: Group Stage
+Date: 2019-06-16
+Venue: Old Trafford, Manchester
+Captain India: Virat Kohli
+Captain Pakistan: Sarfaraz Ahmed
+
+Match Summary:
+  2019 World Cup Group Stage: India vs Pakistan (2019-06-16) at Manchester.
+
+India: 336/5 (50.0 ov)
+  RG Sharma: 140 (113b, 14x4, 3x6, SR 123.89)
+  V Kohli: 77 (65b, 7x4, 0x6, SR 118.46)
+  KL Rahul: 57 (78b, 3x4, 2x6, SR 73.08)
+  HH Pandya: 26 (19b, 2x4, 1x6, SR 136.84)
+  V Shankar: 15 (15b, 1x4, 0x6, SR 100.0)
+  Mohammad Amir: 3/47 (10.0 ov, Econ 4.7)
+  Wahab Riaz: 1/71 (10.0 ov, Econ 7.1)
+  Hasan Ali: 1/84 (9.0 ov, Econ 9.33)
+  Imad Wasim: 0/49 (10.0 ov, Econ 4.9)
+  Shadab Khan: 0/61 (9.0 ov, Econ 6.78)
+  Extras: 11
+
+Pakistan: 212/6 (40.0 ov)
+  Fakhar Zaman: 62 (75b, 7x4, 1x6, SR 82.67)
+  Babar Azam: 48 (57b, 3x4, 1x6, SR 84.21)
+  Imad Wasim: 46 (39b, 5x4, 0x6, SR 117.95)
+  Shadab Khan: 20 (14b, 1x4, 0x6, SR 142.86)
+  Sarfraz Ahmed: 12 (30b, 0x4, 0x6, SR 40.0)
+  Kuldeep Yadav: 2/32 (9.0 ov, Econ 3.56)
+  V Shankar: 2/22 (5.2 ov, Econ 4.12)
+  HH Pandya: 2/44 (8.0 ov, Econ 5.5)
+  B Kumar: 0/8 (2.4 ov, Econ 3.0)
+  JJ Bumrah: 0/52 (8.0 ov, Econ 6.5)
+  Extras: 8
+
+Batting Highlights:
+  Century: RG Sharma scored 140 off 113 balls (SR 123.89, 14 fours, 3 sixes)
+  Half-century: V Kohli scored 77 off 65 balls (SR 118.46)
+  Half-century: KL Rahul scored 57 off 78 balls (SR 73.08)
+  Half-century: Fakhar Zaman scored 62 off 75 balls (SR 82.67)
+
+Bowling Highlights:
+  Key spell: Mohammad Amir took 3/47
+
+Captain Performance:
+  Virat Kohli (India): scored 77 off 65 balls
+  Sarfaraz Ahmed (Pakistan): scored 12 off 30 balls
+
+Key Moments:
+  India lost 5 early wickets.
+  Pakistan lost 6 early wickets.
+
+Result: India won by 89 runs (D/L)
+Toss: Pakistan won and chose to field
+Player of the Match: RG Sharma

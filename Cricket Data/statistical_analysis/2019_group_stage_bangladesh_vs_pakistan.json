@@ -1,0 +1,797 @@
+{
+  "match_info": {
+    "match_id": "2eac13f95000",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "date": "2019-07-05",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "94 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Mashrafe Mortaza",
+      "team2": "Sarfaraz Ahmed"
+    },
+    "player_of_match": "Shaheen Shah Afridi",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: Bangladesh vs Pakistan (2019-07-05) at London.\nPakistan: 315/9 (50.0 ov)\n  Imam-ul-Haq: 100 (100b, 8x4, 0x6)\n  Babar Azam: 96 (98b, 11x4, 0x6)\n  Imad Wasim: 43 (26b, 6x4, 1x6)\n  Mustafizur Rahman: 5/75 (10.0 ov)\n  Mohammad Saifuddin: 3/77 (9.0 ov)\nBangladesh: 221 all out (44.1 ov)\n  Shakib Al Hasan: 64 (77b, 6x4, 0x6)\n  Liton Das: 32 (40b, 3x4, 0x6)\n  Shaheen Shah Afridi: 6/35 (9.1 ov)\n  Shadab Khan: 2/59 (9.0 ov)\nPakistan won by 94 runs.\nPlayer of the Match: Shaheen Shah Afridi.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 536,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 5.66,
+    "highest_individual_score": 100,
+    "best_bowling_figures": "6/35",
+    "total_sixes": 1,
+    "total_fours": 47
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 315,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 6.3,
+      "top_batters": [
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 100,
+          "balls": 100,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "hit wicket"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 96,
+          "balls": 98,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 97.96,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Imad Wasim",
+          "runs": 43,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 165.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 27,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 108.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Fakhar Zaman",
+          "runs": 13,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mustafizur Rahman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 75,
+          "wickets": 5,
+          "economy": 7.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Saifuddin",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 77,
+          "wickets": 3,
+          "economy": 8.56,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "Mehedi Hasan Miraz",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 0,
+          "economy": 5.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 6.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 23,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 180,
+          "wickets": 2,
+          "overs": "31.6"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 246,
+          "wickets": 3,
+          "overs": "41.5"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 248,
+          "wickets": 4,
+          "overs": "42.4"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 255,
+          "wickets": 5,
+          "overs": "43.5"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 288,
+          "wickets": 6,
+          "overs": "46.5"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 289,
+          "wickets": 7,
+          "overs": "47.1"
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 314,
+          "wickets": 8,
+          "overs": "49.4"
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 314,
+          "wickets": 9,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 38,
+        "wickets": 1,
+        "run_rate": 3.8,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 85,
+        "wickets": 7,
+        "run_rate": 8.5,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 19,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "total_runs": 221,
+      "total_wickets": 10,
+      "total_overs": 44.1,
+      "run_rate": 5.02,
+      "top_batters": [
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 64,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 83.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Liton Das",
+          "runs": 32,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mahmudullah",
+          "runs": 29,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.73,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Soumya Sarkar",
+          "runs": 22,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 16,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "9.1",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 6,
+          "economy": 3.82,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Amir",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 4.43,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.71,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Imad Wasim",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Soumya Sarkar",
+          "runs": 26,
+          "wickets": 1,
+          "overs": "5.5"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 48,
+          "wickets": 2,
+          "overs": "10.4"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 78,
+          "wickets": 3,
+          "overs": "17.2"
+        },
+        {
+          "player": "Liton Das",
+          "runs": 136,
+          "wickets": 4,
+          "overs": "28.1"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 154,
+          "wickets": 5,
+          "overs": "32.1"
+        },
+        {
+          "player": "Mosaddek Hossain",
+          "runs": 197,
+          "wickets": 6,
+          "overs": "39.4"
+        },
+        {
+          "player": "Mohammad Saifuddin",
+          "runs": 197,
+          "wickets": 7,
+          "overs": "40.1"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 198,
+          "wickets": 8,
+          "overs": "40.3"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 219,
+          "wickets": 9,
+          "overs": "43.4"
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "runs": 221,
+          "wickets": 10,
+          "overs": "44.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 47,
+        "wickets": 1,
+        "run_rate": 4.7,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 33,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "4.1",
+        "balls": 25,
+        "runs": 24,
+        "wickets": 4,
+        "run_rate": 5.76,
+        "fours": 1,
+        "sixes": 2,
+        "dot_balls": 15,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Imam-ul-Haq": {
+      "batting": {
+        "runs": 100,
+        "balls": 100,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Babar Azam": {
+      "batting": {
+        "runs": 96,
+        "balls": 98,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 97.96
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imad Wasim": {
+      "batting": {
+        "runs": 43,
+        "balls": 26,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 165.38
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 0,
+        "economy": 4.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 27,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 108.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Fakhar Zaman": {
+      "batting": {
+        "runs": 13,
+        "balls": 31,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 41.94
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mustafizur Rahman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 75,
+        "wickets": 5,
+        "economy": 7.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Saifuddin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 77,
+        "wickets": 3,
+        "economy": 8.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mehedi Hasan Miraz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 64,
+        "balls": 77,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 83.12
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 0,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mashrafe Mortaza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 0,
+        "economy": 6.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Liton Das": {
+      "batting": {
+        "runs": 32,
+        "balls": 40,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mahmudullah": {
+      "batting": {
+        "runs": 29,
+        "balls": 41,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 70.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Soumya Sarkar": {
+      "batting": {
+        "runs": 22,
+        "balls": 22,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mushfiqur Rahim": {
+      "batting": {
+        "runs": 16,
+        "balls": 19,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 84.21
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.166666666666666,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 6,
+        "economy": 3.82
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 2,
+        "economy": 6.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Amir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 4.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wahab Riaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 315 in 50.0 overs at 6.3 RPO",
+    "vs Bangladesh scored 221 in 44.1 overs at 5.02 RPO",
+    "Top batsman: Imam-ul-Haq with 100 runs",
+    "Top bowler: Shaheen Shah Afridi with 6 wickets"
+  ]
+}

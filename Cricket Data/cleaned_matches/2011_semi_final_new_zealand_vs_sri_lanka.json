@@ -1,0 +1,350 @@
+{
+  "match_id": "8103e0c03dd5",
+  "world_cup_year": 2011,
+  "stage": "Semi-Final",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-29",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kumar Sangakkara",
+    "team2": "Daniel Vettori"
+  },
+  "player_of_match": "KC Sangakkara",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 217,
+      "wickets": 10,
+      "overs": 48.5,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "SB Styris",
+          "runs": 57,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 74.03,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 39,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 36,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 22,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JD Ryder",
+          "runs": 19,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.88,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "BAW Mendis",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 3.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 3,
+          "economy": 6.11,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "HMRKB Herath",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 32,
+          "wickets": 1,
+          "overs": "7.1"
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 69,
+          "wickets": 2,
+          "overs": "18.3"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 84,
+          "wickets": 3,
+          "overs": "21.3"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 161,
+          "wickets": 4,
+          "overs": "39.1"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 192,
+          "wickets": 5,
+          "overs": "43.3"
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 204,
+          "wickets": 6,
+          "overs": "45.1"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 213,
+          "wickets": 7,
+          "overs": "46.6"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 215,
+          "wickets": 8,
+          "overs": "47.4"
+        },
+        {
+          "player": "TG Southee",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "48.3"
+        },
+        {
+          "player": "AJ McKay",
+          "runs": 217,
+          "wickets": 10,
+          "overs": "48.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 220,
+      "wickets": 5,
+      "overs": 47.5,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "TM Dilshan",
+          "runs": 73,
+          "balls": 93,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 78.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 54,
+          "balls": 79,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 68.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 30,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 96.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TT Samaraweera",
+          "runs": 23,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.53,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 14,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 57,
+          "wickets": 3,
+          "economy": 5.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ McKay",
+          "overs": "9.5",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 3.76,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 3.62,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NL McCullum",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 40,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 160,
+          "wickets": 2,
+          "overs": "32.4"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 161,
+          "wickets": 3,
+          "overs": "33.1"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 169,
+          "wickets": 4,
+          "overs": "36.2"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 185,
+          "wickets": 5,
+          "overs": "42.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_semi_final_new_zealand_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Semi-Final: Sri Lanka vs New Zealand (2011-03-29) at Colombo.\nNew Zealand: 217 all out (48.5 ov)\n  SB Styris: 57 (77b, 5x4, 0x6)\n  MJ Guptill: 39 (65b, 3x4, 0x6)\n  LRPL Taylor: 36 (55b, 1x4, 0x6)\n  BAW Mendis: 3/35 (9.5 ov)\n  SL Malinga: 3/55 (9.0 ov)\n  M Muralitharan: 2/42 (10.0 ov)\nSri Lanka: 220/5 (47.5 ov)\n  TM Dilshan: 73 (93b, 10x4, 1x6)\n  KC Sangakkara: 54 (79b, 7x4, 1x6)\n  WU Tharanga: 30 (31b, 4x4, 1x6)\n  TG Southee: 3/57 (10.0 ov)\nSri Lanka won by 5 wickets.\nPlayer of the Match: KC Sangakkara."
+}

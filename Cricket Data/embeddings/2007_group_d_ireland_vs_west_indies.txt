@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Ireland
+Stage: Group D
+Date: 2007-03-23
+Venue: Sabina Park, Kingston, Jamaica
+Captain West Indies: Brian Lara
+Captain Ireland: Trent Johnston
+
+Match Summary:
+  2007 World Cup Group D: West Indies vs Ireland (2007-03-23) at Jamaica.
+
+Ireland: 183/8 (48.0 ov)
+  JP Bray: 41 (72b, 7x4, 0x6, SR 56.94)
+  AC Botha: 28 (56b, 1x4, 1x6, SR 50.0)
+  WK McCallan: 20 (24b, 1x4, 0x6, SR 83.33)
+  AR White: 18 (29b, 0x4, 0x6, SR 62.07)
+  EJG Morgan: 18 (34b, 0x4, 1x6, SR 52.94)
+  CH Gayle: 2/23 (10.0 ov, Econ 2.3)
+  DBL Powell: 2/24 (9.0 ov, Econ 2.67)
+  DJ Bravo: 2/35 (7.0 ov, Econ 5.0)
+  IDR Bradshaw: 1/27 (9.0 ov, Econ 3.0)
+  JE Taylor: 1/37 (8.0 ov, Econ 4.62)
+  Extras: 22
+
+West Indies: 190/2 (38.1 ov)
+  S Chanderpaul: 102 (113b, 10x4, 4x6, SR 90.27)
+  RR Sarwan: 36 (71b, 2x4, 1x6, SR 50.7)
+  MN Samuels: 27 (31b, 2x4, 2x6, SR 87.1)
+  CH Gayle: 18 (14b, 3x4, 0x6, SR 128.57)
+  WK McCallan: 1/35 (10.0 ov, Econ 3.5)
+  D Langford-Smith: 1/33 (9.0 ov, Econ 3.67)
+  KJ O'Brien: 0/13 (3.0 ov, Econ 4.33)
+  JF Mooney: 0/22 (4.0 ov, Econ 5.5)
+  AC Botha: 0/35 (6.0 ov, Econ 5.83)
+  Extras: 7
+
+Batting Highlights:
+  Century: S Chanderpaul scored 102 off 113 balls (SR 90.27, 10 fours, 4 sixes)
+
+Bowling Highlights:
+  Economical spell: CH Gayle conceded 23 runs in 10.0 overs (Econ 2.3)
+  Economical spell: DBL Powell conceded 24 runs in 9.0 overs (Econ 2.67)
+  Economical spell: IDR Bradshaw conceded 27 runs in 9.0 overs (Econ 3.0)
+  Economical spell: WK McCallan conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  West Indies captain: Brian Lara
+  Ireland captain: Trent Johnston
+
+Key Moments:
+  Ireland lost 8 early wickets.
+
+Result: West Indies won by 8 wickets (D/L)
+Toss: Ireland won and chose to bat
+Player of the Match: S Chanderpaul

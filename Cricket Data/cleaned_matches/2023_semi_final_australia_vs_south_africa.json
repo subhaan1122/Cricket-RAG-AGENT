@@ -1,0 +1,362 @@
+{
+  "match_id": "e3353e039306",
+  "world_cup_year": 2023,
+  "stage": "Semi-Final",
+  "venue": "Eden Gardens, Kolkata",
+  "city": "Kolkata",
+  "date": "2023-11-16",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Temba Bavuma",
+    "team2": "Pat Cummins"
+  },
+  "player_of_match": "TM Head",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 212,
+      "wickets": 10,
+      "overs": 49.4,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "DA Miller",
+          "runs": 101,
+          "balls": 116,
+          "fours": 8,
+          "sixes": 5,
+          "strike_rate": 87.07,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "H Klaasen",
+          "runs": 47,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 97.92,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "G Coetzee",
+          "runs": 19,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "K Rabada",
+          "runs": 10,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 10,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.4,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 3,
+          "economy": 5.28,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "8.0",
+          "maidens": 3,
+          "runs_conceded": 12,
+          "wickets": 2,
+          "economy": 1.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Head",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "T Bavuma",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "5.4"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 22,
+          "wickets": 3,
+          "overs": "10.5"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 24,
+          "wickets": 4,
+          "overs": "11.5"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 119,
+          "wickets": 5,
+          "overs": "30.4"
+        },
+        {
+          "player": "M Jansen",
+          "runs": 119,
+          "wickets": 6,
+          "overs": "30.5"
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 172,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 191,
+          "wickets": 8,
+          "overs": "46.2"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 203,
+          "wickets": 9,
+          "overs": "47.2"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 212,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 215,
+      "wickets": 7,
+      "overs": 47.2,
+      "extras": 17,
+      "top_batters": [
+        {
+          "name": "TM Head",
+          "runs": 62,
+          "balls": 48,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 129.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 30,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 29,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 161.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 28,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 18,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "T Shamsi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "G Coetzee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 5.22,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "KA Maharaj",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 2.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AK Markram",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 2.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 6.83,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 60,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 61,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "TM Head",
+          "runs": 106,
+          "wickets": 3,
+          "overs": "14.1"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 137,
+          "wickets": 5,
+          "overs": "23.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 174,
+          "wickets": 6,
+          "overs": "33.3"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 193,
+          "wickets": 7,
+          "overs": "39.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_semi_final_australia_vs_south_africa.json",
+  "match_summary": "2023 World Cup Semi-Final: South Africa vs Australia (2023-11-16) at Kolkata.\nSouth Africa: 212 all out (49.4 ov)\n  DA Miller: 101 (116b, 8x4, 5x6)\n  H Klaasen: 47 (48b, 4x4, 2x6)\n  MA Starc: 3/34 (10.0 ov)\n  PJ Cummins: 3/51 (9.4 ov)\n  JR Hazlewood: 2/12 (8.0 ov)\nAustralia: 215/7 (47.2 ov)\n  TM Head: 62 (48b, 9x4, 2x6)\n  SPD Smith: 30 (62b, 2x4, 0x6)\n  T Shamsi: 2/42 (10.0 ov)\n  G Coetzee: 2/47 (9.0 ov)\nAustralia won by 3 wickets.\nPlayer of the Match: TM Head."
+}

@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: Canada vs Zimbabwe
+Stage: Group A
+Date: 2011-02-28
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Captain Canada: Ashish Bagai
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2011 World Cup Group A: Canada vs Zimbabwe (2011-02-28) at Nagpur.
+
+Zimbabwe: 298/9 (49.5 ov)
+  T Taibu: 98 (99b, 9x4, 0x6, SR 98.99)
+  CR Ervine: 85 (81b, 6x4, 2x6, SR 104.94)
+  SC Williams: 30 (25b, 3x4, 0x6, SR 120.0)
+  AG Cremer: 26 (23b, 2x4, 0x6, SR 113.04)
+  P Utseya: 22 (29b, 2x4, 0x6, SR 75.86)
+  WD Balaji Rao: 4/57 (10.0 ov, Econ 5.7)
+  Khurram Chohan: 2/44 (9.5 ov, Econ 4.47)
+  HS Baidwan: 2/47 (9.0 ov, Econ 5.22)
+  Rizwan Cheema: 1/51 (9.0 ov, Econ 5.67)
+  JM Davison: 0/56 (8.0 ov, Econ 7.0)
+  Extras: 4
+
+Canada: 123 all out (42.1 ov)
+  ZE Surkari: 26 (48b, 2x4, 0x6, SR 54.17)
+  R Gunasekera: 24 (64b, 2x4, 0x6, SR 37.5)
+  AS Hansra: 20 (41b, 1x4, 1x6, SR 48.78)
+  Rizwan Cheema: 14 (10b, 2x4, 1x6, SR 140.0)
+  HS Baidwan: 13 (23b, 1x4, 0x6, SR 56.52)
+  RW Price: 3/16 (8.0 ov, Econ 2.0)
+  AG Cremer: 3/31 (9.1 ov, Econ 3.38)
+  P Utseya: 2/24 (7.0 ov, Econ 3.43)
+  GA Lamb: 2/29 (8.0 ov, Econ 3.62)
+  SC Williams: 0/11 (5.0 ov, Econ 2.2)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: T Taibu scored 98 off 99 balls (SR 98.99)
+  Half-century: CR Ervine scored 85 off 81 balls (SR 104.94)
+
+Bowling Highlights:
+  Match-changing spell: WD Balaji Rao took 4/57
+  Key spell: RW Price took 3/16
+  Key spell: AG Cremer took 3/31
+  Economical spell: P Utseya conceded 24 runs in 7.0 overs (Econ 3.43)
+  Economical spell: SC Williams conceded 11 runs in 5.0 overs (Econ 2.2)
+
+Captain Performance:
+  Canada captain: Ashish Bagai
+  Zimbabwe captain: Elton Chigumbura
+
+Key Moments:
+  Zimbabwe lost 9 early wickets.
+  Canada lost 10 early wickets.
+  Canada lost 3 wickets in the powerplay.
+
+Result: Zimbabwe won by 175 runs
+Toss: Zimbabwe won and chose to bat
+Player of the Match: T Taibu

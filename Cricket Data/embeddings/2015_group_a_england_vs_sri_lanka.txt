@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2015
+Match: England vs Sri Lanka
+Stage: Group A
+Date: 2015-03-01
+Venue: Westpac Stadium, Wellington
+Captain England: Eoin Morgan
+Captain Sri Lanka: Angelo Mathews
+
+Match Summary:
+  2015 World Cup Group A: England vs Sri Lanka (2015-03-01) at Wellington.
+
+England: 309/6 (50.0 ov)
+  JE Root: 121 (108b, 14x4, 2x6, SR 112.04)
+  IR Bell: 49 (54b, 7x4, 0x6, SR 90.74)
+  JC Buttler: 39 (19b, 5x4, 1x6, SR 205.26)
+  EJG Morgan: 27 (47b, 2x4, 1x6, SR 57.45)
+  JWA Taylor: 25 (26b, 1x4, 1x6, SR 96.15)
+  TM Dilshan: 1/35 (8.2 ov, Econ 4.2)
+  AD Mathews: 1/43 (10.0 ov, Econ 4.3)
+  HMRKB Herath: 1/35 (5.5 ov, Econ 6.0)
+  SL Malinga: 1/63 (10.0 ov, Econ 6.3)
+  NLTC Perera: 1/55 (8.1 ov, Econ 6.73)
+  Extras: 18
+
+Sri Lanka: 312/1 (47.2 ov)
+  HDRL Thirimanne: 139 (143b, 13x4, 2x6, SR 97.2)
+  KC Sangakkara: 117 (86b, 11x4, 2x6, SR 136.05)
+  TM Dilshan: 44 (55b, 4x4, 2x6, SR 80.0)
+  MM Ali: 1/50 (10.0 ov, Econ 5.0)
+  JM Anderson: 0/48 (8.0 ov, Econ 6.0)
+  JE Root: 0/12 (2.0 ov, Econ 6.0)
+  SCJ Broad: 0/67 (10.0 ov, Econ 6.7)
+  ST Finn: 0/54 (8.0 ov, Econ 6.75)
+  Extras: 12
+
+Batting Highlights:
+  Century: JE Root scored 121 off 108 balls (SR 112.04, 14 fours, 2 sixes)
+  Quickfire innings: JC Buttler smashed 39 off 19 balls at SR 205.26
+  Century: HDRL Thirimanne scored 139 off 143 balls (SR 97.2, 13 fours, 2 sixes)
+  Century: KC Sangakkara scored 117 off 86 balls (SR 136.05, 11 fours, 2 sixes)
+
+Bowling Highlights:
+  Best bowling: TM Dilshan with 1/35
+
+Captain Performance:
+  Eoin Morgan (England): scored 27 off 47 balls
+
+Key Moments:
+  England lost 6 early wickets.
+  England exploded in the death overs (106 runs at 10.6 RPO).
+
+Result: Sri Lanka won by 9 wickets
+Toss: England won and chose to bat
+Player of the Match: KC Sangakkara

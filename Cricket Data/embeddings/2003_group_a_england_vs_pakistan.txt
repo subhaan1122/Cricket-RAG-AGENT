@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: England vs Pakistan
+Stage: Group A
+Date: 2003-02-22
+Venue: Newlands, Cape Town, Cape Town
+Captain England: Nasser Hussain
+Captain Pakistan: Waqar Younis
+
+Match Summary:
+  2003 World Cup Group A: England vs Pakistan (2003-02-22) at Cape Town.
+
+England: 246/8 (50.0 ov)
+  PD Collingwood: 66 (73b, 3x4, 0x6, SR 90.41)
+  MP Vaughan: 52 (64b, 7x4, 0x6, SR 81.25)
+  AJ Stewart: 30 (34b, 4x4, 0x6, SR 88.24)
+  A Flintoff: 26 (38b, 2x4, 0x6, SR 68.42)
+  AF Giles: 17 (23b, 0x4, 1x6, SR 73.91)
+  Saqlain Mushtaq: 2/44 (10.0 ov, Econ 4.4)
+  Shahid Afridi: 2/36 (8.0 ov, Econ 4.5)
+  Waqar Younis: 2/37 (7.0 ov, Econ 5.29)
+  Wasim Akram: 1/37 (10.0 ov, Econ 3.7)
+  Shoaib Akhtar: 1/63 (9.0 ov, Econ 7.0)
+  Extras: 13
+
+Pakistan: 134 all out (31.0 ov)
+  Shoaib Akhtar: 43 (16b, 5x4, 3x6, SR 268.75)
+  Saeed Anwar: 29 (60b, 3x4, 0x6, SR 48.33)
+  Saqlain Mushtaq: 12 (33b, 2x4, 0x6, SR 36.36)
+  Abdul Razzaq: 11 (21b, 1x4, 0x6, SR 52.38)
+  Wasim Akram: 7 (14b, 1x4, 0x6, SR 50.0)
+  JM Anderson: 4/29 (10.0 ov, Econ 2.9)
+  C White: 3/33 (5.0 ov, Econ 6.6)
+  A Flintoff: 2/37 (9.0 ov, Econ 4.11)
+  AR Caddick: 1/27 (7.0 ov, Econ 3.86)
+  Extras: 19
+
+Batting Highlights:
+  Half-century: PD Collingwood scored 66 off 73 balls (SR 90.41)
+  Half-century: MP Vaughan scored 52 off 64 balls (SR 81.25)
+  Quickfire innings: Shoaib Akhtar smashed 43 off 16 balls at SR 268.75
+
+Bowling Highlights:
+  Match-changing spell: JM Anderson took 4/29
+  Key spell: C White took 3/33
+
+Captain Performance:
+  England captain: Nasser Hussain
+  Pakistan captain: Waqar Younis
+
+Key Moments:
+  England lost 8 early wickets.
+  Pakistan lost 10 early wickets.
+  Pakistan lost 3 wickets in the powerplay.
+
+Result: England won by 112 runs
+Toss: England won and chose to bat
+Player of the Match: JM Anderson

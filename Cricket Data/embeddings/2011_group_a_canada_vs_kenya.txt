@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: Canada vs Kenya
+Stage: Group A
+Date: 2011-03-07
+Venue: Feroz Shah Kotla, Delhi
+Captain Canada: Ashish Bagai
+Captain Kenya: Jimmy Kamande
+
+Match Summary:
+  2011 World Cup Group A: Canada vs Kenya (2011-03-07) at Delhi.
+
+Kenya: 198 all out (50.0 ov)
+  TM Odoyo: 51 (62b, 5x4, 1x6, SR 82.26)
+  T Mishra: 51 (73b, 3x4, 0x6, SR 69.86)
+  CO Obuya: 31 (35b, 3x4, 1x6, SR 88.57)
+  JK Kamande: 22 (58b, 3x4, 0x6, SR 37.93)
+  SO Tikolo: 12 (20b, 1x4, 0x6, SR 60.0)
+  H Osinde: 4/26 (10.0 ov, Econ 2.6)
+  Rizwan Cheema: 2/30 (9.0 ov, Econ 3.33)
+  HS Baidwan: 2/41 (10.0 ov, Econ 4.1)
+  WD Balaji Rao: 1/36 (10.0 ov, Econ 3.6)
+  JM Davison: 1/26 (5.0 ov, Econ 5.2)
+  Extras: 14
+
+Canada: 199/5 (45.3 ov)
+  AS Hansra: 70 (99b, 7x4, 2x6, SR 70.71)
+  A Bagai: 64 (97b, 7x4, 0x6, SR 65.98)
+  R Gunasekera: 18 (27b, 3x4, 0x6, SR 66.67)
+  Rizwan Cheema: 17 (13b, 2x4, 1x6, SR 130.77)
+  ZE Surkari: 10 (26b, 1x4, 0x6, SR 38.46)
+  NN Odhiambo: 2/45 (10.0 ov, Econ 4.5)
+  JO Ngoche: 1/26 (10.0 ov, Econ 2.6)
+  E Otieno: 1/45 (8.3 ov, Econ 5.29)
+  TM Odoyo: 0/18 (5.0 ov, Econ 3.6)
+  SO Tikolo: 0/24 (5.0 ov, Econ 4.8)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: TM Odoyo scored 51 off 62 balls (SR 82.26)
+  Half-century: T Mishra scored 51 off 73 balls (SR 69.86)
+  Half-century: AS Hansra scored 70 off 99 balls (SR 70.71)
+  Half-century: A Bagai scored 64 off 97 balls (SR 65.98)
+
+Bowling Highlights:
+  Match-changing spell: H Osinde took 4/26
+  Economical spell: Rizwan Cheema conceded 30 runs in 9.0 overs (Econ 3.33)
+  Economical spell: JO Ngoche conceded 26 runs in 10.0 overs (Econ 2.6)
+
+Captain Performance:
+  Jimmy Kamande (Kenya): scored 22 off 58 balls
+  Ashish Bagai (Canada): scored 64 off 97 balls
+
+Key Moments:
+  Kenya lost 10 early wickets.
+  Canada lost 5 early wickets.
+  Kenya lost 3 wickets in the powerplay.
+
+Result: Canada won by 5 wickets
+Toss: Kenya won and chose to bat
+Player of the Match: H Osinde

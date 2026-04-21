@@ -1,0 +1,318 @@
+{
+  "match_id": "0636a2608b7c",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Trent Bridge",
+  "city": "Nottingham",
+  "date": "2019-05-31",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Sarfaraz Ahmed",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "O Thomas",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 105,
+      "wickets": 10,
+      "overs": 21.4,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "Fakhar Zaman",
+          "runs": 22,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 22,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Wahab Riaz",
+          "runs": 18,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 163.64,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 16,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Haris Sohail",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "O Thomas",
+          "overs": "5.4",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 4,
+          "economy": 4.76,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "JO Holder",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 3,
+          "economy": 8.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Russell",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 4,
+          "wickets": 2,
+          "economy": 1.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SS Cottrell",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Brathwaite",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 17,
+          "wickets": 1,
+          "overs": "2.6"
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 35,
+          "wickets": 2,
+          "overs": "5.5"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 45,
+          "wickets": 3,
+          "overs": "9.4"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 62,
+          "wickets": 4,
+          "overs": "13.1"
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 75,
+          "wickets": 5,
+          "overs": "16.1"
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 77,
+          "wickets": 6,
+          "overs": "16.6"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 78,
+          "wickets": 7,
+          "overs": "17.3"
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 81,
+          "wickets": 8,
+          "overs": "18.3"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 83,
+          "wickets": 9,
+          "overs": "19.3"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 105,
+          "wickets": 10,
+          "overs": "21.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 108,
+      "wickets": 3,
+      "overs": 13.4,
+      "extras": 6,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 50,
+          "balls": 34,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 147.06,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "N Pooran",
+          "runs": 34,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 178.95,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SD Hope",
+          "runs": 11,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Hetmyer",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DM Bravo",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Amir",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 3,
+          "economy": 4.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 9.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "3.4",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 10.91,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SD Hope",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 46,
+          "wickets": 2,
+          "overs": "6.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 77,
+          "wickets": 3,
+          "overs": "10.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_pakistan_vs_west_indies.json",
+  "match_summary": "2019 World Cup Group Stage: Pakistan vs West Indies (2019-05-31) at Nottingham.\nPakistan: 105 all out (21.4 ov)\n  O Thomas: 4/27 (5.4 ov)\n  JO Holder: 3/42 (5.0 ov)\n  AD Russell: 2/4 (3.0 ov)\nWest Indies: 108/3 (13.4 ov)\n  CH Gayle: 50 (34b, 6x4, 3x6)\n  N Pooran: 34* (19b, 4x4, 2x6)\n  Mohammad Amir: 3/26 (6.0 ov)\nWest Indies won by 7 wickets.\nPlayer of the Match: O Thomas."
+}

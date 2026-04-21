@@ -1,0 +1,368 @@
+{
+  "match_id": "1d08f6462bc0",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Kennington Oval",
+  "city": "London",
+  "date": "2019-06-05",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mashrafe Mortaza",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "LRPL Taylor",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 244,
+      "wickets": 10,
+      "overs": 49.2,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 64,
+          "balls": 68,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Saifuddin",
+          "runs": 29,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 126.09,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mohammad Mithun",
+          "runs": 26,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.79,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Soumya Sarkar",
+          "runs": 25,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 24,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Henry",
+          "overs": "9.2",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 4,
+          "economy": 5.04,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 2,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 4.88,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Soumya Sarkar",
+          "runs": 45,
+          "wickets": 1,
+          "overs": "8.3"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 60,
+          "wickets": 2,
+          "overs": "13.2"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "23.5"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 151,
+          "wickets": 4,
+          "overs": "30.2"
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 179,
+          "wickets": 5,
+          "overs": "37.1"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 197,
+          "wickets": 6,
+          "overs": "42.3"
+        },
+        {
+          "player": "Mosaddek Hossain",
+          "runs": 224,
+          "wickets": 7,
+          "overs": "46.2"
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 235,
+          "wickets": 8,
+          "overs": "48.2"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 244,
+          "wickets": 9,
+          "overs": "49.1"
+        },
+        {
+          "player": "Mohammad Saifuddin",
+          "runs": 244,
+          "wickets": 10,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 248,
+      "wickets": 8,
+      "overs": 47.1,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "LRPL Taylor",
+          "runs": 82,
+          "balls": 91,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 90.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 40,
+          "balls": 72,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 25,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 178.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 25,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 75.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C Munro",
+          "runs": 24,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mosaddek Hossain",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.12,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mehedi Hasan Miraz",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Saifuddin",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 5.86,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MJ Guptill",
+          "runs": 35,
+          "wickets": 1,
+          "overs": "5.1"
+        },
+        {
+          "player": "C Munro",
+          "runs": 55,
+          "wickets": 2,
+          "overs": "9.6"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 160,
+          "wickets": 3,
+          "overs": "31.1"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 162,
+          "wickets": 4,
+          "overs": "31.6"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 191,
+          "wickets": 5,
+          "overs": "38.3"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 218,
+          "wickets": 6,
+          "overs": "42.5"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 218,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 238,
+          "wickets": 8,
+          "overs": "46.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_bangladesh_vs_new_zealand.json",
+  "match_summary": "2019 World Cup Group Stage: Bangladesh vs New Zealand (2019-06-05) at London.\nBangladesh: 244 all out (49.2 ov)\n  Shakib Al Hasan: 64 (68b, 7x4, 0x6)\n  MJ Henry: 4/47 (9.2 ov)\n  TA Boult: 2/44 (10.0 ov)\nNew Zealand: 248/8 (47.1 ov)\n  LRPL Taylor: 82 (91b, 9x4, 0x6)\n  KS Williamson: 40 (72b, 1x4, 0x6)\n  Mosaddek Hossain: 2/33 (8.0 ov)\n  Mehedi Hasan Miraz: 2/47 (10.0 ov)\n  Shakib Al Hasan: 2/47 (10.0 ov)\nNew Zealand won by 2 wickets.\nPlayer of the Match: LRPL Taylor."
+}

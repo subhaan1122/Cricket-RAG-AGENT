@@ -1,0 +1,713 @@
+{
+  "match_info": {
+    "match_id": "eb1afbbeb74d",
+    "world_cup_year": 2007,
+    "stage": "Group A",
+    "venue": "Warner Park, Basseterre",
+    "city": "St Kitts",
+    "date": "2007-03-14",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Scotland"
+    },
+    "toss": {
+      "winner": "Scotland",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "203 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Craig Wright"
+    },
+    "player_of_match": "RT Ponting",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group A: Australia vs Scotland (2007-03-14) at St Kitts.\nAustralia: 334/6 (50.0 ov)\n  RT Ponting: 113 (93b, 9x4, 5x6)\n  ML Hayden: 60 (73b, 6x4, 1x6)\n  AC Gilchrist: 46 (55b, 7x4, 0x6)\n  RM Haq: 2/49 (7.0 ov)\nScotland: 131/9 (40.1 ov)\n  CJO Smith: 51 (76b, 7x4, 0x6)\n  GD McGrath: 3/14 (6.0 ov)\n  SW Tait: 2/45 (8.0 ov)\nAustralia won by 203 runs.\nPlayer of the Match: RT Ponting.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 465,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.97,
+    "highest_individual_score": 113,
+    "best_bowling_figures": "3/14",
+    "total_sixes": 9,
+    "total_fours": 40
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 334,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 6.68,
+      "top_batters": [
+        {
+          "name": "RT Ponting",
+          "runs": 113,
+          "balls": 93,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 121.51,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 60,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 82.19,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 46,
+          "balls": 55,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 83.64,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "GB Hogg",
+          "runs": 40,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 266.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BJ Hodge",
+          "runs": 29,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 103.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RM Haq",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Rogers",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PJC Hoffmann",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 5.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CM Wright",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DR Brown",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 86,
+          "wickets": 1,
+          "economy": 9.56,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 91,
+          "wickets": 1,
+          "overs": "16.6"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 139,
+          "wickets": 2,
+          "overs": "26.5"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 193,
+          "wickets": 3,
+          "overs": "34.3"
+        },
+        {
+          "player": "BJ Hodge",
+          "runs": 256,
+          "wickets": 4,
+          "overs": "43.1"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 274,
+          "wickets": 5,
+          "overs": "45.2"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 276,
+          "wickets": 6,
+          "overs": "46.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 62,
+        "wickets": 0,
+        "run_rate": 6.2,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 37,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 96,
+        "wickets": 3,
+        "run_rate": 9.6,
+        "fours": 7,
+        "sixes": 4,
+        "dot_balls": 16,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Scotland",
+      "total_runs": 131,
+      "total_wickets": 9,
+      "total_overs": 40.1,
+      "run_rate": 3.27,
+      "top_batters": [
+        {
+          "name": "CJO Smith",
+          "runs": 51,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 67.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DR Brown",
+          "runs": 19,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RM Haq",
+          "runs": 16,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DF Watts",
+          "runs": 9,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GA Rogers",
+          "runs": 6,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GD McGrath",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 3,
+          "economy": 2.33,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "SW Tait",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 5.62,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "7.1",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 2.23,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BJ Hodge",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 1,
+          "economy": 2.83,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RM Haq",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "5.5"
+        },
+        {
+          "player": "NS Poonia",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "DF Watts",
+          "runs": 32,
+          "wickets": 3,
+          "overs": "9.3"
+        },
+        {
+          "player": "RR Watson",
+          "runs": 37,
+          "wickets": 4,
+          "overs": "13.3"
+        },
+        {
+          "player": "GM Hamilton",
+          "runs": 42,
+          "wickets": 5,
+          "overs": "15.3"
+        },
+        {
+          "player": "DR Brown",
+          "runs": 89,
+          "wickets": 6,
+          "overs": "27.4"
+        },
+        {
+          "player": "CM Wright",
+          "runs": 104,
+          "wickets": 7,
+          "overs": "32.5"
+        },
+        {
+          "player": "GA Rogers",
+          "runs": 131,
+          "wickets": 8,
+          "overs": "39.6"
+        },
+        {
+          "player": "CJO Smith",
+          "runs": 131,
+          "wickets": 9,
+          "overs": "40.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 3,
+        "run_rate": 3.2,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "0.1",
+        "balls": 1,
+        "runs": 0,
+        "wickets": 1,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 1,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "RT Ponting": {
+      "batting": {
+        "runs": 113,
+        "balls": 93,
+        "fours": 9,
+        "sixes": 5,
+        "strike_rate": 121.51
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ML Hayden": {
+      "batting": {
+        "runs": 60,
+        "balls": 73,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 82.19
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Gilchrist": {
+      "batting": {
+        "runs": 46,
+        "balls": 55,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 83.64
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Hogg": {
+      "batting": {
+        "runs": 40,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 266.67
+      },
+      "bowling": {
+        "overs": 7.166666666666667,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 1,
+        "economy": 2.23
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BJ Hodge": {
+      "batting": {
+        "runs": 29,
+        "balls": 28,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 103.57
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 1,
+        "economy": 2.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RM Haq": {
+      "batting": {
+        "runs": 16,
+        "balls": 22,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 72.73
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GA Rogers": {
+      "batting": {
+        "runs": 6,
+        "balls": 19,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 31.58
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 1,
+        "economy": 5.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJC Hoffmann": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 1,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CM Wright": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 1,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DR Brown": {
+      "batting": {
+        "runs": 19,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 51.35
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 86,
+        "wickets": 1,
+        "economy": 9.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CJO Smith": {
+      "batting": {
+        "runs": 51,
+        "balls": 76,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 67.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DF Watts": {
+      "batting": {
+        "runs": 9,
+        "balls": 25,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 36.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD McGrath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 3,
+        "economy": 2.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 5.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NW Bracken": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 0,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 334 in 50.0 overs at 6.68 RPO",
+    "vs Scotland scored 131 in 40.1 overs at 3.27 RPO",
+    "Top batsman: RT Ponting with 113 runs",
+    "Top bowler: GD McGrath with 3 wickets"
+  ]
+}

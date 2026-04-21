@@ -1,0 +1,322 @@
+{
+  "match_id": "65d15d265549",
+  "world_cup_year": 2019,
+  "stage": "Semi-Final",
+  "venue": "Edgbaston",
+  "city": "Birmingham",
+  "date": "2019-07-11",
+  "teams": {
+    "team1": "Australia",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Aaron Finch",
+    "team2": "Eoin Morgan"
+  },
+  "player_of_match": "CR Woakes",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 223,
+      "wickets": 10,
+      "overs": 49.0,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "SPD Smith",
+          "runs": 85,
+          "balls": 119,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AT Carey",
+          "runs": 46,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MA Starc",
+          "runs": 29,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 80.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 22,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 95.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CR Woakes",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 3,
+          "economy": 2.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 3,
+          "economy": 5.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JC Archer",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 3.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 10,
+          "wickets": 2,
+          "overs": "2.4"
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 14,
+          "wickets": 3,
+          "overs": "6.1"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "27.2"
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 118,
+          "wickets": 5,
+          "overs": "27.6"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 157,
+          "wickets": 6,
+          "overs": "34.5"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 166,
+          "wickets": 7,
+          "overs": "37.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 217,
+          "wickets": 8,
+          "overs": "47.1"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "47.2"
+        },
+        {
+          "player": "JP Behrendorff",
+          "runs": 223,
+          "wickets": 10,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "runs": 226,
+      "wickets": 2,
+      "overs": 32.1,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "JJ Roy",
+          "runs": 85,
+          "balls": 65,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 130.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Root",
+          "runs": 49,
+          "balls": 46,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 106.52,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 45,
+          "balls": 39,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 115.38,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 34,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.07,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PJ Cummins",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 4.86,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 1,
+          "economy": 7.78,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Behrendorff",
+          "overs": "8.1",
+          "maidens": 2,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 4.65,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NM Lyon",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 9.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Bairstow",
+          "runs": 124,
+          "wickets": 1,
+          "overs": "17.2"
+        },
+        {
+          "player": "JJ Roy",
+          "runs": 147,
+          "wickets": 2,
+          "overs": "19.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_semi_final_australia_vs_england.json",
+  "match_summary": "2019 World Cup Semi-Final: Australia vs England (2019-07-11) at Birmingham.\nAustralia: 223 all out (49.0 ov)\n  SPD Smith: 85 (119b, 6x4, 0x6)\n  AT Carey: 46 (70b, 4x4, 0x6)\n  CR Woakes: 3/20 (8.0 ov)\n  AU Rashid: 3/54 (10.0 ov)\n  JC Archer: 2/32 (10.0 ov)\nEngland: 226/2 (32.1 ov)\n  JJ Roy: 85 (65b, 9x4, 5x6)\n  JE Root: 49* (46b, 8x4, 0x6)\n  EJG Morgan: 45* (39b, 8x4, 0x6)\nEngland won by 8 wickets.\nPlayer of the Match: CR Woakes."
+}

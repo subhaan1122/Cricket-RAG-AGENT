@@ -1,0 +1,368 @@
+{
+  "match_id": "10e95544178c",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Kennington Oval",
+  "city": "London",
+  "date": "2019-05-30",
+  "teams": {
+    "team1": "England",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "104 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Eoin Morgan",
+    "team2": "Faf du Plessis"
+  },
+  "player_of_match": "BA Stokes",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 311,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "BA Stokes",
+          "runs": 89,
+          "balls": 79,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 112.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 57,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 95.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JJ Roy",
+          "runs": 54,
+          "balls": 53,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 101.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Root",
+          "runs": 51,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 86.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 18,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "L Ngidi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 3,
+          "economy": 6.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 2,
+          "economy": 6.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 2,
+          "economy": 6.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "AK Markram",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Bairstow",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "JJ Roy",
+          "runs": 107,
+          "wickets": 2,
+          "overs": "18.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 111,
+          "wickets": 3,
+          "overs": "19.1"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 217,
+          "wickets": 4,
+          "overs": "36.5"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 247,
+          "wickets": 5,
+          "overs": "41.2"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 260,
+          "wickets": 6,
+          "overs": "43.6"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 285,
+          "wickets": 7,
+          "overs": "47.3"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 300,
+          "wickets": 8,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 207,
+      "wickets": 10,
+      "overs": 39.5,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "Q de Kock",
+          "runs": 68,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 91.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HE van der Dussen",
+          "runs": 50,
+          "balls": 61,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 81.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "runs": 24,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 96.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 13,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 11,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JC Archer",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 3,
+          "economy": 3.86,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "2.5",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 2,
+          "economy": 4.24,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 2,
+          "economy": 5.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 4.38,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AK Markram",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "7.4"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 44,
+          "wickets": 2,
+          "overs": "9.3"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 129,
+          "wickets": 3,
+          "overs": "22.6"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 142,
+          "wickets": 4,
+          "overs": "25.5"
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 144,
+          "wickets": 5,
+          "overs": "26.2"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 167,
+          "wickets": 6,
+          "overs": "31.5"
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "runs": 180,
+          "wickets": 7,
+          "overs": "34.1"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 193,
+          "wickets": 8,
+          "overs": "38.1"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 207,
+          "wickets": 9,
+          "overs": "39.4"
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 207,
+          "wickets": 10,
+          "overs": "39.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_england_vs_south_africa.json",
+  "match_summary": "2019 World Cup Group Stage: England vs South Africa (2019-05-30) at London.\nEngland: 311/8 (50.0 ov)\n  BA Stokes: 89 (79b, 9x4, 0x6)\n  EJG Morgan: 57 (60b, 4x4, 3x6)\n  JJ Roy: 54 (53b, 8x4, 0x6)\n  L Ngidi: 3/66 (10.0 ov)\n  Imran Tahir: 2/61 (10.0 ov)\n  K Rabada: 2/66 (10.0 ov)\nSouth Africa: 207 all out (39.5 ov)\n  Q de Kock: 68 (74b, 6x4, 2x6)\n  HE van der Dussen: 50 (61b, 4x4, 1x6)\n  JC Archer: 3/27 (7.0 ov)\n  BA Stokes: 2/12 (2.5 ov)\n  LE Plunkett: 2/37 (7.0 ov)\nEngland won by 104 runs.\nPlayer of the Match: BA Stokes."
+}

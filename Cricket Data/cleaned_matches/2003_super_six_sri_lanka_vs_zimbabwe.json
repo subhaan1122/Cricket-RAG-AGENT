@@ -1,0 +1,350 @@
+{
+  "match_id": "bb7b24a02abc",
+  "world_cup_year": 2003,
+  "stage": "Super Six",
+  "venue": "Buffalo Park, East London",
+  "city": "East London",
+  "date": "2003-03-15",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "74 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Sanath Jayasuriya",
+    "team2": "Heath Streak"
+  },
+  "player_of_match": "MS Atapattu",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 256,
+      "wickets": 5,
+      "overs": 50.0,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "MS Atapattu",
+          "runs": 103,
+          "balls": 127,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 81.1,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Gunawardene",
+          "runs": 41,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.13,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 35,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PA de Silva",
+          "runs": 25,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 22,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HH Streak",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DA Marillier",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Ervine",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GW Flower",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 41,
+          "wickets": 1,
+          "overs": "12.2"
+        },
+        {
+          "player": "DA Gunawardene",
+          "runs": 124,
+          "wickets": 2,
+          "overs": "30.2"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 175,
+          "wickets": 3,
+          "overs": "40.2"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 227,
+          "wickets": 4,
+          "overs": "46.4"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 233,
+          "wickets": 5,
+          "overs": "47.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 182,
+      "wickets": 10,
+      "overs": 41.5,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "CB Wishart",
+          "runs": 43,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.56,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "A Flower",
+          "runs": 38,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 74.51,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "GW Flower",
+          "runs": 31,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.62,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "TJ Friend",
+          "runs": 21,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DA Marillier",
+          "runs": 19,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "ST Jayasuriya",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 4.68,
+          "wides": 0,
+          "no_balls": 3
+        },
+        {
+          "name": "PW Gunaratne",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 3.14,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 1,
+          "economy": 3.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Marillier",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "5.2"
+        },
+        {
+          "player": "TJ Friend",
+          "runs": 68,
+          "wickets": 2,
+          "overs": "11.3"
+        },
+        {
+          "player": "CB Wishart",
+          "runs": 111,
+          "wickets": 3,
+          "overs": "21.3"
+        },
+        {
+          "player": "A Flower",
+          "runs": 140,
+          "wickets": 4,
+          "overs": "28.3"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 150,
+          "wickets": 5,
+          "overs": "32.1"
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "33.2"
+        },
+        {
+          "player": "SM Ervine",
+          "runs": 178,
+          "wickets": 7,
+          "overs": "39.2"
+        },
+        {
+          "player": "HH Streak",
+          "runs": 181,
+          "wickets": 8,
+          "overs": "40.4"
+        },
+        {
+          "player": "GW Flower",
+          "runs": 181,
+          "wickets": 9,
+          "overs": "40.6"
+        },
+        {
+          "player": "DT Hondo",
+          "runs": 182,
+          "wickets": 10,
+          "overs": "41.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_super_six_sri_lanka_vs_zimbabwe.json",
+  "match_summary": "2003 World Cup Super Six: Sri Lanka vs Zimbabwe (2003-03-15) at East London.\nSri Lanka: 256/5 (50.0 ov)\n  MS Atapattu: 103* (127b, 7x4, 0x6)\n  DA Gunawardene: 41 (62b, 2x4, 0x6)\n  KC Sangakkara: 35 (25b, 4x4, 0x6)\n  HH Streak: 2/40 (10.0 ov)\nZimbabwe: 182 all out (41.5 ov)\n  CB Wishart: 43 (71b, 3x4, 0x6)\n  A Flower: 38 (51b, 1x4, 0x6)\n  GW Flower: 31 (52b, 4x4, 0x6)\n  ST Jayasuriya: 3/30 (6.0 ov)\n  WPUJC Vaas: 2/46 (9.5 ov)\n  PW Gunaratne: 2/33 (7.0 ov)\nSri Lanka won by 74 runs.\nPlayer of the Match: MS Atapattu."
+}

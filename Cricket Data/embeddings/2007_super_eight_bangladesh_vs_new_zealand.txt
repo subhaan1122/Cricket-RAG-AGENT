@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs New Zealand
+Stage: Super Eight
+Date: 2007-04-02
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain Bangladesh: Habibul Bashar
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Super Eight: Bangladesh vs New Zealand (2007-04-02) at Antigua.
+
+Bangladesh: 174 all out (48.3 ov)
+  Mohammad Rafique: 30 (36b, 1x4, 2x6, SR 83.33)
+  Tamim Iqbal: 29 (54b, 4x4, 0x6, SR 53.7)
+  Aftab Ahmed: 27 (39b, 3x4, 0x6, SR 69.23)
+  Shakib Al Hasan: 25 (41b, 1x4, 0x6, SR 60.98)
+  Javed Omar: 22 (51b, 3x4, 0x6, SR 43.14)
+  SB Styris: 4/43 (10.0 ov, Econ 4.3)
+  JDP Oram: 3/30 (9.3 ov, Econ 3.16)
+  SE Bond: 2/15 (10.0 ov, Econ 1.5)
+  MJ Mason: 0/4 (1.3 ov, Econ 2.67)
+  DL Vettori: 0/34 (10.0 ov, Econ 3.4)
+  Extras: 17
+
+New Zealand: 178/1 (29.2 ov)
+  SP Fleming: 102 (92b, 10x4, 3x6, SR 110.87)
+  HJH Marshall: 50 (54b, 2x4, 1x6, SR 92.59)
+  PG Fulton: 15 (30b, 2x4, 0x6, SR 50.0)
+  Syed Rasel: 1/22 (7.0 ov, Econ 3.14)
+  Abdur Razzak: 0/38 (8.0 ov, Econ 4.75)
+  Mashrafe Mortaza: 0/41 (6.0 ov, Econ 6.83)
+  Mohammad Rafique: 0/37 (5.0 ov, Econ 7.4)
+  Shakib Al Hasan: 0/33 (3.0 ov, Econ 11.0)
+  Extras: 11
+
+Batting Highlights:
+  Century: SP Fleming scored 102 off 92 balls (SR 110.87, 10 fours, 3 sixes)
+  Half-century: HJH Marshall scored 50 off 54 balls (SR 92.59)
+
+Bowling Highlights:
+  Match-changing spell: SB Styris took 4/43
+  Key spell: JDP Oram took 3/30
+  Economical spell: SE Bond conceded 15 runs in 10.0 overs (Econ 1.5)
+  Economical spell: DL Vettori conceded 34 runs in 10.0 overs (Econ 3.4)
+  Economical spell: Syed Rasel conceded 22 runs in 7.0 overs (Econ 3.14)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 102 off 92 balls
+
+Key Moments:
+  Bangladesh lost 10 early wickets.
+
+Result: New Zealand won by 9 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: SE Bond

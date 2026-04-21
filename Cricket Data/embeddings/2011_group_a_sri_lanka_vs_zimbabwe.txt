@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: Sri Lanka vs Zimbabwe
+Stage: Group A
+Date: 2011-03-10
+Venue: Pallekele International Cricket Stadium
+Captain Sri Lanka: Kumar Sangakkara
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2011 World Cup Group A: Sri Lanka vs Zimbabwe (2011-03-10) at Pallekele International Cricket Stadium.
+
+Sri Lanka: 327/6 (50.0 ov)
+  TM Dilshan: 144 (131b, 16x4, 1x6, SR 109.92)
+  WU Tharanga: 133 (141b, 17x4, 0x6, SR 94.33)
+  KC Sangakkara: 11 (7b, 1x4, 0x6, SR 157.14)
+  DPMD Jayawardene: 9 (7b, 1x4, 0x6, SR 128.57)
+  TT Samaraweera: 8 (7b, 1x4, 0x6, SR 114.29)
+  CB Mpofu: 4/62 (7.0 ov, Econ 8.86)
+  P Utseya: 1/50 (10.0 ov, Econ 5.0)
+  RW Price: 1/46 (9.0 ov, Econ 5.11)
+  AG Cremer: 0/42 (7.0 ov, Econ 6.0)
+  GA Lamb: 0/51 (8.0 ov, Econ 6.38)
+  Extras: 15
+
+Zimbabwe: 188 all out (39.0 ov)
+  BRM Taylor: 80 (72b, 9x4, 1x6, SR 111.11)
+  RW Chakabva: 35 (61b, 3x4, 0x6, SR 57.38)
+  CR Ervine: 17 (21b, 2x4, 0x6, SR 80.95)
+  AG Cremer: 14 (27b, 1x4, 0x6, SR 51.85)
+  RW Price: 11 (15b, 2x4, 0x6, SR 73.33)
+  TM Dilshan: 4/4 (3.0 ov, Econ 1.33)
+  M Muralitharan: 3/34 (9.0 ov, Econ 3.78)
+  AD Mathews: 2/29 (5.0 ov, Econ 5.8)
+  NLTC Perera: 1/33 (6.0 ov, Econ 5.5)
+  KMDN Kulasekara: 0/33 (8.0 ov, Econ 4.12)
+  Extras: 16
+
+Batting Highlights:
+  Century: TM Dilshan scored 144 off 131 balls (SR 109.92, 16 fours, 1 sixes)
+  Century: WU Tharanga scored 133 off 141 balls (SR 94.33, 17 fours, 0 sixes)
+  Half-century: BRM Taylor scored 80 off 72 balls (SR 111.11)
+
+Bowling Highlights:
+  Match-changing spell: CB Mpofu took 4/62
+  Match-changing spell: TM Dilshan took 4/4
+  Key spell: M Muralitharan took 3/34
+
+Captain Performance:
+  Kumar Sangakkara (Sri Lanka): scored 11 off 7 balls
+
+Key Moments:
+  Sri Lanka lost 6 early wickets.
+  Zimbabwe lost 10 early wickets.
+  Sri Lanka scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: Sri Lanka won by 139 runs
+Toss: Zimbabwe won and chose to field
+Player of the Match: TM Dilshan

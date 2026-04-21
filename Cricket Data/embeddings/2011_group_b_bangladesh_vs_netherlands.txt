@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: Bangladesh vs Netherlands
+Stage: Group B
+Date: 2011-03-14
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Captain Bangladesh: Shakib Al Hasan
+Captain Netherlands: Peter Borren
+
+Match Summary:
+  2011 World Cup Group B: Bangladesh vs Netherlands (2011-03-14) at Chittagong.
+
+Netherlands: 160 all out (46.2 ov)
+  RN ten Doeschate: 53 (71b, 2x4, 1x6, SR 74.65)
+  TLW Cooper: 29 (41b, 2x4, 0x6, SR 70.73)
+  ES Szwarczynski: 28 (63b, 0x4, 1x6, SR 44.44)
+  AN Kervezee: 18 (24b, 2x4, 0x6, SR 75.0)
+  W Barresi: 10 (29b, 1x4, 0x6, SR 34.48)
+  Abdur Razzak: 3/29 (10.0 ov, Econ 2.9)
+  Suhrawadi Shuvo: 1/33 (10.0 ov, Econ 3.3)
+  Rubel Hossain: 1/36 (9.0 ov, Econ 4.0)
+  Shakib Al Hasan: 1/38 (8.0 ov, Econ 4.75)
+  Shafiul Islam: 0/15 (9.2 ov, Econ 1.61)
+  Extras: 9
+
+Bangladesh: 166/4 (41.2 ov)
+  Imrul Kayes: 73 (113b, 5x4, 0x6, SR 64.6)
+  Shahriar Nafees: 37 (60b, 4x4, 0x6, SR 61.67)
+  Junaid Siddique: 35 (53b, 4x4, 0x6, SR 66.04)
+  Mushfiqur Rahim: 11 (12b, 1x4, 1x6, SR 91.67)
+  Shakib Al Hasan: 1 (7b, 0x4, 0x6, SR 14.29)
+  TLW Cooper: 2/33 (7.2 ov, Econ 4.5)
+  Mudassar Bukhari: 1/14 (6.0 ov, Econ 2.33)
+  PW Borren: 1/28 (5.0 ov, Econ 5.6)
+  PM Seelaar: 0/25 (10.0 ov, Econ 2.5)
+  Adeel Raja: 0/31 (7.0 ov, Econ 4.43)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: RN ten Doeschate scored 53 off 71 balls (SR 74.65)
+  Half-century: Imrul Kayes scored 73 off 113 balls (SR 64.6)
+
+Bowling Highlights:
+  Key spell: Abdur Razzak took 3/29
+  Economical spell: Suhrawadi Shuvo conceded 33 runs in 10.0 overs (Econ 3.3)
+  Economical spell: Shafiul Islam conceded 15 runs in 9.2 overs (Econ 1.61)
+  Economical spell: Mudassar Bukhari conceded 14 runs in 6.0 overs (Econ 2.33)
+  Economical spell: PM Seelaar conceded 25 runs in 10.0 overs (Econ 2.5)
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 1 off 7 balls
+
+Key Moments:
+  Netherlands lost 10 early wickets.
+  Bangladesh lost 4 early wickets.
+
+Result: Bangladesh won by 6 wickets
+Toss: Netherlands won and chose to bat
+Player of the Match: Imrul Kayes

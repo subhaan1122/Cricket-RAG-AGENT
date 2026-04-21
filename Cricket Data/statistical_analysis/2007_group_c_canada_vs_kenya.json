@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "5d05b58f1459",
+    "world_cup_year": 2007,
+    "stage": "Group C",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "city": "St Kitts",
+    "date": "2007-03-14",
+    "teams": {
+      "team1": "Canada",
+      "team2": "Kenya"
+    },
+    "toss": {
+      "winner": "Kenya",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Kenya",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "John Davison",
+      "team2": "Steve Tikolo"
+    },
+    "player_of_match": "SO Tikolo",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2007 World Cup Group C: Canada vs Kenya (2007-03-14) at St Kitts.\nCanada: 199 all out (50 ov)\nKenya: 203/3 (43.2 ov)\nKenya won by 7 wickets.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 402,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 4.35,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Canada",
+      "total_runs": 199,
+      "total_wickets": 10,
+      "total_overs": 50,
+      "run_rate": 3.98,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "total_runs": 203,
+      "total_wickets": 3,
+      "total_overs": 43.2,
+      "run_rate": 4.72,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Canada scored 199 in 50 overs at 3.98 RPO",
+    "vs Kenya scored 203 in 43.2 overs at 4.72 RPO"
+  ]
+}

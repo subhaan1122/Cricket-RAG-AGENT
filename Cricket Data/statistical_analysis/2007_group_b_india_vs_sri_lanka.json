@@ -1,0 +1,759 @@
+{
+  "match_info": {
+    "match_id": "23d02e5385c4",
+    "world_cup_year": 2007,
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "date": "2007-03-23",
+    "teams": {
+      "team1": "India",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "69 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Rahul Dravid",
+      "team2": "Mahela Jayawardene"
+    },
+    "player_of_match": "M Muralitharan",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group B: India vs Sri Lanka (2007-03-23) at Trinidad.\nSri Lanka: 254/6 (50.0 ov)\n  WU Tharanga: 64 (90b, 6x4, 0x6)\n  LPC Silva: 59 (68b, 5x4, 0x6)\n  TM Dilshan: 38 (41b, 3x4, 0x6)\n  Z Khan: 2/49 (10.0 ov)\nIndia: 185 all out (43.3 ov)\n  R Dravid: 60 (82b, 6x4, 0x6)\n  V Sehwag: 48 (46b, 5x4, 1x6)\n  M Muralitharan: 3/41 (10.0 ov)\n  WPUJC Vaas: 2/39 (8.0 ov)\nSri Lanka won by 69 runs.\nPlayer of the Match: M Muralitharan.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 439,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 4.69,
+    "highest_individual_score": 64,
+    "best_bowling_figures": "3/41",
+    "total_sixes": 3,
+    "total_fours": 35
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 254,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 5.08,
+      "top_batters": [
+        {
+          "name": "WU Tharanga",
+          "runs": 64,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.11,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 59,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 86.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 38,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WPUJC Vaas",
+          "runs": 19,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 158.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RP Arnold",
+          "runs": 19,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 146.15,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 5,
+          "no_balls": 1
+        },
+        {
+          "name": "AB Agarkar",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.12,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Tendulkar",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "SC Ganguly",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 33,
+          "wickets": 1,
+          "overs": "6.6"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 53,
+          "wickets": 2,
+          "overs": "12.4"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 92,
+          "wickets": 3,
+          "overs": "23.3"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "32.2"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 216,
+          "wickets": 5,
+          "overs": "45.4"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 216,
+          "wickets": 6,
+          "overs": "46.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 44,
+        "wickets": 1,
+        "run_rate": 4.4,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 16
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 75,
+        "wickets": 2,
+        "run_rate": 7.5,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 21,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 185,
+      "total_wickets": 10,
+      "total_overs": 43.3,
+      "run_rate": 4.3,
+      "top_batters": [
+        {
+          "name": "R Dravid",
+          "runs": 60,
+          "balls": 82,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.17,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 48,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 104.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RV Uthappa",
+          "runs": 18,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Harbhajan Singh",
+          "runs": 17,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 85.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MM Patel",
+          "runs": 10,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Muralitharan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.1,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 2,
+          "economy": 4.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "2.1",
+          "maidens": 1,
+          "runs_conceded": 2,
+          "wickets": 1,
+          "economy": 0.92,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 3.44,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 4.88,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RV Uthappa",
+          "runs": 25,
+          "wickets": 1,
+          "overs": "6.5"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "10.5"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 44,
+          "wickets": 3,
+          "overs": "11.3"
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 98,
+          "wickets": 4,
+          "overs": "22.5"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 112,
+          "wickets": 5,
+          "overs": "27.4"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 112,
+          "wickets": 6,
+          "overs": "28.1"
+        },
+        {
+          "player": "AB Agarkar",
+          "runs": 136,
+          "wickets": 7,
+          "overs": "34.4"
+        },
+        {
+          "player": "R Dravid",
+          "runs": 159,
+          "wickets": 8,
+          "overs": "37.3"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 161,
+          "wickets": 9,
+          "overs": "38.6"
+        },
+        {
+          "player": "MM Patel",
+          "runs": 185,
+          "wickets": 10,
+          "overs": "43.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 42,
+        "wickets": 1,
+        "run_rate": 4.2,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "3.3",
+        "balls": 21,
+        "runs": 24,
+        "wickets": 1,
+        "run_rate": 6.86,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 9,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "WU Tharanga": {
+      "batting": {
+        "runs": 64,
+        "balls": 90,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 71.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LPC Silva": {
+      "batting": {
+        "runs": 59,
+        "balls": 68,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 86.76
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Dilshan": {
+      "batting": {
+        "runs": 38,
+        "balls": 41,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 92.68
+      },
+      "bowling": {
+        "overs": 2.1666666666666665,
+        "maidens": 0,
+        "runs": 2,
+        "wickets": 1,
+        "economy": 0.92
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 19,
+        "balls": 12,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 158.33
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 2,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Arnold": {
+      "batting": {
+        "runs": 19,
+        "balls": 13,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 146.15
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB Agarkar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Patel": {
+      "batting": {
+        "runs": 10,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 58.82
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 1,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Ganguly": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Dravid": {
+      "batting": {
+        "runs": 60,
+        "balls": 82,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 73.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 48,
+        "balls": 46,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 104.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RV Uthappa": {
+      "batting": {
+        "runs": 18,
+        "balls": 27,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Harbhajan Singh": {
+      "batting": {
+        "runs": 17,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 85.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 3,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 3.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SL Malinga": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 254 in 50.0 overs at 5.08 RPO",
+    "vs India scored 185 in 43.3 overs at 4.3 RPO",
+    "Top batsman: WU Tharanga with 64 runs",
+    "Top bowler: M Muralitharan with 3 wickets"
+  ]
+}

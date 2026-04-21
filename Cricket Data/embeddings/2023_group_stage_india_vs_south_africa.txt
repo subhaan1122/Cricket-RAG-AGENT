@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2023
+Match: India vs South Africa
+Stage: Group Stage
+Date: 2023-11-05
+Venue: Eden Gardens, Kolkata, Kolkata
+Captain India: Rohit Sharma
+Captain South Africa: Temba Bavuma
+
+Match Summary:
+  2023 World Cup Group Stage: India vs South Africa (2023-11-05) at Kolkata.
+
+India: 326/5 (50.0 ov)
+  V Kohli: 101 (121b, 10x4, 0x6, SR 83.47)
+  SS Iyer: 77 (87b, 7x4, 2x6, SR 88.51)
+  RG Sharma: 40 (24b, 6x4, 2x6, SR 166.67)
+  RA Jadeja: 29 (15b, 3x4, 1x6, SR 193.33)
+  Shubman Gill: 23 (24b, 4x4, 1x6, SR 95.83)
+  KA Maharaj: 1/30 (10.0 ov, Econ 3.0)
+  K Rabada: 1/48 (10.0 ov, Econ 4.8)
+  T Shamsi: 1/72 (10.0 ov, Econ 7.2)
+  L Ngidi: 1/63 (8.2 ov, Econ 7.56)
+  M Jansen: 1/94 (9.4 ov, Econ 9.72)
+  Extras: 26
+
+South Africa: 83 all out (27.1 ov)
+  M Jansen: 14 (30b, 1x4, 0x6, SR 46.67)
+  HE van der Dussen: 13 (32b, 1x4, 0x6, SR 40.62)
+  DA Miller: 11 (11b, 2x4, 0x6, SR 100.0)
+  T Bavuma: 11 (19b, 1x4, 0x6, SR 57.89)
+  AK Markram: 9 (6b, 2x4, 0x6, SR 150.0)
+  RA Jadeja: 5/33 (9.0 ov, Econ 3.67)
+  Kuldeep Yadav: 2/7 (5.1 ov, Econ 1.35)
+  Mohammed Shami: 2/18 (4.0 ov, Econ 4.5)
+  Mohammed Siraj: 1/11 (4.0 ov, Econ 2.75)
+  JJ Bumrah: 0/14 (5.0 ov, Econ 2.8)
+  Extras: 2
+
+Batting Highlights:
+  Century: V Kohli scored 101 off 121 balls (SR 83.47, 10 fours, 0 sixes)
+  Half-century: SS Iyer scored 77 off 87 balls (SR 88.51)
+  Quickfire innings: RG Sharma smashed 40 off 24 balls at SR 166.67
+  Quickfire innings: RA Jadeja smashed 29 off 15 balls at SR 193.33
+
+Bowling Highlights:
+  Economical spell: KA Maharaj conceded 30 runs in 10.0 overs (Econ 3.0)
+  Match-changing spell: RA Jadeja took 5/33
+  Economical spell: Kuldeep Yadav conceded 7 runs in 5.1 overs (Econ 1.35)
+  Economical spell: JJ Bumrah conceded 14 runs in 5.0 overs (Econ 2.8)
+
+Captain Performance:
+  Rohit Sharma (India): scored 40 off 24 balls
+  Temba Bavuma (South Africa): scored 11 off 19 balls
+
+Key Moments:
+  India lost 5 early wickets.
+  South Africa lost 10 early wickets.
+  India scored aggressively in the powerplay (91 runs at 9.1 RPO).
+  South Africa lost 3 wickets in the powerplay.
+
+Result: India won by 243 runs
+Toss: India won and chose to bat
+Player of the Match: V Kohli

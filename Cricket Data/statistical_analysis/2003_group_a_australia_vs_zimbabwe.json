@@ -1,0 +1,755 @@
+{
+  "match_info": {
+    "match_id": "9d9d0972ac99",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "Queens Sports Club, Bulawayo",
+    "city": "Bulawayo",
+    "date": "2003-02-24",
+    "teams": {
+      "team1": "Zimbabwe",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "Zimbabwe",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Heath Streak",
+      "team2": "Ricky Ponting"
+    },
+    "player_of_match": "AM Blignaut",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: Zimbabwe vs Australia (2003-02-24) at Bulawayo.\nZimbabwe: 246/9 (50.0 ov)\n  A Flower: 62 (91b, 8x4, 0x6)\n  AM Blignaut: 54 (28b, 8x4, 2x6)\n  GW Flower: 37 (58b, 4x4, 0x6)\n  GB Hogg: 3/46 (8.0 ov)\n  GD McGrath: 2/24 (9.0 ov)\n  JN Gillespie: 2/50 (9.0 ov)\nAustralia: 248/3 (47.2 ov)\n  AC Gilchrist: 61 (64b, 8x4, 0x6)\n  DS Lehmann: 56* (48b, 6x4, 0x6)\n  DR Martyn: 50* (70b, 2x4, 0x6)\nAustralia won by 7 wickets.\nPlayer of the Match: AM Blignaut.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 494,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 5.1,
+    "highest_individual_score": 62,
+    "best_bowling_figures": "3/46",
+    "total_sixes": 3,
+    "total_fours": 45
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 246,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 4.92,
+      "top_batters": [
+        {
+          "name": "A Flower",
+          "runs": 62,
+          "balls": 91,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 68.13,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AM Blignaut",
+          "runs": 54,
+          "balls": 28,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 192.86,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "GW Flower",
+          "runs": 37,
+          "balls": 58,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.79,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "HH Streak",
+          "runs": 28,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 147.37,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "T Taibu",
+          "runs": 23,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.27,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GB Hogg",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 3,
+          "economy": 5.75,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 2.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JN Gillespie",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 5.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 1,
+          "no_balls": 3
+        },
+        {
+          "name": "A Symonds",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GJ Whittall",
+          "runs": 13,
+          "wickets": 1,
+          "overs": "3.1"
+        },
+        {
+          "player": "CB Wishart",
+          "runs": 28,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "GW Flower",
+          "runs": 112,
+          "wickets": 3,
+          "overs": "28.1"
+        },
+        {
+          "player": "A Flower",
+          "runs": 121,
+          "wickets": 4,
+          "overs": "30.1"
+        },
+        {
+          "player": "DD Ebrahim",
+          "runs": 142,
+          "wickets": 5,
+          "overs": "36.5"
+        },
+        {
+          "player": "DA Marillier",
+          "runs": 142,
+          "wickets": 6,
+          "overs": "36.6"
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 208,
+          "wickets": 7,
+          "overs": "44.3"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 242,
+          "wickets": 8,
+          "overs": "49.1"
+        },
+        {
+          "player": "BA Murphy",
+          "runs": 244,
+          "wickets": 9,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 41,
+        "wickets": 2,
+        "run_rate": 4.1,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 90,
+        "wickets": 3,
+        "run_rate": 9.0,
+        "fours": 9,
+        "sixes": 3,
+        "dot_balls": 24,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 248,
+      "total_wickets": 3,
+      "total_overs": 47.2,
+      "run_rate": 5.28,
+      "top_batters": [
+        {
+          "name": "AC Gilchrist",
+          "runs": 61,
+          "balls": 64,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 95.31,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DS Lehmann",
+          "runs": 56,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DR Martyn",
+          "runs": 50,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 38,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.32,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 34,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 87.18,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DA Marillier",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "BA Murphy",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 5.55,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AM Blignaut",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 0,
+          "economy": 5.4,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "HH Streak",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 6.33,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 89,
+          "wickets": 1,
+          "overs": "14.1"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 113,
+          "wickets": 2,
+          "overs": "21.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 156,
+          "wickets": 3,
+          "overs": "32.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 64,
+        "wickets": 0,
+        "run_rate": 6.4,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 33,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "7.3",
+        "balls": 45,
+        "runs": 52,
+        "wickets": 0,
+        "run_rate": 6.93,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 13,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "A Flower": {
+      "batting": {
+        "runs": 62,
+        "balls": 91,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 68.13
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AM Blignaut": {
+      "batting": {
+        "runs": 54,
+        "balls": 28,
+        "fours": 8,
+        "sixes": 2,
+        "strike_rate": 192.86
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 0,
+        "economy": 5.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GW Flower": {
+      "batting": {
+        "runs": 37,
+        "balls": 58,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 63.79
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Streak": {
+      "batting": {
+        "runs": 28,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 147.37
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 0,
+        "economy": 6.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Taibu": {
+      "batting": {
+        "runs": 23,
+        "balls": 44,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 52.27
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Hogg": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 3,
+        "economy": 5.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD McGrath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 2,
+        "economy": 2.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JN Gillespie": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 2,
+        "economy": 5.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 1,
+        "economy": 6.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Symonds": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 0,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Gilchrist": {
+      "batting": {
+        "runs": 61,
+        "balls": 64,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 95.31
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Lehmann": {
+      "batting": {
+        "runs": 56,
+        "balls": 48,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DR Martyn": {
+      "batting": {
+        "runs": 50,
+        "balls": 70,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 38,
+        "balls": 63,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 60.32
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ML Hayden": {
+      "batting": {
+        "runs": 34,
+        "balls": 39,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 87.18
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Marillier": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 1,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Murphy": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 5.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Hondo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.833333333333334,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 5.55
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 246 in 50.0 overs at 4.92 RPO",
+    "vs Australia scored 248 in 47.2 overs at 5.28 RPO",
+    "Top batsman: A Flower with 62 runs",
+    "Top bowler: GB Hogg with 3 wickets"
+  ]
+}

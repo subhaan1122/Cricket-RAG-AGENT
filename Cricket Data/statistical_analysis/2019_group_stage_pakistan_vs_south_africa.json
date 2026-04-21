@@ -1,0 +1,779 @@
+{
+  "match_info": {
+    "match_id": "988cfb7d9159",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Lord's",
+    "city": "London",
+    "date": "2019-06-23",
+    "teams": {
+      "team1": "Pakistan",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "49 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sarfaraz Ahmed",
+      "team2": "Faf du Plessis"
+    },
+    "player_of_match": "Haris Sohail",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: Pakistan vs South Africa (2019-06-23) at London.\nPakistan: 308/7 (50.1 ov)\n  Haris Sohail: 89 (59b, 9x4, 3x6)\n  Babar Azam: 69 (80b, 7x4, 0x6)\n  Fakhar Zaman: 44 (50b, 6x4, 1x6)\n  L Ngidi: 3/64 (9.0 ov)\n  Imran Tahir: 2/41 (10.0 ov)\nSouth Africa: 259/9 (50.0 ov)\n  F du Plessis: 63 (79b, 5x4, 0x6)\n  Q de Kock: 47 (60b, 3x4, 2x6)\n  AL Phehlukwayo: 46* (32b, 6x4, 0x6)\n  Wahab Riaz: 3/46 (10.0 ov)\n  Shadab Khan: 3/50 (10.0 ov)\n  Mohammad Amir: 2/49 (10.0 ov)\nPakistan won by 49 runs.\nPlayer of the Match: Haris Sohail.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 567,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 5.67,
+    "highest_individual_score": 89,
+    "best_bowling_figures": "3/64",
+    "total_sixes": 7,
+    "total_fours": 49
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 308,
+      "total_wickets": 7,
+      "total_overs": 50.1,
+      "run_rate": 6.16,
+      "top_batters": [
+        {
+          "name": "Haris Sohail",
+          "runs": 89,
+          "balls": 59,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 150.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Babar Azam",
+          "runs": 69,
+          "balls": 80,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 86.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Fakhar Zaman",
+          "runs": 44,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 88.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Imam-ul-Haq",
+          "runs": 44,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.86,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Imad Wasim",
+          "runs": 23,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 153.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "L Ngidi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 3,
+          "economy": 7.11,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AK Markram",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 6.12,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 81,
+          "wickets": 1,
+          "overs": "14.6"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 98,
+          "wickets": 2,
+          "overs": "20.4"
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 143,
+          "wickets": 3,
+          "overs": "29.1"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 224,
+          "wickets": 4,
+          "overs": "41.3"
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 295,
+          "wickets": 5,
+          "overs": "47.1"
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 304,
+          "wickets": 6,
+          "overs": "49.2"
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 307,
+          "wickets": 7,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 58,
+        "wickets": 0,
+        "run_rate": 5.8,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 38,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 91,
+        "wickets": 4,
+        "run_rate": 9.1,
+        "fours": 8,
+        "sixes": 2,
+        "dot_balls": 16,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 259,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 5.18,
+      "top_batters": [
+        {
+          "name": "F du Plessis",
+          "runs": 63,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 47,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 78.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "runs": 46,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 143.75,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HE van der Dussen",
+          "runs": 36,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 76.6,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 31,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.78,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Wahab Riaz",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 3,
+          "economy": 4.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Amir",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 6.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imad Wasim",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 91,
+          "wickets": 2,
+          "overs": "19.2"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 103,
+          "wickets": 3,
+          "overs": "23.1"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 136,
+          "wickets": 4,
+          "overs": "29.3"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 189,
+          "wickets": 5,
+          "overs": "39.4"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 192,
+          "wickets": 6,
+          "overs": "40.5"
+        },
+        {
+          "player": "CH Morris",
+          "runs": 222,
+          "wickets": 7,
+          "overs": "44.2"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 239,
+          "wickets": 8,
+          "overs": "46.5"
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 246,
+          "wickets": 9,
+          "overs": "48.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 38,
+        "wickets": 1,
+        "run_rate": 3.8,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 70,
+        "wickets": 4,
+        "run_rate": 7.0,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 22,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Haris Sohail": {
+      "batting": {
+        "runs": 89,
+        "balls": 59,
+        "fours": 9,
+        "sixes": 3,
+        "strike_rate": 150.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Babar Azam": {
+      "batting": {
+        "runs": 69,
+        "balls": 80,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 86.25
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Fakhar Zaman": {
+      "batting": {
+        "runs": 44,
+        "balls": 50,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 88.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imam-ul-Haq": {
+      "batting": {
+        "runs": 44,
+        "balls": 58,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 75.86
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imad Wasim": {
+      "batting": {
+        "runs": 23,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 153.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 0,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Ngidi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 3,
+        "economy": 7.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imran Tahir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AK Markram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AL Phehlukwayo": {
+      "batting": {
+        "runs": 46,
+        "balls": 32,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 143.75
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 6.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "K Rabada": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 0,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "F du Plessis": {
+      "batting": {
+        "runs": 63,
+        "balls": 79,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 79.75
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Q de Kock": {
+      "batting": {
+        "runs": 47,
+        "balls": 60,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 78.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HE van der Dussen": {
+      "batting": {
+        "runs": 36,
+        "balls": 47,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 76.6
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Miller": {
+      "batting": {
+        "runs": 31,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 83.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wahab Riaz": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 3,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Amir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 1,
+        "economy": 6.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 308 in 50.1 overs at 6.16 RPO",
+    "vs South Africa scored 259 in 50.0 overs at 5.18 RPO",
+    "Top batsman: Haris Sohail with 89 runs",
+    "Top bowler: L Ngidi with 3 wickets"
+  ]
+}

@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2023
+Match: Bangladesh vs Australia
+Stage: Group Stage
+Date: 2023-11-11
+Venue: Maharashtra Cricket Association Stadium, Pune, Pune
+Captain Bangladesh: Shakib Al Hasan
+Captain Australia: Pat Cummins
+
+Match Summary:
+  2023 World Cup Group Stage: Bangladesh vs Australia (2023-11-11) at Pune.
+
+Bangladesh: 306/8 (50.0 ov)
+  Towhid Hridoy: 74 (79b, 5x4, 2x6, SR 93.67)
+  Nazmul Hossain Shanto: 45 (57b, 6x4, 0x6, SR 78.95)
+  Tanzid Hasan: 36 (34b, 6x4, 0x6, SR 105.88)
+  Liton Das: 36 (45b, 4x4, 0x6, SR 80.0)
+  Mahmudullah: 32 (28b, 1x4, 3x6, SR 114.29)
+  A Zampa: 2/32 (10.0 ov, Econ 3.2)
+  SA Abbott: 2/61 (10.0 ov, Econ 6.1)
+  MP Stoinis: 1/45 (5.0 ov, Econ 9.0)
+  JR Hazlewood: 0/21 (7.0 ov, Econ 3.0)
+  TM Head: 0/33 (6.0 ov, Econ 5.5)
+  Extras: 24
+
+Australia: 307/2 (44.4 ov)
+  MR Marsh: 177 (132b, 17x4, 9x6, SR 134.09)
+  SPD Smith: 63 (64b, 4x4, 1x6, SR 98.44)
+  DA Warner: 53 (61b, 6x4, 0x6, SR 86.89)
+  TM Head: 10 (11b, 2x4, 0x6, SR 90.91)
+  Taskin Ahmed: 1/61 (10.0 ov, Econ 6.1)
+  Mustafizur Rahman: 1/76 (9.4 ov, Econ 7.86)
+  Mahedi Hasan: 0/38 (9.0 ov, Econ 4.22)
+  Mehedi Hasan Miraz: 0/47 (6.0 ov, Econ 7.83)
+  Nasum Ahmed: 0/85 (10.0 ov, Econ 8.5)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: Towhid Hridoy scored 74 off 79 balls (SR 93.67)
+  Century: MR Marsh scored 177 off 132 balls (SR 134.09, 17 fours, 9 sixes)
+  Half-century: SPD Smith scored 63 off 64 balls (SR 98.44)
+  Half-century: DA Warner scored 53 off 61 balls (SR 86.89)
+
+Bowling Highlights:
+  Economical spell: A Zampa conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: JR Hazlewood conceded 21 runs in 7.0 overs (Econ 3.0)
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 36 off 34 balls
+
+Key Moments:
+  Bangladesh lost 8 early wickets.
+
+Result: Australia won by 8 wickets
+Toss: Australia won and chose to field
+Player of the Match: MR Marsh

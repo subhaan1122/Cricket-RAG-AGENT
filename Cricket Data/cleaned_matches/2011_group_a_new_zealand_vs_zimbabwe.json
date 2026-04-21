@@ -1,0 +1,289 @@
+{
+  "match_id": "67c4d3b03d3a",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "Sardar Patel Stadium, Motera",
+  "city": "Ahmedabad",
+  "date": "2011-03-04",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Daniel Vettori",
+    "team2": "Elton Chigumbura"
+  },
+  "player_of_match": "MJ Guptill",
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "runs": 162,
+      "wickets": 10,
+      "overs": 46.2,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "BRM Taylor",
+          "runs": 44,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 77.19,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "P Utseya",
+          "runs": 36,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AG Cremer",
+          "runs": 22,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GA Lamb",
+          "runs": 18,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "RW Price",
+          "runs": 11,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "9.2",
+          "maidens": 3,
+          "runs_conceded": 29,
+          "wickets": 3,
+          "economy": 3.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 25,
+          "wickets": 2,
+          "economy": 2.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KD Mills",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 2,
+          "economy": 2.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 1,
+          "economy": 3.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HK Bennett",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CK Coventry",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.2"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 42,
+          "wickets": 3,
+          "overs": "12.6"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 46,
+          "wickets": 4,
+          "overs": "14.1"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 46,
+          "wickets": 5,
+          "overs": "14.3"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 86,
+          "wickets": 6,
+          "overs": "23.1"
+        },
+        {
+          "player": "GA Lamb",
+          "runs": 89,
+          "wickets": 7,
+          "overs": "26.6"
+        },
+        {
+          "player": "AG Cremer",
+          "runs": 122,
+          "wickets": 8,
+          "overs": "36.6"
+        },
+        {
+          "player": "RW Price",
+          "runs": 157,
+          "wickets": 9,
+          "overs": "44.1"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 162,
+          "wickets": 10,
+          "overs": "46.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 166,
+      "wickets": 0,
+      "overs": 33.3,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "MJ Guptill",
+          "runs": 86,
+          "balls": 108,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 79.63,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 76,
+          "balls": 95,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 80.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RW Price",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 3.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GA Lamb",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 3.83,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "AG Cremer",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_new_zealand_vs_zimbabwe.json",
+  "match_summary": "2011 World Cup Group A: New Zealand vs Zimbabwe (2011-03-04) at Ahmedabad.\nZimbabwe: 162 all out (46.2 ov)\n  BRM Taylor: 44 (57b, 4x4, 0x6)\n  P Utseya: 36 (65b, 3x4, 0x6)\n  TG Southee: 3/29 (9.2 ov)\n  DL Vettori: 2/25 (10.0 ov)\n  KD Mills: 2/29 (10.0 ov)\nNew Zealand: 166/0 (33.3 ov)\n  MJ Guptill: 86* (108b, 7x4, 2x6)\n  BB McCullum: 76* (95b, 6x4, 2x6)\nNew Zealand won by 10 wickets.\nPlayer of the Match: MJ Guptill."
+}

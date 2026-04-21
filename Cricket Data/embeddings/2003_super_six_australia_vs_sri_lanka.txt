@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: Australia vs Sri Lanka
+Stage: Super Six
+Date: 2003-03-07
+Venue: SuperSport Park, Centurion, Centurion
+Captain Australia: Ricky Ponting
+Captain Sri Lanka: Sanath Jayasuriya
+
+Match Summary:
+  2003 World Cup Super Six: Australia vs Sri Lanka (2003-03-07) at Centurion.
+
+Australia: 319/5 (50.0 ov)
+  RT Ponting: 114 (109b, 8x4, 4x6, SR 104.59)
+  AC Gilchrist: 99 (88b, 14x4, 2x6, SR 112.5)
+  DR Martyn: 52 (58b, 1x4, 1x6, SR 89.66)
+  ML Hayden: 22 (34b, 3x4, 0x6, SR 64.71)
+  DS Lehmann: 10 (10b, 1x4, 0x6, SR 100.0)
+  CRD Fernando: 3/47 (9.0 ov, Econ 5.22)
+  M Muralitharan: 1/47 (10.0 ov, Econ 4.7)
+  ST Jayasuriya: 0/59 (10.0 ov, Econ 5.9)
+  PA de Silva: 0/36 (5.0 ov, Econ 7.2)
+  WPUJC Vaas: 0/59 (8.0 ov, Econ 7.38)
+  Extras: 16
+
+Sri Lanka: 223 all out (47.4 ov)
+  PA de Silva: 92 (94b, 9x4, 4x6, SR 97.87)
+  HP Tillakaratne: 21 (41b, 4x4, 0x6, SR 51.22)
+  WPUJC Vaas: 21 (45b, 2x4, 0x6, SR 46.67)
+  KC Sangakkara: 20 (38b, 2x4, 0x6, SR 52.63)
+  MS Atapattu: 16 (24b, 3x4, 0x6, SR 66.67)
+  B Lee: 3/52 (10.0 ov, Econ 5.2)
+  GD McGrath: 2/25 (9.4 ov, Econ 2.59)
+  GB Hogg: 2/45 (9.0 ov, Econ 5.0)
+  DS Lehmann: 1/26 (5.0 ov, Econ 5.2)
+  IJ Harvey: 0/29 (7.0 ov, Econ 4.14)
+  Extras: 23
+
+Batting Highlights:
+  Century: RT Ponting scored 114 off 109 balls (SR 104.59, 8 fours, 4 sixes)
+  Half-century: AC Gilchrist scored 99 off 88 balls (SR 112.5)
+  Half-century: DR Martyn scored 52 off 58 balls (SR 89.66)
+  Half-century: PA de Silva scored 92 off 94 balls (SR 97.87)
+
+Bowling Highlights:
+  Key spell: CRD Fernando took 3/47
+  Key spell: B Lee took 3/52
+  Economical spell: GD McGrath conceded 25 runs in 9.4 overs (Econ 2.59)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 114 off 109 balls
+
+Key Moments:
+  Australia lost 5 early wickets.
+  Sri Lanka lost 10 early wickets.
+
+Result: Australia won by 96 runs
+Toss: Australia won and chose to bat
+Player of the Match: RT Ponting

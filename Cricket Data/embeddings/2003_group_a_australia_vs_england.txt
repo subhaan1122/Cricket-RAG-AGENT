@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2003
+Match: England vs Australia
+Stage: Group A
+Date: 2003-03-02
+Venue: St George's Park, Port Elizabeth, Gqeberha
+Captain England: Nasser Hussain
+Captain Australia: Ricky Ponting
+
+Match Summary:
+  2003 World Cup Group A: England vs Australia (2003-03-02) at Gqeberha.
+
+England: 204/8 (50.0 ov)
+  AJ Stewart: 46 (92b, 1x4, 0x6, SR 50.0)
+  A Flintoff: 45 (80b, 3x4, 1x6, SR 56.25)
+  ME Trescothick: 37 (36b, 5x4, 1x6, SR 102.78)
+  NV Knight: 30 (33b, 3x4, 0x6, SR 90.91)
+  C White: 16 (21b, 1x4, 0x6, SR 76.19)
+  AJ Bichel: 7/20 (10.0 ov, Econ 2.0)
+  GD McGrath: 1/41 (9.0 ov, Econ 4.56)
+  GB Hogg: 0/28 (10.0 ov, Econ 2.8)
+  DS Lehmann: 0/34 (10.0 ov, Econ 3.4)
+  B Lee: 0/58 (9.0 ov, Econ 6.44)
+  Extras: 10
+
+Australia: 208/8 (49.4 ov)
+  MG Bevan: 74 (126b, 6x4, 1x6, SR 58.73)
+  DS Lehmann: 37 (62b, 3x4, 0x6, SR 59.68)
+  AJ Bichel: 34 (36b, 3x4, 1x6, SR 94.44)
+  AC Gilchrist: 22 (18b, 4x4, 0x6, SR 122.22)
+  RT Ponting: 18 (21b, 2x4, 1x6, SR 85.71)
+  AR Caddick: 4/35 (9.0 ov, Econ 3.89)
+  AF Giles: 2/42 (10.0 ov, Econ 4.2)
+  C White: 1/21 (10.0 ov, Econ 2.1)
+  A Flintoff: 0/26 (9.4 ov, Econ 2.69)
+  MP Vaughan: 0/10 (2.0 ov, Econ 5.0)
+  Extras: 15
+
+Batting Highlights:
+  Half-century: MG Bevan scored 74 off 126 balls (SR 58.73)
+
+Bowling Highlights:
+  Match-changing spell: AJ Bichel took 7/20
+  Economical spell: GB Hogg conceded 28 runs in 10.0 overs (Econ 2.8)
+  Economical spell: DS Lehmann conceded 34 runs in 10.0 overs (Econ 3.4)
+  Match-changing spell: AR Caddick took 4/35
+  Economical spell: C White conceded 21 runs in 10.0 overs (Econ 2.1)
+  Economical spell: A Flintoff conceded 26 runs in 9.4 overs (Econ 2.69)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 18 off 21 balls
+
+Key Moments:
+  England lost 8 early wickets.
+  Australia lost 8 early wickets.
+  Australia lost 4 wickets in the powerplay.
+
+Result: Australia won by 2 wickets
+Toss: England won and chose to bat
+Player of the Match: AJ Bichel

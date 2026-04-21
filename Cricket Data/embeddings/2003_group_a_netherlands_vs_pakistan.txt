@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Pakistan vs Netherlands
+Stage: Group A
+Date: 2003-02-25
+Venue: Boland Bank Park, Paarl, Paarl
+Captain Pakistan: Waqar Younis
+Captain Netherlands: Roland Lefebvre
+
+Match Summary:
+  2003 World Cup Group A: Pakistan vs Netherlands (2003-02-25) at Paarl.
+
+Pakistan: 253/9 (50.0 ov)
+  Yousuf Youhana: 58 (59b, 4x4, 0x6, SR 98.31)
+  Taufeeq Umar: 48 (71b, 6x4, 0x6, SR 67.61)
+  Abdul Razzaq: 47 (63b, 4x4, 0x6, SR 74.6)
+  Shoaib Akhtar: 26 (27b, 0x4, 1x6, SR 96.3)
+  Saeed Anwar: 25 (37b, 3x4, 0x6, SR 67.57)
+  TBM de Leede: 2/53 (10.0 ov, Econ 5.3)
+  DLS van Bunge: 2/27 (4.0 ov, Econ 6.75)
+  RP Lefebvre: 1/39 (10.0 ov, Econ 3.9)
+  E Schiferli: 1/48 (10.0 ov, Econ 4.8)
+  HJC Mol: 1/24 (4.0 ov, Econ 6.0)
+  Extras: 15
+
+Netherlands: 156 all out (39.3 ov)
+  DLS van Bunge: 31 (60b, 3x4, 1x6, SR 51.67)
+  LP van Troost: 22 (30b, 3x4, 0x6, SR 73.33)
+  TBM de Leede: 15 (35b, 0x4, 1x6, SR 42.86)
+  HJC Mol: 13 (24b, 1x4, 0x6, SR 54.17)
+  E Schiferli: 9 (24b, 1x4, 0x6, SR 37.5)
+  Wasim Akram: 3/24 (8.3 ov, Econ 2.82)
+  Shoaib Akhtar: 3/26 (7.0 ov, Econ 3.71)
+  Waqar Younis: 1/19 (6.0 ov, Econ 3.17)
+  Saeed Anwar: 1/15 (4.0 ov, Econ 3.75)
+  Abdul Razzaq: 1/23 (6.0 ov, Econ 3.83)
+  Extras: 40
+
+Batting Highlights:
+  Half-century: Yousuf Youhana scored 58 off 59 balls (SR 98.31)
+
+Bowling Highlights:
+  Key spell: Wasim Akram took 3/24
+  Key spell: Shoaib Akhtar took 3/26
+  Economical spell: Waqar Younis conceded 19 runs in 6.0 overs (Econ 3.17)
+
+Captain Performance:
+  Pakistan captain: Waqar Younis
+  Netherlands captain: Roland Lefebvre
+
+Key Moments:
+  Pakistan lost 9 early wickets.
+  Netherlands lost 10 early wickets.
+  Netherlands lost 4 wickets in the powerplay.
+
+Result: Pakistan won by 97 runs
+Toss: Netherlands won and chose to field
+Player of the Match: Yousuf Youhana

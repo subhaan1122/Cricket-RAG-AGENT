@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2023
+Match: Sri Lanka vs Pakistan
+Stage: Group Stage
+Date: 2023-10-10
+Venue: Rajiv Gandhi International Stadium, Uppal, Hyderabad, Hyderabad
+Captain Sri Lanka: Kusal Mendis
+Captain Pakistan: Babar Azam
+
+Match Summary:
+  2023 World Cup Group Stage: Sri Lanka vs Pakistan (2023-10-10) at Hyderabad.
+
+Sri Lanka: 344/9 (50.0 ov)
+  BKG Mendis: 122 (77b, 14x4, 6x6, SR 158.44)
+  S Samarawickrama: 108 (89b, 11x4, 2x6, SR 121.35)
+  P Nissanka: 51 (61b, 7x4, 1x6, SR 83.61)
+  DM de Silva: 25 (34b, 3x4, 0x6, SR 73.53)
+  MD Shanaka: 12 (18b, 0x4, 0x6, SR 66.67)
+  Hasan Ali: 4/71 (10.0 ov, Econ 7.1)
+  Haris Rauf: 2/64 (10.0 ov, Econ 6.4)
+  Shadab Khan: 1/55 (8.0 ov, Econ 6.88)
+  Mohammad Nawaz: 1/62 (9.0 ov, Econ 6.89)
+  Shaheen Shah Afridi: 1/66 (9.0 ov, Econ 7.33)
+  Extras: 14
+
+Pakistan: 345/4 (48.2 ov)
+  Mohammad Rizwan: 131 (121b, 8x4, 3x6, SR 108.26)
+  Abdullah Shafique: 113 (103b, 10x4, 3x6, SR 109.71)
+  Saud Shakeel: 31 (30b, 2x4, 0x6, SR 103.33)
+  Iftikhar Ahmed: 22 (10b, 4x4, 0x6, SR 220.0)
+  Imam-ul-Haq: 12 (12b, 1x4, 0x6, SR 100.0)
+  D Madushanka: 2/60 (9.2 ov, Econ 6.43)
+  M Theekshana: 1/59 (10.0 ov, Econ 5.9)
+  M Pathirana: 1/90 (9.0 ov, Econ 10.0)
+  MD Shanaka: 0/28 (5.0 ov, Econ 5.6)
+  DN Wellalage: 0/62 (10.0 ov, Econ 6.2)
+  Extras: 26
+
+Batting Highlights:
+  Century: BKG Mendis scored 122 off 77 balls (SR 158.44, 14 fours, 6 sixes)
+  Century: S Samarawickrama scored 108 off 89 balls (SR 121.35, 11 fours, 2 sixes)
+  Half-century: P Nissanka scored 51 off 61 balls (SR 83.61)
+  Century: Mohammad Rizwan scored 131 off 121 balls (SR 108.26, 8 fours, 3 sixes)
+  Century: Abdullah Shafique scored 113 off 103 balls (SR 109.71, 10 fours, 3 sixes)
+
+Bowling Highlights:
+  Match-changing spell: Hasan Ali took 4/71
+
+Captain Performance:
+  Kusal Mendis (Sri Lanka): scored 122 off 77 balls
+
+Key Moments:
+  Sri Lanka lost 9 early wickets.
+  Pakistan lost 4 early wickets.
+
+Result: Pakistan won by 6 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: Mohammad Rizwan

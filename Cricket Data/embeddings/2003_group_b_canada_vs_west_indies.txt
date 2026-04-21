@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: Canada vs West Indies
+Stage: Group B
+Date: 2003-02-23
+Venue: SuperSport Park, Centurion, Centurion
+Captain Canada: Joe Harris
+Captain West Indies: Brian Lara
+
+Match Summary:
+  2003 World Cup Group B: Canada vs West Indies (2003-02-23) at Centurion.
+
+Canada: 202 all out (42.5 ov)
+  JM Davison: 111 (76b, 7x4, 6x6, SR 146.05)
+  DR Chumney: 19 (25b, 1x4, 1x6, SR 76.0)
+  IS Billcliff: 16 (33b, 2x4, 0x6, SR 48.48)
+  I Maraj: 16 (34b, 2x4, 0x6, SR 47.06)
+  NA de Groot: 11 (32b, 1x4, 0x6, SR 34.38)
+  VC Drakes: 5/44 (9.5 ov, Econ 4.47)
+  WW Hinds: 2/19 (4.0 ov, Econ 4.75)
+  PT Collins: 1/35 (7.0 ov, Econ 5.0)
+  CH Gayle: 0/29 (9.0 ov, Econ 3.22)
+  CL Hooper: 0/31 (8.0 ov, Econ 3.88)
+  Extras: 12
+
+West Indies: 206/3 (20.3 ov)
+  BC Lara: 73 (40b, 7x4, 5x6, SR 182.5)
+  WW Hinds: 64 (31b, 10x4, 3x6, SR 206.45)
+  RR Sarwan: 42 (32b, 9x4, 0x6, SR 131.25)
+  CH Gayle: 8 (13b, 1x4, 0x6, SR 61.54)
+  CL Hooper: 5 (8b, 0x4, 0x6, SR 62.5)
+  JM Davison: 1/36 (5.0 ov, Econ 7.2)
+  NA de Groot: 1/21 (2.3 ov, Econ 8.4)
+  D Joseph: 1/47 (4.0 ov, Econ 11.75)
+  A Codrington: 0/25 (4.0 ov, Econ 6.25)
+  N Ifill: 0/46 (4.0 ov, Econ 11.5)
+  Extras: 14
+
+Batting Highlights:
+  Century: JM Davison scored 111 off 76 balls (SR 146.05, 7 fours, 6 sixes)
+  Half-century: BC Lara scored 73 off 40 balls (SR 182.5)
+  Half-century: WW Hinds scored 64 off 31 balls (SR 206.45)
+
+Bowling Highlights:
+  Match-changing spell: VC Drakes took 5/44
+  Economical spell: CH Gayle conceded 29 runs in 9.0 overs (Econ 3.22)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 73 off 40 balls
+
+Key Moments:
+  Canada lost 10 early wickets.
+  West Indies lost 3 early wickets.
+  Canada scored aggressively in the powerplay (77 runs at 7.7 RPO).
+  West Indies scored aggressively in the powerplay (119 runs at 11.9 RPO).
+
+Result: West Indies won by 7 wickets
+Toss: West Indies won and chose to field
+Player of the Match: JM Davison

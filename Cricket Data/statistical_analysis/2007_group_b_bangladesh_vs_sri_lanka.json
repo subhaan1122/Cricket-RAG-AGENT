@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "f16d67c27259",
+    "world_cup_year": 2007,
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "date": "2007-03-21",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "198 runs",
+      "method": "D/L",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Habibul Bashar",
+      "team2": "Mahela Jayawardene"
+    },
+    "player_of_match": "ST Jayasuriya",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group B: Bangladesh vs Sri Lanka (2007-03-21) at Trinidad.\nSri Lanka: 318/4 (50.0 ov)\n  ST Jayasuriya: 109 (87b, 7x4, 7x6)\n  KC Sangakkara: 56 (55b, 3x4, 1x6)\n  LPC Silva: 52* (48b, 5x4, 2x6)\nBangladesh: 112 all out (37.0 ov)\n  Mohammad Ashraful: 45* (63b, 6x4, 0x6)\n  SL Malinga: 3/27 (6.0 ov)\nSri Lanka won by 198 runs (D/L).\nPlayer of the Match: ST Jayasuriya.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 430,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 4.7,
+    "highest_individual_score": 109,
+    "best_bowling_figures": "3/27",
+    "total_sixes": 13,
+    "total_fours": 30
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 318,
+      "total_wickets": 4,
+      "total_overs": 50.0,
+      "run_rate": 6.36,
+      "top_batters": [
+        {
+          "name": "ST Jayasuriya",
+          "runs": 109,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 7,
+          "strike_rate": 125.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 56,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 101.82,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 52,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 108.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 46,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 26,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.27,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Rafique",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Syed Rasel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 86,
+          "wickets": 1,
+          "economy": 8.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 0,
+          "economy": 6.6,
+          "wides": 2,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 98,
+          "wickets": 1,
+          "overs": "14.2"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 202,
+          "wickets": 2,
+          "overs": "35.3"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 261,
+          "wickets": 3,
+          "overs": "44.4"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 300,
+          "wickets": 4,
+          "overs": "47.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 0,
+        "run_rate": 6.3,
+        "fours": 5,
+        "sixes": 2,
+        "dot_balls": 37,
+        "extras": 8
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 90,
+        "wickets": 2,
+        "run_rate": 9.0,
+        "fours": 7,
+        "sixes": 4,
+        "dot_balls": 17,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "total_runs": 112,
+      "total_wickets": 10,
+      "total_overs": 37.0,
+      "run_rate": 3.03,
+      "top_batters": [
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 45,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Habibul Bashar",
+          "runs": 18,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.3,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 12,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rafique",
+          "runs": 7,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "7.0",
+          "maidens": 4,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 1.57,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 1.67,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MF Maharoof",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 3.71,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shahriar Nafees",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "3.4"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 20,
+          "wickets": 3,
+          "overs": "7.3"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 26,
+          "wickets": 4,
+          "overs": "11.1"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 41,
+          "wickets": 5,
+          "overs": "16.4"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 66,
+          "wickets": 6,
+          "overs": "25.3"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 80,
+          "wickets": 7,
+          "overs": "29.4"
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 101,
+          "wickets": 8,
+          "overs": "34.4"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 111,
+          "wickets": 9,
+          "overs": "35.5"
+        },
+        {
+          "player": "Syed Rasel",
+          "runs": 112,
+          "wickets": 10,
+          "overs": "36.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 26,
+        "wickets": 3,
+        "run_rate": 2.6,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 109,
+        "balls": 87,
+        "fours": 7,
+        "sixes": 7,
+        "strike_rate": 125.29
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 56,
+        "balls": 55,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 101.82
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LPC Silva": {
+      "batting": {
+        "runs": 52,
+        "balls": 48,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 108.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DPMD Jayawardene": {
+      "batting": {
+        "runs": 46,
+        "balls": 70,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 65.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WU Tharanga": {
+      "batting": {
+        "runs": 26,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 70.27
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rafique": {
+      "batting": {
+        "runs": 7,
+        "balls": 17,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 41.18
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Syed Rasel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 1,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Razzak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 86,
+        "wickets": 1,
+        "economy": 8.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mashrafe Mortaza": {
+      "batting": {
+        "runs": 7,
+        "balls": 14,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 66,
+        "wickets": 0,
+        "economy": 6.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Ashraful": {
+      "batting": {
+        "runs": 45,
+        "balls": 63,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 71.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Habibul Bashar": {
+      "batting": {
+        "runs": 18,
+        "balls": 47,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 38.3
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Aftab Ahmed": {
+      "batting": {
+        "runs": 12,
+        "balls": 16,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SL Malinga": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 3,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 1.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 1.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MF Maharoof": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 3.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Dilshan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 318 in 50.0 overs at 6.36 RPO",
+    "vs Bangladesh scored 112 in 37.0 overs at 3.03 RPO",
+    "Top batsman: ST Jayasuriya with 109 runs",
+    "Top bowler: SL Malinga with 3 wickets"
+  ]
+}

@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2015
+Match: Scotland vs Sri Lanka
+Stage: Group A
+Date: 2015-03-11
+Venue: Bellerive Oval, Hobart
+Captain Scotland: Preston Mommsen
+Captain Sri Lanka: Angelo Mathews
+
+Match Summary:
+  2015 World Cup Group A: Scotland vs Sri Lanka (2015-03-11) at Hobart.
+
+Sri Lanka: 363/9 (50.0 ov)
+  KC Sangakkara: 124 (95b, 13x4, 4x6, SR 130.53)
+  TM Dilshan: 104 (99b, 10x4, 1x6, SR 105.05)
+  AD Mathews: 51 (21b, 1x4, 6x6, SR 242.86)
+  MDKJ Perera: 24 (13b, 2x4, 2x6, SR 184.62)
+  KMDN Kulasekara: 18 (17b, 1x4, 1x6, SR 105.88)
+  JH Davey: 3/63 (8.0 ov, Econ 7.88)
+  RD Berrington: 2/31 (6.1 ov, Econ 5.03)
+  AC Evans: 2/72 (10.0 ov, Econ 7.2)
+  RML Taylor: 1/46 (10.0 ov, Econ 4.6)
+  MW Machan: 1/46 (4.0 ov, Econ 11.5)
+  Extras: 13
+
+Scotland: 215 all out (43.1 ov)
+  FRJ Coleman: 70 (74b, 7x4, 0x6, SR 94.59)
+  PL Mommsen: 60 (75b, 7x4, 0x6, SR 80.0)
+  RD Berrington: 29 (22b, 2x4, 2x6, SR 131.82)
+  MW Machan: 19 (31b, 1x4, 0x6, SR 61.29)
+  CS MacLeod: 11 (21b, 0x4, 0x6, SR 52.38)
+  KMDN Kulasekara: 3/20 (7.0 ov, Econ 2.86)
+  PVD Chameera: 3/51 (7.1 ov, Econ 7.12)
+  SL Malinga: 2/29 (9.0 ov, Econ 3.22)
+  TM Dilshan: 1/15 (5.0 ov, Econ 3.0)
+  NLTC Perera: 1/41 (7.0 ov, Econ 5.86)
+  Extras: 9
+
+Batting Highlights:
+  Century: KC Sangakkara scored 124 off 95 balls (SR 130.53, 13 fours, 4 sixes)
+  Century: TM Dilshan scored 104 off 99 balls (SR 105.05, 10 fours, 1 sixes)
+  Half-century: AD Mathews scored 51 off 21 balls (SR 242.86)
+  Half-century: FRJ Coleman scored 70 off 74 balls (SR 94.59)
+  Half-century: PL Mommsen scored 60 off 75 balls (SR 80.0)
+
+Bowling Highlights:
+  Key spell: JH Davey took 3/63
+  Key spell: KMDN Kulasekara took 3/20
+  Key spell: PVD Chameera took 3/51
+  Economical spell: SL Malinga conceded 29 runs in 9.0 overs (Econ 3.22)
+  Economical spell: TM Dilshan conceded 15 runs in 5.0 overs (Econ 3.0)
+
+Captain Performance:
+  Angelo Mathews (Sri Lanka): scored 51 off 21 balls
+  Preston Mommsen (Scotland): scored 60 off 75 balls
+
+Key Moments:
+  Sri Lanka lost 9 early wickets.
+  Scotland lost 10 early wickets.
+
+Result: Sri Lanka won by 148 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: KC Sangakkara

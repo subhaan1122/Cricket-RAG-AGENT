@@ -1,0 +1,759 @@
+{
+  "match_info": {
+    "match_id": "425e98e625c6",
+    "world_cup_year": 2007,
+    "stage": "Super Eight",
+    "venue": "National Cricket Stadium, St George's",
+    "city": "Grenada",
+    "date": "2007-04-20",
+    "teams": {
+      "team1": "Australia",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "215 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Stephen Fleming"
+    },
+    "player_of_match": "ML Hayden",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Super Eight: Australia vs New Zealand (2007-04-20) at Grenada.\nAustralia: 348/6 (50.0 ov)\n  ML Hayden: 103 (100b, 10x4, 2x6)\n  RT Ponting: 66 (70b, 5x4, 0x6)\n  SR Watson: 65* (32b, 4x4, 4x6)\n  JEC Franklin: 3/74 (8.0 ov)\n  JS Patel: 2/48 (10.0 ov)\nNew Zealand: 133 all out (25.5 ov)\n  PG Fulton: 62 (72b, 5x4, 0x6)\n  GB Hogg: 4/29 (6.5 ov)\n  SW Tait: 3/32 (6.0 ov)\n  GD McGrath: 2/25 (4.0 ov)\nAustralia won by 215 runs.\nPlayer of the Match: ML Hayden.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 481,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 6.14,
+    "highest_individual_score": 103,
+    "best_bowling_figures": "4/29",
+    "total_sixes": 7,
+    "total_fours": 38
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 348,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 6.96,
+      "top_batters": [
+        {
+          "name": "ML Hayden",
+          "runs": 103,
+          "balls": 100,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 103.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 66,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 94.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 65,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 203.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 49,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 106.52,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MEK Hussey",
+          "runs": 37,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.09,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JEC Franklin",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 3,
+          "economy": 9.25,
+          "wides": 1,
+          "no_balls": 5
+        },
+        {
+          "name": "JS Patel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "SB Styris",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "CD McMillan",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 144,
+          "wickets": 2,
+          "overs": "22.6"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 216,
+          "wickets": 3,
+          "overs": "32.4"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 233,
+          "wickets": 4,
+          "overs": "35.3"
+        },
+        {
+          "player": "A Symonds",
+          "runs": 257,
+          "wickets": 5,
+          "overs": "40.1"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 334,
+          "wickets": 6,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 77,
+        "wickets": 1,
+        "run_rate": 7.7,
+        "fours": 11,
+        "sixes": 1,
+        "dot_balls": 36,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 91,
+        "wickets": 2,
+        "run_rate": 9.1,
+        "fours": 5,
+        "sixes": 4,
+        "dot_balls": 15,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 133,
+      "total_wickets": 10,
+      "total_overs": 25.5,
+      "run_rate": 5.32,
+      "top_batters": [
+        {
+          "name": "PG Fulton",
+          "runs": 62,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 86.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 27,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 122.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 7,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JEC Franklin",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GB Hogg",
+          "overs": "6.5",
+          "maidens": 1,
+          "runs_conceded": 29,
+          "wickets": 4,
+          "economy": 4.24,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 3,
+          "economy": 5.33,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 2,
+          "economy": 6.25,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "SR Watson",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 0,
+          "economy": 6.75,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SP Fleming",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 29,
+          "wickets": 2,
+          "overs": "5.1"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 77,
+          "wickets": 3,
+          "overs": "11.1"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 80,
+          "wickets": 4,
+          "overs": "12.3"
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 89,
+          "wickets": 5,
+          "overs": "14.3"
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 111,
+          "wickets": 6,
+          "overs": "19.3"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 117,
+          "wickets": 7,
+          "overs": "21.1"
+        },
+        {
+          "player": "MR Gillespie",
+          "runs": 127,
+          "wickets": 8,
+          "overs": "23.5"
+        },
+        {
+          "player": "MJ Mason",
+          "runs": 133,
+          "wickets": 9,
+          "overs": "24.5"
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 133,
+          "wickets": 10,
+          "overs": "25.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 75,
+        "wickets": 2,
+        "run_rate": 7.5,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 30,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "ML Hayden": {
+      "batting": {
+        "runs": 103,
+        "balls": 100,
+        "fours": 10,
+        "sixes": 2,
+        "strike_rate": 103.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 66,
+        "balls": 70,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 94.29
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 65,
+        "balls": 32,
+        "fours": 4,
+        "sixes": 4,
+        "strike_rate": 203.12
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Clarke": {
+      "batting": {
+        "runs": 49,
+        "balls": 46,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 106.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MEK Hussey": {
+      "batting": {
+        "runs": 37,
+        "balls": 44,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 84.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JEC Franklin": {
+      "batting": {
+        "runs": 6,
+        "balls": 9,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 3,
+        "economy": 9.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JS Patel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 2,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 27,
+        "balls": 22,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 122.73
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CD McMillan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PG Fulton": {
+      "batting": {
+        "runs": 62,
+        "balls": 72,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 86.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SP Fleming": {
+      "batting": {
+        "runs": 12,
+        "balls": 9,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 133.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BB McCullum": {
+      "batting": {
+        "runs": 7,
+        "balls": 16,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 43.75
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GB Hogg": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.833333333333333,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 4,
+        "economy": 4.24
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 3,
+        "economy": 5.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD McGrath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 2,
+        "economy": 6.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NW Bracken": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 0,
+        "economy": 6.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 348 in 50.0 overs at 6.96 RPO",
+    "vs New Zealand scored 133 in 25.5 overs at 5.32 RPO",
+    "Top batsman: ML Hayden with 103 runs",
+    "Top bowler: GB Hogg with 4 wickets"
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "match_id": "abf0cec6b8c7",
+  "world_cup_year": 2007,
+  "stage": "Group D",
+  "venue": "Sabina Park, Kingston",
+  "city": "Jamaica",
+  "date": "2007-03-19",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brian Lara",
+    "team2": "Prosper Utseya"
+  },
+  "player_of_match": "SC Williams",
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "runs": 202,
+      "wickets": 5,
+      "overs": 50.0,
+      "extras": 23,
+      "top_batters": [
+        {
+          "name": "SC Williams",
+          "runs": 70,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 50,
+          "balls": 121,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 41.32,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "E Chigumbura",
+          "runs": 30,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 103.45,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "S Matsikenyeri",
+          "runs": 16,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CJ Chibhabha",
+          "runs": 12,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 7,
+          "no_balls": 0
+        },
+        {
+          "name": "DBL Powell",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DR Smith",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 5.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CD Collymore",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 3.22,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "F Kasteni",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 2,
+          "wickets": 2,
+          "overs": "2.2"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 31,
+          "wickets": 3,
+          "overs": "9.2"
+        },
+        {
+          "player": "S Matsikenyeri",
+          "runs": 59,
+          "wickets": 4,
+          "overs": "17.4"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 142,
+          "wickets": 5,
+          "overs": "40.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 204,
+      "wickets": 4,
+      "overs": 47.5,
+      "extras": 22,
+      "top_batters": [
+        {
+          "name": "BC Lara",
+          "runs": 44,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 64.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 40,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJ Bravo",
+          "runs": 37,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 80.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 28,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 21,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CB Mpofu",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 8,
+          "no_balls": 0
+        },
+        {
+          "name": "T Mupariwa",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.78,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.58,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "AJ Ireland",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Chanderpaul",
+          "runs": 73,
+          "wickets": 1,
+          "overs": "17.3"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 73,
+          "wickets": 2,
+          "overs": "18.1"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 106,
+          "wickets": 3,
+          "overs": "24.6"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 129,
+          "wickets": 4,
+          "overs": "32.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_d_west_indies_vs_zimbabwe.json",
+  "match_summary": "2007 World Cup Group D: West Indies vs Zimbabwe (2007-03-19) at Jamaica.\nZimbabwe: 202/5 (50.0 ov)\n  SC Williams: 70* (88b, 7x4, 0x6)\n  BRM Taylor: 50 (121b, 1x4, 1x6)\n  E Chigumbura: 30* (29b, 5x4, 0x6)\n  JE Taylor: 2/42 (10.0 ov)\nWest Indies: 204/4 (47.5 ov)\n  BC Lara: 44* (68b, 2x4, 1x6)\n  CH Gayle: 40 (48b, 3x4, 3x6)\n  DJ Bravo: 37* (46b, 3x4, 2x6)\nWest Indies won by 6 wickets.\nPlayer of the Match: SC Williams."
+}

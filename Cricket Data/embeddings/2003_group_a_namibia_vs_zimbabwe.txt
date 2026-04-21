@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2003
+Match: Zimbabwe vs Namibia
+Stage: Group A
+Date: 2003-02-10
+Venue: Harare Sports Club, Harare
+Captain Zimbabwe: Heath Streak
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: Zimbabwe vs Namibia (2003-02-10) at Harare.
+
+Zimbabwe: 340/2 (50.0 ov)
+  CB Wishart: 172 (151b, 18x4, 3x6, SR 113.91)
+  GW Flower: 78 (55b, 4x4, 2x6, SR 141.82)
+  A Flower: 39 (29b, 3x4, 1x6, SR 134.48)
+  MA Vermeulen: 39 (66b, 7x4, 0x6, SR 59.09)
+  JL Louw: 1/60 (10.0 ov, Econ 6.0)
+  AJ Burger: 1/23 (3.0 ov, Econ 7.67)
+  G Snyman: 0/49 (10.0 ov, Econ 4.9)
+  LJ Burger: 0/70 (10.0 ov, Econ 7.0)
+  BL Kotze: 0/75 (10.0 ov, Econ 7.5)
+  Extras: 12
+
+Namibia: 104/5 (25.1 ov)
+  D Keulder: 27 (46b, 3x4, 0x6, SR 58.7)
+  AJ Burger: 26 (18b, 3x4, 1x6, SR 144.44)
+  SJ Swanepoel: 23 (47b, 2x4, 0x6, SR 48.94)
+  GB Murgatroyd: 10 (26b, 1x4, 0x6, SR 38.46)
+  DB Kotze: 5 (3b, 0x4, 0x6, SR 166.67)
+  GJ Whittall: 2/20 (5.0 ov, Econ 4.0)
+  HH Streak: 2/35 (5.0 ov, Econ 7.0)
+  GW Flower: 1/13 (5.1 ov, Econ 2.52)
+  HK Olonga: 0/8 (3.0 ov, Econ 2.67)
+  DT Hondo: 0/20 (6.0 ov, Econ 3.33)
+  Extras: 9
+
+Batting Highlights:
+  Century: CB Wishart scored 172 off 151 balls (SR 113.91, 18 fours, 3 sixes)
+  Half-century: GW Flower scored 78 off 55 balls (SR 141.82)
+
+Bowling Highlights:
+  Economical spell: GW Flower conceded 13 runs in 5.1 overs (Econ 2.52)
+  Economical spell: DT Hondo conceded 20 runs in 6.0 overs (Econ 3.33)
+
+Captain Performance:
+  Deon Kotze (Namibia): scored 5 off 3 balls
+
+Key Moments:
+  Namibia lost 5 early wickets.
+  Zimbabwe exploded in the death overs (100 runs at 10.0 RPO).
+
+Result: Zimbabwe won by 86 runs (D/L)
+Toss: Namibia won and chose to field
+Player of the Match: CB Wishart

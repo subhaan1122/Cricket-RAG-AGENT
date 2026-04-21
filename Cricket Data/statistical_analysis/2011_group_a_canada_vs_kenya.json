@@ -1,0 +1,753 @@
+{
+  "match_info": {
+    "match_id": "0572a43aab93",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "date": "2011-03-07",
+    "teams": {
+      "team1": "Canada",
+      "team2": "Kenya"
+    },
+    "toss": {
+      "winner": "Kenya",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Canada",
+      "margin": "5 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ashish Bagai",
+      "team2": "Jimmy Kamande"
+    },
+    "player_of_match": "H Osinde",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Canada vs Kenya (2011-03-07) at Delhi.\nKenya: 198 all out (50.0 ov)\n  TM Odoyo: 51 (62b, 5x4, 1x6)\n  T Mishra: 51 (73b, 3x4, 0x6)\n  CO Obuya: 31 (35b, 3x4, 1x6)\n  H Osinde: 4/26 (10.0 ov)\n  Rizwan Cheema: 2/30 (9.0 ov)\n  HS Baidwan: 2/41 (10.0 ov)\nCanada: 199/5 (45.3 ov)\n  AS Hansra: 70 (99b, 7x4, 2x6)\n  A Bagai: 64* (97b, 7x4, 0x6)\n  NN Odhiambo: 2/45 (10.0 ov)\nCanada won by 5 wickets.\nPlayer of the Match: H Osinde.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 397,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.19,
+    "highest_individual_score": 70,
+    "best_bowling_figures": "4/26",
+    "total_sixes": 5,
+    "total_fours": 35
+  },
+  "innings_analysis": [
+    {
+      "team": "Kenya",
+      "total_runs": 198,
+      "total_wickets": 10,
+      "total_overs": 50.0,
+      "run_rate": 3.96,
+      "top_batters": [
+        {
+          "name": "TM Odoyo",
+          "runs": 51,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 82.26,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "T Mishra",
+          "runs": 51,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 31,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.57,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JK Kamande",
+          "runs": 22,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 12,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "H Osinde",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 26,
+          "wickets": 4,
+          "economy": 2.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Rizwan Cheema",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 3.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HS Baidwan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Balaji Rao",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MA Ouma",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "SR Waters",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "DO Obuya",
+          "runs": 21,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 41,
+          "wickets": 4,
+          "overs": "11.3"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 57,
+          "wickets": 5,
+          "overs": "14.6"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 109,
+          "wickets": 6,
+          "overs": "29.2"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 166,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "NN Odhiambo",
+          "runs": 171,
+          "wickets": 8,
+          "overs": "43.6"
+        },
+        {
+          "player": "E Otieno",
+          "runs": 193,
+          "wickets": 9,
+          "overs": "48.6"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 198,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 37,
+        "wickets": 3,
+        "run_rate": 3.7,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 42,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 4,
+        "run_rate": 4.3,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 37,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Canada",
+      "total_runs": 199,
+      "total_wickets": 5,
+      "total_overs": 45.3,
+      "run_rate": 4.42,
+      "top_batters": [
+        {
+          "name": "AS Hansra",
+          "runs": 70,
+          "balls": 99,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 70.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 64,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 65.98,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "R Gunasekera",
+          "runs": 18,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Rizwan Cheema",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "ZE Surkari",
+          "runs": 10,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NN Odhiambo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JO Ngoche",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 2.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "E Otieno",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.29,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Rizwan Cheema",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "ZE Surkari",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "R Gunasekera",
+          "runs": 48,
+          "wickets": 3,
+          "overs": "11.6"
+        },
+        {
+          "player": "AS Hansra",
+          "runs": 180,
+          "wickets": 4,
+          "overs": "42.5"
+        },
+        {
+          "player": "TG Gordon",
+          "runs": 186,
+          "wickets": 5,
+          "overs": "44.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 41,
+        "wickets": 2,
+        "run_rate": 4.1,
+        "fours": 5,
+        "sixes": 1,
+        "dot_balls": 42,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "5.3",
+        "balls": 33,
+        "runs": 34,
+        "wickets": 2,
+        "run_rate": 6.18,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 21,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "TM Odoyo": {
+      "batting": {
+        "runs": 51,
+        "balls": 62,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 82.26
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Mishra": {
+      "batting": {
+        "runs": 51,
+        "balls": 73,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 69.86
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 31,
+        "balls": 35,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 88.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JK Kamande": {
+      "batting": {
+        "runs": 22,
+        "balls": 58,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 37.93
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 12,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 60.0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "H Osinde": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 4,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rizwan Cheema": {
+      "batting": {
+        "runs": 17,
+        "balls": 13,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 130.77
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 2,
+        "economy": 3.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HS Baidwan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WD Balaji Rao": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 1,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Davison": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 5.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AS Hansra": {
+      "batting": {
+        "runs": 70,
+        "balls": 99,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 70.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Bagai": {
+      "batting": {
+        "runs": 64,
+        "balls": 97,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 65.98
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Gunasekera": {
+      "batting": {
+        "runs": 18,
+        "balls": 27,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ZE Surkari": {
+      "batting": {
+        "runs": 10,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 38.46
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NN Odhiambo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JO Ngoche": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Otieno": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.5,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 5.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Kenya scored 198 in 50.0 overs at 3.96 RPO",
+    "vs Canada scored 199 in 45.3 overs at 4.42 RPO",
+    "Top batsman: AS Hansra with 70 runs",
+    "Top bowler: H Osinde with 4 wickets"
+  ]
+}

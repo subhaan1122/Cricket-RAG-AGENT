@@ -1,0 +1,338 @@
+{
+  "match_id": "7ff99edeec17",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Sir Vivian Richards Stadium, North Sound",
+  "city": "Antigua",
+  "date": "2007-04-08",
+  "teams": {
+    "team1": "Australia",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Michael Vaughan"
+  },
+  "player_of_match": "SW Tait",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 247,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "KP Pietersen",
+          "runs": 104,
+          "balls": 122,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 85.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 77,
+          "balls": 90,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 85.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 21,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PA Nixon",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Strauss",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NW Bracken",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 3,
+          "economy": 3.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.1,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 3,
+          "economy": 6.31,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "A Symonds",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 6.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP Vaughan",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "3.2"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "5.6"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 164,
+          "wickets": 3,
+          "overs": "29.3"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 167,
+          "wickets": 4,
+          "overs": "30.3"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 179,
+          "wickets": 5,
+          "overs": "35.3"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 230,
+          "wickets": 6,
+          "overs": "46.2"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 240,
+          "wickets": 7,
+          "overs": "48.4"
+        },
+        {
+          "player": "SI Mahmood",
+          "runs": 240,
+          "wickets": 8,
+          "overs": "48.6"
+        },
+        {
+          "player": "PA Nixon",
+          "runs": 246,
+          "wickets": 9,
+          "overs": "49.2"
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 247,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 248,
+      "wickets": 3,
+      "overs": 47.2,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "RT Ponting",
+          "runs": 86,
+          "balls": 106,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 81.13,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 55,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.3,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 41,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 82.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "A Symonds",
+          "runs": 28,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 27,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.97,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Flintoff",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 4.9,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MS Panesar",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 0,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SI Mahmood",
+          "overs": "9.2",
+          "maidens": 1,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.43,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 57,
+          "wickets": 1,
+          "overs": "10.6"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 89,
+          "wickets": 2,
+          "overs": "19.1"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 201,
+          "wickets": 3,
+          "overs": "40.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_australia_vs_england.json",
+  "match_summary": "2007 World Cup Super Eight: Australia vs England (2007-04-08) at Antigua.\nEngland: 247 all out (49.5 ov)\n  KP Pietersen: 104 (122b, 5x4, 1x6)\n  IR Bell: 77 (90b, 9x4, 0x6)\n  NW Bracken: 3/33 (10.0 ov)\n  SW Tait: 3/41 (10.0 ov)\n  GD McGrath: 3/62 (9.5 ov)\nAustralia: 248/3 (47.2 ov)\n  RT Ponting: 86 (106b, 11x4, 0x6)\n  MJ Clarke: 55* (63b, 2x4, 0x6)\n  ML Hayden: 41 (50b, 6x4, 0x6)\nAustralia won by 7 wickets.\nPlayer of the Match: SW Tait."
+}

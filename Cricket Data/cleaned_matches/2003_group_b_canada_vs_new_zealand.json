@@ -1,0 +1,350 @@
+{
+  "match_id": "a64b48a3c0b9",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "Willowmoore Park, Benoni",
+  "city": "Benoni",
+  "date": "2003-03-03",
+  "teams": {
+    "team1": "Canada",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Joe Harris",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "JM Davison",
+  "innings": [
+    {
+      "team": "Canada",
+      "runs": 196,
+      "wickets": 10,
+      "overs": 47.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "JM Davison",
+          "runs": 75,
+          "balls": 62,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 120.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JV Harris",
+          "runs": 26,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Patel",
+          "runs": 25,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "NA de Groot",
+          "runs": 17,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.69,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AM Samad",
+          "runs": 12,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 52,
+          "wickets": 4,
+          "economy": 5.2,
+          "wides": 7,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 29,
+          "wickets": 3,
+          "economy": 2.9,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 5.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CZ Harris",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 2.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "I Maraj",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "4.2"
+        },
+        {
+          "player": "N Ifill",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "7.6"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 80,
+          "wickets": 3,
+          "overs": "14.5"
+        },
+        {
+          "player": "JM Davison",
+          "runs": 98,
+          "wickets": 4,
+          "overs": "22.4"
+        },
+        {
+          "player": "NA de Groot",
+          "runs": 123,
+          "wickets": 5,
+          "overs": "29.6"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 129,
+          "wickets": 6,
+          "overs": "31.1"
+        },
+        {
+          "player": "AM Samad",
+          "runs": 152,
+          "wickets": 7,
+          "overs": "36.3"
+        },
+        {
+          "player": "JV Harris",
+          "runs": 153,
+          "wickets": 8,
+          "overs": "38.1"
+        },
+        {
+          "player": "A Codrington",
+          "runs": 173,
+          "wickets": 9,
+          "overs": "42.3"
+        },
+        {
+          "player": "A Patel",
+          "runs": 196,
+          "wickets": 10,
+          "overs": "46.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 197,
+      "wickets": 5,
+      "overs": 23.0,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "SB Styris",
+          "runs": 54,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 142.11,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CZ Harris",
+          "runs": 38,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 131.03,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AR Adams",
+          "runs": 36,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 180.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CL Cairns",
+          "runs": 31,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 110.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 14,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JM Davison",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 3,
+          "economy": 6.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BB Seebaran",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 8.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "N Ifill",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Patel",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 10.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "A Codrington",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 16.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SP Fleming",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "NJ Astle",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "3.4"
+        },
+        {
+          "player": "CD McMillan",
+          "runs": 32,
+          "wickets": 3,
+          "overs": "3.6"
+        },
+        {
+          "player": "AR Adams",
+          "runs": 97,
+          "wickets": 4,
+          "overs": "10.4"
+        },
+        {
+          "player": "CL Cairns",
+          "runs": 114,
+          "wickets": 5,
+          "overs": "13.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_canada_vs_new_zealand.json",
+  "match_summary": "2003 World Cup Group B: Canada vs New Zealand (2003-03-03) at Benoni.\nCanada: 196 all out (47.0 ov)\n  JM Davison: 75 (62b, 9x4, 4x6)\n  JDP Oram: 4/52 (10.0 ov)\n  SE Bond: 3/29 (10.0 ov)\n  SB Styris: 2/23 (4.0 ov)\nNew Zealand: 197/5 (23.0 ov)\n  SB Styris: 54* (38b, 4x4, 2x6)\n  CZ Harris: 38* (29b, 4x4, 0x6)\n  AR Adams: 36 (20b, 3x4, 3x6)\n  JM Davison: 3/61 (10.0 ov)\nNew Zealand won by 5 wickets.\nPlayer of the Match: JM Davison."
+}

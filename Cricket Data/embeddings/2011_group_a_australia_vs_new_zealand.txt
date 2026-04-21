@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2011
+Match: Australia vs New Zealand
+Stage: Group A
+Date: 2011-02-25
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Captain Australia: Ricky Ponting
+Captain New Zealand: Daniel Vettori
+
+Match Summary:
+  2011 World Cup Group A: Australia vs New Zealand (2011-02-25) at Nagpur.
+
+New Zealand: 206 all out (45.1 ov)
+  NL McCullum: 52 (76b, 3x4, 0x6, SR 68.42)
+  DL Vettori: 44 (43b, 5x4, 0x6, SR 102.33)
+  JD Ryder: 25 (31b, 6x4, 0x6, SR 80.65)
+  JM How: 22 (47b, 1x4, 0x6, SR 46.81)
+  BB McCullum: 16 (12b, 3x4, 0x6, SR 133.33)
+  MG Johnson: 4/33 (9.1 ov, Econ 3.6)
+  SW Tait: 3/35 (7.0 ov, Econ 5.0)
+  SR Watson: 1/9 (3.0 ov, Econ 3.0)
+  B Lee: 1/29 (8.0 ov, Econ 3.62)
+  SPD Smith: 1/44 (9.0 ov, Econ 4.89)
+  Extras: 24
+
+Australia: 207/3 (34.0 ov)
+  SR Watson: 62 (61b, 6x4, 1x6, SR 101.64)
+  BJ Haddin: 55 (50b, 8x4, 0x6, SR 110.0)
+  MJ Clarke: 24 (37b, 4x4, 0x6, SR 64.86)
+  CL White: 22 (28b, 3x4, 0x6, SR 78.57)
+  RT Ponting: 12 (28b, 1x4, 0x6, SR 42.86)
+  HK Bennett: 2/63 (7.0 ov, Econ 9.0)
+  TG Southee: 1/45 (10.0 ov, Econ 4.5)
+  JD Ryder: 0/24 (5.0 ov, Econ 4.8)
+  JEC Franklin: 0/11 (2.0 ov, Econ 5.5)
+  DL Vettori: 0/39 (7.0 ov, Econ 5.57)
+  Extras: 32
+
+Batting Highlights:
+  Half-century: NL McCullum scored 52 off 76 balls (SR 68.42)
+  Half-century: SR Watson scored 62 off 61 balls (SR 101.64)
+  Half-century: BJ Haddin scored 55 off 50 balls (SR 110.0)
+
+Bowling Highlights:
+  Match-changing spell: MG Johnson took 4/33
+  Key spell: SW Tait took 3/35
+
+Captain Performance:
+  Daniel Vettori (New Zealand): scored 44 off 43 balls
+  Ricky Ponting (Australia): scored 12 off 28 balls
+
+Key Moments:
+  New Zealand lost 10 early wickets.
+  Australia lost 3 early wickets.
+  Australia scored aggressively in the powerplay (74 runs at 7.4 RPO).
+
+Result: Australia won by 7 wickets
+Toss: Australia won and chose to field
+Player of the Match: MG Johnson

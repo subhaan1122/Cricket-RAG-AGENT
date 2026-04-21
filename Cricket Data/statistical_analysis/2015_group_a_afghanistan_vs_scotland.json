@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "a5725bcce5ff",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "University Oval, Dunedin",
+    "city": "Dunedin",
+    "date": "2015-02-26",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "Scotland"
+    },
+    "toss": {
+      "winner": "Afghanistan",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Afghanistan",
+      "margin": "1 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Mohammad Nabi",
+      "team2": "Preston Mommsen"
+    },
+    "player_of_match": "Samiullah Shenwari",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Scotland (2015-02-26) at Dunedin.\nScotland: 210 all out (50 ov)\nAfghanistan: 211/9 (49.3 ov)\nAfghanistan won by 1 wickets.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 421,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 4.25,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Scotland",
+      "total_runs": 210,
+      "total_wickets": 10,
+      "total_overs": 50,
+      "run_rate": 4.2,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "total_runs": 211,
+      "total_wickets": 9,
+      "total_overs": 49.3,
+      "run_rate": 4.31,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Scotland scored 210 in 50 overs at 4.2 RPO",
+    "vs Afghanistan scored 211 in 49.3 overs at 4.31 RPO"
+  ]
+}

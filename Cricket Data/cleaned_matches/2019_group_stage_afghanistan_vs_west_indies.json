@@ -1,0 +1,54 @@
+{
+  "match_id": "395171282d89",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Headingley, Leeds",
+  "city": "Leeds",
+  "date": "2019-07-04",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "SS Cottrell",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 311,
+      "wickets": 6,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 288,
+      "wickets": 10,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_west_indies.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs West Indies (2019-07-04) at Leeds.\nWest Indies: 311/6 (50 ov)\nAfghanistan: 288 all out (50 ov)\nWest Indies won by 23 runs."
+}

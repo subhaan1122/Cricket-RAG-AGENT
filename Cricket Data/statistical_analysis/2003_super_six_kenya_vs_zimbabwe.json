@@ -1,0 +1,741 @@
+{
+  "match_info": {
+    "match_id": "ed2cf8954403",
+    "world_cup_year": 2003,
+    "stage": "Super Six",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "date": "2003-03-12",
+    "teams": {
+      "team1": "Zimbabwe",
+      "team2": "Kenya"
+    },
+    "toss": {
+      "winner": "Zimbabwe",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Kenya",
+      "margin": "7 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Heath Streak",
+      "team2": "Steve Tikolo"
+    },
+    "player_of_match": "MA Suji",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Super Six: Zimbabwe vs Kenya (2003-03-12) at Bloemfontein.\nZimbabwe: 133 all out (44.1 ov)\n  A Flower: 63 (101b, 5x4, 0x6)\n  MA Suji: 3/19 (8.0 ov)\n  CO Obuya: 3/32 (10.0 ov)\n  SO Tikolo: 2/2 (2.1 ov)\nKenya: 135/3 (26.0 ov)\n  TM Odoyo: 43* (60b, 9x4, 0x6)\n  MO Odumbe: 38* (20b, 8x4, 0x6)\nKenya won by 7 wickets.\nPlayer of the Match: MA Suji.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 268,
+    "total_wickets_fallen": 13,
+    "average_run_rate": 4.11,
+    "highest_individual_score": 63,
+    "best_bowling_figures": "3/32",
+    "total_sixes": 0,
+    "total_fours": 30
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 133,
+      "total_wickets": 10,
+      "total_overs": 44.1,
+      "run_rate": 3.02,
+      "top_batters": [
+        {
+          "name": "A Flower",
+          "runs": 63,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DA Marillier",
+          "runs": 21,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DD Ebrahim",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "GW Flower",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ADR Campbell",
+          "runs": 7,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Suji",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 3,
+          "economy": 2.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 3,
+          "economy": 3.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "2.1",
+          "maidens": 0,
+          "runs_conceded": 2,
+          "wickets": 2,
+          "economy": 0.92,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "AY Karim",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 2.22,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CB Wishart",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "ADR Campbell",
+          "runs": 26,
+          "wickets": 2,
+          "overs": "8.1"
+        },
+        {
+          "player": "GW Flower",
+          "runs": 45,
+          "wickets": 3,
+          "overs": "14.4"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 66,
+          "wickets": 4,
+          "overs": "20.5"
+        },
+        {
+          "player": "DD Ebrahim",
+          "runs": 85,
+          "wickets": 5,
+          "overs": "26.2"
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 95,
+          "wickets": 6,
+          "overs": "29.2"
+        },
+        {
+          "player": "HH Streak",
+          "runs": 97,
+          "wickets": 7,
+          "overs": "30.5"
+        },
+        {
+          "player": "A Flower",
+          "runs": 114,
+          "wickets": 8,
+          "overs": "35.2"
+        },
+        {
+          "player": "HK Olonga",
+          "runs": 129,
+          "wickets": 9,
+          "overs": "40.2"
+        },
+        {
+          "player": "DA Marillier",
+          "runs": 133,
+          "wickets": 10,
+          "overs": "44.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 34,
+        "wickets": 2,
+        "run_rate": 3.4,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "4.1",
+        "balls": 25,
+        "runs": 4,
+        "wickets": 2,
+        "run_rate": 0.96,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 22,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "total_runs": 135,
+      "total_wickets": 3,
+      "total_overs": 26.0,
+      "run_rate": 5.19,
+      "top_batters": [
+        {
+          "name": "TM Odoyo",
+          "runs": 43,
+          "balls": 60,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 71.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MO Odumbe",
+          "runs": 38,
+          "balls": 20,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 190.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "KO Otieno",
+          "runs": 19,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "RD Shah",
+          "runs": 14,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AM Blignaut",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "HK Olonga",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 5.25,
+          "wides": 1,
+          "no_balls": 8
+        },
+        {
+          "name": "HH Streak",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GW Flower",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 0,
+          "economy": 9.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RD Shah",
+          "runs": 24,
+          "wickets": 1,
+          "overs": "7.3"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "KO Otieno",
+          "runs": 62,
+          "wickets": 3,
+          "overs": "16.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 33,
+        "wickets": 2,
+        "run_rate": 3.3,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "A Flower": {
+      "batting": {
+        "runs": 63,
+        "balls": 101,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 62.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Marillier": {
+      "batting": {
+        "runs": 21,
+        "balls": 39,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 53.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DD Ebrahim": {
+      "batting": {
+        "runs": 13,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 54.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GW Flower": {
+      "batting": {
+        "runs": 7,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 46.67
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 0,
+        "economy": 9.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ADR Campbell": {
+      "batting": {
+        "runs": 7,
+        "balls": 25,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 28.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Suji": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 3,
+        "economy": 2.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 3,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 2,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 28.57
+      },
+      "bowling": {
+        "overs": 2.1666666666666665,
+        "maidens": 0,
+        "runs": 2,
+        "wickets": 2,
+        "economy": 0.92
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 43,
+        "balls": 60,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 71.67
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AY Karim": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 0,
+        "economy": 2.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MO Odumbe": {
+      "batting": {
+        "runs": 38,
+        "balls": 20,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 190.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KO Otieno": {
+      "batting": {
+        "runs": 19,
+        "balls": 50,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 38.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RD Shah": {
+      "batting": {
+        "runs": 14,
+        "balls": 27,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 51.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AM Blignaut": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HK Olonga": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 5.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Streak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Hondo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 133 in 44.1 overs at 3.02 RPO",
+    "vs Kenya scored 135 in 26.0 overs at 5.19 RPO",
+    "Top batsman: A Flower with 63 runs",
+    "Top bowler: MA Suji with 3 wickets"
+  ]
+}

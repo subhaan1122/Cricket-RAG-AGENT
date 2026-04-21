@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "c3255cc155b3",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "date": "2003-02-09",
+    "teams": {
+      "team1": "West Indies",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "West Indies",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "West Indies",
+      "margin": "3 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Brian Lara",
+      "team2": "Shaun Pollock"
+    },
+    "player_of_match": "BC Lara",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: West Indies vs South Africa (2003-02-09) at Cape Town.\nWest Indies: 278/5 (50.0 ov)\n  BC Lara: 116 (134b, 12x4, 2x6)\n  RL Powell: 40* (18b, 5x4, 1x6)\n  CL Hooper: 40 (40b, 3x4, 0x6)\n  M Ntini: 2/37 (10.0 ov)\n  SM Pollock: 2/52 (10.0 ov)\nSouth Africa: 275/9 (49.0 ov)\n  G Kirsten: 69 (92b, 6x4, 1x6)\n  L Klusener: 57 (48b, 1x4, 5x6)\n  MV Boucher: 49 (49b, 4x4, 1x6)\n  VC Drakes: 2/33 (8.0 ov)\n  M Dillon: 2/47 (10.0 ov)\n  CH Gayle: 2/60 (10.0 ov)\nWest Indies won by 3 runs.\nPlayer of the Match: BC Lara.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 553,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.58,
+    "highest_individual_score": 116,
+    "best_bowling_figures": "2/63",
+    "total_sixes": 12,
+    "total_fours": 42
+  },
+  "innings_analysis": [
+    {
+      "team": "West Indies",
+      "total_runs": 278,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 5.56,
+      "top_batters": [
+        {
+          "name": "BC Lara",
+          "runs": 116,
+          "balls": 134,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 86.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RL Powell",
+          "runs": 40,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 222.22,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CL Hooper",
+          "runs": 40,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 34,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 32,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 213.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Ntini",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 2,
+          "economy": 3.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 52,
+          "wickets": 2,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "L Klusener",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 1,
+          "economy": 6.62,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 52,
+          "wickets": 0,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AA Donald",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WW Hinds",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "4.6"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 109,
+          "wickets": 3,
+          "overs": "30.3"
+        },
+        {
+          "player": "CL Hooper",
+          "runs": 198,
+          "wickets": 4,
+          "overs": "43.2"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 215,
+          "wickets": 5,
+          "overs": "45.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 12,
+        "wickets": 2,
+        "run_rate": 1.2,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 51,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 110,
+        "wickets": 2,
+        "run_rate": 11.0,
+        "fours": 11,
+        "sixes": 3,
+        "dot_balls": 12,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 275,
+      "total_wickets": 9,
+      "total_overs": 49.0,
+      "run_rate": 5.61,
+      "top_batters": [
+        {
+          "name": "G Kirsten",
+          "runs": 69,
+          "balls": 92,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "L Klusener",
+          "runs": 57,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 5,
+          "strike_rate": 118.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MV Boucher",
+          "runs": 49,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "N Boje",
+          "runs": 25,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HH Gibbs",
+          "runs": 24,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "VC Drakes",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "M Dillon",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CL Hooper",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 2,
+          "economy": 6.3,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PT Collins",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HH Gibbs",
+          "runs": 46,
+          "wickets": 1,
+          "overs": "8.4"
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 79,
+          "wickets": 2,
+          "overs": "16.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 104,
+          "wickets": 3,
+          "overs": "21.3"
+        },
+        {
+          "player": "JN Rhodes",
+          "runs": 117,
+          "wickets": 4,
+          "overs": "24.1"
+        },
+        {
+          "player": "G Kirsten",
+          "runs": 155,
+          "wickets": 5,
+          "overs": "31.5"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 160,
+          "wickets": 6,
+          "overs": "32.4"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 204,
+          "wickets": 7,
+          "overs": "40.5"
+        },
+        {
+          "player": "L Klusener",
+          "runs": 271,
+          "wickets": 8,
+          "overs": "48.3"
+        },
+        {
+          "player": "M Ntini",
+          "runs": 271,
+          "wickets": 9,
+          "overs": "48.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 47,
+        "wickets": 1,
+        "run_rate": 4.7,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 35,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "9.0",
+        "balls": 54,
+        "runs": 74,
+        "wickets": 3,
+        "run_rate": 8.22,
+        "fours": 3,
+        "sixes": 5,
+        "dot_balls": 21,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BC Lara": {
+      "batting": {
+        "runs": 116,
+        "balls": 134,
+        "fours": 12,
+        "sixes": 2,
+        "strike_rate": 86.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RL Powell": {
+      "batting": {
+        "runs": 40,
+        "balls": 18,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 222.22
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL Hooper": {
+      "batting": {
+        "runs": 40,
+        "balls": 40,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 2,
+        "economy": 6.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Chanderpaul": {
+      "batting": {
+        "runs": 34,
+        "balls": 60,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 56.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 32,
+        "balls": 15,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 213.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 2,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 2,
+        "economy": 5.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Klusener": {
+      "batting": {
+        "runs": 57,
+        "balls": 48,
+        "fours": 1,
+        "sixes": 5,
+        "strike_rate": 118.75
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 1,
+        "economy": 6.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 0,
+        "economy": 5.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AA Donald": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Kirsten": {
+      "batting": {
+        "runs": 69,
+        "balls": 92,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MV Boucher": {
+      "batting": {
+        "runs": 49,
+        "balls": 49,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "N Boje": {
+      "batting": {
+        "runs": 25,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Gibbs": {
+      "batting": {
+        "runs": 24,
+        "balls": 28,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "VC Drakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 2,
+        "economy": 4.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Dillon": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PT Collins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: West Indies scored 278 in 50.0 overs at 5.56 RPO",
+    "vs South Africa scored 275 in 49.0 overs at 5.61 RPO",
+    "Top batsman: BC Lara with 116 runs",
+    "Top bowler: M Ntini with 2 wickets"
+  ]
+}

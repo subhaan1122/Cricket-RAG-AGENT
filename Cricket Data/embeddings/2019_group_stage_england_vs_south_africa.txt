@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: England vs South Africa
+Stage: Group Stage
+Date: 2019-05-30
+Venue: Kennington Oval, London
+Captain England: Eoin Morgan
+Captain South Africa: Faf du Plessis
+
+Match Summary:
+  2019 World Cup Group Stage: England vs South Africa (2019-05-30) at London.
+
+England: 311/8 (50.0 ov)
+  BA Stokes: 89 (79b, 9x4, 0x6, SR 112.66)
+  EJG Morgan: 57 (60b, 4x4, 3x6, SR 95.0)
+  JJ Roy: 54 (53b, 8x4, 0x6, SR 101.89)
+  JE Root: 51 (59b, 5x4, 0x6, SR 86.44)
+  JC Buttler: 18 (16b, 0x4, 0x6, SR 112.5)
+  L Ngidi: 3/66 (10.0 ov, Econ 6.6)
+  Imran Tahir: 2/61 (10.0 ov, Econ 6.1)
+  K Rabada: 2/66 (10.0 ov, Econ 6.6)
+  AL Phehlukwayo: 1/44 (8.0 ov, Econ 5.5)
+  AK Markram: 0/16 (3.0 ov, Econ 5.33)
+  Extras: 10
+
+South Africa: 207 all out (39.5 ov)
+  Q de Kock: 68 (74b, 6x4, 2x6, SR 91.89)
+  HE van der Dussen: 50 (61b, 4x4, 1x6, SR 81.97)
+  AL Phehlukwayo: 24 (25b, 4x4, 0x6, SR 96.0)
+  HM Amla: 13 (23b, 1x4, 0x6, SR 56.52)
+  AK Markram: 11 (12b, 2x4, 0x6, SR 91.67)
+  JC Archer: 3/27 (7.0 ov, Econ 3.86)
+  BA Stokes: 2/12 (2.5 ov, Econ 4.24)
+  LE Plunkett: 2/37 (7.0 ov, Econ 5.29)
+  AU Rashid: 1/35 (8.0 ov, Econ 4.38)
+  MM Ali: 1/63 (10.0 ov, Econ 6.3)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: BA Stokes scored 89 off 79 balls (SR 112.66)
+  Half-century: EJG Morgan scored 57 off 60 balls (SR 95.0)
+  Half-century: JJ Roy scored 54 off 53 balls (SR 101.89)
+  Half-century: JE Root scored 51 off 59 balls (SR 86.44)
+  Half-century: Q de Kock scored 68 off 74 balls (SR 91.89)
+  Half-century: HE van der Dussen scored 50 off 61 balls (SR 81.97)
+
+Bowling Highlights:
+  Key spell: L Ngidi took 3/66
+  Key spell: JC Archer took 3/27
+
+Captain Performance:
+  Eoin Morgan (England): scored 57 off 60 balls
+
+Key Moments:
+  England lost 8 early wickets.
+  South Africa lost 10 early wickets.
+
+Result: England won by 104 runs
+Toss: South Africa won and chose to field
+Player of the Match: BA Stokes

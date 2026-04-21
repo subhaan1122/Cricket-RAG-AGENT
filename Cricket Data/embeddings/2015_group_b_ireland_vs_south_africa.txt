@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: Ireland vs South Africa
+Stage: Group B
+Date: 2015-03-03
+Venue: Manuka Oval, Canberra
+Captain Ireland: William Porterfield
+Captain South Africa: AB de Villiers
+
+Match Summary:
+  2015 World Cup Group B: Ireland vs South Africa (2015-03-03) at Canberra.
+
+South Africa: 411/4 (50.0 ov)
+  HM Amla: 159 (128b, 15x4, 4x6, SR 124.22)
+  F du Plessis: 109 (109b, 10x4, 1x6, SR 100.0)
+  RR Rossouw: 61 (30b, 5x4, 3x6, SR 203.33)
+  DA Miller: 46 (23b, 4x4, 2x6, SR 200.0)
+  AB de Villiers: 24 (9b, 1x4, 2x6, SR 266.67)
+  AR McBrine: 2/63 (10.0 ov, Econ 6.3)
+  JF Mooney: 1/52 (7.0 ov, Econ 7.43)
+  KJ O'Brien: 1/95 (7.0 ov, Econ 13.57)
+  GH Dockrell: 0/56 (10.0 ov, Econ 5.6)
+  PR Stirling: 0/68 (10.0 ov, Econ 6.8)
+  Extras: 11
+
+Ireland: 210 all out (45.0 ov)
+  A Balbirnie: 58 (71b, 7x4, 0x6, SR 81.69)
+  KJ O'Brien: 48 (65b, 3x4, 1x6, SR 73.85)
+  GH Dockrell: 25 (57b, 1x4, 1x6, SR 43.86)
+  MC Sorensen: 22 (19b, 3x4, 1x6, SR 115.79)
+  NJ O'Brien: 14 (9b, 2x4, 0x6, SR 155.56)
+  KJ Abbott: 4/21 (8.0 ov, Econ 2.62)
+  M Morkel: 3/34 (9.0 ov, Econ 3.78)
+  DW Steyn: 2/39 (8.0 ov, Econ 4.88)
+  AB de Villiers: 1/7 (2.0 ov, Econ 3.5)
+  Imran Tahir: 0/50 (10.0 ov, Econ 5.0)
+  Extras: 12
+
+Batting Highlights:
+  Century: HM Amla scored 159 off 128 balls (SR 124.22, 15 fours, 4 sixes)
+  Century: F du Plessis scored 109 off 109 balls (SR 100.0, 10 fours, 1 sixes)
+  Half-century: RR Rossouw scored 61 off 30 balls (SR 203.33)
+  Quickfire innings: DA Miller smashed 46 off 23 balls at SR 200.0
+  Half-century: A Balbirnie scored 58 off 71 balls (SR 81.69)
+
+Bowling Highlights:
+  Match-changing spell: KJ Abbott took 4/21
+  Key spell: M Morkel took 3/34
+
+Captain Performance:
+  AB de Villiers (South Africa): scored 24 off 9 balls
+
+Key Moments:
+  South Africa lost 4 early wickets.
+  Ireland lost 10 early wickets.
+  South Africa exploded in the death overs (131 runs at 13.1 RPO).
+  Ireland lost 4 wickets in the powerplay.
+
+Result: South Africa won by 201 runs
+Toss: South Africa won and chose to bat
+Player of the Match: HM Amla

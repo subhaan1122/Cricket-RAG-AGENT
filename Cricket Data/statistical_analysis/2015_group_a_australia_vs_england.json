@@ -1,0 +1,777 @@
+{
+  "match_info": {
+    "match_id": "29bdd104c8ac",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Melbourne Cricket Ground",
+    "city": "",
+    "date": "2015-02-14",
+    "teams": {
+      "team1": "Australia",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "111 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Michael Clarke",
+      "team2": "Eoin Morgan"
+    },
+    "player_of_match": "AJ Finch",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group A: Australia vs England (2015-02-14) at Melbourne Cricket Ground.\nAustralia: 342/9 (50.0 ov)\n  AJ Finch: 135 (128b, 12x4, 3x6)\n  GJ Maxwell: 66 (40b, 11x4, 0x6)\n  GJ Bailey: 55 (69b, 3x4, 0x6)\n  ST Finn: 5/71 (10.0 ov)\n  SCJ Broad: 2/66 (10.0 ov)\nEngland: 231 all out (41.5 ov)\n  JWA Taylor: 98* (90b, 11x4, 2x6)\n  CR Woakes: 37 (42b, 2x4, 0x6)\n  IR Bell: 36 (45b, 4x4, 0x6)\n  MR Marsh: 5/33 (9.0 ov)\n  MG Johnson: 2/36 (8.0 ov)\n  MA Starc: 2/47 (9.0 ov)\nAustralia won by 111 runs.\nPlayer of the Match: AJ Finch.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 573,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 6.23,
+    "highest_individual_score": 135,
+    "best_bowling_figures": "5/71",
+    "total_sixes": 5,
+    "total_fours": 54
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 342,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 6.84,
+      "top_batters": [
+        {
+          "name": "AJ Finch",
+          "runs": 135,
+          "balls": 128,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 105.47,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 66,
+          "balls": 40,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 165.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GJ Bailey",
+          "runs": 55,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.71,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "BJ Haddin",
+          "runs": 31,
+          "balls": 14,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 221.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MR Marsh",
+          "runs": 23,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 115.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "ST Finn",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 5,
+          "economy": 7.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SCJ Broad",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 2,
+          "economy": 6.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 0,
+          "economy": 6.7,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 57,
+          "wickets": 1,
+          "overs": "7.3"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 57,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 70,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 216,
+          "wickets": 4,
+          "overs": "36.3"
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 228,
+          "wickets": 5,
+          "overs": "38.1"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 281,
+          "wickets": 6,
+          "overs": "45.1"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 342,
+          "wickets": 7,
+          "overs": "49.4"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 342,
+          "wickets": 8,
+          "overs": "49.5"
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 342,
+          "wickets": 9,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 66,
+        "wickets": 2,
+        "run_rate": 6.6,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 32,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 105,
+        "wickets": 4,
+        "run_rate": 10.5,
+        "fours": 18,
+        "sixes": 0,
+        "dot_balls": 18,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 231,
+      "total_wickets": 10,
+      "total_overs": 41.5,
+      "run_rate": 5.63,
+      "top_batters": [
+        {
+          "name": "JWA Taylor",
+          "runs": 98,
+          "balls": 90,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 108.89,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CR Woakes",
+          "runs": 37,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.1,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 36,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MM Ali",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MR Marsh",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 5,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 5.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "6.5",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 6.59,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MM Ali",
+          "runs": 25,
+          "wickets": 1,
+          "overs": "4.4"
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 49,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 66,
+          "wickets": 3,
+          "overs": "13.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 66,
+          "wickets": 4,
+          "overs": "13.5"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 73,
+          "wickets": 5,
+          "overs": "17.6"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 92,
+          "wickets": 6,
+          "overs": "21.2"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 184,
+          "wickets": 7,
+          "overs": "35.2"
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 194,
+          "wickets": 8,
+          "overs": "36.1"
+        },
+        {
+          "player": "ST Finn",
+          "runs": 195,
+          "wickets": 9,
+          "overs": "37.1"
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 231,
+          "wickets": 10,
+          "overs": "41.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 50,
+        "wickets": 2,
+        "run_rate": 5.0,
+        "fours": 7,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "1.5",
+        "balls": 11,
+        "runs": 10,
+        "wickets": 1,
+        "run_rate": 5.45,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 8,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "AJ Finch": {
+      "batting": {
+        "runs": 135,
+        "balls": 128,
+        "fours": 12,
+        "sixes": 3,
+        "strike_rate": 105.47
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 66,
+        "balls": 40,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 165.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Bailey": {
+      "batting": {
+        "runs": 55,
+        "balls": 69,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 79.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BJ Haddin": {
+      "batting": {
+        "runs": 31,
+        "balls": 14,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 221.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MR Marsh": {
+      "batting": {
+        "runs": 23,
+        "balls": 20,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 115.0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 5,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "ST Finn": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 5,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SCJ Broad": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 66,
+        "wickets": 2,
+        "economy": 6.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 37,
+        "balls": 42,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 88.1
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 10,
+        "balls": 13,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 76.92
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 0,
+        "economy": 6.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Anderson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 0,
+        "economy": 6.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JWA Taylor": {
+      "batting": {
+        "runs": 98,
+        "balls": 90,
+        "fours": 11,
+        "sixes": 2,
+        "strike_rate": 108.89
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IR Bell": {
+      "batting": {
+        "runs": 36,
+        "balls": 45,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Buttler": {
+      "batting": {
+        "runs": 10,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 5.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 0,
+        "economy": 4.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.833333333333333,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 0,
+        "economy": 6.59
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 342 in 50.0 overs at 6.84 RPO",
+    "vs England scored 231 in 41.5 overs at 5.63 RPO",
+    "Top batsman: AJ Finch with 135 runs",
+    "Top bowler: ST Finn with 5 wickets"
+  ]
+}

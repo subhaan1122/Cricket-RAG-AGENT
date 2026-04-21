@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2019
+Match: India vs South Africa
+Stage: Group Stage
+Date: 2019-06-05
+Venue: The Rose Bowl, Southampton
+Captain India: Virat Kohli
+Captain South Africa: Faf du Plessis
+
+Match Summary:
+  2019 World Cup Group Stage: India vs South Africa (2019-06-05) at Southampton.
+
+South Africa: 227/9 (50.0 ov)
+  CH Morris: 42 (34b, 1x4, 2x6, SR 123.53)
+  F du Plessis: 38 (54b, 4x4, 0x6, SR 70.37)
+  AL Phehlukwayo: 34 (61b, 2x4, 1x6, SR 55.74)
+  K Rabada: 31 (35b, 2x4, 0x6, SR 88.57)
+  DA Miller: 31 (40b, 1x4, 0x6, SR 77.5)
+  YS Chahal: 4/51 (10.0 ov, Econ 5.1)
+  JJ Bumrah: 2/35 (10.0 ov, Econ 3.5)
+  B Kumar: 2/44 (10.0 ov, Econ 4.4)
+  Kuldeep Yadav: 1/46 (10.0 ov, Econ 4.6)
+  KM Jadhav: 0/16 (4.0 ov, Econ 4.0)
+  Extras: 10
+
+India: 230/4 (47.3 ov)
+  RG Sharma: 122 (144b, 13x4, 2x6, SR 84.72)
+  MS Dhoni: 34 (46b, 2x4, 0x6, SR 73.91)
+  KL Rahul: 26 (42b, 2x4, 0x6, SR 61.9)
+  V Kohli: 18 (34b, 1x4, 0x6, SR 52.94)
+  HH Pandya: 15 (7b, 3x4, 0x6, SR 214.29)
+  K Rabada: 2/39 (10.0 ov, Econ 3.9)
+  CH Morris: 1/36 (10.0 ov, Econ 3.6)
+  AL Phehlukwayo: 1/40 (8.3 ov, Econ 4.71)
+  Imran Tahir: 0/58 (10.0 ov, Econ 5.8)
+  T Shamsi: 0/54 (9.0 ov, Econ 6.0)
+  Extras: 7
+
+Batting Highlights:
+  Century: RG Sharma scored 122 off 144 balls (SR 84.72, 13 fours, 2 sixes)
+
+Bowling Highlights:
+  Match-changing spell: YS Chahal took 4/51
+  Economical spell: JJ Bumrah conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Faf du Plessis (South Africa): scored 38 off 54 balls
+  Virat Kohli (India): scored 18 off 34 balls
+
+Key Moments:
+  South Africa lost 9 early wickets.
+  India lost 4 early wickets.
+
+Result: India won by 6 wickets
+Toss: South Africa won and chose to bat
+Player of the Match: RG Sharma

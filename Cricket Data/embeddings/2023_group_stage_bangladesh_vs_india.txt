@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2023
+Match: Bangladesh vs India
+Stage: Group Stage
+Date: 2023-10-19
+Venue: Maharashtra Cricket Association Stadium, Pune, Pune
+Captain Bangladesh: Shakib Al Hasan
+Captain India: Rohit Sharma
+
+Match Summary:
+  2023 World Cup Group Stage: Bangladesh vs India (2023-10-19) at Pune.
+
+Bangladesh: 256/8 (50.0 ov)
+  Liton Das: 66 (82b, 7x4, 0x6, SR 80.49)
+  Tanzid Hasan: 51 (43b, 5x4, 3x6, SR 118.6)
+  Mahmudullah: 46 (36b, 3x4, 3x6, SR 127.78)
+  Mushfiqur Rahim: 38 (46b, 1x4, 1x6, SR 82.61)
+  Towhid Hridoy: 16 (35b, 0x4, 0x6, SR 45.71)
+  RA Jadeja: 2/38 (10.0 ov, Econ 3.8)
+  JJ Bumrah: 2/41 (10.0 ov, Econ 4.1)
+  Mohammed Siraj: 2/60 (10.0 ov, Econ 6.0)
+  Kuldeep Yadav: 1/47 (10.0 ov, Econ 4.7)
+  SN Thakur: 1/59 (9.0 ov, Econ 6.56)
+  Extras: 6
+
+India: 261/3 (41.3 ov)
+  V Kohli: 103 (97b, 5x4, 4x6, SR 106.19)
+  Shubman Gill: 53 (55b, 5x4, 2x6, SR 96.36)
+  RG Sharma: 48 (40b, 7x4, 2x6, SR 120.0)
+  KL Rahul: 34 (34b, 3x4, 1x6, SR 100.0)
+  SS Iyer: 19 (25b, 2x4, 0x6, SR 76.0)
+  Mehedi Hasan Miraz: 2/47 (10.0 ov, Econ 4.7)
+  Hasan Mahmud: 1/65 (8.0 ov, Econ 8.12)
+  Mustafizur Rahman: 0/29 (5.0 ov, Econ 5.8)
+  Mahmudullah: 0/6 (1.0 ov, Econ 6.0)
+  Nasum Ahmed: 0/60 (9.3 ov, Econ 6.32)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: Liton Das scored 66 off 82 balls (SR 80.49)
+  Half-century: Tanzid Hasan scored 51 off 43 balls (SR 118.6)
+  Century: V Kohli scored 103 off 97 balls (SR 106.19, 5 fours, 4 sixes)
+  Half-century: Shubman Gill scored 53 off 55 balls (SR 96.36)
+
+Bowling Highlights:
+  Best bowling: RA Jadeja with 2/38
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 51 off 43 balls
+  Rohit Sharma (India): scored 48 off 40 balls
+
+Key Moments:
+  Bangladesh lost 8 early wickets.
+  India lost 3 early wickets.
+
+Result: India won by 7 wickets
+Toss: Bangladesh won and chose to bat
+Player of the Match: V Kohli

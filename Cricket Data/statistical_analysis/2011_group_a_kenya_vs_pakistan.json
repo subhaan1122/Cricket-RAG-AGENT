@@ -1,0 +1,785 @@
+{
+  "match_info": {
+    "match_id": "3048de520a53",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+    "city": "Hambantota",
+    "date": "2011-02-23",
+    "teams": {
+      "team1": "Kenya",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "205 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Jimmy Kamande",
+      "team2": "Shahid Afridi"
+    },
+    "player_of_match": "Umar Akmal",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Kenya vs Pakistan (2011-02-23) at Hambantota.\nPakistan: 317/7 (50.0 ov)\n  Umar Akmal: 71 (52b, 7x4, 1x6)\n  Misbah-ul-Haq: 65 (69b, 1x4, 2x6)\n  Kamran Akmal: 55 (67b, 4x4, 0x6)\n  TM Odoyo: 3/41 (7.0 ov)\nKenya: 112 all out (33.1 ov)\n  CO Obuya: 47 (58b, 3x4, 3x6)\n  Shahid Afridi: 5/16 (8.0 ov)\n  Umar Gul: 2/12 (4.1 ov)\nPakistan won by 205 runs.\nPlayer of the Match: Umar Akmal.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 429,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 4.87,
+    "highest_individual_score": 71,
+    "best_bowling_figures": "5/16",
+    "total_sixes": 6,
+    "total_fours": 22
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 317,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 6.34,
+      "top_batters": [
+        {
+          "name": "Umar Akmal",
+          "runs": 71,
+          "balls": 52,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 136.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Misbah-ul-Haq",
+          "runs": 65,
+          "balls": 69,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 94.2,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Kamran Akmal",
+          "runs": 55,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.09,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 50,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 74.63,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "runs": 9,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TM Odoyo",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 5.86,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Ngoche",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "E Otieno",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 5.44,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "JK Kamande",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 9.14,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "5.3"
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 12,
+          "wickets": 2,
+          "overs": "6.5"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 110,
+          "wickets": 3,
+          "overs": "24.4"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 155,
+          "wickets": 4,
+          "overs": "33.4"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 273,
+          "wickets": 5,
+          "overs": "46.5"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 289,
+          "wickets": 6,
+          "overs": "48.2"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 289,
+          "wickets": 7,
+          "overs": "48.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 40,
+        "wickets": 2,
+        "run_rate": 4.0,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 112,
+        "wickets": 3,
+        "run_rate": 11.2,
+        "fours": 8,
+        "sixes": 2,
+        "dot_balls": 16,
+        "extras": 22
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "total_runs": 112,
+      "total_wickets": 10,
+      "total_overs": 33.1,
+      "run_rate": 3.39,
+      "top_batters": [
+        {
+          "name": "CO Obuya",
+          "runs": 47,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 81.03,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Waters",
+          "runs": 17,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "MA Ouma",
+          "runs": 16,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.24,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 13,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "T Mishra",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shahid Afridi",
+          "overs": "8.0",
+          "maidens": 3,
+          "runs_conceded": 16,
+          "wickets": 5,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Umar Gul",
+          "overs": "4.1",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 2,
+          "economy": 2.88,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Rehman",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 2.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Waters",
+          "runs": 37,
+          "wickets": 1,
+          "overs": "9.1"
+        },
+        {
+          "player": "MA Ouma",
+          "runs": 43,
+          "wickets": 2,
+          "overs": "12.2"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 73,
+          "wickets": 3,
+          "overs": "22.2"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 79,
+          "wickets": 4,
+          "overs": "26.3"
+        },
+        {
+          "player": "RR Patel",
+          "runs": 85,
+          "wickets": 5,
+          "overs": "27.5"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 87,
+          "wickets": 6,
+          "overs": "28.3"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 101,
+          "wickets": 7,
+          "overs": "30.5"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 112,
+          "wickets": 8,
+          "overs": "32.1"
+        },
+        {
+          "player": "NN Odhiambo",
+          "runs": 112,
+          "wickets": 9,
+          "overs": "32.5"
+        },
+        {
+          "player": "SO Ngoche",
+          "runs": 112,
+          "wickets": 10,
+          "overs": "33.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 37,
+        "wickets": 1,
+        "run_rate": 3.7,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Umar Akmal": {
+      "batting": {
+        "runs": 71,
+        "balls": 52,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 136.54
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Misbah-ul-Haq": {
+      "batting": {
+        "runs": 65,
+        "balls": 69,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 94.2
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kamran Akmal": {
+      "batting": {
+        "runs": 55,
+        "balls": 67,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 82.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Younis Khan": {
+      "batting": {
+        "runs": 50,
+        "balls": 67,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 74.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 9,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 45.0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 3,
+        "economy": 5.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Ngoche": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 1,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 13,
+        "balls": 33,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 39.39
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Otieno": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 5.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JK Kamande": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 1,
+        "economy": 9.14
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 47,
+        "balls": 58,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 81.03
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Waters": {
+      "batting": {
+        "runs": 17,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.84
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Ouma": {
+      "batting": {
+        "runs": 16,
+        "balls": 37,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 43.24
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Mishra": {
+      "batting": {
+        "runs": 6,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 37.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 5,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Gul": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.166666666666667,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 2.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shoaib Akhtar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 0,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Rehman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 2.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 317 in 50.0 overs at 6.34 RPO",
+    "vs Kenya scored 112 in 33.1 overs at 3.39 RPO",
+    "Top batsman: Umar Akmal with 71 runs",
+    "Top bowler: Shahid Afridi with 5 wickets"
+  ]
+}

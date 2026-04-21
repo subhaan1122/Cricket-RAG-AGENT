@@ -1,0 +1,368 @@
+{
+  "match_id": "9db664c7a89e",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Bellerive Oval",
+  "city": "Hobart",
+  "date": "2015-03-07",
+  "teams": {
+    "team1": "Ireland",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Zimbabwe",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Ireland",
+    "margin": "5 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "William Porterfield",
+    "team2": "Elton Chigumbura"
+  },
+  "player_of_match": "EC Joyce",
+  "innings": [
+    {
+      "team": "Ireland",
+      "runs": 331,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "EC Joyce",
+          "runs": 112,
+          "balls": 103,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 108.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Balbirnie",
+          "runs": 97,
+          "balls": 79,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 122.78,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 29,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GC Wilson",
+          "runs": 25,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 192.31,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KJ O'Brien",
+          "runs": 24,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TL Chatara",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 3,
+          "economy": 6.1,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "SC Williams",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 3,
+          "economy": 8.0,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "T Panyangara",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 69,
+          "wickets": 1,
+          "economy": 7.67,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "T Mupariwa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Sikandar Raza",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 0,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PR Stirling",
+          "runs": 16,
+          "wickets": 1,
+          "overs": "2.6"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 79,
+          "wickets": 2,
+          "overs": "20.1"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 217,
+          "wickets": 3,
+          "overs": "38.4"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 276,
+          "wickets": 4,
+          "overs": "44.1"
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 308,
+          "wickets": 5,
+          "overs": "47.2"
+        },
+        {
+          "player": "JF Mooney",
+          "runs": 319,
+          "wickets": 6,
+          "overs": "47.5"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 322,
+          "wickets": 7,
+          "overs": "48.4"
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 326,
+          "wickets": 8,
+          "overs": "49.1"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 326,
+      "wickets": 10,
+      "overs": 49.3,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "BRM Taylor",
+          "runs": 121,
+          "balls": 91,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 132.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Williams",
+          "runs": 96,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 115.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "T Mupariwa",
+          "runs": 18,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 257.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CJ Chibhabha",
+          "runs": 18,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RW Chakabva",
+          "runs": 17,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AR Cusack",
+          "overs": "9.3",
+          "maidens": 2,
+          "runs_conceded": 32,
+          "wickets": 4,
+          "economy": 3.37,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 5.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 90,
+          "wickets": 2,
+          "economy": 9.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GH Dockrell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 1,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AR McBrine",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Sikandar Raza",
+          "runs": 32,
+          "wickets": 1,
+          "overs": "7.5"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 32,
+          "wickets": 2,
+          "overs": "8.4"
+        },
+        {
+          "player": "H Masakadza",
+          "runs": 41,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "SF Mire",
+          "runs": 74,
+          "wickets": 4,
+          "overs": "16.4"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 223,
+          "wickets": 5,
+          "overs": "37.3"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 259,
+          "wickets": 6,
+          "overs": "42.3"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 300,
+          "wickets": 7,
+          "overs": "46.5"
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 305,
+          "wickets": 8,
+          "overs": "47.4"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 325,
+          "wickets": 9,
+          "overs": "49.1"
+        },
+        {
+          "player": "T Mupariwa",
+          "runs": 326,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_ireland_vs_zimbabwe.json",
+  "match_summary": "2015 World Cup Group B: Ireland vs Zimbabwe (2015-03-07) at Hobart.\nIreland: 331/8 (50.0 ov)\n  EC Joyce: 112 (103b, 8x4, 3x6)\n  A Balbirnie: 97 (79b, 7x4, 4x6)\n  TL Chatara: 3/61 (10.0 ov)\n  SC Williams: 3/72 (9.0 ov)\nZimbabwe: 326 all out (49.3 ov)\n  BRM Taylor: 121 (91b, 10x4, 4x6)\n  SC Williams: 96 (83b, 7x4, 2x6)\n  AR Cusack: 4/32 (9.3 ov)\n  JF Mooney: 2/58 (10.0 ov)\n  KJ O'Brien: 2/90 (10.0 ov)\nIreland won by 5 runs.\nPlayer of the Match: EC Joyce."
+}

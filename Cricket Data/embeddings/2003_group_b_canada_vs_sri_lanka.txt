@@ -1,0 +1,49 @@
+ICC Cricket World Cup 2003
+Match: Canada vs Sri Lanka
+Stage: Group B
+Date: 2003-02-19
+Venue: Boland Bank Park, Paarl, Paarl
+Captain Canada: Joe Harris
+Captain Sri Lanka: Sanath Jayasuriya
+
+Match Summary:
+  2003 World Cup Group B: Canada vs Sri Lanka (2003-02-19) at Paarl.
+
+Canada: 36 all out (18.4 ov)
+  JV Harris: 9 (13b, 2x4, 0x6, SR 69.23)
+  DR Chumney: 9 (25b, 2x4, 0x6, SR 36.0)
+  S Thuraisingam: 6 (15b, 1x4, 0x6, SR 40.0)
+  A Bagai: 6 (25b, 0x4, 0x6, SR 24.0)
+  IS Billcliff: 1 (9b, 0x4, 0x6, SR 11.11)
+  RAP Nissanka: 4/12 (7.0 ov, Econ 1.71)
+  WPUJC Vaas: 3/15 (7.0 ov, Econ 2.14)
+  CRD Fernando: 2/4 (2.0 ov, Econ 2.0)
+  M Muralitharan: 1/3 (2.4 ov, Econ 1.12)
+  Extras: 5
+
+Sri Lanka: 37/1 (4.4 ov)
+  MS Atapattu: 24 (14b, 4x4, 0x6, SR 171.43)
+  ST Jayasuriya: 9 (10b, 1x4, 0x6, SR 90.0)
+  KC Sangakkara: 4 (4b, 1x4, 0x6, SR 100.0)
+  S Thuraisingam: 1/22 (2.4 ov, Econ 8.25)
+  JM Davison: 0/15 (2.0 ov, Econ 7.5)
+
+Batting Highlights:
+  Top scorer: MS Atapattu with 24 runs
+
+Bowling Highlights:
+  Match-changing spell: RAP Nissanka took 4/12
+  Key spell: WPUJC Vaas took 3/15
+
+Captain Performance:
+  Joe Harris (Canada): scored 9 off 13 balls
+  Sanath Jayasuriya (Sri Lanka): scored 9 off 10 balls
+
+Key Moments:
+  Canada lost 10 early wickets.
+  Canada lost 6 wickets in the powerplay.
+  Sri Lanka scored aggressively in the powerplay (37 runs at 7.93 RPO).
+
+Result: Sri Lanka won by 9 wickets
+Toss: Sri Lanka won and chose to field
+Player of the Match: RAP Nissanka

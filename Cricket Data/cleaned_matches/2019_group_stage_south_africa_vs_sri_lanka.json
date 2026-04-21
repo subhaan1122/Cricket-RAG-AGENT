@@ -1,0 +1,306 @@
+{
+  "match_id": "52928fef2a3e",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Riverside Ground",
+  "city": "Chester-le-Street",
+  "date": "2019-06-28",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Faf du Plessis",
+    "team2": "Dimuth Karunaratne"
+  },
+  "player_of_match": "D Pretorius",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 203,
+      "wickets": 10,
+      "overs": 49.3,
+      "extras": 20,
+      "top_batters": [
+        {
+          "name": "WIA Fernando",
+          "runs": 30,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 103.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MDKJ Perera",
+          "runs": 30,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 24,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 23,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.1,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NLTC Perera",
+          "runs": 21,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 84.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Pretorius",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 25,
+          "wickets": 3,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Morris",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 3,
+          "economy": 4.84,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 3.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 4.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 7.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "WIA Fernando",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 72,
+          "wickets": 3,
+          "overs": "11.3"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 100,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 111,
+          "wickets": 5,
+          "overs": "27.1"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 135,
+          "wickets": 6,
+          "overs": "36.1"
+        },
+        {
+          "player": "BMAJ Mendis",
+          "runs": 163,
+          "wickets": 7,
+          "overs": "39.5"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 184,
+          "wickets": 8,
+          "overs": "45.3"
+        },
+        {
+          "player": "I Udana",
+          "runs": 197,
+          "wickets": 9,
+          "overs": "48.3"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 203,
+          "wickets": 10,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 206,
+      "wickets": 1,
+      "overs": 37.2,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "F du Plessis",
+          "runs": 96,
+          "balls": 103,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 93.2,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 80,
+          "balls": 105,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 15,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 93.75,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BMAJ Mendis",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 5.14,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "5.2",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "I Udana",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 5.8,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 31,
+          "wickets": 1,
+          "overs": "4.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_south_africa_vs_sri_lanka.json",
+  "match_summary": "2019 World Cup Group Stage: South Africa vs Sri Lanka (2019-06-28) at Chester-le-Street.\nSri Lanka: 203 all out (49.3 ov)\n  WIA Fernando: 30 (29b, 4x4, 0x6)\n  MDKJ Perera: 30 (34b, 4x4, 0x6)\n  D Pretorius: 3/25 (10.0 ov)\n  CH Morris: 3/46 (9.3 ov)\n  K Rabada: 2/36 (10.0 ov)\nSouth Africa: 206/1 (37.2 ov)\n  F du Plessis: 96* (103b, 10x4, 1x6)\n  HM Amla: 80* (105b, 5x4, 0x6)\nSouth Africa won by 9 wickets.\nPlayer of the Match: D Pretorius."
+}

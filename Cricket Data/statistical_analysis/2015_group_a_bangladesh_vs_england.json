@@ -1,0 +1,785 @@
+{
+  "match_info": {
+    "match_id": "68619ce46cd0",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Adelaide Oval",
+    "city": "",
+    "date": "2015-03-09",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Bangladesh",
+      "margin": "15 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Mashrafe Mortaza",
+      "team2": "Eoin Morgan"
+    },
+    "player_of_match": "Mahmudullah",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group A: Bangladesh vs England (2015-03-09) at Adelaide Oval.\nBangladesh: 275/7 (50.0 ov)\n  Mahmudullah: 103 (138b, 7x4, 2x6)\n  Mushfiqur Rahim: 89 (77b, 8x4, 1x6)\n  Soumya Sarkar: 40 (52b, 5x4, 1x6)\n  JM Anderson: 2/45 (10.0 ov)\n  CJ Jordan: 2/59 (10.0 ov)\nEngland: 260 all out (48.3 ov)\n  JC Buttler: 65 (52b, 6x4, 1x6)\n  IR Bell: 63 (82b, 7x4, 0x6)\n  CR Woakes: 42* (40b, 3x4, 0x6)\n  Rubel Hossain: 4/53 (9.3 ov)\n  Mashrafe Mortaza: 2/48 (10.0 ov)\n  Taskin Ahmed: 2/59 (9.0 ov)\nBangladesh won by 15 runs.\nPlayer of the Match: Mahmudullah.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 535,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 5.46,
+    "highest_individual_score": 103,
+    "best_bowling_figures": "4/53",
+    "total_sixes": 6,
+    "total_fours": 43
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 275,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 5.5,
+      "top_batters": [
+        {
+          "name": "Mahmudullah",
+          "runs": 103,
+          "balls": 138,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 74.64,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 89,
+          "balls": 77,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 115.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Soumya Sarkar",
+          "runs": 40,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 76.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sabbir Rahman",
+          "runs": 14,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JM Anderson",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CJ Jordan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SCJ Broad",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JE Root",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imrul Kayes",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "2.1"
+        },
+        {
+          "player": "Soumya Sarkar",
+          "runs": 94,
+          "wickets": 3,
+          "overs": "20.2"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 99,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 240,
+          "wickets": 5,
+          "overs": "45.4"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 261,
+          "wickets": 6,
+          "overs": "47.5"
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 265,
+          "wickets": 7,
+          "overs": "48.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 2,
+        "run_rate": 3.2,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 78,
+        "wickets": 3,
+        "run_rate": 7.8,
+        "fours": 6,
+        "sixes": 2,
+        "dot_balls": 22,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 260,
+      "total_wickets": 10,
+      "total_overs": 48.3,
+      "run_rate": 5.42,
+      "top_batters": [
+        {
+          "name": "JC Buttler",
+          "runs": 65,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 63,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 76.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CR Woakes",
+          "runs": 42,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JE Root",
+          "runs": 29,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.7,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AD Hales",
+          "runs": 27,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.41,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Rubel Hossain",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 4,
+          "economy": 5.58,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Taskin Ahmed",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Arafat Sunny",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MM Ali",
+          "runs": 43,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "AD Hales",
+          "runs": 97,
+          "wickets": 2,
+          "overs": "19.5"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 121,
+          "wickets": 3,
+          "overs": "26.1"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 121,
+          "wickets": 4,
+          "overs": "26.4"
+        },
+        {
+          "player": "JWA Taylor",
+          "runs": 132,
+          "wickets": 5,
+          "overs": "29.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 163,
+          "wickets": 6,
+          "overs": "35.4"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 238,
+          "wickets": 7,
+          "overs": "45.5"
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 238,
+          "wickets": 8,
+          "overs": "45.6"
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 260,
+          "wickets": 9,
+          "overs": "48.1"
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 260,
+          "wickets": 10,
+          "overs": "48.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 50,
+        "wickets": 1,
+        "run_rate": 5.0,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "8.3",
+        "balls": 51,
+        "runs": 79,
+        "wickets": 4,
+        "run_rate": 9.29,
+        "fours": 7,
+        "sixes": 2,
+        "dot_balls": 15,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Mahmudullah": {
+      "batting": {
+        "runs": 103,
+        "balls": 138,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 74.64
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mushfiqur Rahim": {
+      "batting": {
+        "runs": 89,
+        "balls": 77,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 115.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Soumya Sarkar": {
+      "batting": {
+        "runs": 40,
+        "balls": 52,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 76.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sabbir Rahman": {
+      "batting": {
+        "runs": 14,
+        "balls": 12,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mashrafe Mortaza": {
+      "batting": {
+        "runs": 6,
+        "balls": 4,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 2,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Anderson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CJ Jordan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 2,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SCJ Broad": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 1,
+        "economy": 5.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JE Root": {
+      "batting": {
+        "runs": 29,
+        "balls": 47,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 61.7
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 6,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Buttler": {
+      "batting": {
+        "runs": 65,
+        "balls": 52,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 125.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IR Bell": {
+      "batting": {
+        "runs": 63,
+        "balls": 82,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 76.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 42,
+        "balls": 40,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 105.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Hales": {
+      "batting": {
+        "runs": 27,
+        "balls": 34,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 79.41
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rubel Hossain": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.5,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 4,
+        "economy": 5.58
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Taskin Ahmed": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 2,
+        "economy": 6.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 0,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Arafat Sunny": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 0,
+        "economy": 5.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 275 in 50.0 overs at 5.5 RPO",
+    "vs England scored 260 in 48.3 overs at 5.42 RPO",
+    "Top batsman: Mahmudullah with 103 runs",
+    "Top bowler: Rubel Hossain with 4 wickets"
+  ]
+}

@@ -1,0 +1,777 @@
+{
+  "match_info": {
+    "match_id": "a6b15da55f48",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "city": "Dharamsala",
+    "date": "2023-10-28",
+    "teams": {
+      "team1": "Australia",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "5 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Pat Cummins",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "TM Head",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Australia vs New Zealand (2023-10-28) at Dharamsala.\nAustralia: 388 all out (49.2 ov)\n  TM Head: 109 (67b, 10x4, 7x6)\n  DA Warner: 81 (65b, 5x4, 6x6)\n  GJ Maxwell: 41 (24b, 5x4, 2x6)\n  GD Phillips: 3/37 (10.0 ov)\n  TA Boult: 3/77 (10.0 ov)\n  MJ Santner: 2/80 (10.0 ov)\nNew Zealand: 383/9 (50.0 ov)\n  R Ravindra: 116 (89b, 9x4, 5x6)\n  JDS Neesham: 58 (39b, 3x4, 3x6)\n  DJ Mitchell: 54 (51b, 6x4, 1x6)\n  A Zampa: 3/74 (10.0 ov)\n  PJ Cummins: 2/66 (10.0 ov)\n  JR Hazlewood: 2/70 (9.0 ov)\nAustralia won by 5 runs.\nPlayer of the Match: TM Head.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 771,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 7.79,
+    "highest_individual_score": 116,
+    "best_bowling_figures": "3/77",
+    "total_sixes": 30,
+    "total_fours": 54
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 388,
+      "total_wickets": 10,
+      "total_overs": 49.2,
+      "run_rate": 7.92,
+      "top_batters": [
+        {
+          "name": "TM Head",
+          "runs": 109,
+          "balls": 67,
+          "fours": 10,
+          "sixes": 7,
+          "strike_rate": 162.69,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 81,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 6,
+          "strike_rate": 124.62,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 41,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 170.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 38,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 135.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PJ Cummins",
+          "runs": 37,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 264.29,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GD Phillips",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 3,
+          "economy": 3.7,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 77,
+          "wickets": 3,
+          "economy": 7.7,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 80,
+          "wickets": 2,
+          "economy": 8.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 1,
+          "economy": 10.58,
+          "wides": 2,
+          "no_balls": 2
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 16.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 175,
+          "wickets": 1,
+          "overs": "19.1"
+        },
+        {
+          "player": "TM Head",
+          "runs": 200,
+          "wickets": 2,
+          "overs": "23.2"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 228,
+          "wickets": 3,
+          "overs": "29.4"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 264,
+          "wickets": 4,
+          "overs": "36.3"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 274,
+          "wickets": 5,
+          "overs": "38.1"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 325,
+          "wickets": 6,
+          "overs": "44.3"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 387,
+          "wickets": 7,
+          "overs": "48.1"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 388,
+          "wickets": 8,
+          "overs": "48.3"
+        },
+        {
+          "player": "A Zampa",
+          "runs": 388,
+          "wickets": 9,
+          "overs": "48.6"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 388,
+          "wickets": 10,
+          "overs": "49.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 118,
+        "wickets": 0,
+        "run_rate": 11.8,
+        "fours": 11,
+        "sixes": 10,
+        "dot_balls": 31,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "9.2",
+        "balls": 56,
+        "runs": 96,
+        "wickets": 5,
+        "run_rate": 10.29,
+        "fours": 7,
+        "sixes": 7,
+        "dot_balls": 21,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 383,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 7.66,
+      "top_batters": [
+        {
+          "name": "R Ravindra",
+          "runs": 116,
+          "balls": 89,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 130.34,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 58,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 148.72,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DJ Mitchell",
+          "runs": 54,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 105.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WA Young",
+          "runs": 32,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 86.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DP Conway",
+          "runs": 28,
+          "balls": 17,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 164.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 3,
+          "economy": 7.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 2,
+          "economy": 6.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 2,
+          "economy": 7.78,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 1,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MR Marsh",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 9.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 61,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "WA Young",
+          "runs": 72,
+          "wickets": 2,
+          "overs": "9.4"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 168,
+          "wickets": 3,
+          "overs": "23.6"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 222,
+          "wickets": 4,
+          "overs": "31.2"
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 265,
+          "wickets": 5,
+          "overs": "36.6"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 293,
+          "wickets": 6,
+          "overs": "40.2"
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 320,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 346,
+          "wickets": 8,
+          "overs": "46.4"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 383,
+          "wickets": 9,
+          "overs": "49.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 73,
+        "wickets": 2,
+        "run_rate": 7.3,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 32,
+        "extras": 10
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 91,
+        "wickets": 4,
+        "run_rate": 9.1,
+        "fours": 5,
+        "sixes": 4,
+        "dot_balls": 20,
+        "extras": 8
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "TM Head": {
+      "batting": {
+        "runs": 109,
+        "balls": 67,
+        "fours": 10,
+        "sixes": 7,
+        "strike_rate": 162.69
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 81,
+        "balls": 65,
+        "fours": 5,
+        "sixes": 6,
+        "strike_rate": 124.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 41,
+        "balls": 24,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 170.83
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 1,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Inglis": {
+      "batting": {
+        "runs": 38,
+        "balls": 28,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 135.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 37,
+        "balls": 14,
+        "fours": 2,
+        "sixes": 4,
+        "strike_rate": 264.29
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 66,
+        "wickets": 2,
+        "economy": 6.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD Phillips": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 3,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 77,
+        "wickets": 3,
+        "economy": 7.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 80,
+        "wickets": 2,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.333333333333333,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 1,
+        "economy": 10.58
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDS Neesham": {
+      "batting": {
+        "runs": 58,
+        "balls": 39,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 148.72
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 1,
+        "economy": 16.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ravindra": {
+      "batting": {
+        "runs": 116,
+        "balls": 89,
+        "fours": 9,
+        "sixes": 5,
+        "strike_rate": 130.34
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Mitchell": {
+      "batting": {
+        "runs": 54,
+        "balls": 51,
+        "fours": 6,
+        "sixes": 1,
+        "strike_rate": 105.88
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WA Young": {
+      "batting": {
+        "runs": 32,
+        "balls": 37,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 86.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DP Conway": {
+      "batting": {
+        "runs": 28,
+        "balls": 17,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 164.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Zampa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 3,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 70,
+        "wickets": 2,
+        "economy": 7.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MR Marsh": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 9.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 388 in 49.2 overs at 7.92 RPO",
+    "vs New Zealand scored 383 in 50.0 overs at 7.66 RPO",
+    "Top batsman: R Ravindra with 116 runs",
+    "Top bowler: GD Phillips with 3 wickets"
+  ]
+}

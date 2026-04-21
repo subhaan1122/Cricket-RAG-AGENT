@@ -1,0 +1,713 @@
+{
+  "match_info": {
+    "match_id": "fa1e963a10ae",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "Newlands, Cape Town",
+    "city": "Cape Town",
+    "date": "2003-02-28",
+    "teams": {
+      "team1": "Sri Lanka",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Sri Lanka",
+      "margin": "6 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sanath Jayasuriya",
+      "team2": "Brian Lara"
+    },
+    "player_of_match": "WPUJC Vaas",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: Sri Lanka vs West Indies (2003-02-28) at Cape Town.\nSri Lanka: 228/6 (50.1 ov)\n  ST Jayasuriya: 66 (99b, 4x4, 0x6)\n  HP Tillakaratne: 36 (68b, 4x4, 0x6)\n  RP Arnold: 34* (44b, 1x4, 0x6)\nWest Indies: 222/9 (50.0 ov)\n  S Chanderpaul: 65 (90b, 6x4, 0x6)\n  CH Gayle: 55 (76b, 8x4, 0x6)\n  RR Sarwan: 47* (44b, 4x4, 2x6)\n  WPUJC Vaas: 4/22 (10.0 ov)\nSri Lanka won by 6 runs.\nPlayer of the Match: WPUJC Vaas.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 450,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 4.5,
+    "highest_individual_score": 66,
+    "best_bowling_figures": "4/22",
+    "total_sixes": 2,
+    "total_fours": 33
+  },
+  "innings_analysis": [
+    {
+      "team": "Sri Lanka",
+      "total_runs": 228,
+      "total_wickets": 6,
+      "total_overs": 50.1,
+      "run_rate": 4.56,
+      "top_batters": [
+        {
+          "name": "ST Jayasuriya",
+          "runs": 66,
+          "balls": 99,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HP Tillakaratne",
+          "runs": 36,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RP Arnold",
+          "runs": 34,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WPUJC Vaas",
+          "runs": 28,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 24,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "VC Drakes",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CL Hooper",
+          "overs": "6.1",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 4.86,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WW Hinds",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 6.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Dillon",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MS Atapattu",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "3.1"
+        },
+        {
+          "player": "HP Tillakaratne",
+          "runs": 96,
+          "wickets": 2,
+          "overs": "23.1"
+        },
+        {
+          "player": "PA de Silva",
+          "runs": 113,
+          "wickets": 3,
+          "overs": "26.1"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 131,
+          "wickets": 4,
+          "overs": "32.3"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 139,
+          "wickets": 5,
+          "overs": "35.2"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 178,
+          "wickets": 6,
+          "overs": "42.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 1,
+        "run_rate": 3.6,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 64,
+        "wickets": 1,
+        "run_rate": 6.4,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 18,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 222,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 4.44,
+      "top_batters": [
+        {
+          "name": "S Chanderpaul",
+          "runs": 65,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 55,
+          "balls": 76,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 72.37,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 47,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 106.82,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "VC Drakes",
+          "runs": 25,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.08,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Dillon",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WPUJC Vaas",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 4,
+          "economy": 2.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 2.6,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "PA de Silva",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CRD Fernando",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 3,
+          "no_balls": 2
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 5.75,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WW Hinds",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "2.4"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "CL Hooper",
+          "runs": 62,
+          "wickets": 3,
+          "overs": "14.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 121,
+          "wickets": 4,
+          "overs": "28.2"
+        },
+        {
+          "player": "RD Jacobs",
+          "runs": 121,
+          "wickets": 5,
+          "overs": "28.5"
+        },
+        {
+          "player": "RL Powell",
+          "runs": 122,
+          "wickets": 6,
+          "overs": "29.2"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 169,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "VC Drakes",
+          "runs": 186,
+          "wickets": 8,
+          "overs": "46.1"
+        },
+        {
+          "player": "M Dillon",
+          "runs": 219,
+          "wickets": 9,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 41,
+        "wickets": 2,
+        "run_rate": 4.1,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 46,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 59,
+        "wickets": 3,
+        "run_rate": 5.9,
+        "fours": 3,
+        "sixes": 2,
+        "dot_balls": 29,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "ST Jayasuriya": {
+      "batting": {
+        "runs": 66,
+        "balls": 99,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 1,
+        "economy": 5.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HP Tillakaratne": {
+      "batting": {
+        "runs": 36,
+        "balls": 68,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 52.94
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Arnold": {
+      "batting": {
+        "runs": 34,
+        "balls": 44,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 77.27
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WPUJC Vaas": {
+      "batting": {
+        "runs": 28,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 112.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 4,
+        "economy": 2.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KC Sangakkara": {
+      "batting": {
+        "runs": 24,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "VC Drakes": {
+      "batting": {
+        "runs": 25,
+        "balls": 48,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 52.08
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 1,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 55,
+        "balls": 76,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 72.37
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL Hooper": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.166666666666667,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 4.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WW Hinds": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 6.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Dillon": {
+      "batting": {
+        "runs": 4,
+        "balls": 7,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 0,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "S Chanderpaul": {
+      "batting": {
+        "runs": 65,
+        "balls": 90,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 72.22
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 47,
+        "balls": 44,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 106.82
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Muralitharan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA de Silva": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CRD Fernando": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Sri Lanka scored 228 in 50.1 overs at 4.56 RPO",
+    "vs West Indies scored 222 in 50.0 overs at 4.44 RPO",
+    "Top batsman: ST Jayasuriya with 66 runs",
+    "Top bowler: WPUJC Vaas with 4 wickets"
+  ]
+}

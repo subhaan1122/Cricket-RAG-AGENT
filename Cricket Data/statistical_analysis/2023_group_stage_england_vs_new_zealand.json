@@ -1,0 +1,683 @@
+{
+  "match_info": {
+    "match_id": "1f8fd3d7338a",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "city": "Ahmedabad",
+    "date": "2023-10-05",
+    "teams": {
+      "team1": "England",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "9 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Jos Buttler",
+      "team2": "Kane Williamson"
+    },
+    "player_of_match": "R Ravindra",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: England vs New Zealand (2023-10-05) at Ahmedabad.\nEngland: 282/9 (50.0 ov)\n  JE Root: 77 (86b, 4x4, 1x6)\n  JC Buttler: 43 (42b, 2x4, 2x6)\n  JM Bairstow: 33 (35b, 4x4, 1x6)\n  MJ Henry: 3/48 (10.0 ov)\n  MJ Santner: 2/37 (10.0 ov)\n  GD Phillips: 2/17 (3.0 ov)\nNew Zealand: 283/1 (36.2 ov)\n  DP Conway: 152* (121b, 19x4, 3x6)\n  R Ravindra: 123* (96b, 11x4, 5x6)\nNew Zealand won by 9 wickets.\nPlayer of the Match: R Ravindra.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 565,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 6.75,
+    "highest_individual_score": 152,
+    "best_bowling_figures": "3/48",
+    "total_sixes": 13,
+    "total_fours": 47
+  },
+  "innings_analysis": [
+    {
+      "team": "England",
+      "total_runs": 282,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 5.64,
+      "top_batters": [
+        {
+          "name": "JE Root",
+          "runs": 77,
+          "balls": 86,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 89.53,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 43,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 102.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 33,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 94.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HC Brook",
+          "runs": 25,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 156.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LS Livingstone",
+          "runs": 20,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Henry",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 2,
+          "economy": 3.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GD Phillips",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 2,
+          "economy": 5.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ravindra",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 7.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Malan",
+          "runs": 40,
+          "wickets": 1,
+          "overs": "7.4"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 64,
+          "wickets": 2,
+          "overs": "12.5"
+        },
+        {
+          "player": "HC Brook",
+          "runs": 94,
+          "wickets": 3,
+          "overs": "16.6"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 118,
+          "wickets": 4,
+          "overs": "21.2"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 188,
+          "wickets": 5,
+          "overs": "33.2"
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 221,
+          "wickets": 6,
+          "overs": "38.5"
+        },
+        {
+          "player": "JE Root",
+          "runs": 229,
+          "wickets": 7,
+          "overs": "41.1"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 250,
+          "wickets": 8,
+          "overs": "44.6"
+        },
+        {
+          "player": "SM Curran",
+          "runs": 252,
+          "wickets": 9,
+          "overs": "45.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 51,
+        "wickets": 1,
+        "run_rate": 5.1,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 36,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 58,
+        "wickets": 3,
+        "run_rate": 5.8,
+        "fours": 1,
+        "sixes": 1,
+        "dot_balls": 15,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 283,
+      "total_wickets": 1,
+      "total_overs": 36.2,
+      "run_rate": 7.86,
+      "top_batters": [
+        {
+          "name": "DP Conway",
+          "runs": 152,
+          "balls": 121,
+          "fours": 19,
+          "sixes": 3,
+          "strike_rate": 125.62,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "R Ravindra",
+          "runs": 123,
+          "balls": 96,
+          "fours": 11,
+          "sixes": 5,
+          "strike_rate": 128.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WA Young",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SM Curran",
+          "overs": "6.0",
+          "maidens": 2,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 7.83,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "9.2",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 0,
+          "economy": 6.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 6.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 7.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LS Livingstone",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 8.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WA Young",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "1.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 81,
+        "wickets": 1,
+        "run_rate": 8.1,
+        "fours": 13,
+        "sixes": 2,
+        "dot_balls": 32,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "JE Root": {
+      "batting": {
+        "runs": 77,
+        "balls": 86,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 89.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JC Buttler": {
+      "batting": {
+        "runs": 43,
+        "balls": 42,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 102.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Bairstow": {
+      "batting": {
+        "runs": 33,
+        "balls": 35,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 94.29
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HC Brook": {
+      "batting": {
+        "runs": 25,
+        "balls": 16,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 156.25
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LS Livingstone": {
+      "batting": {
+        "runs": 20,
+        "balls": 22,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 90.91
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 3,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 2,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GD Phillips": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ravindra": {
+      "batting": {
+        "runs": 123,
+        "balls": 96,
+        "fours": 11,
+        "sixes": 5,
+        "strike_rate": 128.12
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 76,
+        "wickets": 1,
+        "economy": 7.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DP Conway": {
+      "batting": {
+        "runs": 152,
+        "balls": 121,
+        "fours": 19,
+        "sixes": 3,
+        "strike_rate": 125.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WA Young": {
+      "batting": {
+        "runs": 0,
+        "balls": 1,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Curran": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 7.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.333333333333334,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 0,
+        "economy": 6.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AU Rashid": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 0,
+        "economy": 6.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Woakes": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 0,
+        "economy": 7.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: England scored 282 in 50.0 overs at 5.64 RPO",
+    "vs New Zealand scored 283 in 36.2 overs at 7.86 RPO",
+    "Top batsman: DP Conway with 152 runs",
+    "Top bowler: MJ Henry with 3 wickets"
+  ]
+}

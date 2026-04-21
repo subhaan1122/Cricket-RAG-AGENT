@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2015
+Match: New Zealand vs England
+Stage: Group A
+Date: 2015-02-20
+Venue: Westpac Stadium, Wellington
+Captain New Zealand: Brendon McCullum
+Captain England: Eoin Morgan
+
+Match Summary:
+  2015 World Cup Group A: New Zealand vs England (2015-02-20) at Wellington.
+
+England: 123 all out (33.2 ov)
+  JE Root: 46 (70b, 3x4, 0x6, SR 65.71)
+  MM Ali: 20 (15b, 4x4, 0x6, SR 133.33)
+  EJG Morgan: 17 (41b, 1x4, 0x6, SR 41.46)
+  GS Ballance: 10 (26b, 0x4, 0x6, SR 38.46)
+  IR Bell: 8 (17b, 1x4, 0x6, SR 47.06)
+  TG Southee: 7/33 (9.0 ov, Econ 3.67)
+  DL Vettori: 1/19 (7.0 ov, Econ 2.71)
+  TA Boult: 1/32 (10.0 ov, Econ 3.2)
+  AF Milne: 1/25 (5.2 ov, Econ 4.69)
+  CJ Anderson: 0/8 (2.0 ov, Econ 4.0)
+  Extras: 13
+
+New Zealand: 125/2 (12.2 ov)
+  BB McCullum: 77 (25b, 8x4, 7x6, SR 308.0)
+  MJ Guptill: 22 (22b, 3x4, 0x6, SR 100.0)
+  KS Williamson: 9 (22b, 1x4, 0x6, SR 40.91)
+  LRPL Taylor: 5 (5b, 1x4, 0x6, SR 100.0)
+  CR Woakes: 2/8 (3.0 ov, Econ 2.67)
+  JM Anderson: 0/37 (5.0 ov, Econ 7.4)
+  SCJ Broad: 0/27 (2.2 ov, Econ 11.57)
+  ST Finn: 0/49 (2.0 ov, Econ 24.5)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: BB McCullum scored 77 off 25 balls (SR 308.0)
+
+Bowling Highlights:
+  Match-changing spell: TG Southee took 7/33
+  Economical spell: DL Vettori conceded 19 runs in 7.0 overs (Econ 2.71)
+  Economical spell: TA Boult conceded 32 runs in 10.0 overs (Econ 3.2)
+
+Captain Performance:
+  Eoin Morgan (England): scored 17 off 41 balls
+  Brendon McCullum (New Zealand): scored 77 off 25 balls
+
+Key Moments:
+  England lost 10 early wickets.
+  New Zealand scored aggressively in the powerplay (116 runs at 11.6 RPO).
+
+Result: New Zealand won by 8 wickets
+Toss: England won and chose to bat
+Player of the Match: TG Southee

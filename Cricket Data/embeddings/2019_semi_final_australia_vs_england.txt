@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2019
+Match: Australia vs England
+Stage: Semi-Final
+Date: 2019-07-11
+Venue: Edgbaston, Birmingham
+Captain Australia: Aaron Finch
+Captain England: Eoin Morgan
+
+Match Summary:
+  2019 World Cup Semi-Final: Australia vs England (2019-07-11) at Birmingham.
+
+Australia: 223 all out (49.0 ov)
+  SPD Smith: 85 (119b, 6x4, 0x6, SR 71.43)
+  AT Carey: 46 (70b, 4x4, 0x6, SR 65.71)
+  MA Starc: 29 (36b, 1x4, 1x6, SR 80.56)
+  GJ Maxwell: 22 (23b, 2x4, 1x6, SR 95.65)
+  DA Warner: 9 (11b, 2x4, 0x6, SR 81.82)
+  CR Woakes: 3/20 (8.0 ov, Econ 2.5)
+  AU Rashid: 3/54 (10.0 ov, Econ 5.4)
+  JC Archer: 2/32 (10.0 ov, Econ 3.2)
+  MA Wood: 1/45 (9.0 ov, Econ 5.0)
+  BA Stokes: 0/22 (4.0 ov, Econ 5.5)
+  Extras: 16
+
+England: 226/2 (32.1 ov)
+  JJ Roy: 85 (65b, 9x4, 5x6, SR 130.77)
+  JE Root: 49 (46b, 8x4, 0x6, SR 106.52)
+  EJG Morgan: 45 (39b, 8x4, 0x6, SR 115.38)
+  JM Bairstow: 34 (43b, 5x4, 0x6, SR 79.07)
+  PJ Cummins: 1/34 (7.0 ov, Econ 4.86)
+  MA Starc: 1/70 (9.0 ov, Econ 7.78)
+  JP Behrendorff: 0/38 (8.1 ov, Econ 4.65)
+  MP Stoinis: 0/13 (2.0 ov, Econ 6.5)
+  NM Lyon: 0/49 (5.0 ov, Econ 9.8)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: SPD Smith scored 85 off 119 balls (SR 71.43)
+  Half-century: JJ Roy scored 85 off 65 balls (SR 130.77)
+
+Bowling Highlights:
+  Key spell: CR Woakes took 3/20
+  Key spell: AU Rashid took 3/54
+  Economical spell: JC Archer conceded 32 runs in 10.0 overs (Econ 3.2)
+
+Captain Performance:
+  Eoin Morgan (England): scored 45 off 39 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  Australia lost 3 wickets in the powerplay.
+
+Result: England won by 8 wickets
+Toss: Australia won and chose to bat
+Player of the Match: CR Woakes

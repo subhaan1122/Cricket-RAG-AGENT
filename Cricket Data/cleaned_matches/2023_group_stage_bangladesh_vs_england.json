@@ -1,0 +1,374 @@
+{
+  "match_id": "d8ab22687d24",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+  "city": "Dharamsala",
+  "date": "2023-10-10",
+  "teams": {
+    "team1": "England",
+    "team2": "Bangladesh"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "137 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Jos Buttler",
+    "team2": "Shakib Al Hasan"
+  },
+  "player_of_match": "DJ Malan",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 364,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "DJ Malan",
+          "runs": 140,
+          "balls": 107,
+          "fours": 16,
+          "sixes": 5,
+          "strike_rate": 130.84,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JE Root",
+          "runs": 82,
+          "balls": 68,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 120.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 52,
+          "balls": 59,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 88.14,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JC Buttler",
+          "runs": 20,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "HC Brook",
+          "runs": 20,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mahedi Hasan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 4,
+          "economy": 8.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shoriful Islam",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 75,
+          "wickets": 3,
+          "economy": 7.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 5.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Taskin Ahmed",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mustafizur Rahman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Bairstow",
+          "runs": 115,
+          "wickets": 1,
+          "overs": "17.5"
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 266,
+          "wickets": 2,
+          "overs": "37.2"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 296,
+          "wickets": 3,
+          "overs": "39.4"
+        },
+        {
+          "player": "JE Root",
+          "runs": 307,
+          "wickets": 4,
+          "overs": "41.5"
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 307,
+          "wickets": 5,
+          "overs": "41.6"
+        },
+        {
+          "player": "HC Brook",
+          "runs": 327,
+          "wickets": 6,
+          "overs": "44.3"
+        },
+        {
+          "player": "SM Curran",
+          "runs": 334,
+          "wickets": 7,
+          "overs": "46.4"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 352,
+          "wickets": 8,
+          "overs": "48.3"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 362,
+          "wickets": 9,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 227,
+      "wickets": 10,
+      "overs": 48.2,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "Liton Das",
+          "runs": 76,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 115.15,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 51,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.69,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Towhid Hridoy",
+          "runs": 39,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Taskin Ahmed",
+          "runs": 15,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mahedi Hasan",
+          "runs": 14,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RJW Topley",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 4,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 6.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 2.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LS Livingstone",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 1,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tanzid Hasan",
+          "runs": 14,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "Nazmul Hossain Shanto",
+          "runs": 14,
+          "wickets": 2,
+          "overs": "1.5"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 26,
+          "wickets": 3,
+          "overs": "5.4"
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 49,
+          "wickets": 4,
+          "overs": "8.3"
+        },
+        {
+          "player": "Liton Das",
+          "runs": 121,
+          "wickets": 5,
+          "overs": "20.6"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 164,
+          "wickets": 6,
+          "overs": "30.6"
+        },
+        {
+          "player": "Towhid Hridoy",
+          "runs": 189,
+          "wickets": 7,
+          "overs": "39.1"
+        },
+        {
+          "player": "Mahedi Hasan",
+          "runs": 195,
+          "wickets": 8,
+          "overs": "40.5"
+        },
+        {
+          "player": "Shoriful Islam",
+          "runs": 221,
+          "wickets": 9,
+          "overs": "45.4"
+        },
+        {
+          "player": "Taskin Ahmed",
+          "runs": 227,
+          "wickets": 10,
+          "overs": "48.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_bangladesh_vs_england.json",
+  "match_summary": "2023 World Cup Group Stage: England vs Bangladesh (2023-10-10) at Dharamsala.\nEngland: 364/9 (50.0 ov)\n  DJ Malan: 140 (107b, 16x4, 5x6)\n  JE Root: 82 (68b, 8x4, 1x6)\n  JM Bairstow: 52 (59b, 8x4, 0x6)\n  Mahedi Hasan: 4/71 (8.0 ov)\n  Shoriful Islam: 3/75 (10.0 ov)\nBangladesh: 227 all out (48.2 ov)\n  Liton Das: 76 (66b, 7x4, 2x6)\n  Mushfiqur Rahim: 51 (64b, 4x4, 0x6)\n  Towhid Hridoy: 39 (61b, 2x4, 0x6)\n  RJW Topley: 4/43 (10.0 ov)\n  CR Woakes: 2/49 (8.0 ov)\nEngland won by 137 runs.\nPlayer of the Match: DJ Malan."
+}

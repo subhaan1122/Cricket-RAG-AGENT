@@ -1,0 +1,265 @@
+{
+  "match_id": "46fa0657c384",
+  "world_cup_year": 2011,
+  "stage": "Quarter-Final",
+  "venue": "R Premadasa Stadium",
+  "city": "Colombo",
+  "date": "2011-03-26",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kumar Sangakkara",
+    "team2": "Andrew Strauss"
+  },
+  "player_of_match": "TM Dilshan",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 229,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "IJL Trott",
+          "runs": 86,
+          "balls": 115,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 74.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 50,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 31,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.36,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 25,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Prior",
+          "runs": 22,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.79,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Muralitharan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BAW Mendis",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 4.17,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 4.6,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Strauss",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "7.6"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "8.6"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 95,
+          "wickets": 3,
+          "overs": "26.6"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 186,
+          "wickets": 4,
+          "overs": "42.6"
+        },
+        {
+          "player": "GP Swann",
+          "runs": 186,
+          "wickets": 5,
+          "overs": "43.1"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 212,
+          "wickets": 6,
+          "overs": "48.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 231,
+      "wickets": 0,
+      "overs": 39.3,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "TM Dilshan",
+          "runs": 108,
+          "balls": 115,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 93.91,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 102,
+          "balls": 122,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 83.61,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LJ Wright",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 4.25,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RS Bopara",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 4.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TT Bresnan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CT Tremlett",
+          "overs": "7.3",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 5.07,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JC Tredwell",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 6.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_quarter_final_england_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Quarter-Final: Sri Lanka vs England (2011-03-26) at Colombo.\nEngland: 229/6 (50.0 ov)\n  IJL Trott: 86 (115b, 2x4, 0x6)\n  EJG Morgan: 50 (55b, 4x4, 0x6)\n  RS Bopara: 31 (56b, 1x4, 0x6)\n  M Muralitharan: 2/54 (9.0 ov)\nSri Lanka: 231/0 (39.3 ov)\n  TM Dilshan: 108* (115b, 10x4, 2x6)\n  WU Tharanga: 102* (122b, 12x4, 1x6)\nSri Lanka won by 10 wickets.\nPlayer of the Match: TM Dilshan."
+}

@@ -1,0 +1,350 @@
+{
+  "match_id": "7bfa851306d5",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Westpac Stadium",
+  "city": "Wellington",
+  "date": "2015-03-12",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "United Arab Emirates"
+  },
+  "toss": {
+    "winner": "United Arab Emirates",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "146 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "AB de Villiers",
+    "team2": "Mohammad Tauqir"
+  },
+  "player_of_match": "AB de Villiers",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 341,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "AB de Villiers",
+          "runs": 99,
+          "balls": 82,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 120.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F Behardien",
+          "runs": 64,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 206.45,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 49,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 102.08,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RR Rossouw",
+          "runs": 43,
+          "balls": 49,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 87.76,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 26,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.78,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Naveed",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 3,
+          "economy": 6.3,
+          "wides": 1,
+          "no_balls": 3
+        },
+        {
+          "name": "Mohammad Tauqir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Kamran Shazad",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 7.38,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Amjad Javed",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 87,
+          "wickets": 1,
+          "economy": 8.7,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "Shaiman Anwar",
+          "overs": "0.4",
+          "maidens": 0,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HM Amla",
+          "runs": 17,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 85,
+          "wickets": 2,
+          "overs": "15.6"
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 96,
+          "wickets": 3,
+          "overs": "18.2"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 204,
+          "wickets": 4,
+          "overs": "36.1"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 257,
+          "wickets": 5,
+          "overs": "42.2"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 292,
+          "wickets": 6,
+          "overs": "46.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "United Arab Emirates",
+      "runs": 195,
+      "wickets": 9,
+      "overs": 47.3,
+      "extras": 29,
+      "top_batters": [
+        {
+          "name": "SP Patil",
+          "runs": 57,
+          "balls": 100,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shaiman Anwar",
+          "runs": 39,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.94,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Amjad Ali",
+          "runs": 21,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Naveed",
+          "runs": 17,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 113.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Khurram Khan",
+          "runs": 12,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Morkel",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 2.3,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "VD Philander",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "AB de Villiers",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 12,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AR Berenger",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "6.4"
+        },
+        {
+          "player": "Amjad Ali",
+          "runs": 45,
+          "wickets": 2,
+          "overs": "11.4"
+        },
+        {
+          "player": "Khurram Khan",
+          "runs": 45,
+          "wickets": 3,
+          "overs": "12.3"
+        },
+        {
+          "player": "Shaiman Anwar",
+          "runs": 108,
+          "wickets": 4,
+          "overs": "29.6"
+        },
+        {
+          "player": "Saqlain Haider",
+          "runs": 118,
+          "wickets": 5,
+          "overs": "32.4"
+        },
+        {
+          "player": "Amjad Javed",
+          "runs": 125,
+          "wickets": 6,
+          "overs": "34.2"
+        },
+        {
+          "player": "Mohammad Naveed",
+          "runs": 163,
+          "wickets": 7,
+          "overs": "39.2"
+        },
+        {
+          "player": "Mohammad Tauqir",
+          "runs": 189,
+          "wickets": 8,
+          "overs": "45.6"
+        },
+        {
+          "player": "Kamran Shazad",
+          "runs": 195,
+          "wickets": 9,
+          "overs": "47.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_south_africa_vs_united_arab_emirates.json",
+  "match_summary": "2015 World Cup Group B: South Africa vs United Arab Emirates (2015-03-12) at Wellington.\nSouth Africa: 341/6 (50.0 ov)\n  AB de Villiers: 99 (82b, 6x4, 4x6)\n  F Behardien: 64* (31b, 5x4, 3x6)\n  DA Miller: 49 (48b, 2x4, 0x6)\n  Mohammad Naveed: 3/63 (10.0 ov)\nUnited Arab Emirates: 195/9 (47.3 ov)\n  SP Patil: 57* (100b, 5x4, 0x6)\n  Shaiman Anwar: 39 (64b, 5x4, 0x6)\n  M Morkel: 2/23 (10.0 ov)\n  VD Philander: 2/34 (8.3 ov)\n  AB de Villiers: 2/15 (3.0 ov)\nSouth Africa won by 146 runs.\nPlayer of the Match: AB de Villiers."
+}

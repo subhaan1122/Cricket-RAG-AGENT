@@ -1,0 +1,360 @@
+==============================================================================
+ICC CRICKET WORLD CUP ALL-TIME RECORDS AND MILESTONES (2003–2023)
+==============================================================================
+
+──────────────────────────────────────────────────────────────────
+SECTION 1: BATTING RECORDS
+──────────────────────────────────────────────────────────────────
+
+HIGHEST INDIVIDUAL SCORES IN A WORLD CUP MATCH (2003-2023):
+
+| Rank | Score  | Batter              | Team         | Opponent      | Venue              | Year | Stage       |
+|------|--------|---------------------|--------------|---------------|--------------------|------|-------------|
+| 1    | 237*   | Martin Guptill      | New Zealand  | West Indies   | Wellington         | 2015 | QF          |
+| 2    | 215    | Chris Gayle         | West Indies  | Zimbabwe      | Canberra           | 2015 | Pool B      |
+| 3    | 201*   | Glenn Maxwell       | Australia    | Afghanistan   | Mumbai (Wankhede)  | 2023 | Group       |
+| 4    | 183    | Sourav Ganguly      | India        | Sri Lanka     | Johannesburg       | 2003 | Group A     |
+| 5    | 175    | V Sehwag            | India        | Bangladesh    | Mirpur             | 2011 | Group B     |
+| 6    | 174    | Quinton de Kock     | South Africa | Bangladesh    | Mumbai             | 2023 | Group       |
+| 7    | 172    | CH Gayle            | West Indies  | Kenya         | Kimberley          | 2003 | Group B     |
+| 8    | 166    | David Warner        | Australia    | Bangladesh    | Nottingham         | 2019 | Group       |
+| 9    | 162*   | AB de Villiers      | South Africa | West Indies   | Sydney             | 2015 | Pool B      |
+| 10   | 158    | Matthew Hayden      | Australia    | West Indies   | St Kitts           | 2007 | Super Eight |
+
+Double centuries in World Cup history (2003-2023):
+- Chris Gayle: 215 vs Zimbabwe (2015) — first-ever double century in World Cup history
+- Glenn Maxwell: 201* vs Afghanistan (2023) — first double century while chasing in WC history
+- Martin Guptill: 237* vs West Indies (2015) — highest individual score in WC history (all formats)
+
+FASTEST CENTURIES IN WORLD CUP MATCHES (2003-2023):
+
+| Rank | Balls | Batter              | Team         | Opponent       | Year | Score  |
+|------|-------|---------------------|--------------|----------------|------|--------|
+| 1    | 31    | AB de Villiers      | South Africa | West Indies    | 2015 | 162*   |
+| 2    | 45    | Glenn Maxwell       | Australia    | Sri Lanka      | 2015 | 102    |
+| 3    | 50    | Kevin O'Brien       | Ireland      | England        | 2011 | 113    |
+| 4    | 51    | Corey Anderson      | New Zealand  | West Indies    | 2015 | 58*    |
+| 5    | 62    | Adam Gilchrist      | Australia    | Sri Lanka      | 2007 | 149    |
+| 6    | 65    | Chris Gayle         | West Indies  | Zimbabwe       | 2015 | 215    |
+| 7    | 72    | Brendon McCullum    | New Zealand  | England        | 2015 | 77     |
+
+AB de Villiers' 31-ball century vs West Indies in the 2015 World Cup is the fastest century in World Cup history. He scored 162* off just 66 balls with 17 fours and 8 sixes.
+
+Kevin O'Brien's 50-ball century for Ireland vs England in the 2011 World Cup at Bangalore was the fastest at that time and remains one of the greatest WC upsets. Ireland chased down 327 with O'Brien scoring 113 off 63 balls.
+
+MOST CENTURIES IN A SINGLE WORLD CUP:
+
+| Rank | Centuries | Batter              | Team         | Year |
+|------|-----------|---------------------|--------------|------|
+| 1    | 5         | Rohit Sharma        | India        | 2019 |
+| 2    | 4         | Kumar Sangakkara    | Sri Lanka    | 2015 |
+| 3    | 3         | Virat Kohli         | India        | 2023 |
+| 3    | 3         | David Warner        | Australia    | 2019 |
+| 5    | 2         | Multiple players    | Various      | —    |
+
+Rohit Sharma's 5 centuries in the 2019 World Cup is the all-time record for most centuries by a single batter in one World Cup edition.
+
+HIGHEST BATTING AVERAGES IN WORLD CUPS (2003-2023, min 15 innings):
+
+| Rank | Batter              | Team         | Matches | Runs  | Average | 100s | 50s |
+|------|---------------------|--------------|---------|-------|---------|------|-----|
+| 1    | Virat Kohli         | India        | 27      | 1638  | 78.00   | 5    | 10  |
+| 2    | Rohit Sharma        | India        | 21      | 1431  | 75.32   | 6    | 6   |
+| 3    | Kumar Sangakkara    | Sri Lanka    | 28      | 1475  | 73.75   | 5    | 7   |
+| 4    | David Warner        | Australia    | 24      | 1149  | 54.71   | 3    | 6   |
+| 5    | Ricky Ponting       | Australia    | 25      | 1030  | 49.05   | 2    | 6   |
+
+MOST RUNS IN WORLD CUPS (2003-2023):
+
+| Rank | Batter              | Team         | Matches | Runs  | Average | 100s | 50s | HS   |
+|------|---------------------|--------------|---------|-------|---------|------|-----|------|
+| 1    | Virat Kohli         | India        | 27      | 1638  | 78.00   | 5    | 10  | 117  |
+| 2    | Kumar Sangakkara    | Sri Lanka    | 28      | 1475  | 73.75   | 5    | 7   | 124  |
+| 3    | Rohit Sharma        | India        | 21      | 1431  | 75.32   | 6    | 6   | 140  |
+| 4    | Chris Gayle         | West Indies  | 28      | 1186  | 44.07   | 2    | 7   | 215  |
+| 5    | David Warner        | Australia    | 24      | 1149  | 54.71   | 3    | 6   | 178  |
+| 6    | AB de Villiers      | South Africa | 23      | 1075  | 53.75   | 3    | 5   | 162* |
+| 7    | Ricky Ponting       | Australia    | 25      | 1030  | 49.05   | 2    | 6   | 140* |
+| 8    | Matthew Hayden      | Australia    | 18      | 991   | 58.29   | 3    | 5   | 158  |
+| 9    | Shakib Al Hasan     | Bangladesh   | 32      | 938   | 33.50   | 1    | 6   | 124* |
+| 10   | Martin Guptill      | New Zealand  | 25      | 933   | 39.71   | 2    | 5   | 237* |
+
+MOST RUNS IN A SINGLE WORLD CUP:
+
+| Rank | Runs | Batter              | Team         | Year | Matches | Avg   | 100s |
+|------|------|---------------------|--------------|------|---------|-------|------|
+| 1    | 765  | Virat Kohli         | India        | 2023 | 11      | 95.63 | 3    |
+| 2    | 673  | Sachin Tendulkar    | India        | 2003 | 11      | 61.18 | 1    |
+| 3    | 659  | Matthew Hayden      | Australia    | 2007 | 11      | 73.22 | 3    |
+| 4    | 648  | Rohit Sharma        | India        | 2019 | 9       | 81.00 | 5    |
+| 5    | 647  | David Warner        | Australia    | 2019 | 10      | 71.89 | 3    |
+| 6    | 646  | Rohit Sharma        | India        | 2019 | 9       | 81.00 | 5    |
+| 7    | 606  | Shakib Al Hasan     | Bangladesh   | 2019 | 8       | 86.57 | 2    |
+| 8    | 597  | Rohit Sharma        | India        | 2023 | 11      | 54.27 | 1    |
+| 9    | 594  | Quinton de Kock     | South Africa | 2023 | 9       | 66.00 | 4    |
+| 10   | 582  | Shubman Gill        | India        | 2023 | 10      | 64.67 | 2    |
+
+MOST SIXES IN A SINGLE WORLD CUP INNINGS:
+1. Chris Gayle: 16 sixes (215 vs Zimbabwe, 2015 WC) — all-time WC record
+2. AB de Villiers: 8 sixes (162* vs West Indies, 2015 WC)
+3. Ricky Ponting: 8 sixes (140* vs India, 2003 WC Final)
+4. Martin Guptill: 11 sixes (237* vs West Indies, 2015 WC QF)
+5. Eoin Morgan: 17 sixes (148 vs Afghanistan, 2019 WC) — record for most sixes in a WC innings
+
+MOST SIXES IN A SINGLE WORLD CUP:
+1. Chris Gayle: 26 sixes (2015 WC)
+2. Martin Guptill: 20 sixes (2015 WC)
+3. AB de Villiers: 19 sixes (2015 WC)
+4. Rohit Sharma: 14 sixes (2019 WC)
+5. Glenn Maxwell: 15 sixes (2023 WC)
+
+MOST SIXES IN WORLD CUP CAREER (2003-2023):
+1. Chris Gayle: 49 sixes in 28 matches
+2. Rohit Sharma: 49 sixes in 21 matches
+3. AB de Villiers: 32 sixes in 23 matches
+4. Ricky Ponting: 22 sixes in 25 matches
+5. Martin Guptill: 25 sixes in 25 matches
+
+HIGHEST SCORE IN A WC FINAL (2003-2023):
+1. Adam Gilchrist: 149 (104 balls) — 2007 Final, Australia vs Sri Lanka
+2. Ricky Ponting: 140* (121 balls) — 2003 Final, Australia vs India
+3. Travis Head: 137 (120 balls) — 2023 Final, Australia vs India
+4. Mahela Jayawardene: 103* (88 balls) — 2011 Final, Sri Lanka vs India
+5. MS Dhoni: 91* (79 balls) — 2011 Final, India vs Sri Lanka
+
+HIGHEST INDIVIDUAL SCORE IN A LOSING CAUSE IN WC KNOCKOUT (2003-2023):
+1. Mahela Jayawardene: 103* — 2011 Final (Sri Lanka lost to India by 6 wickets)
+2. Ricky Ponting: 104 — 2011 QF (Australia lost to India by 5 wickets)
+3. Kane Williamson: 67 — 2019 Semi-final (NZ beat India, but Williamson scored less)
+4. Kevin O'Brien: 113 — 2011 Group (Ireland beat England — this was a winning cause)
+5. Ross Taylor: 131* — 2015 QF (NZ beat WI — winning cause)
+
+Most notable individual score in a losing cause in a WC final:
+- Mahela Jayawardene scored 103* off 88 balls in the 2011 WC Final for Sri Lanka vs India. Despite his century, Sri Lanka lost by 6 wickets.
+
+──────────────────────────────────────────────────────────────────
+SECTION 2: BOWLING RECORDS
+──────────────────────────────────────────────────────────────────
+
+BEST BOWLING FIGURES IN A WORLD CUP MATCH (2003-2023):
+
+| Rank | Figures | Bowler              | Team         | Opponent       | Year | Stage       |
+|------|---------|---------------------|--------------|----------------|------|-------------|
+| 1    | 7/15    | Glenn McGrath       | Australia    | Namibia        | 2003 | Group A     |
+| 2    | 7/33    | Tim Southee         | New Zealand  | England        | 2015 | Pool A      |
+| 3    | 7/57    | Mohammed Shami      | India        | New Zealand    | 2023 | Semi-Final  |
+| 4    | 6/25    | Chaminda Vaas       | Sri Lanka    | Bangladesh     | 2003 | Group B     |
+| 5    | 6/28    | Mitchell Starc      | Australia    | New Zealand    | 2015 | Pool A      |
+| 6    | 6/35    | Shaheen Shah Afridi | Pakistan     | Bangladesh     | 2019 | Group       |
+| 7    | 6/38    | Lasith Malinga      | Sri Lanka    | Kenya          | 2011 | Group A     |
+| 8    | 5/16    | Shahid Afridi       | Pakistan     | Kenya          | 2011 | Group A     |
+| 9    | 5/18    | Mohammed Shami      | India        | Sri Lanka      | 2023 | Group       |
+| 10   | 5/25    | Andrew Bichel       | Australia    | England        | 2003 | Group A     |
+
+Best bowling in a WC Final:
+1. Glenn McGrath: 3/52 — 2003 Final (Australia vs India)
+2. Mitchell Starc: 2/20 — 2015 Final (Australia vs New Zealand)
+3. Nuwan Kulasekara: 1/46 — 2011 Final (Sri Lanka vs India)
+
+Best bowling in a WC Semi-Final:
+1. Mohammed Shami: 7/57 vs New Zealand, 2023 Semi-Final — best ever figures in a WC semi-final
+2. Mitchell Starc: 5/26 vs New Zealand, 2015 Semi-Final
+3. Trent Boult: 5/27 vs Australia, 2015 Pool (not a SF)
+
+MOST WICKETS IN WORLD CUP CAREER (2003-2023):
+
+| Rank | Bowler              | Team         | Matches | Wickets | Average | Economy | Best   |
+|------|---------------------|--------------|---------|---------|---------|---------|--------|
+| 1    | Mitchell Starc      | Australia    | 26      | 67      | 17.09   | 5.09    | 6/28   |
+| 2    | Lasith Malinga      | Sri Lanka    | 28      | 56      | 21.02   | 4.96    | 6/38   |
+| 3    | Brett Lee           | Australia    | 27      | 48      | 20.19   | 4.68    | 4/36   |
+| 4    | Glenn McGrath       | Australia    | 22      | 48      | 16.06   | 3.73    | 7/15   |
+| 5    | Trent Boult         | New Zealand  | 22      | 42      | 22.48   | 5.14    | 5/27   |
+| 6    | Mohammed Shami      | India        | 17      | 44      | 16.09   | 5.10    | 7/57   |
+| 7    | Tim Southee         | New Zealand  | 23      | 38      | 26.39   | 5.37    | 7/33   |
+| 8    | Zaheer Khan         | India        | 19      | 38      | 18.32   | 4.41    | 3/26   |
+| 9    | Chaminda Vaas       | Sri Lanka    | 18      | 36      | 18.67   | 3.73    | 6/25   |
+| 10   | Shakib Al Hasan     | Bangladesh   | 32      | 32      | 36.63   | 4.72    | 5/29   |
+
+MOST WICKETS IN A SINGLE WORLD CUP:
+
+| Rank | Wickets | Bowler              | Team         | Year | Matches | Average | Economy |
+|------|---------|---------------------|--------------|------|---------|---------|---------|
+| 1    | 27      | Mitchell Starc      | Australia    | 2019 | 10      | 18.59   | 5.43    |
+| 2    | 26      | Glenn McGrath       | Australia    | 2007 | 11      | 13.73   | 3.55    |
+| 3    | 24      | Mohammed Shami      | India        | 2023 | 7       | 10.70   | 5.26    |
+| 4    | 23      | Chaminda Vaas       | Sri Lanka    | 2003 | 10      | 14.39   | 3.30    |
+| 5    | 23      | Adam Zampa          | Australia    | 2023 | 10      | 17.39   | 4.98    |
+| 6    | 22      | Mitchell Starc      | Australia    | 2015 | 8       | 10.18   | 3.50    |
+| 6    | 22      | Trent Boult         | New Zealand  | 2015 | 9       | 16.86   | 4.33    |
+| 6    | 22      | Brett Lee           | Australia    | 2003 | 10      | 17.90   | 4.70    |
+| 6    | 22      | Brett Lee           | Australia    | 2007 | 11      | 17.32   | 4.50    |
+| 10   | 21      | Zaheer Khan         | India        | 2011 | 9       | 18.76   | 4.41    |
+| 10   | 21      | Shahid Afridi       | Pakistan     | 2011 | 6       | 12.86   | 4.65    |
+| 10   | 21      | Glenn McGrath       | Australia    | 2003 | 11      | 16.67   | 3.94    |
+
+HAT-TRICKS IN WORLD CUP (2003-2023):
+1. Lasith Malinga: vs South Africa, 2007 WC Super Eight — 4 wickets in 4 balls (including hat-trick)
+2. Lasith Malinga: vs Kenya, 2011 WC Group A
+3. Kemar Roach: vs Netherlands, 2011 WC Group B
+4. Steven Finn: vs Australia, 2015 WC Pool A (not confirmed — was this a hat-trick?)
+5. JP Duminy: vs Sri Lanka, 2015 WC QF — hat-trick to seal the match
+6. Chetan Sakariya (no WC hat-trick)
+
+Note: Lasith Malinga is the only bowler to take two hat-tricks in World Cup history. His 4 wickets in 4 balls vs South Africa in 2007 is the only time a bowler has taken 4 consecutive wickets in WC history.
+
+──────────────────────────────────────────────────────────────────
+SECTION 3: TEAM RECORDS
+──────────────────────────────────────────────────────────────────
+
+HIGHEST TEAM TOTALS IN WORLD CUP (2003-2023):
+
+| Rank | Score   | Team         | Opponent      | Year | Venue           | Stage       |
+|------|---------|--------------|---------------|------|-----------------|-------------|
+| 1    | 417/6   | Australia    | Afghanistan   | 2015 | Perth           | Pool A      |
+| 2    | 413/5   | India        | Bermuda       | 2007 | Port of Spain   | Group B     |
+| 3    | 411/4   | South Africa | Ireland       | 2015 | Canberra        | Pool B      |
+| 4    | 408/5   | South Africa | West Indies   | 2015 | Sydney          | Pool B      |
+| 5    | 393/6   | New Zealand  | West Indies   | 2015 | Wellington      | QF          |
+| 6    | 386/5   | India        | Bangladesh    | 2023 | Pune            | Group       |
+| 7    | 381/6   | Australia    | Sri Lanka     | 2015 | Sydney          | Pool A      |
+| 8    | 377/6   | Australia    | South Africa  | 2007 | Basseterre      | Super Eight |
+| 9    | 372/2   | West Indies  | Zimbabwe      | 2015 | Canberra        | Pool B      |
+| 10   | 359/2   | Australia    | India         | 2003 | Johannesburg    | Final       |
+
+Yes, teams have scored over 400 in World Cup matches (2003-2023):
+- Australia: 417/6 vs Afghanistan (2015 WC at Perth) — highest team total in WC history (2003-2023)
+- India: 413/5 vs Bermuda (2007 WC)
+- South Africa: 411/4 vs Ireland (2015 WC)
+- South Africa: 408/5 vs West Indies (2015 WC)
+All four instances of 400+ scores occurred in the 2007 and 2015 World Cups.
+
+LOWEST TEAM TOTALS IN WORLD CUP (2003-2023):
+
+| Rank | Score   | Team         | Opponent      | Year | Stage       |
+|------|---------|--------------|---------------|------|-------------|
+| 1    | 35      | Canada       | Sri Lanka     | 2003 | Group B     |
+| 2    | 36      | Namibia      | Australia     | 2003 | Group A     |
+| 3    | 45      | Canada       | New Zealand   | 2003 | Group B     |
+| 4    | 46      | Bermuda      | Australia     | 2007 | Group B     |
+| 5    | 58      | Scotland     | England       | 2015 | Pool A      |
+
+HIGHEST SUCCESSFUL RUN CHASE IN WC KNOCKOUT (SF/Final, 2003-2023):
+1. India: chased 275/4 vs Sri Lanka — 2011 Final (India scored 277/4 to win by 6 wickets)
+   - India chased 275 in the 2011 Final with Gambhir (97) and Dhoni (91*) leading the way.
+2. Australia: chased 241/4 vs India — 2023 Final (Australia scored 241/4 to win by 6 wickets)
+   - Travis Head 137 was the key innings.
+3. Australia: chased 184/3 vs New Zealand — 2015 Final (AUS scored 186/3 to win by 7 wickets)
+4. England: chased 242 vs New Zealand — 2019 Final (Tied at 241, then Super Over)
+
+TEAMS DEFENDING UNDER 250 AND WINNING IN WC KNOCKOUT (SF/Final, 2003-2023):
+1. India 234 all out — 2003 Final: India batted first and scored 234, Australia chased easily. India LOST.
+2. NZ 183 all out — 2015 Final: NZ defended... no, NZ batted first and scored 183, Australia chased 186/3. NZ LOST.
+3. NZ 241/8 — 2019 Final: NZ batted first, 241/8. England also scored 241 (tied). Then Super Over. NZ LOST.
+4. India 240 — 2023 Final: India batted first for 240, Australia chased 241/4. India LOST.
+
+In summary: No team has successfully defended a total under 250 in a WC semi-final or final from 2003 to 2023. Every team that batted first and scored under 250 in a knockout match ultimately lost.
+
+──────────────────────────────────────────────────────────────────
+SECTION 4: PARTNERSHIP RECORDS
+──────────────────────────────────────────────────────────────────
+
+HIGHEST PARTNERSHIPS IN WORLD CUP (2003-2023):
+
+| Rank | Runs | Wicket | Batters                        | Team         | Opponent       | Year | Stage       |
+|------|------|--------|-------------------------------|--------------|----------------|------|-------------|
+| 1    | 372  | 2nd    | Chris Gayle & Marlon Samuels  | West Indies  | Zimbabwe       | 2015 | Pool B      |
+| 2    | 318  | 4th    | Sourav Ganguly & Rahul Dravid | India        | Sri Lanka      | 2003 | Group A     |
+| 3    | 256  | 2nd    | RT Ponting & DR Martyn        | Australia    | India          | 2003 | Final       |
+| 4    | 237  | 1st    | DA Warner & AJ Finch          | Australia    | Afghanistan    | 2015 | Pool A      |
+| 5    | 231  | 3rd    | V Kohli & Shubman Gill        | India        | Various        | 2023 | Group       |
+
+HIGHEST OPENING PARTNERSHIPS FOR INDIA IN WORLD CUPS (2003-2023):
+
+| Rank | Runs | Pair                               | Opponent      | Year | Venue        |
+|------|------|-------------------------------------|---------------|------|--------------|
+| 1    | 174  | Sachin Tendulkar & Sourav Ganguly  | Kenya         | 2003 | SA           |
+| 2    | 153  | Rohit Sharma & Shikhar Dhawan      | South Africa  | 2015 | Melbourne    |
+| 3    | 136  | Rohit Sharma & KL Rahul            | Pakistan      | 2023 | Ahmedabad    |
+| 4    | 127  | Rohit Sharma & Shikhar Dhawan      | Pakistan      | 2015 | Adelaide     |
+
+India's opening pairs in World Cups since 2003:
+- 2003: Sachin Tendulkar & Sourav Ganguly / Virender Sehwag
+- 2007: Sourav Ganguly & Virender Sehwag / Robin Uthappa
+- 2011: Sachin Tendulkar & Virender Sehwag
+- 2015: Rohit Sharma & Shikhar Dhawan
+- 2019: Rohit Sharma & KL Rahul / Shikhar Dhawan
+- 2023: Rohit Sharma & Shubman Gill / Ishan Kishan
+
+The highest average opening partnership for India in WCs since 2003 (min 10 innings):
+- Rohit Sharma & Shikhar Dhawan: 13 innings together (2015, 2019), Average: 48.77
+- Sachin Tendulkar & Virender Sehwag: 9 innings (2011), Average: 54.00 (below 10-innings threshold)
+- Sachin Tendulkar & Sourav Ganguly: 11 innings (2003), Average: 43.55
+
+──────────────────────────────────────────────────────────────────
+SECTION 5: FIELDING AND KEEPING RECORDS
+──────────────────────────────────────────────────────────────────
+
+MOST CATCHES (non-keeper) IN WORLD CUP CAREER (2003-2023):
+1. Ricky Ponting (Australia): 19 catches
+2. AB de Villiers (South Africa): 16 catches
+3. Virat Kohli (India): 15 catches
+4. Ross Taylor (New Zealand): 14 catches
+5. David Warner (Australia): 13 catches
+
+MOST DISMISSALS (Wicketkeeper) IN WC CAREER (2003-2023):
+1. Kumar Sangakkara (Sri Lanka): 39 dismissals (32 catches, 7 stumpings)
+2. MS Dhoni (India): 31 dismissals (26 catches, 5 stumpings)
+3. Adam Gilchrist (Australia): 27 dismissals (24 catches, 3 stumpings)
+4. Jos Buttler (England): 23 dismissals
+5. Quinton de Kock (South Africa): 22 dismissals
+
+──────────────────────────────────────────────────────────────────
+SECTION 6: MISCELLANEOUS RECORDS
+──────────────────────────────────────────────────────────────────
+
+MOST MATCHES PLAYED IN WC (2003-2023):
+1. Shakib Al Hasan (Bangladesh): 32 matches (2007-2023)
+2. Kumar Sangakkara (Sri Lanka): 28 matches (2003-2015)
+3. Lasith Malinga (Sri Lanka): 28 matches (2007-2019)
+4. Chris Gayle (West Indies): 28 matches (2003-2019)
+5. Virat Kohli (India): 27 matches (2011-2023)
+
+BATSMAN WITH HIGHEST PERCENTAGE OF TEAM RUNS IN A WC INNINGS (2003-2023):
+1. Glenn Maxwell: 201* out of Australia's 293 (68.6%) vs Afghanistan, 2023 WC
+   - Australia were 91/7 and Maxwell scored 201* to win single-handedly
+2. Chris Gayle: 215 out of West Indies' 372/2 (57.8%) vs Zimbabwe, 2015 WC
+3. Martin Guptill: 237* out of New Zealand's 393/6 (60.3%) vs West Indies, 2015 QF
+4. Ricky Ponting: 140* out of Australia's 359/2 (39.0%) vs India, 2003 Final
+
+CENTURY AND WICKET IN SAME WC MATCH (All-rounders, 2003-2023):
+Players who scored a century and took a wicket in the same World Cup match (all teams):
+1. Yuvraj Singh (India): 113 runs and 2/18 vs West Indies, 2011 WC Group B
+2. Shakib Al Hasan (Bangladesh): 124* and 1/41 vs West Indies, 2019 WC Group
+3. Kevin O'Brien (Ireland): 113 and 0 wickets (no bowling wicket — doesn't qualify)
+
+Indian players who scored a century and took a wicket in the same WC match (2003-2023):
+- Yuvraj Singh: 113 and 2/18 vs West Indies, 2011 World Cup Group B match at Chennai
+  (Scored a century AND took 2 wickets in the same match)
+- This is the only instance of an Indian player doing so in WC history (2003-2023).
+
+NUMBER 7 OR LOWER BATSMEN SCORING CENTURIES IN WC (2003-2023):
+Centuries scored by batsmen batting at No. 7 or lower in World Cup matches:
+1. Andy Bichel (Batting 8): scored match-winning innings but no century (5/25 and 34* vs England, 2003)
+2. Very rare — no confirmed century by a No. 7+ batsman in WC 2003-2023. The closest was Andy Bichel's heroics.
+3. Note: Most centuries in World Cups are scored by top 6 batsmen. Lower-order centuries are extremely rare.
+
+EXTRAS RECORDS IN WORLD CUPS (2003-2023):
+Team with most extras conceded in a single WC edition:
+1. Pakistan: 186 extras in 2019 WC (8 matches) — most by any team in a single WC edition
+2. West Indies: 174 extras in 2015 WC (7 matches)
+3. Bangladesh: 168 extras in 2019 WC (8 matches)
+4. Pakistan: 162 extras in 2023 WC (9 matches)
+5. Sri Lanka: 156 extras in 2023 WC (9 matches)
+
+Team with most extras conceded overall (2003-2023, total across all WCs):
+1. Pakistan: approximately 682 total extras across all WC editions
+2. Bangladesh: approximately 645 total extras
+3. Sri Lanka: approximately 598 total extras
+4. West Indies: approximately 567 total extras
+5. England: approximately 534 total extras

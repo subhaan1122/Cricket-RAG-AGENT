@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2023
+Match: India vs Australia
+Stage: Final
+Date: 2023-11-19
+Venue: Narendra Modi Stadium, Ahmedabad, Ahmedabad
+Captain India: Rohit Sharma
+Captain Australia: Pat Cummins
+
+Match Summary:
+  2023 World Cup Final: India vs Australia (2023-11-19) at Ahmedabad.
+
+India: 240 all out (50.0 ov)
+  KL Rahul: 66 (107b, 1x4, 0x6, SR 61.68)
+  V Kohli: 54 (63b, 4x4, 0x6, SR 85.71)
+  RG Sharma: 47 (31b, 4x4, 3x6, SR 151.61)
+  SA Yadav: 18 (28b, 1x4, 0x6, SR 64.29)
+  Kuldeep Yadav: 10 (18b, 0x4, 0x6, SR 55.56)
+  MA Starc: 3/55 (10.0 ov, Econ 5.5)
+  PJ Cummins: 2/34 (10.0 ov, Econ 3.4)
+  JR Hazlewood: 2/60 (10.0 ov, Econ 6.0)
+  A Zampa: 1/44 (10.0 ov, Econ 4.4)
+  GJ Maxwell: 1/35 (6.0 ov, Econ 5.83)
+  Extras: 12
+
+Australia: 241/4 (43.0 ov)
+  TM Head: 137 (120b, 15x4, 4x6, SR 114.17)
+  M Labuschagne: 58 (110b, 4x4, 0x6, SR 52.73)
+  MR Marsh: 15 (15b, 1x4, 1x6, SR 100.0)
+  DA Warner: 7 (3b, 1x4, 0x6, SR 233.33)
+  SPD Smith: 4 (9b, 1x4, 0x6, SR 44.44)
+  JJ Bumrah: 2/43 (9.0 ov, Econ 4.78)
+  Mohammed Siraj: 1/45 (7.0 ov, Econ 6.43)
+  Mohammed Shami: 1/47 (7.0 ov, Econ 6.71)
+  RA Jadeja: 0/43 (10.0 ov, Econ 4.3)
+  Kuldeep Yadav: 0/56 (10.0 ov, Econ 5.6)
+  Extras: 18
+
+Batting Highlights:
+  Half-century: KL Rahul scored 66 off 107 balls (SR 61.68)
+  Half-century: V Kohli scored 54 off 63 balls (SR 85.71)
+  Quickfire innings: RG Sharma smashed 47 off 31 balls at SR 151.61
+  Century: TM Head scored 137 off 120 balls (SR 114.17, 15 fours, 4 sixes)
+  Half-century: M Labuschagne scored 58 off 110 balls (SR 52.73)
+
+Bowling Highlights:
+  Key spell: MA Starc took 3/55
+  Economical spell: PJ Cummins conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  Rohit Sharma (India): scored 47 off 31 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  Australia lost 4 early wickets.
+  India scored aggressively in the powerplay (80 runs at 8.0 RPO).
+  Australia lost 3 wickets in the powerplay.
+
+Result: Australia won by 6 wickets
+Toss: Australia won and chose to field
+Player of the Match: TM Head

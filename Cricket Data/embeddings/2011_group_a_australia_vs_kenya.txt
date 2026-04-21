@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: Australia vs Kenya
+Stage: Group A
+Date: 2011-03-13
+Venue: M Chinnaswamy Stadium, Bangalore
+Captain Australia: Ricky Ponting
+Captain Kenya: Jimmy Kamande
+
+Match Summary:
+  2011 World Cup Group A: Australia vs Kenya (2011-03-13) at Bangalore.
+
+Australia: 324/6 (50.0 ov)
+  MJ Clarke: 93 (80b, 7x4, 1x6, SR 116.25)
+  BJ Haddin: 65 (79b, 9x4, 1x6, SR 82.28)
+  MEK Hussey: 54 (43b, 4x4, 0x6, SR 125.58)
+  RT Ponting: 36 (54b, 5x4, 0x6, SR 66.67)
+  SR Watson: 21 (17b, 3x4, 1x6, SR 123.53)
+  NN Odhiambo: 3/57 (10.0 ov, Econ 5.7)
+  JK Kamande: 2/46 (10.0 ov, Econ 4.6)
+  CO Obuya: 1/33 (4.0 ov, Econ 8.25)
+  TM Odoyo: 0/50 (10.0 ov, Econ 5.0)
+  JO Ngoche: 0/56 (8.0 ov, Econ 7.0)
+  Extras: 24
+
+Kenya: 264/6 (50.0 ov)
+  CO Obuya: 98 (129b, 8x4, 3x6, SR 75.97)
+  T Mishra: 72 (89b, 8x4, 1x6, SR 80.9)
+  TM Odoyo: 35 (38b, 4x4, 1x6, SR 92.11)
+  AA Obanda: 14 (10b, 0x4, 2x6, SR 140.0)
+  DO Obuya: 12 (16b, 2x4, 0x6, SR 75.0)
+  SW Tait: 2/49 (8.0 ov, Econ 6.12)
+  B Lee: 1/26 (8.0 ov, Econ 3.25)
+  MJ Clarke: 0/21 (5.0 ov, Econ 4.2)
+  JJ Krejza: 0/36 (8.0 ov, Econ 4.5)
+  MG Johnson: 0/40 (8.0 ov, Econ 5.0)
+  Extras: 23
+
+Batting Highlights:
+  Half-century: MJ Clarke scored 93 off 80 balls (SR 116.25)
+  Half-century: BJ Haddin scored 65 off 79 balls (SR 82.28)
+  Half-century: MEK Hussey scored 54 off 43 balls (SR 125.58)
+  Half-century: CO Obuya scored 98 off 129 balls (SR 75.97)
+  Half-century: T Mishra scored 72 off 89 balls (SR 80.9)
+
+Bowling Highlights:
+  Key spell: NN Odhiambo took 3/57
+  Economical spell: B Lee conceded 26 runs in 8.0 overs (Econ 3.25)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 36 off 54 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  Kenya lost 6 early wickets.
+  Kenya lost 3 wickets in the powerplay.
+
+Result: Australia won by 60 runs
+Toss: Australia won and chose to bat
+Player of the Match: CO Obuya

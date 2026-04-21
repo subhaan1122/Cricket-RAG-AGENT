@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2023
+Match: England vs Pakistan
+Stage: Group Stage
+Date: 2023-11-11
+Venue: Eden Gardens, Kolkata, Kolkata
+Captain England: Jos Buttler
+Captain Pakistan: Babar Azam
+
+Match Summary:
+  2023 World Cup Group Stage: England vs Pakistan (2023-11-11) at Kolkata.
+
+England: 337/9 (50.0 ov)
+  BA Stokes: 84 (76b, 11x4, 2x6, SR 110.53)
+  JE Root: 60 (72b, 4x4, 0x6, SR 83.33)
+  JM Bairstow: 59 (61b, 7x4, 1x6, SR 96.72)
+  DJ Malan: 31 (39b, 5x4, 0x6, SR 79.49)
+  HC Brook: 30 (17b, 2x4, 2x6, SR 176.47)
+  Haris Rauf: 3/64 (10.0 ov, Econ 6.4)
+  Shaheen Shah Afridi: 2/72 (10.0 ov, Econ 7.2)
+  Mohammad Wasim: 2/74 (10.0 ov, Econ 7.4)
+  Iftikhar Ahmed: 1/38 (7.0 ov, Econ 5.43)
+  Shadab Khan: 0/57 (10.0 ov, Econ 5.7)
+  Extras: 19
+
+Pakistan: 244 all out (43.3 ov)
+  Agha Salman: 51 (45b, 6x4, 1x6, SR 113.33)
+  Babar Azam: 38 (45b, 6x4, 0x6, SR 84.44)
+  Mohammad Rizwan: 36 (51b, 2x4, 0x6, SR 70.59)
+  Haris Rauf: 35 (23b, 3x4, 3x6, SR 152.17)
+  Saud Shakeel: 29 (37b, 4x4, 0x6, SR 78.38)
+  DJ Willey: 3/56 (10.0 ov, Econ 5.6)
+  AU Rashid: 2/55 (10.0 ov, Econ 5.5)
+  AAP Atkinson: 2/45 (8.0 ov, Econ 5.62)
+  MM Ali: 2/60 (10.0 ov, Econ 6.0)
+  CR Woakes: 1/27 (5.3 ov, Econ 4.91)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: BA Stokes scored 84 off 76 balls (SR 110.53)
+  Half-century: JE Root scored 60 off 72 balls (SR 83.33)
+  Half-century: JM Bairstow scored 59 off 61 balls (SR 96.72)
+  Quickfire innings: HC Brook smashed 30 off 17 balls at SR 176.47
+  Half-century: Agha Salman scored 51 off 45 balls (SR 113.33)
+  Quickfire innings: Haris Rauf smashed 35 off 23 balls at SR 152.17
+
+Bowling Highlights:
+  Key spell: Haris Rauf took 3/64
+  Key spell: DJ Willey took 3/56
+
+Captain Performance:
+  Babar Azam (Pakistan): scored 38 off 45 balls
+
+Key Moments:
+  England lost 9 early wickets.
+  Pakistan lost 10 early wickets.
+  England scored aggressively in the powerplay (72 runs at 7.2 RPO).
+  Pakistan exploded in the death overs (35 runs at 10.0 RPO).
+
+Result: England won by 93 runs
+Toss: England won and chose to bat
+Player of the Match: DJ Willey

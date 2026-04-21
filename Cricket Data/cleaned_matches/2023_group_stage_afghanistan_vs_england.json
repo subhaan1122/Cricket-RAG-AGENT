@@ -1,0 +1,54 @@
+{
+  "match_id": "f436d196bec4",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "city": "Delhi",
+  "date": "2023-10-15",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Afghanistan",
+    "margin": "69 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Jos Buttler"
+  },
+  "player_of_match": "Fazalhaq Farooqi",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 284,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "runs": 215,
+      "wickets": 10,
+      "overs": 40.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_england.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs England (2023-10-15) at Delhi.\nAfghanistan: 284 all out (49.5 ov)\nEngland: 215 all out (40.3 ov)\nAfghanistan won by 69 runs. Player of the Match: Fazalhaq Farooqi."
+}

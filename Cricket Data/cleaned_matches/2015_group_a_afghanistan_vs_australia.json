@@ -1,0 +1,54 @@
+{
+  "match_id": "53aa4dc4662a",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "WACA Ground, Perth",
+  "city": "Perth",
+  "date": "2015-03-04",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "275 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Michael Clarke"
+  },
+  "player_of_match": "DA Warner",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 417,
+      "wickets": 6,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 142,
+      "wickets": 10,
+      "overs": 37.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_australia.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Australia (2015-03-04) at Perth.\nAustralia: 417/6 (50 ov)\nAfghanistan: 142 all out (37.3 ov)\nAustralia won by 275 runs. Player of the Match: DA Warner."
+}

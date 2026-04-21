@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: Bangladesh vs Pakistan
+Stage: Group Stage
+Date: 2023-10-31
+Venue: Eden Gardens, Kolkata, Kolkata
+Captain Bangladesh: Shakib Al Hasan
+Captain Pakistan: Babar Azam
+
+Match Summary:
+  2023 World Cup Group Stage: Bangladesh vs Pakistan (2023-10-31) at Kolkata.
+
+Bangladesh: 204 all out (45.1 ov)
+  Mahmudullah: 56 (70b, 6x4, 1x6, SR 80.0)
+  Liton Das: 45 (64b, 6x4, 0x6, SR 70.31)
+  Shakib Al Hasan: 43 (64b, 4x4, 0x6, SR 67.19)
+  Mehedi Hasan Miraz: 25 (30b, 1x4, 1x6, SR 83.33)
+  Towhid Hridoy: 7 (3b, 0x4, 1x6, SR 233.33)
+  Shaheen Shah Afridi: 3/23 (9.0 ov, Econ 2.56)
+  Mohammad Wasim: 3/31 (8.1 ov, Econ 3.8)
+  Haris Rauf: 2/36 (8.0 ov, Econ 4.5)
+  Iftikhar Ahmed: 1/44 (10.0 ov, Econ 4.4)
+  Usama Mir: 1/66 (10.0 ov, Econ 6.6)
+  Extras: 9
+
+Pakistan: 205/3 (32.3 ov)
+  Fakhar Zaman: 81 (74b, 3x4, 7x6, SR 109.46)
+  Abdullah Shafique: 68 (69b, 9x4, 2x6, SR 98.55)
+  Mohammad Rizwan: 26 (21b, 4x4, 0x6, SR 123.81)
+  Iftikhar Ahmed: 17 (15b, 2x4, 0x6, SR 113.33)
+  Babar Azam: 9 (16b, 1x4, 0x6, SR 56.25)
+  Mehedi Hasan Miraz: 3/60 (9.0 ov, Econ 6.67)
+  Nazmul Hossain Shanto: 0/5 (1.0 ov, Econ 5.0)
+  Shakib Al Hasan: 0/30 (5.3 ov, Econ 5.45)
+  Taskin Ahmed: 0/36 (6.0 ov, Econ 6.0)
+  Shoriful Islam: 0/25 (4.0 ov, Econ 6.25)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: Mahmudullah scored 56 off 70 balls (SR 80.0)
+  Half-century: Fakhar Zaman scored 81 off 74 balls (SR 109.46)
+  Half-century: Abdullah Shafique scored 68 off 69 balls (SR 98.55)
+
+Bowling Highlights:
+  Key spell: Shaheen Shah Afridi took 3/23
+  Key spell: Mohammad Wasim took 3/31
+  Key spell: Mehedi Hasan Miraz took 3/60
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 43 off 64 balls
+  Babar Azam (Pakistan): scored 9 off 16 balls
+
+Key Moments:
+  Bangladesh lost 10 early wickets.
+  Pakistan lost 3 early wickets.
+  Bangladesh lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 7 wickets
+Toss: Bangladesh won and chose to bat
+Player of the Match: Fakhar Zaman

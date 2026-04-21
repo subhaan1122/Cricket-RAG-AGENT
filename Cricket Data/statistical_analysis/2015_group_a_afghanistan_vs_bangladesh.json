@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "183cd7e3531e",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "Manuka Oval, Canberra",
+    "city": "Canberra",
+    "date": "2015-02-18",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "Bangladesh"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Bangladesh",
+      "margin": "105 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Mohammad Nabi",
+      "team2": "Mashrafe Mortaza"
+    },
+    "player_of_match": "Mushfiqur Rahim",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Bangladesh (2015-02-18) at Canberra.\nBangladesh: 267 all out (50 ov)\nAfghanistan: 162 all out (42.5 ov)\nBangladesh won by 105 runs.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 429,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 4.6,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 267,
+      "total_wickets": 10,
+      "total_overs": 50,
+      "run_rate": 5.34,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "total_runs": 162,
+      "total_wickets": 10,
+      "total_overs": 42.5,
+      "run_rate": 3.86,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Bangladesh scored 267 in 50 overs at 5.34 RPO",
+    "vs Afghanistan scored 162 in 42.5 overs at 3.86 RPO"
+  ]
+}

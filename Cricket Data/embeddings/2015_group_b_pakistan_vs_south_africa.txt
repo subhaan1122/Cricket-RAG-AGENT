@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2015
+Match: Pakistan vs South Africa
+Stage: Group B
+Date: 2015-03-07
+Venue: Eden Park, Auckland
+Captain Pakistan: Misbah-ul-Haq
+Captain South Africa: AB de Villiers
+
+Match Summary:
+  2015 World Cup Group B: Pakistan vs South Africa (2015-03-07) at Auckland.
+
+Pakistan: 222 all out (46.4 ov)
+  Misbah-ul-Haq: 56 (86b, 4x4, 0x6, SR 65.12)
+  Sarfraz Ahmed: 49 (49b, 5x4, 3x6, SR 100.0)
+  Younis Khan: 37 (44b, 4x4, 0x6, SR 84.09)
+  Shahid Afridi: 22 (15b, 1x4, 2x6, SR 146.67)
+  Ahmed Shehzad: 18 (30b, 4x4, 0x6, SR 60.0)
+  DW Steyn: 3/30 (10.0 ov, Econ 3.0)
+  M Morkel: 2/25 (9.4 ov, Econ 2.59)
+  KJ Abbott: 2/45 (9.0 ov, Econ 5.0)
+  Imran Tahir: 1/38 (9.0 ov, Econ 4.22)
+  AB de Villiers: 1/43 (6.0 ov, Econ 7.17)
+  Extras: 14
+
+South Africa: 202 all out (33.3 ov)
+  AB de Villiers: 77 (58b, 7x4, 5x6, SR 132.76)
+  HM Amla: 38 (27b, 9x4, 0x6, SR 140.74)
+  F du Plessis: 27 (29b, 3x4, 1x6, SR 93.1)
+  DW Steyn: 16 (17b, 3x4, 0x6, SR 94.12)
+  JP Duminy: 12 (13b, 2x4, 0x6, SR 92.31)
+  Rahat Ali: 3/40 (8.0 ov, Econ 5.0)
+  Wahab Riaz: 3/45 (7.3 ov, Econ 6.0)
+  Mohammad Irfan: 3/52 (8.0 ov, Econ 6.5)
+  Sohail Khan: 1/36 (5.0 ov, Econ 7.2)
+  Shahid Afridi: 0/28 (5.0 ov, Econ 5.6)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: Misbah-ul-Haq scored 56 off 86 balls (SR 65.12)
+  Half-century: AB de Villiers scored 77 off 58 balls (SR 132.76)
+
+Bowling Highlights:
+  Key spell: DW Steyn took 3/30
+  Economical spell: M Morkel conceded 25 runs in 9.4 overs (Econ 2.59)
+  Key spell: Rahat Ali took 3/40
+  Key spell: Wahab Riaz took 3/45
+  Key spell: Mohammad Irfan took 3/52
+
+Captain Performance:
+  Misbah-ul-Haq (Pakistan): scored 56 off 86 balls
+  AB de Villiers (South Africa): scored 77 off 58 balls
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  South Africa lost 10 early wickets.
+
+Result: Pakistan won by 29 runs (D/L)
+Toss: South Africa won and chose to field
+Player of the Match: Sarfraz Ahmed

@@ -1,0 +1,310 @@
+{
+  "match_id": "93b345e9279f",
+  "world_cup_year": 2007,
+  "stage": "Group D",
+  "venue": "Sabina Park, Kingston",
+  "city": "Jamaica",
+  "date": "2007-03-23",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "Ireland"
+  },
+  "toss": {
+    "winner": "Ireland",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "8 wickets",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brian Lara",
+    "team2": "Trent Johnston"
+  },
+  "player_of_match": "S Chanderpaul",
+  "innings": [
+    {
+      "team": "Ireland",
+      "runs": 183,
+      "wickets": 8,
+      "overs": 48.0,
+      "extras": 22,
+      "top_batters": [
+        {
+          "name": "JP Bray",
+          "runs": 41,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 56.94,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AC Botha",
+          "runs": 28,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WK McCallan",
+          "runs": 20,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AR White",
+          "runs": 18,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.07,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 18,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 52.94,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CH Gayle",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 2.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DBL Powell",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 2.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Bravo",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "IDR Bradshaw",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JE Taylor",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.62,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "1.2"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 61,
+          "wickets": 2,
+          "overs": "15.3"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 76,
+          "wickets": 3,
+          "overs": "20.2"
+        },
+        {
+          "player": "JP Bray",
+          "runs": 82,
+          "wickets": 4,
+          "overs": "21.6"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 129,
+          "wickets": 5,
+          "overs": "35.4"
+        },
+        {
+          "player": "AC Botha",
+          "runs": 139,
+          "wickets": 6,
+          "overs": "39.2"
+        },
+        {
+          "player": "AR White",
+          "runs": 163,
+          "wickets": 7,
+          "overs": "45.5"
+        },
+        {
+          "player": "JF Mooney",
+          "runs": 163,
+          "wickets": 8,
+          "overs": "45.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 190,
+      "wickets": 2,
+      "overs": 38.1,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "S Chanderpaul",
+          "runs": 102,
+          "balls": 113,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 90.27,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 36,
+          "balls": 71,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 50.7,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 27,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 87.1,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 18,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WK McCallan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "D Langford-Smith",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 4.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AC Botha",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 5.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 24,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 143,
+          "wickets": 2,
+          "overs": "27.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_d_ireland_vs_west_indies.json",
+  "match_summary": "2007 World Cup Group D: West Indies vs Ireland (2007-03-23) at Jamaica.\nIreland: 183/8 (48.0 ov)\n  JP Bray: 41 (72b, 7x4, 0x6)\n  CH Gayle: 2/23 (10.0 ov)\n  DBL Powell: 2/24 (9.0 ov)\n  DJ Bravo: 2/35 (7.0 ov)\nWest Indies: 190/2 (38.1 ov)\n  S Chanderpaul: 102* (113b, 10x4, 4x6)\n  RR Sarwan: 36 (71b, 2x4, 1x6)\nWest Indies won by 8 wickets (D/L).\nPlayer of the Match: S Chanderpaul."
+}

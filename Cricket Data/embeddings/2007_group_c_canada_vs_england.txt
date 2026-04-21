@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: Canada vs England
+Stage: Group C
+Date: 2007-03-18
+Venue: Beausejour Stadium, Gros Islet, St Lucia
+Captain Canada: John Davison
+Captain England: Michael Vaughan
+
+Match Summary:
+  2007 World Cup Group C: Canada vs England (2007-03-18) at St Lucia.
+
+England: 279/6 (50.0 ov)
+  EC Joyce: 66 (103b, 4x4, 1x6, SR 64.08)
+  PD Collingwood: 62 (48b, 4x4, 1x6, SR 129.17)
+  MP Vaughan: 45 (64b, 7x4, 0x6, SR 70.31)
+  RS Bopara: 29 (30b, 4x4, 0x6, SR 96.67)
+  IR Bell: 28 (44b, 1x4, 0x6, SR 63.64)
+  S Dhaniram: 3/41 (10.0 ov, Econ 4.1)
+  AM Samad: 1/31 (5.1 ov, Econ 6.0)
+  GR Codrington: 1/70 (10.0 ov, Econ 7.0)
+  AC Cummins: 1/58 (7.0 ov, Econ 8.29)
+  JM Davison: 0/32 (10.0 ov, Econ 3.2)
+  Extras: 19
+
+Canada: 228/7 (50.0 ov)
+  AA Mulla: 58 (60b, 7x4, 1x6, SR 96.67)
+  AM Samad: 36 (67b, 1x4, 1x6, SR 53.73)
+  S Dhaniram: 30 (33b, 3x4, 0x6, SR 90.91)
+  DR Chumney: 27 (51b, 0x4, 1x6, SR 52.94)
+  JM Davison: 21 (25b, 4x4, 0x6, SR 84.0)
+  RS Bopara: 2/43 (9.0 ov, Econ 4.78)
+  LE Plunkett: 2/46 (9.0 ov, Econ 5.11)
+  MS Panesar: 1/35 (10.0 ov, Econ 3.5)
+  JM Anderson: 1/40 (10.0 ov, Econ 4.0)
+  PD Collingwood: 0/41 (9.0 ov, Econ 4.56)
+  Extras: 16
+
+Batting Highlights:
+  Half-century: EC Joyce scored 66 off 103 balls (SR 64.08)
+  Half-century: PD Collingwood scored 62 off 48 balls (SR 129.17)
+  Half-century: AA Mulla scored 58 off 60 balls (SR 96.67)
+
+Bowling Highlights:
+  Key spell: S Dhaniram took 3/41
+  Economical spell: JM Davison conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: MS Panesar conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Michael Vaughan (England): scored 45 off 64 balls
+  John Davison (Canada): scored 21 off 25 balls
+
+Key Moments:
+  England lost 6 early wickets.
+  Canada lost 7 early wickets.
+
+Result: England won by 51 runs
+Toss: Canada won and chose to field
+Player of the Match: PD Collingwood

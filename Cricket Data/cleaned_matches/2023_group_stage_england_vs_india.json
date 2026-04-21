@@ -1,0 +1,374 @@
+{
+  "match_id": "45ccada8b1ec",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+  "city": "Lucknow",
+  "date": "2023-10-29",
+  "teams": {
+    "team1": "India",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "100 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Rohit Sharma",
+    "team2": "Jos Buttler"
+  },
+  "player_of_match": "RG Sharma",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 229,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "RG Sharma",
+          "runs": 87,
+          "balls": 101,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 86.14,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Yadav",
+          "runs": 49,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 104.26,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 39,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.24,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JJ Bumrah",
+          "runs": 16,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Shubman Gill",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DJ Willey",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 45,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Woakes",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 3.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Wood",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 5.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Ali",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 4.62,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shubman Gill",
+          "runs": 26,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "6.5"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 40,
+          "wickets": 3,
+          "overs": "11.5"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 131,
+          "wickets": 4,
+          "overs": "30.2"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 164,
+          "wickets": 5,
+          "overs": "36.5"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 182,
+          "wickets": 6,
+          "overs": "40.3"
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 183,
+          "wickets": 7,
+          "overs": "41.2"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 208,
+          "wickets": 8,
+          "overs": "46.2"
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 229,
+          "wickets": 9,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "runs": 129,
+      "wickets": 10,
+      "overs": 34.5,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "LS Livingstone",
+          "runs": 27,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.7,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DJ Malan",
+          "runs": 16,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DJ Willey",
+          "runs": 16,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 94.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MM Ali",
+          "runs": 15,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JM Bairstow",
+          "runs": 14,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.87,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 4,
+          "economy": 3.14,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "6.5",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 3,
+          "economy": 4.68,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 2.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Malan",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "4.5"
+        },
+        {
+          "player": "JE Root",
+          "runs": 30,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 33,
+          "wickets": 3,
+          "overs": "7.6"
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 39,
+          "wickets": 4,
+          "overs": "9.1"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 52,
+          "wickets": 5,
+          "overs": "15.1"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 81,
+          "wickets": 6,
+          "overs": "23.1"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 98,
+          "wickets": 7,
+          "overs": "28.1"
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 98,
+          "wickets": 8,
+          "overs": "29.2"
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 122,
+          "wickets": 9,
+          "overs": "33.6"
+        },
+        {
+          "player": "MA Wood",
+          "runs": 129,
+          "wickets": 10,
+          "overs": "34.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_england_vs_india.json",
+  "match_summary": "2023 World Cup Group Stage: India vs England (2023-10-29) at Lucknow.\nIndia: 229/9 (50.0 ov)\n  RG Sharma: 87 (101b, 10x4, 3x6)\n  SA Yadav: 49 (47b, 4x4, 1x6)\n  KL Rahul: 39 (58b, 3x4, 0x6)\n  DJ Willey: 3/45 (10.0 ov)\n  AU Rashid: 2/35 (10.0 ov)\n  CR Woakes: 2/33 (9.0 ov)\nEngland: 129 all out (34.5 ov)\n  Mohammed Shami: 4/22 (7.0 ov)\n  JJ Bumrah: 3/32 (6.5 ov)\n  Kuldeep Yadav: 2/24 (8.0 ov)\nIndia won by 100 runs.\nPlayer of the Match: RG Sharma."
+}

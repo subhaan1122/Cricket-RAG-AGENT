@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Canada vs Kenya
+Stage: Group B
+Date: 2003-02-15
+Venue: Newlands, Cape Town, Cape Town
+Captain Canada: Joe Harris
+Captain Kenya: Steve Tikolo
+
+Match Summary:
+  2003 World Cup Group B: Canada vs Kenya (2003-02-15) at Cape Town.
+
+Canada: 197 all out (49.0 ov)
+  IS Billcliff: 71 (100b, 8x4, 2x6, SR 71.0)
+  JM Davison: 31 (32b, 2x4, 2x6, SR 96.88)
+  JV Harris: 31 (74b, 2x4, 1x6, SR 41.89)
+  S Thuraisingam: 13 (10b, 1x4, 1x6, SR 130.0)
+  A Bagai: 12 (15b, 1x4, 0x6, SR 80.0)
+  TM Odoyo: 4/28 (10.0 ov, Econ 2.8)
+  MO Odumbe: 2/41 (9.0 ov, Econ 4.56)
+  CO Obuya: 2/46 (10.0 ov, Econ 4.6)
+  PJ Ongondo: 1/12 (6.0 ov, Econ 2.0)
+  AO Suji: 1/45 (7.0 ov, Econ 6.43)
+  Extras: 8
+
+Kenya: 198/6 (48.3 ov)
+  RD Shah: 61 (95b, 9x4, 0x6, SR 64.21)
+  SO Tikolo: 42 (49b, 6x4, 0x6, SR 85.71)
+  TM Odoyo: 27 (42b, 2x4, 0x6, SR 64.29)
+  MO Odumbe: 26 (19b, 2x4, 1x6, SR 136.84)
+  PJ Ongondo: 16 (16b, 2x4, 0x6, SR 100.0)
+  JM Davison: 3/15 (10.0 ov, Econ 1.5)
+  S Thuraisingam: 2/53 (10.0 ov, Econ 5.3)
+  A Codrington: 1/44 (10.0 ov, Econ 4.4)
+  D Joseph: 0/39 (10.0 ov, Econ 3.9)
+  I Maraj: 0/22 (4.3 ov, Econ 4.89)
+  Extras: 12
+
+Batting Highlights:
+  Half-century: IS Billcliff scored 71 off 100 balls (SR 71.0)
+  Half-century: RD Shah scored 61 off 95 balls (SR 64.21)
+
+Bowling Highlights:
+  Match-changing spell: TM Odoyo took 4/28
+  Economical spell: PJ Ongondo conceded 12 runs in 6.0 overs (Econ 2.0)
+  Key spell: JM Davison took 3/15
+
+Captain Performance:
+  Joe Harris (Canada): scored 31 off 74 balls
+  Steve Tikolo (Kenya): scored 42 off 49 balls
+
+Key Moments:
+  Canada lost 10 early wickets.
+  Kenya lost 6 early wickets.
+
+Result: Kenya won by 4 wickets
+Toss: Canada won and chose to bat
+Player of the Match: TM Odoyo

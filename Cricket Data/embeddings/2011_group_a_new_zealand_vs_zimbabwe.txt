@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2011
+Match: New Zealand vs Zimbabwe
+Stage: Group A
+Date: 2011-03-04
+Venue: Sardar Patel Stadium, Motera, Ahmedabad
+Captain New Zealand: Daniel Vettori
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2011 World Cup Group A: New Zealand vs Zimbabwe (2011-03-04) at Ahmedabad.
+
+Zimbabwe: 162 all out (46.2 ov)
+  BRM Taylor: 44 (57b, 4x4, 0x6, SR 77.19)
+  P Utseya: 36 (65b, 3x4, 0x6, SR 55.38)
+  AG Cremer: 22 (43b, 1x4, 0x6, SR 51.16)
+  GA Lamb: 18 (34b, 1x4, 0x6, SR 52.94)
+  RW Price: 11 (19b, 0x4, 0x6, SR 57.89)
+  TG Southee: 3/29 (9.2 ov, Econ 3.11)
+  DL Vettori: 2/25 (10.0 ov, Econ 2.5)
+  KD Mills: 2/29 (10.0 ov, Econ 2.9)
+  SB Styris: 1/13 (4.0 ov, Econ 3.25)
+  HK Bennett: 0/37 (8.0 ov, Econ 4.62)
+  Extras: 7
+
+New Zealand: 166/0 (33.3 ov)
+  MJ Guptill: 86 (108b, 7x4, 2x6, SR 79.63)
+  BB McCullum: 76 (95b, 6x4, 2x6, SR 80.0)
+  RW Price: 0/23 (7.0 ov, Econ 3.29)
+  GA Lamb: 0/18 (5.0 ov, Econ 3.6)
+  P Utseya: 0/23 (6.0 ov, Econ 3.83)
+  AG Cremer: 0/38 (7.0 ov, Econ 5.43)
+  E Chigumbura: 0/21 (3.0 ov, Econ 7.0)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: MJ Guptill scored 86 off 108 balls (SR 79.63)
+  Half-century: BB McCullum scored 76 off 95 balls (SR 80.0)
+
+Bowling Highlights:
+  Key spell: TG Southee took 3/29
+  Economical spell: DL Vettori conceded 25 runs in 10.0 overs (Econ 2.5)
+  Economical spell: KD Mills conceded 29 runs in 10.0 overs (Econ 2.9)
+  Economical spell: RW Price conceded 23 runs in 7.0 overs (Econ 3.29)
+
+Captain Performance:
+  New Zealand captain: Daniel Vettori
+  Zimbabwe captain: Elton Chigumbura
+
+Key Moments:
+  Zimbabwe lost 10 early wickets.
+
+Result: New Zealand won by 10 wickets
+Toss: Zimbabwe won and chose to bat
+Player of the Match: MJ Guptill

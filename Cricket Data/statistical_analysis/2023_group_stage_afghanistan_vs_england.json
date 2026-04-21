@@ -1,0 +1,114 @@
+{
+  "match_info": {
+    "match_id": "f436d196bec4",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "date": "2023-10-15",
+    "teams": {
+      "team1": "Afghanistan",
+      "team2": "England"
+    },
+    "toss": {
+      "winner": "England",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Afghanistan",
+      "margin": "69 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Hashmatullah Shahidi",
+      "team2": "Jos Buttler"
+    },
+    "player_of_match": "Fazalhaq Farooqi",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs England (2023-10-15) at Delhi.\nAfghanistan: 284 all out (49.5 ov)\nEngland: 215 all out (40.3 ov)\nAfghanistan won by 69 runs.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 499,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 5.59,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [
+    {
+      "team": "Afghanistan",
+      "total_runs": 284,
+      "total_wickets": 10,
+      "total_overs": 49.5,
+      "run_rate": 5.8,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 215,
+      "total_wickets": 10,
+      "total_overs": 40.3,
+      "run_rate": 5.38,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {},
+  "match_insights": [
+    "Team comparison: Afghanistan scored 284 in 49.5 overs at 5.8 RPO",
+    "vs England scored 215 in 40.3 overs at 5.38 RPO"
+  ]
+}

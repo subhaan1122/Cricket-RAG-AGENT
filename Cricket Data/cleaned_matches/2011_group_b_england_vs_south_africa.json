@@ -1,0 +1,380 @@
+{
+  "match_id": "0155c5091569",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "MA Chidambaram Stadium, Chepauk",
+  "city": "Chennai",
+  "date": "2011-03-06",
+  "teams": {
+    "team1": "England",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "6 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Andrew Strauss",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "RS Bopara",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 171,
+      "wickets": 10,
+      "overs": 45.4,
+      "extras": 20,
+      "top_batters": [
+        {
+          "name": "RS Bopara",
+          "runs": 60,
+          "balls": 98,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 61.22,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "IJL Trott",
+          "runs": 52,
+          "balls": 94,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.32,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "GP Swann",
+          "runs": 16,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Prior",
+          "runs": 10,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Imran Tahir",
+          "overs": "8.4",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 4,
+          "economy": 4.38,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RJ Peterson",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 3,
+          "economy": 2.75,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 2,
+          "economy": 2.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.11,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "F du Plessis",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 3.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Strauss",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.3"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 3,
+          "wickets": 2,
+          "overs": "0.6"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 15,
+          "wickets": 3,
+          "overs": "4.4"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 114,
+          "wickets": 4,
+          "overs": "29.5"
+        },
+        {
+          "player": "MJ Prior",
+          "runs": 134,
+          "wickets": 5,
+          "overs": "35.3"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 148,
+          "wickets": 6,
+          "overs": "39.3"
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 149,
+          "wickets": 7,
+          "overs": "40.1"
+        },
+        {
+          "player": "MH Yardy",
+          "runs": 161,
+          "wickets": 8,
+          "overs": "43.2"
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 161,
+          "wickets": 9,
+          "overs": "43.5"
+        },
+        {
+          "player": "GP Swann",
+          "runs": 171,
+          "wickets": 10,
+          "overs": "45.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 165,
+      "wickets": 10,
+      "overs": 47.4,
+      "extras": 6,
+      "top_batters": [
+        {
+          "name": "HM Amla",
+          "runs": 42,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 25,
+          "balls": 44,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.82,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 22,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DW Steyn",
+          "runs": 20,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.52,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 17,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.74,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SCJ Broad",
+          "overs": "6.4",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 4,
+          "economy": 2.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 2,
+          "economy": 2.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "GP Swann",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 2.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TT Bresnan",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 3.38,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MH Yardy",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 5.11,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 63,
+          "wickets": 1,
+          "overs": "14.1"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 75,
+          "wickets": 2,
+          "overs": "17.3"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 82,
+          "wickets": 3,
+          "overs": "19.2"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 124,
+          "wickets": 4,
+          "overs": "31.6"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 124,
+          "wickets": 5,
+          "overs": "32.2"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 124,
+          "wickets": 6,
+          "overs": "33.4"
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 127,
+          "wickets": 7,
+          "overs": "36.6"
+        },
+        {
+          "player": "MN van Wyk",
+          "runs": 160,
+          "wickets": 8,
+          "overs": "46.2"
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 164,
+          "wickets": 9,
+          "overs": "47.1"
+        },
+        {
+          "player": "M Morkel",
+          "runs": 165,
+          "wickets": 10,
+          "overs": "47.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_england_vs_south_africa.json",
+  "match_summary": "2011 World Cup Group B: England vs South Africa (2011-03-06) at Chennai.\nEngland: 171 all out (45.4 ov)\n  RS Bopara: 60 (98b, 3x4, 1x6)\n  IJL Trott: 52 (94b, 3x4, 0x6)\n  Imran Tahir: 4/38 (8.4 ov)\n  RJ Peterson: 3/22 (8.0 ov)\n  M Morkel: 2/16 (7.0 ov)\nSouth Africa: 165 all out (47.4 ov)\n  HM Amla: 42 (51b, 3x4, 0x6)\n  SCJ Broad: 4/15 (6.4 ov)\n  JM Anderson: 2/16 (6.0 ov)\nEngland won by 6 runs.\nPlayer of the Match: RS Bopara."
+}

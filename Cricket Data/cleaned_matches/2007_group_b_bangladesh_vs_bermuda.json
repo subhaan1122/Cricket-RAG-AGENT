@@ -1,0 +1,332 @@
+{
+  "match_id": "bd386a069e21",
+  "world_cup_year": 2007,
+  "stage": "Group B",
+  "venue": "Queen's Park Oval, Port of Spain",
+  "city": "Trinidad",
+  "date": "2007-03-25",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Bermuda"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "7 wickets",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Habibul Bashar",
+    "team2": "Irving Romaine"
+  },
+  "player_of_match": "Mohammad Ashraful",
+  "innings": [
+    {
+      "team": "Bermuda",
+      "runs": 94,
+      "wickets": 9,
+      "overs": 21.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "DA Minors",
+          "runs": 23,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "OL Pitcher",
+          "runs": 22,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LOB Cann",
+          "runs": 16,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "IH Romaine",
+          "runs": 11,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JJ Tucker",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Abdur Razzak",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 3,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 2,
+          "economy": 2.0,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Syed Rasel",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SD Outerbridge",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "DCC Borden",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "4.1"
+        },
+        {
+          "player": "DL Hemp",
+          "runs": 11,
+          "wickets": 3,
+          "overs": "5.4"
+        },
+        {
+          "player": "IH Romaine",
+          "runs": 35,
+          "wickets": 4,
+          "overs": "10.6"
+        },
+        {
+          "player": "OL Pitcher",
+          "runs": 52,
+          "wickets": 5,
+          "overs": "16.4"
+        },
+        {
+          "player": "LOB Cann",
+          "runs": 73,
+          "wickets": 6,
+          "overs": "18.2"
+        },
+        {
+          "player": "JJ Tucker",
+          "runs": 86,
+          "wickets": 7,
+          "overs": "19.5"
+        },
+        {
+          "player": "DA Minors",
+          "runs": 94,
+          "wickets": 8,
+          "overs": "20.4"
+        },
+        {
+          "player": "KAD Hurdle",
+          "runs": 94,
+          "wickets": 9,
+          "overs": "20.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 96,
+      "wickets": 3,
+      "overs": 17.3,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 29,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.62,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 26,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 74.29,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shahriar Nafees",
+          "runs": 12,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 48.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "S Mukuddem",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 3,
+          "economy": 3.8,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Tucker",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RDM Leverock",
+          "overs": "3.3",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 5.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KAD Hurdle",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 6.25,
+          "wides": 7,
+          "no_balls": 3
+        },
+        {
+          "name": "DCC Borden",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 7.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 30,
+          "wickets": 2,
+          "overs": "5.3"
+        },
+        {
+          "player": "Shahriar Nafees",
+          "runs": 37,
+          "wickets": 3,
+          "overs": "7.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_b_bangladesh_vs_bermuda.json",
+  "match_summary": "2007 World Cup Group B: Bangladesh vs Bermuda (2007-03-25) at Trinidad.\nBermuda: 94/9 (21.0 ov)\n  Abdur Razzak: 3/20 (4.0 ov)\n  Mashrafe Mortaza: 2/8 (4.0 ov)\n  Shakib Al Hasan: 2/12 (3.0 ov)\nBangladesh: 96/3 (17.3 ov)\n  S Mukuddem: 3/19 (5.0 ov)\nBangladesh won by 7 wickets (D/L).\nPlayer of the Match: Mohammad Ashraful."
+}

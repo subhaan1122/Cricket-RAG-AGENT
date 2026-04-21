@@ -1,0 +1,310 @@
+{
+  "match_id": "e1174d6c47b7",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Maharashtra Cricket Association Stadium, Pune",
+  "city": "Pune",
+  "date": "2023-11-11",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Shakib Al Hasan",
+    "team2": "Pat Cummins"
+  },
+  "player_of_match": "MR Marsh",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 306,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 24,
+      "top_batters": [
+        {
+          "name": "Towhid Hridoy",
+          "runs": 74,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 93.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Nazmul Hossain Shanto",
+          "runs": 45,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Tanzid Hasan",
+          "runs": 36,
+          "balls": 34,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Liton Das",
+          "runs": 36,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mahmudullah",
+          "runs": 32,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 114.29,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 3.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SA Abbott",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 2,
+          "economy": 6.1,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 9.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Head",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tanzid Hasan",
+          "runs": 76,
+          "wickets": 1,
+          "overs": "11.2"
+        },
+        {
+          "player": "Liton Das",
+          "runs": 106,
+          "wickets": 2,
+          "overs": "16.4"
+        },
+        {
+          "player": "Nazmul Hossain Shanto",
+          "runs": 170,
+          "wickets": 3,
+          "overs": "27.5"
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 214,
+          "wickets": 4,
+          "overs": "35.4"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 251,
+          "wickets": 5,
+          "overs": "42.1"
+        },
+        {
+          "player": "Towhid Hridoy",
+          "runs": 286,
+          "wickets": 6,
+          "overs": "46.3"
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 303,
+          "wickets": 7,
+          "overs": "49.1"
+        },
+        {
+          "player": "Nasum Ahmed",
+          "runs": 304,
+          "wickets": 8,
+          "overs": "49.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 307,
+      "wickets": 2,
+      "overs": 44.4,
+      "extras": 4,
+      "top_batters": [
+        {
+          "name": "MR Marsh",
+          "runs": 177,
+          "balls": 132,
+          "fours": 17,
+          "sixes": 9,
+          "strike_rate": 134.09,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 63,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 98.44,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 53,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 86.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Head",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Taskin Ahmed",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 6.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mustafizur Rahman",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 7.86,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mahedi Hasan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 4.22,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mehedi Hasan Miraz",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 7.83,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Nasum Ahmed",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 85,
+          "wickets": 0,
+          "economy": 8.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "TM Head",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 132,
+          "wickets": 2,
+          "overs": "22.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_australia_vs_bangladesh.json",
+  "match_summary": "2023 World Cup Group Stage: Bangladesh vs Australia (2023-11-11) at Pune.\nBangladesh: 306/8 (50.0 ov)\n  Towhid Hridoy: 74 (79b, 5x4, 2x6)\n  Nazmul Hossain Shanto: 45 (57b, 6x4, 0x6)\n  Tanzid Hasan: 36 (34b, 6x4, 0x6)\n  A Zampa: 2/32 (10.0 ov)\n  SA Abbott: 2/61 (10.0 ov)\nAustralia: 307/2 (44.4 ov)\n  MR Marsh: 177* (132b, 17x4, 9x6)\n  SPD Smith: 63* (64b, 4x4, 1x6)\n  DA Warner: 53 (61b, 6x4, 0x6)\nAustralia won by 8 wickets.\nPlayer of the Match: MR Marsh."
+}

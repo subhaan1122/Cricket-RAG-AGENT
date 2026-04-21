@@ -1,0 +1,63 @@
+ICC Cricket World Cup 2015
+Match: New Zealand vs South Africa
+Stage: Semi-Final
+Date: 2015-03-24
+Venue: Eden Park, Auckland
+Captain New Zealand: Brendon McCullum
+Captain South Africa: AB de Villiers
+
+Match Summary:
+  2015 World Cup Semi-Final: New Zealand vs South Africa (2015-03-24) at Auckland.
+
+South Africa: 281/5 (43.0 ov)
+  F du Plessis: 82 (107b, 7x4, 1x6, SR 76.64)
+  AB de Villiers: 65 (45b, 8x4, 1x6, SR 144.44)
+  DA Miller: 49 (18b, 6x4, 3x6, SR 272.22)
+  RR Rossouw: 39 (53b, 2x4, 1x6, SR 73.58)
+  Q de Kock: 14 (17b, 2x4, 0x6, SR 82.35)
+  CJ Anderson: 3/72 (6.0 ov, Econ 12.0)
+  TA Boult: 2/53 (9.0 ov, Econ 5.89)
+  MJ Henry: 0/40 (8.0 ov, Econ 5.0)
+  KS Williamson: 0/5 (1.0 ov, Econ 5.0)
+  DL Vettori: 0/46 (9.0 ov, Econ 5.11)
+  Extras: 14
+
+New Zealand: 299/6 (42.5 ov)
+  GD Elliott: 84 (73b, 7x4, 3x6, SR 115.07)
+  BB McCullum: 59 (26b, 8x4, 4x6, SR 226.92)
+  CJ Anderson: 58 (57b, 6x4, 2x6, SR 101.75)
+  MJ Guptill: 34 (38b, 3x4, 1x6, SR 89.47)
+  LRPL Taylor: 30 (39b, 4x4, 0x6, SR 76.92)
+  M Morkel: 3/59 (9.0 ov, Econ 6.56)
+  JP Duminy: 1/43 (5.0 ov, Econ 8.6)
+  DW Steyn: 1/76 (8.5 ov, Econ 8.6)
+  Imran Tahir: 0/40 (9.0 ov, Econ 4.44)
+  VD Philander: 0/52 (8.0 ov, Econ 6.5)
+  Extras: 13
+
+Batting Highlights:
+  Half-century: F du Plessis scored 82 off 107 balls (SR 76.64)
+  Half-century: AB de Villiers scored 65 off 45 balls (SR 144.44)
+  Quickfire innings: DA Miller smashed 49 off 18 balls at SR 272.22
+  Half-century: GD Elliott scored 84 off 73 balls (SR 115.07)
+  Half-century: BB McCullum scored 59 off 26 balls (SR 226.92)
+  Half-century: CJ Anderson scored 58 off 57 balls (SR 101.75)
+
+Bowling Highlights:
+  Key spell: CJ Anderson took 3/72
+  Key spell: M Morkel took 3/59
+
+Captain Performance:
+  AB de Villiers (South Africa): scored 65 off 45 balls
+  Brendon McCullum (New Zealand): scored 59 off 26 balls
+
+Key Moments:
+  South Africa lost 5 early wickets.
+  New Zealand lost 6 early wickets.
+  South Africa exploded in the death overs (42 runs at 14.0 RPO).
+  New Zealand scored aggressively in the powerplay (88 runs at 8.8 RPO).
+  New Zealand exploded in the death overs (30 runs at 10.59 RPO).
+
+Result: New Zealand won by 4 wickets (D/L)
+Toss: South Africa won and chose to bat
+Player of the Match: GD Elliott

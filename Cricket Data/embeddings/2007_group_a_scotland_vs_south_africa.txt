@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2007
+Match: Scotland vs South Africa
+Stage: Group A
+Date: 2007-03-20
+Venue: Warner Park, Basseterre, St Kitts
+Captain Scotland: Craig Wright
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Group A: Scotland vs South Africa (2007-03-20) at St Kitts.
+
+Scotland: 186/8 (50.0 ov)
+  DR Brown: 45 (64b, 3x4, 0x6, SR 70.31)
+  RR Watson: 31 (50b, 4x4, 0x6, SR 62.0)
+  DF Watts: 24 (44b, 2x4, 1x6, SR 54.55)
+  JAR Blain: 23 (35b, 1x4, 1x6, SR 65.71)
+  PJC Hoffmann: 18 (11b, 3x4, 1x6, SR 163.64)
+  AJ Hall: 3/48 (10.0 ov, Econ 4.8)
+  CK Langeveldt: 2/48 (10.0 ov, Econ 4.8)
+  SM Pollock: 1/25 (10.0 ov, Econ 2.5)
+  JH Kallis: 0/21 (8.0 ov, Econ 2.62)
+  M Ntini: 0/25 (9.0 ov, Econ 2.78)
+  Extras: 12
+
+South Africa: 188/3 (23.2 ov)
+  GC Smith: 91 (65b, 13x4, 1x6, SR 140.0)
+  AB de Villiers: 62 (45b, 9x4, 2x6, SR 137.78)
+  AG Prince: 21 (23b, 3x4, 0x6, SR 91.3)
+  JM Kemp: 12 (7b, 1x4, 1x6, SR 171.43)
+  RM Haq: 2/43 (6.0 ov, Econ 7.17)
+  GA Rogers: 1/47 (5.2 ov, Econ 8.81)
+  PJC Hoffmann: 0/21 (3.0 ov, Econ 7.0)
+  JAR Blain: 0/32 (4.0 ov, Econ 8.0)
+  JD Nel: 0/24 (3.0 ov, Econ 8.0)
+  Extras: 2
+
+Batting Highlights:
+  Half-century: GC Smith scored 91 off 65 balls (SR 140.0)
+  Half-century: AB de Villiers scored 62 off 45 balls (SR 137.78)
+
+Bowling Highlights:
+  Key spell: AJ Hall took 3/48
+  Economical spell: SM Pollock conceded 25 runs in 10.0 overs (Econ 2.5)
+  Economical spell: JH Kallis conceded 21 runs in 8.0 overs (Econ 2.62)
+  Economical spell: M Ntini conceded 25 runs in 9.0 overs (Econ 2.78)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 91 off 65 balls
+
+Key Moments:
+  Scotland lost 8 early wickets.
+  South Africa lost 3 early wickets.
+  South Africa scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: South Africa won by 7 wickets
+Toss: South Africa won and chose to field
+Player of the Match: GC Smith

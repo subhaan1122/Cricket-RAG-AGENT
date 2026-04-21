@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2011
+Match: Ireland vs South Africa
+Stage: Group B
+Date: 2011-03-15
+Venue: Eden Gardens, Kolkata
+Captain Ireland: William Porterfield
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2011 World Cup Group B: Ireland vs South Africa (2011-03-15) at Kolkata.
+
+South Africa: 272/7 (50.0 ov)
+  JP Duminy: 99 (103b, 6x4, 1x6, SR 96.12)
+  CA Ingram: 46 (43b, 7x4, 0x6, SR 106.98)
+  MN van Wyk: 42 (41b, 7x4, 1x6, SR 102.44)
+  J Botha: 21 (28b, 1x4, 0x6, SR 75.0)
+  JH Kallis: 19 (31b, 3x4, 0x6, SR 61.29)
+  GH Dockrell: 1/37 (10.0 ov, Econ 3.7)
+  JF Mooney: 1/36 (8.0 ov, Econ 4.5)
+  PR Stirling: 1/45 (10.0 ov, Econ 4.5)
+  WB Rankin: 1/59 (10.0 ov, Econ 5.9)
+  DT Johnston: 1/76 (10.0 ov, Econ 7.6)
+  Extras: 9
+
+Ireland: 141 all out (33.2 ov)
+  GC Wilson: 31 (48b, 4x4, 1x6, SR 64.58)
+  KJ O'Brien: 19 (24b, 2x4, 0x6, SR 79.17)
+  GH Dockrell: 16 (12b, 3x4, 0x6, SR 133.33)
+  JF Mooney: 14 (28b, 1x4, 0x6, SR 50.0)
+  DT Johnston: 12 (16b, 0x4, 1x6, SR 75.0)
+  RJ Peterson: 3/32 (8.0 ov, Econ 4.0)
+  M Morkel: 3/33 (5.2 ov, Econ 6.19)
+  JH Kallis: 2/20 (6.0 ov, Econ 3.33)
+  J Botha: 1/32 (8.0 ov, Econ 4.0)
+  JP Duminy: 1/11 (2.0 ov, Econ 5.5)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: JP Duminy scored 99 off 103 balls (SR 96.12)
+
+Bowling Highlights:
+  Key spell: RJ Peterson took 3/32
+  Key spell: M Morkel took 3/33
+  Economical spell: JH Kallis conceded 20 runs in 6.0 overs (Econ 3.33)
+
+Captain Performance:
+  Ireland captain: William Porterfield
+  South Africa captain: Graeme Smith
+
+Key Moments:
+  South Africa lost 7 early wickets.
+  Ireland lost 10 early wickets.
+  Ireland lost 3 wickets in the powerplay.
+
+Result: South Africa won by 131 runs
+Toss: Ireland won and chose to field
+Player of the Match: JP Duminy

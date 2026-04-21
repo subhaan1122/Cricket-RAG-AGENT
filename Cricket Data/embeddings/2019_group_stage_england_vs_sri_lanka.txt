@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: England vs Sri Lanka
+Stage: Group Stage
+Date: 2019-06-21
+Venue: Headingley, Leeds
+Captain England: Eoin Morgan
+Captain Sri Lanka: Dimuth Karunaratne
+
+Match Summary:
+  2019 World Cup Group Stage: England vs Sri Lanka (2019-06-21) at Leeds.
+
+Sri Lanka: 232/9 (50.0 ov)
+  AD Mathews: 85 (115b, 5x4, 1x6, SR 73.91)
+  WIA Fernando: 49 (39b, 6x4, 2x6, SR 125.64)
+  BKG Mendis: 46 (68b, 2x4, 0x6, SR 67.65)
+  DM de Silva: 29 (47b, 1x4, 0x6, SR 61.7)
+  I Udana: 6 (4b, 1x4, 0x6, SR 150.0)
+  MA Wood: 3/40 (8.0 ov, Econ 5.0)
+  JC Archer: 3/52 (10.0 ov, Econ 5.2)
+  AU Rashid: 2/45 (10.0 ov, Econ 4.5)
+  CR Woakes: 1/22 (5.0 ov, Econ 4.4)
+  BA Stokes: 0/16 (5.0 ov, Econ 3.2)
+  Extras: 10
+
+England: 212 all out (47.0 ov)
+  BA Stokes: 82 (89b, 7x4, 4x6, SR 92.13)
+  JE Root: 57 (89b, 3x4, 0x6, SR 64.04)
+  EJG Morgan: 21 (35b, 2x4, 0x6, SR 60.0)
+  MM Ali: 16 (20b, 0x4, 1x6, SR 80.0)
+  JM Vince: 14 (18b, 2x4, 0x6, SR 77.78)
+  SL Malinga: 4/43 (10.0 ov, Econ 4.3)
+  DM de Silva: 3/32 (8.0 ov, Econ 4.0)
+  I Udana: 2/41 (8.0 ov, Econ 5.12)
+  N Pradeep: 1/38 (10.0 ov, Econ 3.8)
+  NLTC Perera: 0/34 (8.0 ov, Econ 4.25)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: AD Mathews scored 85 off 115 balls (SR 73.91)
+  Half-century: BA Stokes scored 82 off 89 balls (SR 92.13)
+  Half-century: JE Root scored 57 off 89 balls (SR 64.04)
+
+Bowling Highlights:
+  Key spell: MA Wood took 3/40
+  Key spell: JC Archer took 3/52
+  Economical spell: BA Stokes conceded 16 runs in 5.0 overs (Econ 3.2)
+  Match-changing spell: SL Malinga took 4/43
+  Key spell: DM de Silva took 3/32
+
+Captain Performance:
+  Eoin Morgan (England): scored 21 off 35 balls
+
+Key Moments:
+  Sri Lanka lost 9 early wickets.
+  England lost 10 early wickets.
+
+Result: Sri Lanka won by 20 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: SL Malinga

@@ -1,0 +1,374 @@
+{
+  "match_id": "5fc82bf49817",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Trent Bridge",
+  "city": "Nottingham",
+  "date": "2019-06-06",
+  "teams": {
+    "team1": "Australia",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "15 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Aaron Finch",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "NM Coulter-Nile",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 288,
+      "wickets": 10,
+      "overs": 49.0,
+      "extras": 27,
+      "top_batters": [
+        {
+          "name": "NM Coulter-Nile",
+          "runs": 92,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 153.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 73,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.87,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AT Carey",
+          "runs": 45,
+          "balls": 55,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MP Stoinis",
+          "runs": 19,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "UT Khawaja",
+          "runs": 13,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CR Brathwaite",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 3,
+          "economy": 6.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Russell",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 5.12,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "SS Cottrell",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 6.22,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "O Thomas",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 2,
+          "economy": 6.3,
+          "wides": 8,
+          "no_balls": 1
+        },
+        {
+          "name": "JO Holder",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 26,
+          "wickets": 2,
+          "overs": "3.6"
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 36,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 38,
+          "wickets": 4,
+          "overs": "7.4"
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 79,
+          "wickets": 5,
+          "overs": "16.1"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 147,
+          "wickets": 6,
+          "overs": "30.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 249,
+          "wickets": 7,
+          "overs": "44.2"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 268,
+          "wickets": 8,
+          "overs": "46.1"
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 284,
+          "wickets": 9,
+          "overs": "48.2"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 288,
+          "wickets": 10,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 273,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 20,
+      "top_batters": [
+        {
+          "name": "SD Hope",
+          "runs": 68,
+          "balls": 105,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 64.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JO Holder",
+          "runs": 51,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "N Pooran",
+          "runs": 40,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 21,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 123.53,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SO Hetmyer",
+          "runs": 21,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 5,
+          "economy": 4.6,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "A Zampa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 0,
+          "economy": 5.17,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "E Lewis",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "N Pooran",
+          "runs": 99,
+          "wickets": 3,
+          "overs": "19.1"
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 149,
+          "wickets": 4,
+          "overs": "27.2"
+        },
+        {
+          "player": "SD Hope",
+          "runs": 190,
+          "wickets": 5,
+          "overs": "34.6"
+        },
+        {
+          "player": "AD Russell",
+          "runs": 216,
+          "wickets": 6,
+          "overs": "38.5"
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 252,
+          "wickets": 7,
+          "overs": "45.3"
+        },
+        {
+          "player": "JO Holder",
+          "runs": 252,
+          "wickets": 8,
+          "overs": "45.6"
+        },
+        {
+          "player": "SS Cottrell",
+          "runs": 256,
+          "wickets": 9,
+          "overs": "47.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_australia_vs_west_indies.json",
+  "match_summary": "2019 World Cup Group Stage: Australia vs West Indies (2019-06-06) at Nottingham.\nAustralia: 288 all out (49.0 ov)\n  NM Coulter-Nile: 92 (60b, 8x4, 4x6)\n  SPD Smith: 73 (103b, 7x4, 0x6)\n  AT Carey: 45 (55b, 7x4, 0x6)\n  CR Brathwaite: 3/67 (10.0 ov)\n  AD Russell: 2/41 (8.0 ov)\n  SS Cottrell: 2/56 (9.0 ov)\nWest Indies: 273/9 (50.0 ov)\n  SD Hope: 68 (105b, 7x4, 0x6)\n  JO Holder: 51 (57b, 7x4, 1x6)\n  N Pooran: 40 (36b, 5x4, 1x6)\n  MA Starc: 5/46 (10.0 ov)\n  PJ Cummins: 2/41 (10.0 ov)\nAustralia won by 15 runs.\nPlayer of the Match: NM Coulter-Nile."
+}

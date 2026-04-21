@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: Sri Lanka vs Canada
+Stage: Group A
+Date: 2011-02-20
+Venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+Captain Sri Lanka: Kumar Sangakkara
+Captain Canada: Ashish Bagai
+
+Match Summary:
+  2011 World Cup Group A: Sri Lanka vs Canada (2011-02-20) at Hambantota.
+
+Sri Lanka: 332/7 (50.0 ov)
+  DPMD Jayawardene: 100 (81b, 9x4, 1x6, SR 123.46)
+  KC Sangakkara: 92 (87b, 7x4, 1x6, SR 105.75)
+  TM Dilshan: 50 (59b, 8x4, 0x6, SR 84.75)
+  AD Mathews: 21 (16b, 3x4, 0x6, SR 131.25)
+  WU Tharanga: 19 (31b, 1x4, 0x6, SR 61.29)
+  HS Baidwan: 2/59 (8.5 ov, Econ 6.68)
+  JM Davison: 2/56 (8.0 ov, Econ 7.0)
+  Rizwan Cheema: 1/47 (7.0 ov, Econ 6.71)
+  H Osinde: 0/10 (2.1 ov, Econ 4.62)
+  AS Hansra: 0/47 (9.0 ov, Econ 5.22)
+  Extras: 12
+
+Canada: 122 all out (36.5 ov)
+  Rizwan Cheema: 37 (35b, 4x4, 2x6, SR 105.71)
+  A Bagai: 22 (47b, 2x4, 0x6, SR 46.81)
+  HS Baidwan: 16 (35b, 1x4, 0x6, SR 45.71)
+  AS Hansra: 9 (49b, 0x4, 0x6, SR 18.37)
+  WD Balaji Rao: 6 (7b, 1x4, 0x6, SR 85.71)
+  KMDN Kulasekara: 3/16 (6.0 ov, Econ 2.67)
+  NLTC Perera: 3/24 (7.0 ov, Econ 3.43)
+  M Muralitharan: 2/38 (9.0 ov, Econ 4.22)
+  TT Samaraweera: 1/4 (2.0 ov, Econ 2.0)
+  BAW Mendis: 1/18 (7.5 ov, Econ 2.3)
+  Extras: 13
+
+Batting Highlights:
+  Century: DPMD Jayawardene scored 100 off 81 balls (SR 123.46, 9 fours, 1 sixes)
+  Half-century: KC Sangakkara scored 92 off 87 balls (SR 105.75)
+  Half-century: TM Dilshan scored 50 off 59 balls (SR 84.75)
+
+Bowling Highlights:
+  Key spell: KMDN Kulasekara took 3/16
+  Key spell: NLTC Perera took 3/24
+  Economical spell: BAW Mendis conceded 18 runs in 7.5 overs (Econ 2.3)
+
+Captain Performance:
+  Kumar Sangakkara (Sri Lanka): scored 92 off 87 balls
+  Ashish Bagai (Canada): scored 22 off 47 balls
+
+Key Moments:
+  Sri Lanka lost 7 early wickets.
+  Canada lost 10 early wickets.
+  Canada lost 3 wickets in the powerplay.
+
+Result: Sri Lanka won by 210 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: DPMD Jayawardene

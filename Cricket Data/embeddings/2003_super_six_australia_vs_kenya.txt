@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2003
+Match: Kenya vs Australia
+Stage: Super Six
+Date: 2003-03-15
+Venue: Kingsmead, Durban, Durban
+Captain Kenya: Steve Tikolo
+Captain Australia: Ricky Ponting
+
+Match Summary:
+  2003 World Cup Super Six: Kenya vs Australia (2003-03-15) at Durban.
+
+Kenya: 174/8 (50.0 ov)
+  SO Tikolo: 51 (100b, 5x4, 0x6, SR 51.0)
+  RD Shah: 46 (83b, 6x4, 0x6, SR 55.42)
+  HS Modi: 39 (74b, 2x4, 0x6, SR 52.7)
+  MA Suji: 15 (19b, 0x4, 1x6, SR 78.95)
+  CO Obuya: 3 (6b, 0x4, 0x6, SR 50.0)
+  B Lee: 3/14 (8.0 ov, Econ 1.75)
+  DS Lehmann: 2/22 (6.0 ov, Econ 3.67)
+  AJ Bichel: 2/42 (9.0 ov, Econ 4.67)
+  GB Hogg: 1/31 (10.0 ov, Econ 3.1)
+  GD McGrath: 0/32 (10.0 ov, Econ 3.2)
+  Extras: 17
+
+Australia: 178/5 (31.2 ov)
+  AC Gilchrist: 67 (43b, 9x4, 3x6, SR 155.81)
+  A Symonds: 33 (49b, 5x4, 1x6, SR 67.35)
+  IJ Harvey: 28 (43b, 5x4, 0x6, SR 65.12)
+  ML Hayden: 20 (14b, 5x4, 0x6, SR 142.86)
+  RT Ponting: 18 (30b, 2x4, 0x6, SR 60.0)
+  AY Karim: 3/7 (8.2 ov, Econ 0.84)
+  PJ Ongondo: 2/44 (10.0 ov, Econ 4.4)
+  CO Obuya: 0/62 (8.0 ov, Econ 7.75)
+  MA Suji: 0/36 (3.0 ov, Econ 12.0)
+  AO Suji: 0/24 (2.0 ov, Econ 12.0)
+  Extras: 10
+
+Batting Highlights:
+  Half-century: SO Tikolo scored 51 off 100 balls (SR 51.0)
+  Half-century: AC Gilchrist scored 67 off 43 balls (SR 155.81)
+
+Bowling Highlights:
+  Key spell: B Lee took 3/14
+  Economical spell: GB Hogg conceded 31 runs in 10.0 overs (Econ 3.1)
+  Economical spell: GD McGrath conceded 32 runs in 10.0 overs (Econ 3.2)
+  Key spell: AY Karim took 3/7
+
+Captain Performance:
+  Steve Tikolo (Kenya): scored 51 off 100 balls
+  Ricky Ponting (Australia): scored 18 off 30 balls
+
+Key Moments:
+  Kenya lost 8 early wickets.
+  Australia lost 5 early wickets.
+  Kenya lost 3 wickets in the powerplay.
+  Australia scored aggressively in the powerplay (79 runs at 7.9 RPO).
+
+Result: Australia won by 5 wickets
+Toss: Australia won and chose to field
+Player of the Match: AY Karim

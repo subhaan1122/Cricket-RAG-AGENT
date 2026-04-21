@@ -1,0 +1,356 @@
+{
+  "match_id": "1557402dc108",
+  "world_cup_year": 2007,
+  "stage": "Group A",
+  "venue": "Warner Park, Basseterre",
+  "city": "St Kitts",
+  "date": "2007-03-24",
+  "teams": {
+    "team1": "Australia",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "83 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "ML Hayden",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 377,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "ML Hayden",
+          "runs": 101,
+          "balls": 68,
+          "fours": 14,
+          "sixes": 4,
+          "strike_rate": 148.53,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 92,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 122.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 91,
+          "balls": 91,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 42,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Symonds",
+          "runs": 18,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 138.46,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AJ Hall",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 1,
+          "economy": 7.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 82,
+          "wickets": 1,
+          "economy": 8.2,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "GC Smith",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 106,
+          "wickets": 1,
+          "overs": "14.5"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 167,
+          "wickets": 2,
+          "overs": "23.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 328,
+          "wickets": 3,
+          "overs": "45.1"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 347,
+          "wickets": 4,
+          "overs": "46.4"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 353,
+          "wickets": 5,
+          "overs": "47.2"
+        },
+        {
+          "player": "A Symonds",
+          "runs": 377,
+          "wickets": 6,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 294,
+      "wickets": 10,
+      "overs": 48.0,
+      "extras": 17,
+      "top_batters": [
+        {
+          "name": "AB de Villiers",
+          "runs": 92,
+          "balls": 70,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 131.43,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 74,
+          "balls": 69,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 107.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 48,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MV Boucher",
+          "runs": 22,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 84.62,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "HH Gibbs",
+          "runs": 17,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "stumped"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 3,
+          "economy": 6.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.44,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 2,
+          "economy": 6.1,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "SR Watson",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 51,
+          "wickets": 1,
+          "economy": 6.38,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 1,
+          "economy": 6.89,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AB de Villiers",
+          "runs": 160,
+          "wickets": 1,
+          "overs": "20.6"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 220,
+          "wickets": 2,
+          "overs": "31.3"
+        },
+        {
+          "player": "AG Prince",
+          "runs": 223,
+          "wickets": 3,
+          "overs": "32.2"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 256,
+          "wickets": 4,
+          "overs": "38.5"
+        },
+        {
+          "player": "JM Kemp",
+          "runs": 264,
+          "wickets": 5,
+          "overs": "40.5"
+        },
+        {
+          "player": "GC Smith",
+          "runs": 267,
+          "wickets": 6,
+          "overs": "41.3"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 277,
+          "wickets": 7,
+          "overs": "43.1"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 279,
+          "wickets": 8,
+          "overs": "44.1"
+        },
+        {
+          "player": "CK Langeveldt",
+          "runs": 280,
+          "wickets": 9,
+          "overs": "45.2"
+        },
+        {
+          "player": "M Ntini",
+          "runs": 294,
+          "wickets": 10,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_a_australia_vs_south_africa.json",
+  "match_summary": "2007 World Cup Group A: Australia vs South Africa (2007-03-24) at St Kitts.\nAustralia: 377/6 (50.0 ov)\n  ML Hayden: 101 (68b, 14x4, 4x6)\n  MJ Clarke: 92 (75b, 7x4, 4x6)\n  RT Ponting: 91 (91b, 8x4, 2x6)\n  AJ Hall: 2/60 (10.0 ov)\nSouth Africa: 294 all out (48.0 ov)\n  AB de Villiers: 92 (70b, 14x4, 2x6)\n  GC Smith: 74 (69b, 9x4, 2x6)\n  JH Kallis: 48 (63b, 5x4, 0x6)\n  GB Hogg: 3/61 (10.0 ov)\n  NW Bracken: 2/40 (9.0 ov)\n  SW Tait: 2/61 (10.0 ov)\nAustralia won by 83 runs.\nPlayer of the Match: ML Hayden."
+}

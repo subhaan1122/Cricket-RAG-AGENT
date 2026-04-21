@@ -1,0 +1,725 @@
+{
+  "match_info": {
+    "match_id": "f931dadbc1b6",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "Pallekele International Cricket Stadium",
+    "city": "",
+    "date": "2011-03-08",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "Pakistan"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "110 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Daniel Vettori",
+      "team2": "Shahid Afridi"
+    },
+    "player_of_match": "LRPL Taylor",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: New Zealand vs Pakistan (2011-03-08) at Pallekele International Cricket Stadium.\nNew Zealand: 302/7 (50.0 ov)\n  LRPL Taylor: 131* (124b, 8x4, 7x6)\n  MJ Guptill: 57 (86b, 7x4, 0x6)\n  Umar Gul: 3/32 (10.0 ov)\nPakistan: 192 all out (41.4 ov)\n  Abdul Razzaq: 62 (74b, 9x4, 0x6)\n  Umar Akmal: 38 (58b, 3x4, 0x6)\n  Umar Gul: 34* (25b, 3x4, 1x6)\n  TG Southee: 3/25 (8.0 ov)\n  SB Styris: 2/17 (4.4 ov)\n  NL McCullum: 2/28 (6.0 ov)\nNew Zealand won by 110 runs.\nPlayer of the Match: LRPL Taylor.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 494,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 5.36,
+    "highest_individual_score": 131,
+    "best_bowling_figures": "3/32",
+    "total_sixes": 14,
+    "total_fours": 36
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 302,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 6.04,
+      "top_batters": [
+        {
+          "name": "LRPL Taylor",
+          "runs": 131,
+          "balls": 124,
+          "fours": 8,
+          "sixes": 7,
+          "strike_rate": 105.65,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 57,
+          "balls": 86,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 66.28,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 28,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.68,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JDP Oram",
+          "runs": 25,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 277.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NL McCullum",
+          "runs": 19,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 190.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Umar Gul",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 3,
+          "economy": 3.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 3.71,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Rehman",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 1,
+          "economy": 7.78,
+          "wides": 3,
+          "no_balls": 3
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "JM How",
+          "runs": 55,
+          "wickets": 2,
+          "overs": "12.3"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 112,
+          "wickets": 3,
+          "overs": "28.5"
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 113,
+          "wickets": 4,
+          "overs": "29.1"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 175,
+          "wickets": 5,
+          "overs": "41.6"
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 210,
+          "wickets": 6,
+          "overs": "45.5"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 295,
+          "wickets": 7,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 45,
+        "wickets": 1,
+        "run_rate": 4.5,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 40,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 139,
+        "wickets": 3,
+        "run_rate": 13.9,
+        "fours": 8,
+        "sixes": 12,
+        "dot_balls": 20,
+        "extras": 9
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Pakistan",
+      "total_runs": 192,
+      "total_wickets": 10,
+      "total_overs": 41.4,
+      "run_rate": 4.68,
+      "top_batters": [
+        {
+          "name": "Abdul Razzaq",
+          "runs": 62,
+          "balls": 74,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 83.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Akmal",
+          "runs": 38,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Umar Gul",
+          "runs": 34,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 136.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Shahid Afridi",
+          "runs": 17,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 188.89,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "runs": 10,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 3,
+          "economy": 3.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "4.4",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 2,
+          "economy": 3.64,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NL McCullum",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 2,
+          "economy": 4.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KD Mills",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 5.38,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.2"
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 23,
+          "wickets": 2,
+          "overs": "6.1"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 23,
+          "wickets": 3,
+          "overs": "6.4"
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 23,
+          "wickets": 4,
+          "overs": "7.1"
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 45,
+          "wickets": 5,
+          "overs": "14.4"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 66,
+          "wickets": 6,
+          "overs": "17.1"
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 102,
+          "wickets": 7,
+          "overs": "28.3"
+        },
+        {
+          "player": "Abdur Rehman",
+          "runs": 125,
+          "wickets": 8,
+          "overs": "32.4"
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 191,
+          "wickets": 9,
+          "overs": "41.1"
+        },
+        {
+          "player": "Shoaib Akhtar",
+          "runs": 192,
+          "wickets": 10,
+          "overs": "41.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 30,
+        "wickets": 4,
+        "run_rate": 3.0,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "1.4",
+        "balls": 10,
+        "runs": 5,
+        "wickets": 2,
+        "run_rate": 3.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 5,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "LRPL Taylor": {
+      "batting": {
+        "runs": 131,
+        "balls": 124,
+        "fours": 8,
+        "sixes": 7,
+        "strike_rate": 105.65
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 57,
+        "balls": 86,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 66.28
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 28,
+        "balls": 37,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 75.68
+      },
+      "bowling": {
+        "overs": 4.666666666666667,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 3.64
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 25,
+        "balls": 9,
+        "fours": 1,
+        "sixes": 3,
+        "strike_rate": 277.78
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NL McCullum": {
+      "batting": {
+        "runs": 19,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 190.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 2,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Gul": {
+      "batting": {
+        "runs": 34,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 136.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 3,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Hafeez": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 3.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 17,
+        "balls": 9,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 188.89
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Rehman": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shoaib Akhtar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 70,
+        "wickets": 1,
+        "economy": 7.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdul Razzaq": {
+      "batting": {
+        "runs": 62,
+        "balls": 74,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 83.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Umar Akmal": {
+      "batting": {
+        "runs": 38,
+        "balls": 58,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 65.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Ahmed Shehzad": {
+      "batting": {
+        "runs": 10,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 62.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TG Southee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 3,
+        "economy": 3.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KD Mills": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 2,
+        "economy": 5.38
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 302 in 50.0 overs at 6.04 RPO",
+    "vs Pakistan scored 192 in 41.4 overs at 4.68 RPO",
+    "Top batsman: LRPL Taylor with 131 runs",
+    "Top bowler: Umar Gul with 3 wickets"
+  ]
+}

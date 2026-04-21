@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2011
+Match: New Zealand vs Sri Lanka
+Stage: Group A
+Date: 2011-03-18
+Venue: Wankhede Stadium, Mumbai
+Captain New Zealand: Daniel Vettori
+Captain Sri Lanka: Kumar Sangakkara
+
+Match Summary:
+  2011 World Cup Group A: New Zealand vs Sri Lanka (2011-03-18) at Mumbai.
+
+Sri Lanka: 265/9 (50.0 ov)
+  KC Sangakkara: 111 (128b, 11x4, 2x6, SR 86.72)
+  DPMD Jayawardene: 66 (90b, 6x4, 0x6, SR 73.33)
+  AD Mathews: 41 (35b, 4x4, 0x6, SR 117.14)
+  M Muralitharan: 7 (3b, 0x4, 1x6, SR 233.33)
+  SL Malinga: 6 (4b, 0x4, 1x6, SR 150.0)
+  TG Southee: 3/63 (10.0 ov, Econ 6.3)
+  NL McCullum: 2/48 (10.0 ov, Econ 4.8)
+  SB Styris: 1/44 (8.0 ov, Econ 5.5)
+  JDP Oram: 1/57 (10.0 ov, Econ 5.7)
+  JEC Franklin: 0/11 (3.0 ov, Econ 3.67)
+  Extras: 19
+
+New Zealand: 153 all out (35.0 ov)
+  LRPL Taylor: 33 (55b, 3x4, 1x6, SR 60.0)
+  JDP Oram: 20 (27b, 2x4, 0x6, SR 74.07)
+  JEC Franklin: 20 (29b, 2x4, 0x6, SR 68.97)
+  JD Ryder: 19 (23b, 2x4, 0x6, SR 82.61)
+  BB McCullum: 14 (16b, 2x4, 0x6, SR 87.5)
+  M Muralitharan: 4/25 (8.0 ov, Econ 3.12)
+  BAW Mendis: 2/24 (6.0 ov, Econ 4.0)
+  KMDN Kulasekara: 1/19 (7.0 ov, Econ 2.71)
+  TM Dilshan: 1/24 (6.0 ov, Econ 4.0)
+  AD Mathews: 1/19 (3.0 ov, Econ 6.33)
+  Extras: 11
+
+Batting Highlights:
+  Century: KC Sangakkara scored 111 off 128 balls (SR 86.72, 11 fours, 2 sixes)
+  Half-century: DPMD Jayawardene scored 66 off 90 balls (SR 73.33)
+
+Bowling Highlights:
+  Key spell: TG Southee took 3/63
+  Match-changing spell: M Muralitharan took 4/25
+  Economical spell: KMDN Kulasekara conceded 19 runs in 7.0 overs (Econ 2.71)
+
+Captain Performance:
+  Kumar Sangakkara (Sri Lanka): scored 111 off 128 balls
+
+Key Moments:
+  Sri Lanka lost 9 early wickets.
+  New Zealand lost 10 early wickets.
+
+Result: Sri Lanka won by 112 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: KC Sangakkara

@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2007
+Match: Bermuda vs India
+Stage: Group B
+Date: 2007-03-19
+Venue: Queen's Park Oval, Port of Spain, Trinidad
+Captain Bermuda: Irving Romaine
+Captain India: Rahul Dravid
+
+Match Summary:
+  2007 World Cup Group B: Bermuda vs India (2007-03-19) at Trinidad.
+
+India: 413/5 (50.0 ov)
+  V Sehwag: 114 (87b, 17x4, 3x6, SR 131.03)
+  SC Ganguly: 89 (114b, 4x4, 2x6, SR 78.07)
+  Yuvraj Singh: 83 (46b, 3x4, 7x6, SR 180.43)
+  SR Tendulkar: 57 (29b, 2x4, 4x6, SR 196.55)
+  MS Dhoni: 29 (25b, 2x4, 1x6, SR 116.0)
+  DCC Borden: 2/30 (5.0 ov, Econ 6.0)
+  KAD Hurdle: 1/53 (10.0 ov, Econ 5.3)
+  RDM Leverock: 1/96 (10.0 ov, Econ 9.6)
+  MO Jones: 1/74 (7.0 ov, Econ 10.57)
+  JJ Tucker: 0/67 (9.0 ov, Econ 7.44)
+  Extras: 31
+
+Bermuda: 156 all out (43.1 ov)
+  DL Hemp: 76 (105b, 9x4, 1x6, SR 72.38)
+  DA Minors: 21 (36b, 3x4, 1x6, SR 58.33)
+  DCC Borden: 13 (38b, 1x4, 0x6, SR 34.21)
+  SD Outerbridge: 9 (16b, 1x4, 0x6, SR 56.25)
+  RDM Leverock: 9 (31b, 1x4, 0x6, SR 29.03)
+  AB Agarkar: 3/38 (10.0 ov, Econ 3.8)
+  A Kumble: 3/38 (9.1 ov, Econ 4.15)
+  Z Khan: 2/32 (10.0 ov, Econ 3.2)
+  SR Tendulkar: 1/1 (1.0 ov, Econ 1.0)
+  MM Patel: 1/20 (8.0 ov, Econ 2.5)
+  Extras: 27
+
+Batting Highlights:
+  Century: V Sehwag scored 114 off 87 balls (SR 131.03, 17 fours, 3 sixes)
+  Half-century: SC Ganguly scored 89 off 114 balls (SR 78.07)
+  Half-century: Yuvraj Singh scored 83 off 46 balls (SR 180.43)
+  Half-century: SR Tendulkar scored 57 off 29 balls (SR 196.55)
+  Half-century: DL Hemp scored 76 off 105 balls (SR 72.38)
+
+Bowling Highlights:
+  Key spell: AB Agarkar took 3/38
+  Key spell: A Kumble took 3/38
+  Economical spell: Z Khan conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: MM Patel conceded 20 runs in 8.0 overs (Econ 2.5)
+
+Captain Performance:
+  Bermuda captain: Irving Romaine
+  India captain: Rahul Dravid
+
+Key Moments:
+  India lost 5 early wickets.
+  Bermuda lost 10 early wickets.
+  India exploded in the death overs (136 runs at 13.6 RPO).
+
+Result: India won by 257 runs
+Toss: Bermuda won and chose to field
+Player of the Match: V Sehwag

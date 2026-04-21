@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: Bangladesh vs India
+Stage: Quarter-Final
+Date: 2015-03-19
+Venue: Melbourne Cricket Ground
+Captain Bangladesh: Mashrafe Mortaza
+Captain India: MS Dhoni
+
+Match Summary:
+  2015 World Cup Quarter-Final: Bangladesh vs India (2015-03-19) at Melbourne Cricket Ground.
+
+India: 302/6 (50.0 ov)
+  RG Sharma: 137 (126b, 14x4, 3x6, SR 108.73)
+  SK Raina: 65 (57b, 7x4, 1x6, SR 114.04)
+  S Dhawan: 30 (50b, 3x4, 0x6, SR 60.0)
+  RA Jadeja: 23 (10b, 4x4, 0x6, SR 230.0)
+  AM Rahane: 19 (37b, 1x4, 0x6, SR 51.35)
+  Taskin Ahmed: 3/69 (10.0 ov, Econ 6.9)
+  Rubel Hossain: 1/56 (10.0 ov, Econ 5.6)
+  Shakib Al Hasan: 1/58 (10.0 ov, Econ 5.8)
+  Mashrafe Mortaza: 1/69 (10.0 ov, Econ 6.9)
+  Nasir Hossain: 0/35 (9.0 ov, Econ 3.89)
+  Extras: 16
+
+Bangladesh: 193 all out (45.0 ov)
+  Nasir Hossain: 35 (34b, 6x4, 0x6, SR 102.94)
+  Sabbir Rahman: 30 (40b, 2x4, 0x6, SR 75.0)
+  Soumya Sarkar: 29 (43b, 3x4, 1x6, SR 67.44)
+  Mushfiqur Rahim: 27 (43b, 2x4, 0x6, SR 62.79)
+  Tamim Iqbal: 25 (25b, 4x4, 0x6, SR 100.0)
+  UT Yadav: 4/31 (9.0 ov, Econ 3.44)
+  Mohammed Shami: 2/37 (8.0 ov, Econ 4.62)
+  RA Jadeja: 2/42 (8.0 ov, Econ 5.25)
+  MM Sharma: 1/36 (7.0 ov, Econ 5.14)
+  R Ashwin: 0/30 (10.0 ov, Econ 3.0)
+  Extras: 10
+
+Batting Highlights:
+  Century: RG Sharma scored 137 off 126 balls (SR 108.73, 14 fours, 3 sixes)
+  Half-century: SK Raina scored 65 off 57 balls (SR 114.04)
+
+Bowling Highlights:
+  Key spell: Taskin Ahmed took 3/69
+  Match-changing spell: UT Yadav took 4/31
+  Economical spell: R Ashwin conceded 30 runs in 10.0 overs (Econ 3.0)
+
+Captain Performance:
+  Bangladesh captain: Mashrafe Mortaza
+  India captain: MS Dhoni
+
+Key Moments:
+  India lost 6 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: India won by 109 runs
+Toss: India won and chose to bat
+Player of the Match: RG Sharma

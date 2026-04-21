@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2023
+Match: England vs Netherlands
+Stage: Group Stage
+Date: 2023-11-08
+Venue: Maharashtra Cricket Association Stadium, Pune, Pune
+Captain England: Jos Buttler
+Captain Netherlands: Scott Edwards
+
+Match Summary:
+  2023 World Cup Group Stage: England vs Netherlands (2023-11-08) at Pune.
+
+England: 339/9 (50.0 ov)
+  BA Stokes: 108 (84b, 6x4, 6x6, SR 128.57)
+  DJ Malan: 87 (74b, 10x4, 2x6, SR 117.57)
+  CR Woakes: 51 (45b, 5x4, 1x6, SR 113.33)
+  JE Root: 28 (35b, 1x4, 0x6, SR 80.0)
+  JM Bairstow: 15 (17b, 2x4, 0x6, SR 88.24)
+  BFW de Leede: 3/74 (10.0 ov, Econ 7.4)
+  A Dutt: 2/67 (10.0 ov, Econ 6.7)
+  LV van Beek: 2/88 (10.0 ov, Econ 8.8)
+  PA van Meekeren: 1/57 (10.0 ov, Econ 5.7)
+  CN Ackermann: 0/31 (7.0 ov, Econ 4.43)
+  Extras: 21
+
+Netherlands: 179 all out (37.2 ov)
+  AT Nidamanuru: 41 (34b, 2x4, 3x6, SR 120.59)
+  SA Edwards: 38 (42b, 3x4, 1x6, SR 90.48)
+  W Barresi: 37 (62b, 3x4, 1x6, SR 59.68)
+  SA Engelbrecht: 33 (49b, 3x4, 1x6, SR 67.35)
+  BFW de Leede: 10 (12b, 2x4, 0x6, SR 83.33)
+  MM Ali: 3/42 (8.2 ov, Econ 5.04)
+  AU Rashid: 3/54 (8.0 ov, Econ 6.75)
+  DJ Willey: 2/19 (7.0 ov, Econ 2.71)
+  CR Woakes: 1/19 (7.0 ov, Econ 2.71)
+  AAP Atkinson: 0/41 (7.0 ov, Econ 5.86)
+  Extras: 8
+
+Batting Highlights:
+  Century: BA Stokes scored 108 off 84 balls (SR 128.57, 6 fours, 6 sixes)
+  Half-century: DJ Malan scored 87 off 74 balls (SR 117.57)
+  Half-century: CR Woakes scored 51 off 45 balls (SR 113.33)
+
+Bowling Highlights:
+  Key spell: BFW de Leede took 3/74
+  Key spell: MM Ali took 3/42
+  Key spell: AU Rashid took 3/54
+  Economical spell: DJ Willey conceded 19 runs in 7.0 overs (Econ 2.71)
+  Economical spell: CR Woakes conceded 19 runs in 7.0 overs (Econ 2.71)
+
+Captain Performance:
+  Scott Edwards (Netherlands): scored 38 off 42 balls
+
+Key Moments:
+  England lost 9 early wickets.
+  Netherlands lost 10 early wickets.
+  England scored aggressively in the powerplay (70 runs at 7.0 RPO).
+  England exploded in the death overs (124 runs at 12.4 RPO).
+
+Result: England won by 160 runs
+Toss: England won and chose to bat
+Player of the Match: BA Stokes

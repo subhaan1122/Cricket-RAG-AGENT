@@ -1,0 +1,763 @@
+{
+  "match_info": {
+    "match_id": "8d22c6327123",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "date": "2011-02-22",
+    "teams": {
+      "team1": "England",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "England",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Andrew Strauss",
+      "team2": "Peter Borren"
+    },
+    "player_of_match": "RN ten Doeschate",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: England vs Netherlands (2011-02-22) at Nagpur.\nNetherlands: 292/6 (50.0 ov)\n  RN ten Doeschate: 119 (110b, 8x4, 3x6)\n  TLW Cooper: 47 (73b, 3x4, 0x6)\n  PW Borren: 35* (24b, 4x4, 0x6)\n  GP Swann: 2/35 (10.0 ov)\n  SCJ Broad: 2/65 (10.0 ov)\nEngland: 296/4 (48.4 ov)\n  AJ Strauss: 88 (83b, 9x4, 0x6)\n  IJL Trott: 62 (65b, 4x4, 0x6)\n  KP Pietersen: 39 (61b, 5x4, 0x6)\n  RN ten Doeschate: 2/47 (10.0 ov)\nEngland won by 6 wickets.\nPlayer of the Match: RN ten Doeschate.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 588,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 6.0,
+    "highest_individual_score": 119,
+    "best_bowling_figures": "2/65",
+    "total_sixes": 4,
+    "total_fours": 45
+  },
+  "innings_analysis": [
+    {
+      "team": "Netherlands",
+      "total_runs": 292,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 5.84,
+      "top_batters": [
+        {
+          "name": "RN ten Doeschate",
+          "runs": 119,
+          "balls": 110,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 108.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TLW Cooper",
+          "runs": 47,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 35,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 145.83,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "W Barresi",
+          "runs": 29,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "TN de Grooth",
+          "runs": 28,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.32,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GP Swann",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SCJ Broad",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "TT Bresnan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 1,
+          "economy": 5.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 0,
+          "economy": 7.2,
+          "wides": 0,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AN Kervezee",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "W Barresi",
+          "runs": 58,
+          "wickets": 2,
+          "overs": "11.4"
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 136,
+          "wickets": 3,
+          "overs": "28.1"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 149,
+          "wickets": 4,
+          "overs": "32.5"
+        },
+        {
+          "player": "TN de Grooth",
+          "runs": 213,
+          "wickets": 5,
+          "overs": "42.5"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 274,
+          "wickets": 6,
+          "overs": "48.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 47,
+        "wickets": 1,
+        "run_rate": 4.7,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 104,
+        "wickets": 2,
+        "run_rate": 10.4,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 12,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "total_runs": 296,
+      "total_wickets": 4,
+      "total_overs": 48.4,
+      "run_rate": 6.17,
+      "top_batters": [
+        {
+          "name": "AJ Strauss",
+          "runs": 88,
+          "balls": 83,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 106.02,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IJL Trott",
+          "runs": 62,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.38,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "KP Pietersen",
+          "runs": 39,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 33,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 82.5,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 30,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RN ten Doeschate",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PM Seelaar",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 5.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BA Westdijk",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 5.86,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BP Loots",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 0,
+          "economy": 7.66,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KP Pietersen",
+          "runs": 105,
+          "wickets": 1,
+          "overs": "17.4"
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 166,
+          "wickets": 2,
+          "overs": "29.2"
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 224,
+          "wickets": 3,
+          "overs": "40.1"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 241,
+          "wickets": 4,
+          "overs": "42.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 53,
+        "wickets": 0,
+        "run_rate": 5.3,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "8.4",
+        "balls": 52,
+        "runs": 74,
+        "wickets": 2,
+        "run_rate": 8.54,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 12,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "RN ten Doeschate": {
+      "batting": {
+        "runs": 119,
+        "balls": 110,
+        "fours": 8,
+        "sixes": 3,
+        "strike_rate": 108.18
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TLW Cooper": {
+      "batting": {
+        "runs": 47,
+        "balls": 73,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 64.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PW Borren": {
+      "batting": {
+        "runs": 35,
+        "balls": 24,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 145.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "W Barresi": {
+      "batting": {
+        "runs": 29,
+        "balls": 25,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 116.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TN de Grooth": {
+      "batting": {
+        "runs": 28,
+        "balls": 31,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 90.32
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GP Swann": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SCJ Broad": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 65,
+        "wickets": 2,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TT Bresnan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PD Collingwood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 1,
+        "economy": 5.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JM Anderson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 72,
+        "wickets": 0,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AJ Strauss": {
+      "batting": {
+        "runs": 88,
+        "balls": 83,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 106.02
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IJL Trott": {
+      "batting": {
+        "runs": 62,
+        "balls": 65,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 95.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KP Pietersen": {
+      "batting": {
+        "runs": 39,
+        "balls": 61,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 63.93
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "IR Bell": {
+      "batting": {
+        "runs": 33,
+        "balls": 40,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 82.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RS Bopara": {
+      "batting": {
+        "runs": 30,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PM Seelaar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 1,
+        "economy": 5.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mudassar Bukhari": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BA Westdijk": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 0,
+        "economy": 5.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BP Loots": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 0,
+        "economy": 7.66
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Netherlands scored 292 in 50.0 overs at 5.84 RPO",
+    "vs England scored 296 in 48.4 overs at 6.17 RPO",
+    "Top batsman: RN ten Doeschate with 119 runs",
+    "Top bowler: GP Swann with 2 wickets"
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "match_info": {
+    "match_id": "df8e7276c643",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Shere Bangla National Stadium",
+    "city": "Mirpur",
+    "date": "2011-02-25",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "Ireland"
+    },
+    "toss": {
+      "winner": "Bangladesh",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Bangladesh",
+      "margin": "27 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Shakib Al Hasan",
+      "team2": "William Porterfield"
+    },
+    "player_of_match": "Tamim Iqbal",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: Bangladesh vs Ireland (2011-02-25) at Mirpur.\nBangladesh: 205 all out (49.2 ov)\n  Tamim Iqbal: 44 (43b, 7x4, 0x6)\n  Raqibul Hasan: 38 (69b, 1x4, 0x6)\n  Mushfiqur Rahim: 36 (66b, 2x4, 0x6)\n  AC Botha: 3/32 (9.0 ov)\n  GH Dockrell: 2/23 (10.0 ov)\n  DT Johnston: 2/40 (8.2 ov)\nIreland: 178 all out (44.5 ov)\n  NJ O'Brien: 38 (52b, 3x4, 0x6)\n  KJ O'Brien: 37 (40b, 3x4, 1x6)\n  Shafiul Islam: 4/21 (8.0 ov)\n  Shakib Al Hasan: 2/28 (8.0 ov)\n  Mohammad Ashraful: 2/42 (9.0 ov)\nBangladesh won by 27 runs.\nPlayer of the Match: Tamim Iqbal.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 383,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 4.12,
+    "highest_individual_score": 44,
+    "best_bowling_figures": "4/21",
+    "total_sixes": 1,
+    "total_fours": 26
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 205,
+      "total_wickets": 10,
+      "total_overs": 49.2,
+      "run_rate": 4.18,
+      "top_batters": [
+        {
+          "name": "Tamim Iqbal",
+          "runs": 44,
+          "balls": 43,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 102.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Raqibul Hasan",
+          "runs": 38,
+          "balls": 69,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.07,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Mushfiqur Rahim",
+          "runs": 36,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Naeem Islam",
+          "runs": 29,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.32,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 16,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AC Botha",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 3,
+          "economy": 3.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GH Dockrell",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 2.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 3.57,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PR Stirling",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 0,
+          "economy": 3.25,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Imrul Kayes",
+          "runs": 53,
+          "wickets": 1,
+          "overs": "6.3"
+        },
+        {
+          "player": "Junaid Siddique",
+          "runs": 61,
+          "wickets": 2,
+          "overs": "8.5"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 68,
+          "wickets": 3,
+          "overs": "11.1"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 86,
+          "wickets": 4,
+          "overs": "15.2"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 147,
+          "wickets": 5,
+          "overs": "33.3"
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "35.2"
+        },
+        {
+          "player": "Raqibul Hasan",
+          "runs": 159,
+          "wickets": 7,
+          "overs": "38.1"
+        },
+        {
+          "player": "Shafiul Islam",
+          "runs": 170,
+          "wickets": 8,
+          "overs": "42.3"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 193,
+          "wickets": 9,
+          "overs": "47.6"
+        },
+        {
+          "player": "Naeem Islam",
+          "runs": 205,
+          "wickets": 10,
+          "overs": "49.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 67,
+        "wickets": 2,
+        "run_rate": 6.7,
+        "fours": 10,
+        "sixes": 0,
+        "dot_balls": 33,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.2",
+        "balls": 56,
+        "runs": 38,
+        "wickets": 3,
+        "run_rate": 4.07,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 32,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Ireland",
+      "total_runs": 178,
+      "total_wickets": 10,
+      "total_overs": 44.5,
+      "run_rate": 4.05,
+      "top_batters": [
+        {
+          "name": "NJ O'Brien",
+          "runs": 38,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.08,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KJ O'Brien",
+          "runs": 37,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 92.5,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AC Botha",
+          "runs": 22,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 20,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "EC Joyce",
+          "runs": 16,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.71,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Shafiul Islam",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 4,
+          "economy": 2.62,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Ashraful",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Naeem Islam",
+          "overs": "8.5",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 4.08,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PR Stirling",
+          "runs": 23,
+          "wickets": 1,
+          "overs": "5.3"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "9.1"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 75,
+          "wickets": 3,
+          "overs": "18.1"
+        },
+        {
+          "player": "AR White",
+          "runs": 93,
+          "wickets": 4,
+          "overs": "24.4"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 110,
+          "wickets": 5,
+          "overs": "27.4"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "36.4"
+        },
+        {
+          "player": "JF Mooney",
+          "runs": 164,
+          "wickets": 7,
+          "overs": "39.3"
+        },
+        {
+          "player": "AC Botha",
+          "runs": 168,
+          "wickets": 8,
+          "overs": "40.6"
+        },
+        {
+          "player": "DT Johnston",
+          "runs": 171,
+          "wickets": 9,
+          "overs": "42.6"
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 178,
+          "wickets": 10,
+          "overs": "44.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 44,
+        "wickets": 2,
+        "run_rate": 4.4,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 37,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "5.0",
+        "balls": 30,
+        "runs": 10,
+        "wickets": 3,
+        "run_rate": 2.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 21,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Tamim Iqbal": {
+      "batting": {
+        "runs": 44,
+        "balls": 43,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 102.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Raqibul Hasan": {
+      "batting": {
+        "runs": 38,
+        "balls": 69,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 55.07
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mushfiqur Rahim": {
+      "batting": {
+        "runs": 36,
+        "balls": 66,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Naeem Islam": {
+      "batting": {
+        "runs": 29,
+        "balls": 38,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 76.32
+      },
+      "bowling": {
+        "overs": 8.833333333333334,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 1,
+        "economy": 4.08
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 16,
+        "balls": 20,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 80.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AC Botha": {
+      "batting": {
+        "runs": 22,
+        "balls": 36,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 61.11
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 3,
+        "economy": 3.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GH Dockrell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 2.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Johnston": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 2,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JF Mooney": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 3.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PR Stirling": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 0,
+        "economy": 3.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ O'Brien": {
+      "batting": {
+        "runs": 38,
+        "balls": 52,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 73.08
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KJ O'Brien": {
+      "batting": {
+        "runs": 37,
+        "balls": 40,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 92.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WTS Porterfield": {
+      "batting": {
+        "runs": 20,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "EC Joyce": {
+      "batting": {
+        "runs": 16,
+        "balls": 35,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 45.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shafiul Islam": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 4,
+        "economy": 2.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Ashraful": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Razzak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 3.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 205 in 49.2 overs at 4.18 RPO",
+    "vs Ireland scored 178 in 44.5 overs at 4.05 RPO",
+    "Top batsman: Tamim Iqbal with 44 runs",
+    "Top bowler: Shafiul Islam with 4 wickets"
+  ]
+}

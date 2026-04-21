@@ -1,0 +1,374 @@
+{
+  "match_id": "21a0e8cc7e4c",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "Wankhede Stadium",
+  "city": "Mumbai",
+  "date": "2011-03-18",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "112 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Daniel Vettori",
+    "team2": "Kumar Sangakkara"
+  },
+  "player_of_match": "KC Sangakkara",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 265,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "KC Sangakkara",
+          "runs": 111,
+          "balls": 128,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 86.72,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 66,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 41,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 117.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "M Muralitharan",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SL Malinga",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 3,
+          "economy": 6.3,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "NL McCullum",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 5.7,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "JEC Franklin",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 13,
+          "wickets": 1,
+          "overs": "2.6"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 19,
+          "wickets": 2,
+          "overs": "4.3"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 164,
+          "wickets": 3,
+          "overs": "36.1"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 210,
+          "wickets": 4,
+          "overs": "41.4"
+        },
+        {
+          "player": "TT Samaraweera",
+          "runs": 219,
+          "wickets": 5,
+          "overs": "44.1"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 224,
+          "wickets": 6,
+          "overs": "45.4"
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 232,
+          "wickets": 7,
+          "overs": "46.6"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 239,
+          "wickets": 8,
+          "overs": "47.5"
+        },
+        {
+          "player": "M Muralitharan",
+          "runs": 260,
+          "wickets": 9,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 153,
+      "wickets": 10,
+      "overs": 35.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "LRPL Taylor",
+          "runs": 33,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "JDP Oram",
+          "runs": 20,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 74.07,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JEC Franklin",
+          "runs": 20,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JD Ryder",
+          "runs": 19,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 14,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Muralitharan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 4,
+          "economy": 3.12,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "BAW Mendis",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 2.71,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 29,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "7.1"
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 82,
+          "wickets": 3,
+          "overs": "16.5"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 88,
+          "wickets": 4,
+          "overs": "19.2"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 93,
+          "wickets": 5,
+          "overs": "21.1"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 102,
+          "wickets": 6,
+          "overs": "23.5"
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 115,
+          "wickets": 7,
+          "overs": "26.5"
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 129,
+          "wickets": 8,
+          "overs": "31.3"
+        },
+        {
+          "player": "TG Southee",
+          "runs": 144,
+          "wickets": 9,
+          "overs": "33.4"
+        },
+        {
+          "player": "HK Bennett",
+          "runs": 153,
+          "wickets": 10,
+          "overs": "34.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_new_zealand_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Group A: New Zealand vs Sri Lanka (2011-03-18) at Mumbai.\nSri Lanka: 265/9 (50.0 ov)\n  KC Sangakkara: 111 (128b, 11x4, 2x6)\n  DPMD Jayawardene: 66 (90b, 6x4, 0x6)\n  AD Mathews: 41* (35b, 4x4, 0x6)\n  TG Southee: 3/63 (10.0 ov)\n  NL McCullum: 2/48 (10.0 ov)\nNew Zealand: 153 all out (35.0 ov)\n  LRPL Taylor: 33 (55b, 3x4, 1x6)\n  M Muralitharan: 4/25 (8.0 ov)\n  BAW Mendis: 2/24 (6.0 ov)\nSri Lanka won by 112 runs.\nPlayer of the Match: KC Sangakkara."
+}

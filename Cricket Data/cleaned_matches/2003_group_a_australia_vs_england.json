@@ -1,0 +1,356 @@
+{
+  "match_id": "32b7177d6999",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "St George's Park, Port Elizabeth",
+  "city": "Gqeberha",
+  "date": "2003-03-02",
+  "teams": {
+    "team1": "England",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "2 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Nasser Hussain",
+    "team2": "Ricky Ponting"
+  },
+  "player_of_match": "AJ Bichel",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 204,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "AJ Stewart",
+          "runs": 46,
+          "balls": 92,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "A Flintoff",
+          "runs": 45,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ME Trescothick",
+          "runs": 37,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 102.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NV Knight",
+          "runs": 30,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C White",
+          "runs": 16,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AJ Bichel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 7,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DS Lehmann",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 6.44,
+          "wides": 1,
+          "no_balls": 4
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "NV Knight",
+          "runs": 66,
+          "wickets": 1,
+          "overs": "9.5"
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 72,
+          "wickets": 2,
+          "overs": "11.1"
+        },
+        {
+          "player": "N Hussain",
+          "runs": 74,
+          "wickets": 3,
+          "overs": "11.6"
+        },
+        {
+          "player": "ME Trescothick",
+          "runs": 74,
+          "wickets": 4,
+          "overs": "12.2"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 87,
+          "wickets": 5,
+          "overs": "17.5"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 177,
+          "wickets": 6,
+          "overs": "42.3"
+        },
+        {
+          "player": "AJ Stewart",
+          "runs": 180,
+          "wickets": 7,
+          "overs": "44.2"
+        },
+        {
+          "player": "AF Giles",
+          "runs": 187,
+          "wickets": 8,
+          "overs": "46.1"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 208,
+      "wickets": 8,
+      "overs": 49.4,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "MG Bevan",
+          "runs": 74,
+          "balls": 126,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 58.73,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DS Lehmann",
+          "runs": 37,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.68,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AJ Bichel",
+          "runs": 34,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 94.44,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 22,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 18,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AR Caddick",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.89,
+          "wides": 1,
+          "no_balls": 3
+        },
+        {
+          "name": "AF Giles",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "C White",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 2.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Flintoff",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 2.69,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MP Vaughan",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "4.2"
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 33,
+          "wickets": 3,
+          "overs": "4.5"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 48,
+          "wickets": 4,
+          "overs": "8.4"
+        },
+        {
+          "player": "DS Lehmann",
+          "runs": 111,
+          "wickets": 5,
+          "overs": "28.2"
+        },
+        {
+          "player": "A Symonds",
+          "runs": 112,
+          "wickets": 6,
+          "overs": "29.5"
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 114,
+          "wickets": 7,
+          "overs": "31.5"
+        },
+        {
+          "player": "B Lee",
+          "runs": 135,
+          "wickets": 8,
+          "overs": "37.4"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_australia_vs_england.json",
+  "match_summary": "2003 World Cup Group A: England vs Australia (2003-03-02) at Gqeberha.\nEngland: 204/8 (50.0 ov)\n  AJ Stewart: 46 (92b, 1x4, 0x6)\n  A Flintoff: 45 (80b, 3x4, 1x6)\n  ME Trescothick: 37 (36b, 5x4, 1x6)\n  AJ Bichel: 7/20 (10.0 ov)\nAustralia: 208/8 (49.4 ov)\n  MG Bevan: 74* (126b, 6x4, 1x6)\n  DS Lehmann: 37 (62b, 3x4, 0x6)\n  AJ Bichel: 34* (36b, 3x4, 1x6)\n  AR Caddick: 4/35 (9.0 ov)\n  AF Giles: 2/42 (10.0 ov)\nAustralia won by 2 wickets.\nPlayer of the Match: AJ Bichel."
+}

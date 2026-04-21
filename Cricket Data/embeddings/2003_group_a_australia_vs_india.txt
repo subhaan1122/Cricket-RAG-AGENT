@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2003
+Match: India vs Australia
+Stage: Group A
+Date: 2003-02-15
+Venue: SuperSport Park, Centurion, Centurion
+Captain India: Sourav Ganguly
+Captain Australia: Ricky Ponting
+
+Match Summary:
+  2003 World Cup Group A: India vs Australia (2003-02-15) at Centurion.
+
+India: 125 all out (41.4 ov)
+  SR Tendulkar: 36 (59b, 3x4, 0x6, SR 61.02)
+  Harbhajan Singh: 28 (32b, 4x4, 1x6, SR 87.5)
+  A Kumble: 16 (38b, 1x4, 0x6, SR 42.11)
+  D Mongia: 13 (39b, 1x4, 0x6, SR 33.33)
+  SC Ganguly: 9 (21b, 1x4, 0x6, SR 42.86)
+  JN Gillespie: 3/13 (10.0 ov, Econ 1.3)
+  B Lee: 3/36 (9.0 ov, Econ 4.0)
+  DS Lehmann: 1/7 (4.0 ov, Econ 1.75)
+  GD McGrath: 1/23 (8.0 ov, Econ 2.88)
+  GB Hogg: 1/16 (4.4 ov, Econ 3.43)
+  Extras: 16
+
+Australia: 128/1 (22.2 ov)
+  AC Gilchrist: 48 (61b, 6x4, 0x6, SR 78.69)
+  ML Hayden: 45 (49b, 1x4, 2x6, SR 91.84)
+  RT Ponting: 24 (24b, 4x4, 0x6, SR 100.0)
+  A Kumble: 1/24 (7.0 ov, Econ 3.43)
+  J Srinath: 0/26 (4.0 ov, Econ 6.5)
+  Z Khan: 0/26 (4.0 ov, Econ 6.5)
+  Harbhajan Singh: 0/49 (7.2 ov, Econ 6.68)
+  Extras: 11
+
+Batting Highlights:
+  Top scorer: AC Gilchrist with 48 runs
+
+Bowling Highlights:
+  Key spell: JN Gillespie took 3/13
+  Key spell: B Lee took 3/36
+  Economical spell: GD McGrath conceded 23 runs in 8.0 overs (Econ 2.88)
+  Economical spell: A Kumble conceded 24 runs in 7.0 overs (Econ 3.43)
+
+Captain Performance:
+  Sourav Ganguly (India): scored 9 off 21 balls
+  Ricky Ponting (Australia): scored 24 off 24 balls
+
+Key Moments:
+  India lost 10 early wickets.
+
+Result: Australia won by 9 wickets
+Toss: India won and chose to bat
+Player of the Match: JN Gillespie

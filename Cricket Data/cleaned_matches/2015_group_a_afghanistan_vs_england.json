@@ -1,0 +1,54 @@
+{
+  "match_id": "719917d4a034",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Sydney Cricket Ground, Sydney",
+  "city": "Sydney",
+  "date": "2015-03-13",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Eoin Morgan"
+  },
+  "player_of_match": "MJ Root",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 111,
+      "wickets": 7,
+      "overs": 36.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "runs": 101,
+      "wickets": 1,
+      "overs": 18.1,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_england.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs England (2015-03-13) at Sydney.\nAfghanistan: 111/7 (36.2 ov)\nEngland: 101/1 (18.1 ov)\nEngland won by 9 wickets. Player of the Match: MJ Root."
+}

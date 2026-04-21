@@ -1,0 +1,775 @@
+{
+  "match_info": {
+    "match_id": "eed37ca1097f",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Edgbaston",
+    "city": "Birmingham",
+    "date": "2019-06-19",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "New Zealand",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "4 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Kane Williamson",
+      "team2": "Faf du Plessis"
+    },
+    "player_of_match": "KS Williamson",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: New Zealand vs South Africa (2019-06-19) at Birmingham.\nSouth Africa: 241/6 (49.0 ov)\n  HE van der Dussen: 67* (64b, 2x4, 3x6)\n  HM Amla: 55 (83b, 4x4, 0x6)\n  AK Markram: 38 (55b, 4x4, 0x6)\n  LH Ferguson: 3/59 (10.0 ov)\nNew Zealand: 245/6 (48.3 ov)\n  KS Williamson: 106* (138b, 9x4, 1x6)\n  C de Grandhomme: 60 (47b, 5x4, 2x6)\n  MJ Guptill: 35 (59b, 5x4, 0x6)\n  CH Morris: 3/49 (10.0 ov)\nNew Zealand won by 4 wickets.\nPlayer of the Match: KS Williamson.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 486,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 5.01,
+    "highest_individual_score": 106,
+    "best_bowling_figures": "3/59",
+    "total_sixes": 7,
+    "total_fours": 40
+  },
+  "innings_analysis": [
+    {
+      "team": "South Africa",
+      "total_runs": 241,
+      "total_wickets": 6,
+      "total_overs": 49.0,
+      "run_rate": 4.92,
+      "top_batters": [
+        {
+          "name": "HE van der Dussen",
+          "runs": 67,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 104.69,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 55,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.27,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 38,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.09,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 36,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 97.3,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 23,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LH Ferguson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 3,
+          "economy": 5.9,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 3.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 1,
+          "economy": 6.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "1.5"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 59,
+          "wickets": 2,
+          "overs": "13.6"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 111,
+          "wickets": 3,
+          "overs": "27.4"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 136,
+          "wickets": 4,
+          "overs": "32.3"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 208,
+          "wickets": 5,
+          "overs": "44.5"
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "runs": 218,
+          "wickets": 6,
+          "overs": "46.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 40,
+        "wickets": 1,
+        "run_rate": 4.0,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 0
+      },
+      "death_overs_stats": {
+        "overs": "9.0",
+        "balls": 54,
+        "runs": 72,
+        "wickets": 2,
+        "run_rate": 8.0,
+        "fours": 5,
+        "sixes": 4,
+        "dot_balls": 22,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 245,
+      "total_wickets": 6,
+      "total_overs": 48.3,
+      "run_rate": 5.1,
+      "top_batters": [
+        {
+          "name": "KS Williamson",
+          "runs": 106,
+          "balls": 138,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 76.81,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "C de Grandhomme",
+          "runs": 60,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 127.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 35,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.32,
+          "out": true,
+          "dismissal": "hit wicket"
+        },
+        {
+          "name": "JDS Neesham",
+          "runs": 23,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "C Munro",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CH Morris",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 3,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 1,
+          "economy": 4.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 73,
+          "wickets": 1,
+          "economy": 8.59,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 3.3,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "C Munro",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 72,
+          "wickets": 2,
+          "overs": "14.6"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 74,
+          "wickets": 3,
+          "overs": "16.1"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 80,
+          "wickets": 4,
+          "overs": "18.1"
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 137,
+          "wickets": 5,
+          "overs": "32.2"
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 228,
+          "wickets": 6,
+          "overs": "47.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 1,
+        "run_rate": 4.3,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "8.3",
+        "balls": 51,
+        "runs": 61,
+        "wickets": 1,
+        "run_rate": 7.18,
+        "fours": 6,
+        "sixes": 1,
+        "dot_balls": 18,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "HE van der Dussen": {
+      "batting": {
+        "runs": 67,
+        "balls": 64,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 104.69
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HM Amla": {
+      "batting": {
+        "runs": 55,
+        "balls": 83,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 66.27
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AK Markram": {
+      "batting": {
+        "runs": 38,
+        "balls": 55,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 69.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Miller": {
+      "batting": {
+        "runs": 36,
+        "balls": 37,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 97.3
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "F du Plessis": {
+      "batting": {
+        "runs": 23,
+        "balls": 35,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 65.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LH Ferguson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 3,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C de Grandhomme": {
+      "batting": {
+        "runs": 60,
+        "balls": 47,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 127.66
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 3.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Santner": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TA Boult": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 63,
+        "wickets": 1,
+        "economy": 6.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Henry": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 0,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KS Williamson": {
+      "batting": {
+        "runs": 106,
+        "balls": 138,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 76.81
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 35,
+        "balls": 59,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 59.32
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDS Neesham": {
+      "batting": {
+        "runs": 23,
+        "balls": 34,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 67.65
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "C Munro": {
+      "batting": {
+        "runs": 9,
+        "balls": 5,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 180.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Morris": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 3,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "K Rabada": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Ngidi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 4.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AL Phehlukwayo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.5,
+        "maidens": 0,
+        "runs": 73,
+        "wickets": 1,
+        "economy": 8.59
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imran Tahir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 3.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: South Africa scored 241 in 49.0 overs at 4.92 RPO",
+    "vs New Zealand scored 245 in 48.3 overs at 5.1 RPO",
+    "Top batsman: KS Williamson with 106 runs",
+    "Top bowler: LH Ferguson with 3 wickets"
+  ]
+}

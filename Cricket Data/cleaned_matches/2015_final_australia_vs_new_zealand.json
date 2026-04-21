@@ -1,0 +1,338 @@
+{
+  "match_id": "66876d361adf",
+  "world_cup_year": 2015,
+  "stage": "Final",
+  "venue": "Melbourne Cricket Ground",
+  "city": "",
+  "date": "2015-03-29",
+  "teams": {
+    "team1": "Australia",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "Brendon McCullum"
+  },
+  "player_of_match": "JP Faulkner",
+  "innings": [
+    {
+      "team": "New Zealand",
+      "runs": 183,
+      "wickets": 10,
+      "overs": 45.0,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "GD Elliott",
+          "runs": 83,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 101.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 40,
+          "balls": 72,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 15,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 44.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 12,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "TG Southee",
+          "runs": 11,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MG Johnson",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.33,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Faulkner",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 2,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 5.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 3.75,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 33,
+          "wickets": 2,
+          "overs": "11.2"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 39,
+          "wickets": 3,
+          "overs": "12.2"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 150,
+          "wickets": 4,
+          "overs": "35.1"
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 150,
+          "wickets": 5,
+          "overs": "35.3"
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 151,
+          "wickets": 6,
+          "overs": "36.2"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 167,
+          "wickets": 7,
+          "overs": "40.6"
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 171,
+          "wickets": 8,
+          "overs": "41.5"
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 182,
+          "wickets": 9,
+          "overs": "44.5"
+        },
+        {
+          "player": "TG Southee",
+          "runs": 183,
+          "wickets": 10,
+          "overs": "44.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 186,
+      "wickets": 3,
+      "overs": 33.1,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "MJ Clarke",
+          "runs": 74,
+          "balls": 72,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 102.78,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 56,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.87,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 45,
+          "balls": 46,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 97.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AJ Finch",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MJ Henry",
+          "overs": "9.1",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 5.02,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CJ Anderson",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 0,
+          "economy": 8.12,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Finch",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 63,
+          "wickets": 2,
+          "overs": "12.2"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 175,
+          "wickets": 3,
+          "overs": "31.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_final_australia_vs_new_zealand.json",
+  "match_summary": "2015 World Cup Final: Australia vs New Zealand (2015-03-29) at Melbourne Cricket Ground.\nNew Zealand: 183 all out (45.0 ov)\n  GD Elliott: 83 (82b, 7x4, 1x6)\n  LRPL Taylor: 40 (72b, 2x4, 0x6)\n  MG Johnson: 3/30 (9.0 ov)\n  JP Faulkner: 3/36 (9.0 ov)\n  MA Starc: 2/20 (8.0 ov)\nAustralia: 186/3 (33.1 ov)\n  MJ Clarke: 74 (72b, 10x4, 1x6)\n  SPD Smith: 56* (71b, 3x4, 0x6)\n  DA Warner: 45 (46b, 7x4, 0x6)\n  MJ Henry: 2/46 (9.1 ov)\nAustralia won by 7 wickets.\nPlayer of the Match: JP Faulkner."
+}

@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: Australia vs India
+Stage: Semi-Final
+Date: 2015-03-26
+Venue: Sydney Cricket Ground
+Captain Australia: Michael Clarke
+Captain India: MS Dhoni
+
+Match Summary:
+  2015 World Cup Semi-Final: Australia vs India (2015-03-26) at Sydney Cricket Ground.
+
+Australia: 328/7 (50.0 ov)
+  SPD Smith: 105 (93b, 11x4, 2x6, SR 112.9)
+  AJ Finch: 81 (116b, 7x4, 1x6, SR 69.83)
+  SR Watson: 28 (30b, 2x4, 1x6, SR 93.33)
+  MG Johnson: 27 (9b, 4x4, 1x6, SR 300.0)
+  GJ Maxwell: 23 (14b, 3x4, 1x6, SR 164.29)
+  UT Yadav: 4/72 (9.0 ov, Econ 8.0)
+  MM Sharma: 2/75 (10.0 ov, Econ 7.5)
+  R Ashwin: 1/42 (10.0 ov, Econ 4.2)
+  RA Jadeja: 0/56 (10.0 ov, Econ 5.6)
+  Mohammed Shami: 0/68 (10.0 ov, Econ 6.8)
+  Extras: 14
+
+India: 233 all out (46.5 ov)
+  MS Dhoni: 65 (65b, 3x4, 2x6, SR 100.0)
+  S Dhawan: 45 (41b, 6x4, 1x6, SR 109.76)
+  AM Rahane: 44 (68b, 2x4, 0x6, SR 64.71)
+  RG Sharma: 34 (48b, 1x4, 2x6, SR 70.83)
+  RA Jadeja: 16 (17b, 2x4, 0x6, SR 94.12)
+  JP Faulkner: 3/59 (9.0 ov, Econ 6.56)
+  MA Starc: 2/28 (8.5 ov, Econ 3.17)
+  MG Johnson: 2/50 (10.0 ov, Econ 5.0)
+  JR Hazlewood: 1/41 (10.0 ov, Econ 4.1)
+  GJ Maxwell: 0/18 (5.0 ov, Econ 3.6)
+  Extras: 15
+
+Batting Highlights:
+  Century: SPD Smith scored 105 off 93 balls (SR 112.9, 11 fours, 2 sixes)
+  Half-century: AJ Finch scored 81 off 116 balls (SR 69.83)
+  Half-century: MS Dhoni scored 65 off 65 balls (SR 100.0)
+
+Bowling Highlights:
+  Match-changing spell: UT Yadav took 4/72
+  Key spell: JP Faulkner took 3/59
+  Economical spell: MA Starc conceded 28 runs in 8.5 overs (Econ 3.17)
+
+Captain Performance:
+  MS Dhoni (India): scored 65 off 65 balls
+
+Key Moments:
+  Australia lost 7 early wickets.
+  India lost 10 early wickets.
+
+Result: Australia won by 95 runs
+Toss: Australia won and chose to bat
+Player of the Match: SPD Smith

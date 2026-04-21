@@ -1,0 +1,767 @@
+{
+  "match_info": {
+    "match_id": "1c8419e7f816",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "Eden Gardens",
+    "city": "Kolkata",
+    "date": "2011-03-18",
+    "teams": {
+      "team1": "Ireland",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Ireland",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Ireland",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "William Porterfield",
+      "team2": "Peter Borren"
+    },
+    "player_of_match": "PR Stirling",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: Ireland vs Netherlands (2011-03-18) at Kolkata.\nNetherlands: 306 all out (50.0 ov)\n  RN ten Doeschate: 106 (108b, 13x4, 1x6)\n  PW Borren: 84 (82b, 10x4, 0x6)\n  W Barresi: 44 (49b, 4x4, 2x6)\n  PR Stirling: 2/51 (10.0 ov)\n  JF Mooney: 2/59 (10.0 ov)\nIreland: 307/4 (47.4 ov)\n  PR Stirling: 101 (72b, 14x4, 2x6)\n  WTS Porterfield: 68 (93b, 10x4, 0x6)\n  NJ O'Brien: 57* (58b, 7x4, 0x6)\n  TLW Cooper: 2/31 (7.0 ov)\nIreland won by 6 wickets.\nPlayer of the Match: PR Stirling.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 613,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 6.33,
+    "highest_individual_score": 106,
+    "best_bowling_figures": "2/59",
+    "total_sixes": 7,
+    "total_fours": 69
+  },
+  "innings_analysis": [
+    {
+      "team": "Netherlands",
+      "total_runs": 306,
+      "total_wickets": 10,
+      "total_overs": 50.0,
+      "run_rate": 6.12,
+      "top_batters": [
+        {
+          "name": "RN ten Doeschate",
+          "runs": 106,
+          "balls": 108,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 98.15,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 84,
+          "balls": 82,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 102.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "W Barresi",
+          "runs": 44,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 89.8,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AF Buurman",
+          "runs": 26,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AN Kervezee",
+          "runs": 12,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PR Stirling",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 2,
+          "economy": 5.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Mooney",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Johnston",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WB Rankin",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 1,
+          "economy": 8.22,
+          "wides": 3,
+          "no_balls": 3
+        },
+        {
+          "name": "GH Dockrell",
+          "overs": "3.4",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 4.09,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ES Szwarczynski",
+          "runs": 7,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 12,
+          "wickets": 2,
+          "overs": "2.3"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 53,
+          "wickets": 3,
+          "overs": "10.1"
+        },
+        {
+          "player": "W Barresi",
+          "runs": 113,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 234,
+          "wickets": 5,
+          "overs": "39.5"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 287,
+          "wickets": 6,
+          "overs": "46.5"
+        },
+        {
+          "player": "AF Buurman",
+          "runs": 305,
+          "wickets": 7,
+          "overs": "49.3"
+        },
+        {
+          "player": "PM Seelaar",
+          "runs": 305,
+          "wickets": 8,
+          "overs": "49.4"
+        },
+        {
+          "player": "Adeel Raja",
+          "runs": 305,
+          "wickets": 9,
+          "overs": "49.5"
+        },
+        {
+          "player": "Mudassar Bukhari",
+          "runs": 306,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 53,
+        "wickets": 2,
+        "run_rate": 5.3,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 71,
+        "wickets": 5,
+        "run_rate": 7.1,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 29,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Ireland",
+      "total_runs": 307,
+      "total_wickets": 4,
+      "total_overs": 47.4,
+      "run_rate": 6.53,
+      "top_batters": [
+        {
+          "name": "PR Stirling",
+          "runs": 101,
+          "balls": 72,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 140.28,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WTS Porterfield",
+          "runs": 68,
+          "balls": 93,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 73.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 57,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 98.28,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "EC Joyce",
+          "runs": 28,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GC Wilson",
+          "runs": 27,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TLW Cooper",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 2,
+          "economy": 4.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PM Seelaar",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.69,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 6.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Adeel Raja",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 177,
+          "wickets": 1,
+          "overs": "26.6"
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 179,
+          "wickets": 2,
+          "overs": "27.3"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 233,
+          "wickets": 3,
+          "overs": "38.1"
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 279,
+          "wickets": 4,
+          "overs": "44.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 81,
+        "wickets": 0,
+        "run_rate": 8.1,
+        "fours": 14,
+        "sixes": 2,
+        "dot_balls": 36,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "7.4",
+        "balls": 46,
+        "runs": 69,
+        "wickets": 1,
+        "run_rate": 9.0,
+        "fours": 5,
+        "sixes": 4,
+        "dot_balls": 17,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "RN ten Doeschate": {
+      "batting": {
+        "runs": 106,
+        "balls": 108,
+        "fours": 13,
+        "sixes": 1,
+        "strike_rate": 98.15
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 1,
+        "economy": 6.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PW Borren": {
+      "batting": {
+        "runs": 84,
+        "balls": 82,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 102.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "W Barresi": {
+      "batting": {
+        "runs": 44,
+        "balls": 49,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 89.8
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AF Buurman": {
+      "batting": {
+        "runs": 26,
+        "balls": 30,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 86.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AN Kervezee": {
+      "batting": {
+        "runs": 12,
+        "balls": 16,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PR Stirling": {
+      "batting": {
+        "runs": 101,
+        "balls": 72,
+        "fours": 14,
+        "sixes": 2,
+        "strike_rate": 140.28
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 2,
+        "economy": 5.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JF Mooney": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 2,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Johnston": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WB Rankin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 1,
+        "economy": 8.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GH Dockrell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.6666666666666665,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 0,
+        "economy": 4.09
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WTS Porterfield": {
+      "batting": {
+        "runs": 68,
+        "balls": 93,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 73.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ O'Brien": {
+      "batting": {
+        "runs": 57,
+        "balls": 58,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 98.28
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "EC Joyce": {
+      "batting": {
+        "runs": 28,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 84.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Wilson": {
+      "batting": {
+        "runs": 27,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 128.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TLW Cooper": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 2,
+        "economy": 4.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PM Seelaar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 1,
+        "economy": 5.69
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Adeel Raja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mudassar Bukhari": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Netherlands scored 306 in 50.0 overs at 6.12 RPO",
+    "vs Ireland scored 307 in 47.4 overs at 6.53 RPO",
+    "Top batsman: RN ten Doeschate with 106 runs",
+    "Top bowler: PR Stirling with 2 wickets"
+  ]
+}

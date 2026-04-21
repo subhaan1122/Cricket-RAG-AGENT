@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2019
+Match: Australia vs India
+Stage: Group Stage
+Date: 2019-06-09
+Venue: Kennington Oval, London
+Captain Australia: Aaron Finch
+Captain India: Virat Kohli
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs India (2019-06-09) at London.
+
+India: 352/5 (50.0 ov)
+  S Dhawan: 117 (109b, 16x4, 0x6, SR 107.34)
+  V Kohli: 82 (77b, 4x4, 2x6, SR 106.49)
+  RG Sharma: 57 (70b, 3x4, 1x6, SR 81.43)
+  HH Pandya: 48 (27b, 4x4, 3x6, SR 177.78)
+  MS Dhoni: 27 (14b, 3x4, 1x6, SR 192.86)
+  MP Stoinis: 2/62 (7.0 ov, Econ 8.86)
+  PJ Cummins: 1/55 (10.0 ov, Econ 5.5)
+  NM Coulter-Nile: 1/63 (10.0 ov, Econ 6.3)
+  MA Starc: 1/74 (10.0 ov, Econ 7.4)
+  GJ Maxwell: 0/45 (7.0 ov, Econ 6.43)
+  Extras: 10
+
+Australia: 316 all out (50.0 ov)
+  SPD Smith: 69 (70b, 5x4, 1x6, SR 98.57)
+  DA Warner: 56 (84b, 4x4, 0x6, SR 66.67)
+  AT Carey: 55 (35b, 5x4, 1x6, SR 157.14)
+  UT Khawaja: 42 (39b, 4x4, 1x6, SR 107.69)
+  AJ Finch: 36 (35b, 3x4, 1x6, SR 102.86)
+  B Kumar: 3/50 (10.0 ov, Econ 5.0)
+  JJ Bumrah: 3/61 (10.0 ov, Econ 6.1)
+  YS Chahal: 2/62 (10.0 ov, Econ 6.2)
+  Kuldeep Yadav: 0/55 (9.0 ov, Econ 6.11)
+  HH Pandya: 0/68 (10.0 ov, Econ 6.8)
+  Extras: 14
+
+Batting Highlights:
+  Century: S Dhawan scored 117 off 109 balls (SR 107.34, 16 fours, 0 sixes)
+  Half-century: V Kohli scored 82 off 77 balls (SR 106.49)
+  Half-century: RG Sharma scored 57 off 70 balls (SR 81.43)
+  Quickfire innings: HH Pandya smashed 48 off 27 balls at SR 177.78
+  Half-century: SPD Smith scored 69 off 70 balls (SR 98.57)
+  Half-century: DA Warner scored 56 off 84 balls (SR 66.67)
+  Half-century: AT Carey scored 55 off 35 balls (SR 157.14)
+
+Bowling Highlights:
+  Key spell: B Kumar took 3/50
+  Key spell: JJ Bumrah took 3/61
+
+Captain Performance:
+  Virat Kohli (India): scored 82 off 77 balls
+  Aaron Finch (Australia): scored 36 off 35 balls
+
+Key Moments:
+  India lost 5 early wickets.
+  Australia lost 10 early wickets.
+  India exploded in the death overs (116 runs at 11.6 RPO).
+
+Result: India won by 36 runs
+Toss: India won and chose to bat
+Player of the Match: S Dhawan

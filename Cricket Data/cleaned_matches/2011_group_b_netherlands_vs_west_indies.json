@@ -1,0 +1,368 @@
+{
+  "match_id": "fb70e6fc473a",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "Feroz Shah Kotla",
+  "city": "Delhi",
+  "date": "2011-02-28",
+  "teams": {
+    "team1": "Netherlands",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "Netherlands",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "215 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Peter Borren",
+    "team2": "Darren Sammy"
+  },
+  "player_of_match": "KAJ Roach",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 330,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 80,
+          "balls": 110,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 72.73,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KA Pollard",
+          "runs": 60,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 222.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DS Smith",
+          "runs": 53,
+          "balls": 51,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 103.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 49,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DM Bravo",
+          "runs": 30,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 78.95,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PM Seelaar",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "BP Loots",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 6.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 77,
+          "wickets": 1,
+          "economy": 7.7,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "BA Westdijk",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 4,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DS Smith",
+          "runs": 100,
+          "wickets": 1,
+          "overs": "16.3"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 168,
+          "wickets": 2,
+          "overs": "31.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 196,
+          "wickets": 3,
+          "overs": "36.2"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 261,
+          "wickets": 4,
+          "overs": "42.1"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 278,
+          "wickets": 5,
+          "overs": "43.4"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 290,
+          "wickets": 6,
+          "overs": "45.4"
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 312,
+          "wickets": 7,
+          "overs": "47.5"
+        },
+        {
+          "player": "DC Thomas",
+          "runs": 326,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 115,
+      "wickets": 10,
+      "overs": 31.3,
+      "extras": 2,
+      "top_batters": [
+        {
+          "name": "TLW Cooper",
+          "runs": 55,
+          "balls": 72,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 76.39,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Mudassar Bukhari",
+          "runs": 24,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AN Kervezee",
+          "runs": 14,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RN ten Doeschate",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "KAJ Roach",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 6,
+          "economy": 3.18,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SJ Benn",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 3,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJG Sammy",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KA Pollard",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 2,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NO Miller",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 3.29,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "W Barresi",
+          "runs": 2,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 26,
+          "wickets": 2,
+          "overs": "6.4"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 34,
+          "wickets": 3,
+          "overs": "8.1"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 35,
+          "wickets": 4,
+          "overs": "9.3"
+        },
+        {
+          "player": "TN de Grooth",
+          "runs": 36,
+          "wickets": 5,
+          "overs": "10.2"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 56,
+          "wickets": 6,
+          "overs": "18.2"
+        },
+        {
+          "player": "Mudassar Bukhari",
+          "runs": 113,
+          "wickets": 7,
+          "overs": "29.4"
+        },
+        {
+          "player": "PM Seelaar",
+          "runs": 115,
+          "wickets": 8,
+          "overs": "31.1"
+        },
+        {
+          "player": "BP Loots",
+          "runs": 115,
+          "wickets": 9,
+          "overs": "31.2"
+        },
+        {
+          "player": "BA Westdijk",
+          "runs": 115,
+          "wickets": 10,
+          "overs": "31.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_netherlands_vs_west_indies.json",
+  "match_summary": "2011 World Cup Group B: Netherlands vs West Indies (2011-02-28) at Delhi.\nWest Indies: 330/8 (50.0 ov)\n  CH Gayle: 80 (110b, 7x4, 2x6)\n  KA Pollard: 60 (27b, 5x4, 4x6)\n  DS Smith: 53 (51b, 9x4, 0x6)\n  PM Seelaar: 3/45 (10.0 ov)\n  Mudassar Bukhari: 2/65 (10.0 ov)\nNetherlands: 115 all out (31.3 ov)\n  TLW Cooper: 55* (72b, 9x4, 0x6)\n  KAJ Roach: 6/27 (8.3 ov)\n  SJ Benn: 3/28 (8.0 ov)\nWest Indies won by 215 runs.\nPlayer of the Match: KAJ Roach."
+}

@@ -1,0 +1,747 @@
+{
+  "match_info": {
+    "match_id": "d16071fe2fb1",
+    "world_cup_year": 2003,
+    "stage": "Semi-Final",
+    "venue": "Kingsmead, Durban",
+    "city": "Durban",
+    "date": "2003-03-20",
+    "teams": {
+      "team1": "India",
+      "team2": "Kenya"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "91 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sourav Ganguly",
+      "team2": "Steve Tikolo"
+    },
+    "player_of_match": "SC Ganguly",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Semi-Final: India vs Kenya (2003-03-20) at Durban.\nIndia: 270/4 (50.0 ov)\n  SC Ganguly: 111* (114b, 5x4, 5x6)\n  SR Tendulkar: 83 (101b, 5x4, 1x6)\n  V Sehwag: 33 (56b, 2x4, 0x6)\nKenya: 179 all out (46.2 ov)\n  SO Tikolo: 56 (83b, 5x4, 2x6)\n  Z Khan: 3/14 (9.2 ov)\n  A Nehra: 2/11 (5.0 ov)\n  SR Tendulkar: 2/28 (6.0 ov)\nIndia won by 91 runs.\nPlayer of the Match: SC Ganguly.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 449,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 4.65,
+    "highest_individual_score": 111,
+    "best_bowling_figures": "3/14",
+    "total_sixes": 11,
+    "total_fours": 21
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 270,
+      "total_wickets": 4,
+      "total_overs": 50.0,
+      "run_rate": 5.4,
+      "top_batters": [
+        {
+          "name": "SC Ganguly",
+          "runs": 111,
+          "balls": 114,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 97.37,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SR Tendulkar",
+          "runs": 83,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 82.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 33,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 16,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Kaif",
+          "runs": 15,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "PJ Ongondo",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Suji",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 62,
+          "wickets": 0,
+          "economy": 6.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AY Karim",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 6.25,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 74,
+          "wickets": 1,
+          "overs": "18.3"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 177,
+          "wickets": 2,
+          "overs": "37.5"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 233,
+          "wickets": 3,
+          "overs": "45.5"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 267,
+          "wickets": 4,
+          "overs": "49.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 0,
+        "run_rate": 4.3,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 82,
+        "wickets": 2,
+        "run_rate": 8.2,
+        "fours": 5,
+        "sixes": 3,
+        "dot_balls": 15,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "total_runs": 179,
+      "total_wickets": 10,
+      "total_overs": 46.2,
+      "run_rate": 3.89,
+      "top_batters": [
+        {
+          "name": "SO Tikolo",
+          "runs": 56,
+          "balls": 83,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 67.47,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 29,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 69.05,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "MO Odumbe",
+          "runs": 19,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KO Otieno",
+          "runs": 15,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.88,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HS Modi",
+          "runs": 9,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "9.2",
+          "maidens": 2,
+          "runs_conceded": 14,
+          "wickets": 3,
+          "economy": 1.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "A Nehra",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 11,
+          "wickets": 2,
+          "economy": 2.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Tendulkar",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 2,
+          "economy": 4.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "J Srinath",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 1.57,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 7.17,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RD Shah",
+          "runs": 20,
+          "wickets": 1,
+          "overs": "8.2"
+        },
+        {
+          "player": "PJ Ongondo",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "10.1"
+        },
+        {
+          "player": "KO Otieno",
+          "runs": 30,
+          "wickets": 3,
+          "overs": "13.1"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 36,
+          "wickets": 4,
+          "overs": "14.3"
+        },
+        {
+          "player": "MO Odumbe",
+          "runs": 63,
+          "wickets": 5,
+          "overs": "18.4"
+        },
+        {
+          "player": "HS Modi",
+          "runs": 92,
+          "wickets": 6,
+          "overs": "26.4"
+        },
+        {
+          "player": "DO Obuya",
+          "runs": 104,
+          "wickets": 7,
+          "overs": "33.1"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 161,
+          "wickets": 8,
+          "overs": "43.4"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 179,
+          "wickets": 9,
+          "overs": "45.5"
+        },
+        {
+          "player": "MA Suji",
+          "runs": 179,
+          "wickets": 10,
+          "overs": "46.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 20,
+        "wickets": 1,
+        "run_rate": 2.0,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "6.2",
+        "balls": 38,
+        "runs": 48,
+        "wickets": 3,
+        "run_rate": 7.58,
+        "fours": 4,
+        "sixes": 2,
+        "dot_balls": 24,
+        "extras": 11
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SC Ganguly": {
+      "batting": {
+        "runs": 111,
+        "balls": 114,
+        "fours": 5,
+        "sixes": 5,
+        "strike_rate": 97.37
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 83,
+        "balls": 101,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 82.18
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 2,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 33,
+        "balls": 56,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 58.93
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 16,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 160.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 7.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Kaif": {
+      "batting": {
+        "runs": 15,
+        "balls": 20,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Ongondo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 1,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 56,
+        "balls": 83,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 67.47
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 60,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Suji": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 0,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AY Karim": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 0,
+        "economy": 6.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 29,
+        "balls": 42,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 69.05
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MO Odumbe": {
+      "batting": {
+        "runs": 19,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 118.75
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KO Otieno": {
+      "batting": {
+        "runs": 15,
+        "balls": 43,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 34.88
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HS Modi": {
+      "batting": {
+        "runs": 9,
+        "balls": 25,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 36.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.333333333333334,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 3,
+        "economy": 1.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Nehra": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 2.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "J Srinath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 1.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 270 in 50.0 overs at 5.4 RPO",
+    "vs Kenya scored 179 in 46.2 overs at 3.89 RPO",
+    "Top batsman: SC Ganguly with 111 runs",
+    "Top bowler: Z Khan with 3 wickets"
+  ]
+}

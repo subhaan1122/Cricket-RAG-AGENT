@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: India vs Kenya
+Stage: Semi-Final
+Date: 2003-03-20
+Venue: Kingsmead, Durban, Durban
+Captain India: Sourav Ganguly
+Captain Kenya: Steve Tikolo
+
+Match Summary:
+  2003 World Cup Semi-Final: India vs Kenya (2003-03-20) at Durban.
+
+India: 270/4 (50.0 ov)
+  SC Ganguly: 111 (114b, 5x4, 5x6, SR 97.37)
+  SR Tendulkar: 83 (101b, 5x4, 1x6, SR 82.18)
+  V Sehwag: 33 (56b, 2x4, 0x6, SR 58.93)
+  Yuvraj Singh: 16 (10b, 1x4, 1x6, SR 160.0)
+  M Kaif: 15 (20b, 0x4, 0x6, SR 75.0)
+  PJ Ongondo: 1/38 (10.0 ov, Econ 3.8)
+  TM Odoyo: 1/45 (10.0 ov, Econ 4.5)
+  SO Tikolo: 1/60 (10.0 ov, Econ 6.0)
+  MA Suji: 0/62 (10.0 ov, Econ 6.2)
+  AY Karim: 0/25 (4.0 ov, Econ 6.25)
+  Extras: 11
+
+Kenya: 179 all out (46.2 ov)
+  SO Tikolo: 56 (83b, 5x4, 2x6, SR 67.47)
+  CO Obuya: 29 (42b, 1x4, 1x6, SR 69.05)
+  MO Odumbe: 19 (16b, 1x4, 1x6, SR 118.75)
+  KO Otieno: 15 (43b, 1x4, 0x6, SR 34.88)
+  HS Modi: 9 (25b, 0x4, 0x6, SR 36.0)
+  Z Khan: 3/14 (9.2 ov, Econ 1.5)
+  A Nehra: 2/11 (5.0 ov, Econ 2.2)
+  SR Tendulkar: 2/28 (6.0 ov, Econ 4.67)
+  J Srinath: 1/11 (7.0 ov, Econ 1.57)
+  Yuvraj Singh: 1/43 (6.0 ov, Econ 7.17)
+  Extras: 39
+
+Batting Highlights:
+  Century: SC Ganguly scored 111 off 114 balls (SR 97.37, 5 fours, 5 sixes)
+  Half-century: SR Tendulkar scored 83 off 101 balls (SR 82.18)
+  Half-century: SO Tikolo scored 56 off 83 balls (SR 67.47)
+
+Bowling Highlights:
+  Key spell: Z Khan took 3/14
+  Economical spell: A Nehra conceded 11 runs in 5.0 overs (Econ 2.2)
+  Economical spell: J Srinath conceded 11 runs in 7.0 overs (Econ 1.57)
+
+Captain Performance:
+  Sourav Ganguly (India): scored 111 off 114 balls
+  Steve Tikolo (Kenya): scored 56 off 83 balls
+
+Key Moments:
+  India lost 4 early wickets.
+  Kenya lost 10 early wickets.
+
+Result: India won by 91 runs
+Toss: India won and chose to bat
+Player of the Match: SC Ganguly

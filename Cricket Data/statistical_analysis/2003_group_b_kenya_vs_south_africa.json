@@ -1,0 +1,652 @@
+{
+  "match_info": {
+    "match_id": "f2f5d990b584",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "North West Cricket Stadium, Potchefstroom",
+    "city": "Potchefstroom",
+    "date": "2003-02-12",
+    "teams": {
+      "team1": "Kenya",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "Kenya",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "10 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Steve Tikolo",
+      "team2": "Shaun Pollock"
+    },
+    "player_of_match": "L Klusener",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: Kenya vs South Africa (2003-02-12) at Potchefstroom.\nKenya: 140 all out (38.0 ov)\n  RD Shah: 60 (87b, 7x4, 0x6)\n  L Klusener: 4/16 (8.0 ov)\n  SM Pollock: 2/15 (6.0 ov)\nSouth Africa: 142/0 (21.2 ov)\n  HH Gibbs: 87* (66b, 12x4, 4x6)\n  G Kirsten: 52* (63b, 9x4, 0x6)\nSouth Africa won by 10 wickets.\nPlayer of the Match: L Klusener.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 282,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 5.22,
+    "highest_individual_score": 87,
+    "best_bowling_figures": "4/16",
+    "total_sixes": 6,
+    "total_fours": 31
+  },
+  "innings_analysis": [
+    {
+      "team": "Kenya",
+      "total_runs": 140,
+      "total_wickets": 10,
+      "total_overs": 38.0,
+      "run_rate": 3.68,
+      "top_batters": [
+        {
+          "name": "RD Shah",
+          "runs": 60,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "TM Odoyo",
+          "runs": 22,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 53.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MO Odumbe",
+          "runs": 16,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 48.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PJ Ongondo",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HS Modi",
+          "runs": 9,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "L Klusener",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 4,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "M Ntini",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "N Boje",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KO Otieno",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.6"
+        },
+        {
+          "player": "BJ Patel",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "2.5"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 26,
+          "wickets": 3,
+          "overs": "8.4"
+        },
+        {
+          "player": "HS Modi",
+          "runs": 62,
+          "wickets": 4,
+          "overs": "17.5"
+        },
+        {
+          "player": "RD Shah",
+          "runs": 92,
+          "wickets": 5,
+          "overs": "25.2"
+        },
+        {
+          "player": "MO Odumbe",
+          "runs": 105,
+          "wickets": 6,
+          "overs": "30.4"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 105,
+          "wickets": 7,
+          "overs": "30.5"
+        },
+        {
+          "player": "MA Suji",
+          "runs": 120,
+          "wickets": 8,
+          "overs": "32.4"
+        },
+        {
+          "player": "PJ Ongondo",
+          "runs": 139,
+          "wickets": 9,
+          "overs": "36.2"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 140,
+          "wickets": 10,
+          "overs": "37.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 3,
+        "run_rate": 2.8,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 47,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 142,
+      "total_wickets": 0,
+      "total_overs": 21.2,
+      "run_rate": 6.76,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 87,
+          "balls": 66,
+          "fours": 12,
+          "sixes": 4,
+          "strike_rate": 131.82,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "G Kirsten",
+          "runs": 52,
+          "balls": 63,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 82.54,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Suji",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 5.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PJ Ongondo",
+          "overs": "2.2",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 7.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AY Karim",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 8.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 52,
+        "wickets": 0,
+        "run_rate": 5.2,
+        "fours": 10,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "RD Shah": {
+      "batting": {
+        "runs": 60,
+        "balls": 87,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 68.97
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 22,
+        "balls": 41,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 53.66
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 0,
+        "economy": 5.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MO Odumbe": {
+      "batting": {
+        "runs": 16,
+        "balls": 33,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 48.48
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Ongondo": {
+      "batting": {
+        "runs": 13,
+        "balls": 13,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 2.3333333333333335,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 7.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HS Modi": {
+      "batting": {
+        "runs": 9,
+        "balls": 24,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 37.5
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "L Klusener": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 4,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 2,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 1,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "N Boje": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 4.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CK Langeveldt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 0,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Gibbs": {
+      "batting": {
+        "runs": 87,
+        "balls": 66,
+        "fours": 12,
+        "sixes": 4,
+        "strike_rate": 131.82
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Kirsten": {
+      "batting": {
+        "runs": 52,
+        "balls": 63,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 82.54
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Suji": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 5.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 0,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AY Karim": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 8.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Kenya scored 140 in 38.0 overs at 3.68 RPO",
+    "vs South Africa scored 142 in 21.2 overs at 6.76 RPO",
+    "Top batsman: HH Gibbs with 87 runs",
+    "Top bowler: L Klusener with 4 wickets"
+  ]
+}

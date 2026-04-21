@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: India vs England
+Stage: Group A
+Date: 2003-02-26
+Venue: Kingsmead, Durban, Durban
+Captain India: Sourav Ganguly
+Captain England: Nasser Hussain
+
+Match Summary:
+  2003 World Cup Group A: India vs England (2003-02-26) at Durban.
+
+India: 250/9 (50.0 ov)
+  R Dravid: 62 (72b, 3x4, 1x6, SR 86.11)
+  SR Tendulkar: 50 (52b, 8x4, 1x6, SR 96.15)
+  Yuvraj Singh: 42 (38b, 4x4, 1x6, SR 110.53)
+  D Mongia: 32 (66b, 3x4, 0x6, SR 48.48)
+  V Sehwag: 23 (29b, 4x4, 0x6, SR 79.31)
+  AR Caddick: 3/69 (10.0 ov, Econ 6.9)
+  A Flintoff: 2/15 (10.0 ov, Econ 1.5)
+  PD Collingwood: 1/15 (4.0 ov, Econ 3.75)
+  C White: 1/57 (10.0 ov, Econ 5.7)
+  JM Anderson: 1/61 (10.0 ov, Econ 6.1)
+  Extras: 17
+
+England: 168 all out (45.3 ov)
+  A Flintoff: 64 (73b, 5x4, 3x6, SR 87.67)
+  MP Vaughan: 20 (47b, 2x4, 0x6, SR 42.55)
+  PD Collingwood: 18 (38b, 2x4, 0x6, SR 47.37)
+  N Hussain: 15 (30b, 2x4, 0x6, SR 50.0)
+  C White: 13 (9b, 1x4, 0x6, SR 144.44)
+  A Nehra: 6/23 (10.0 ov, Econ 2.3)
+  Z Khan: 2/29 (9.3 ov, Econ 3.05)
+  J Srinath: 1/37 (10.0 ov, Econ 3.7)
+  Harbhajan Singh: 0/40 (10.0 ov, Econ 4.0)
+  SC Ganguly: 0/34 (6.0 ov, Econ 5.67)
+  Extras: 14
+
+Batting Highlights:
+  Half-century: R Dravid scored 62 off 72 balls (SR 86.11)
+  Half-century: SR Tendulkar scored 50 off 52 balls (SR 96.15)
+  Half-century: A Flintoff scored 64 off 73 balls (SR 87.67)
+
+Bowling Highlights:
+  Key spell: AR Caddick took 3/69
+  Economical spell: A Flintoff conceded 15 runs in 10.0 overs (Econ 1.5)
+  Match-changing spell: A Nehra took 6/23
+  Economical spell: Z Khan conceded 29 runs in 9.3 overs (Econ 3.05)
+
+Captain Performance:
+  Nasser Hussain (England): scored 15 off 30 balls
+
+Key Moments:
+  India lost 9 early wickets.
+  England lost 10 early wickets.
+
+Result: India won by 82 runs
+Toss: India won and chose to bat
+Player of the Match: A Nehra

@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: Bangladesh vs India
+Stage: Group Stage
+Date: 2019-07-02
+Venue: Edgbaston, Birmingham
+Captain Bangladesh: Mashrafe Mortaza
+Captain India: Virat Kohli
+
+Match Summary:
+  2019 World Cup Group Stage: Bangladesh vs India (2019-07-02) at Birmingham.
+
+India: 314/9 (50.0 ov)
+  RG Sharma: 104 (92b, 6x4, 5x6, SR 113.04)
+  KL Rahul: 77 (92b, 6x4, 1x6, SR 83.7)
+  RR Pant: 48 (41b, 6x4, 1x6, SR 117.07)
+  MS Dhoni: 35 (33b, 4x4, 0x6, SR 106.06)
+  V Kohli: 26 (27b, 3x4, 0x6, SR 96.3)
+  Mustafizur Rahman: 5/59 (10.0 ov, Econ 5.9)
+  Shakib Al Hasan: 1/41 (10.0 ov, Econ 4.1)
+  Soumya Sarkar: 1/33 (6.0 ov, Econ 5.5)
+  Rubel Hossain: 1/48 (8.0 ov, Econ 6.0)
+  Mashrafe Mortaza: 0/36 (5.0 ov, Econ 7.2)
+  Extras: 13
+
+Bangladesh: 286 all out (48.0 ov)
+  Shakib Al Hasan: 66 (74b, 6x4, 0x6, SR 89.19)
+  Mohammad Saifuddin: 51 (38b, 9x4, 0x6, SR 134.21)
+  Sabbir Rahman: 36 (36b, 5x4, 0x6, SR 100.0)
+  Soumya Sarkar: 33 (38b, 4x4, 0x6, SR 86.84)
+  Mushfiqur Rahim: 24 (23b, 3x4, 0x6, SR 104.35)
+  JJ Bumrah: 4/55 (10.0 ov, Econ 5.5)
+  HH Pandya: 3/60 (10.0 ov, Econ 6.0)
+  YS Chahal: 1/50 (10.0 ov, Econ 5.0)
+  B Kumar: 1/51 (9.0 ov, Econ 5.67)
+  Mohammed Shami: 1/68 (9.0 ov, Econ 7.56)
+  Extras: 12
+
+Batting Highlights:
+  Century: RG Sharma scored 104 off 92 balls (SR 113.04, 6 fours, 5 sixes)
+  Half-century: KL Rahul scored 77 off 92 balls (SR 83.7)
+  Half-century: Shakib Al Hasan scored 66 off 74 balls (SR 89.19)
+  Half-century: Mohammad Saifuddin scored 51 off 38 balls (SR 134.21)
+
+Bowling Highlights:
+  Match-changing spell: Mustafizur Rahman took 5/59
+  Match-changing spell: JJ Bumrah took 4/55
+  Key spell: HH Pandya took 3/60
+
+Captain Performance:
+  Virat Kohli (India): scored 26 off 27 balls
+
+Key Moments:
+  India lost 9 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: India won by 28 runs
+Toss: India won and chose to bat
+Player of the Match: RG Sharma

@@ -1,0 +1,787 @@
+{
+  "match_info": {
+    "match_id": "cf1bd3ac9190",
+    "world_cup_year": 2015,
+    "stage": "Group B",
+    "venue": "Eden Park",
+    "city": "Auckland",
+    "date": "2015-03-14",
+    "teams": {
+      "team1": "India",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "MS Dhoni",
+      "team2": "Elton Chigumbura"
+    },
+    "player_of_match": "SK Raina",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group B: India vs Zimbabwe (2015-03-14) at Auckland.\nZimbabwe: 287 all out (48.5 ov)\n  BRM Taylor: 138 (110b, 15x4, 5x6)\n  SC Williams: 50 (57b, 3x4, 3x6)\n  UT Yadav: 3/43 (9.5 ov)\n  MM Sharma: 3/48 (10.0 ov)\n  Mohammed Shami: 3/48 (9.0 ov)\nIndia: 288/4 (48.4 ov)\n  SK Raina: 110* (104b, 9x4, 4x6)\n  MS Dhoni: 85* (76b, 7x4, 2x6)\n  V Kohli: 38 (48b, 4x4, 0x6)\n  T Panyangara: 2/53 (8.4 ov)\nIndia won by 6 wickets.\nPlayer of the Match: SK Raina.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 575,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 5.99,
+    "highest_individual_score": 138,
+    "best_bowling_figures": "3/48",
+    "total_sixes": 18,
+    "total_fours": 45
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 287,
+      "total_wickets": 10,
+      "total_overs": 48.5,
+      "run_rate": 5.98,
+      "top_batters": [
+        {
+          "name": "BRM Taylor",
+          "runs": 138,
+          "balls": 110,
+          "fours": 15,
+          "sixes": 5,
+          "strike_rate": 125.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Williams",
+          "runs": 50,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 87.72,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Sikandar Raza",
+          "runs": 28,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 186.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CR Ervine",
+          "runs": 27,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 65.85,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "RW Chakabva",
+          "runs": 10,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "UT Yadav",
+          "overs": "9.5",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 4.37,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 5.33,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 75,
+          "wickets": 1,
+          "economy": 7.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 0,
+          "economy": 7.1,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "H Masakadza",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 13,
+          "wickets": 2,
+          "overs": "4.3"
+        },
+        {
+          "player": "SF Mire",
+          "runs": 33,
+          "wickets": 3,
+          "overs": "10.6"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 126,
+          "wickets": 4,
+          "overs": "28.3"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 235,
+          "wickets": 5,
+          "overs": "41.5"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 241,
+          "wickets": 6,
+          "overs": "43.1"
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 276,
+          "wickets": 7,
+          "overs": "45.6"
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 285,
+          "wickets": 8,
+          "overs": "47.3"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 286,
+          "wickets": 9,
+          "overs": "48.1"
+        },
+        {
+          "player": "TL Chatara",
+          "runs": 287,
+          "wickets": 10,
+          "overs": "48.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 27,
+        "wickets": 2,
+        "run_rate": 2.7,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "8.5",
+        "balls": 53,
+        "runs": 80,
+        "wickets": 6,
+        "run_rate": 9.06,
+        "fours": 6,
+        "sixes": 5,
+        "dot_balls": 22,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 288,
+      "total_wickets": 4,
+      "total_overs": 48.4,
+      "run_rate": 6.0,
+      "top_batters": [
+        {
+          "name": "SK Raina",
+          "runs": 110,
+          "balls": 104,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 105.77,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 85,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 111.84,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 38,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AM Rahane",
+          "runs": 19,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 16,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "T Panyangara",
+          "overs": "8.4",
+          "maidens": 1,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 6.12,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Sikandar Raza",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.62,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SF Mire",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TL Chatara",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 59,
+          "wickets": 0,
+          "economy": 5.9,
+          "wides": 6,
+          "no_balls": 1
+        },
+        {
+          "name": "T Mupariwa",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 0,
+          "economy": 6.1,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 21,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "6.5"
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 71,
+          "wickets": 3,
+          "overs": "16.3"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 92,
+          "wickets": 4,
+          "overs": "22.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 35,
+        "wickets": 2,
+        "run_rate": 3.5,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 46,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "8.4",
+        "balls": 52,
+        "runs": 91,
+        "wickets": 0,
+        "run_rate": 10.5,
+        "fours": 8,
+        "sixes": 3,
+        "dot_balls": 11,
+        "extras": 6
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "BRM Taylor": {
+      "batting": {
+        "runs": 138,
+        "balls": 110,
+        "fours": 15,
+        "sixes": 5,
+        "strike_rate": 125.45
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Williams": {
+      "batting": {
+        "runs": 50,
+        "balls": 57,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 87.72
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Sikandar Raza": {
+      "batting": {
+        "runs": 28,
+        "balls": 15,
+        "fours": 1,
+        "sixes": 3,
+        "strike_rate": 186.67
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 1,
+        "economy": 4.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Ervine": {
+      "batting": {
+        "runs": 27,
+        "balls": 41,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 65.85
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RW Chakabva": {
+      "batting": {
+        "runs": 10,
+        "balls": 13,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 76.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "UT Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.833333333333334,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 3,
+        "economy": 4.37
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Sharma": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 3,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Shami": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 3,
+        "economy": 5.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ashwin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 75,
+        "wickets": 1,
+        "economy": 7.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 0,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SK Raina": {
+      "batting": {
+        "runs": 110,
+        "balls": 104,
+        "fours": 9,
+        "sixes": 4,
+        "strike_rate": 105.77
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 85,
+        "balls": 76,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 111.84
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 38,
+        "balls": 48,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 79.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AM Rahane": {
+      "batting": {
+        "runs": 19,
+        "balls": 24,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 79.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RG Sharma": {
+      "batting": {
+        "runs": 16,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 76.19
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Panyangara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.666666666666666,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 2,
+        "economy": 6.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SF Mire": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 5.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TL Chatara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 0,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Mupariwa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 61,
+        "wickets": 0,
+        "economy": 6.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 287 in 48.5 overs at 5.98 RPO",
+    "vs India scored 288 in 48.4 overs at 6.0 RPO",
+    "Top batsman: BRM Taylor with 138 runs",
+    "Top bowler: UT Yadav with 3 wickets"
+  ]
+}

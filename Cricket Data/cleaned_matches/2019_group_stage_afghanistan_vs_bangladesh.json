@@ -1,0 +1,54 @@
+{
+  "match_id": "490a4927f8db",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Rose Bowl, Southampton",
+  "city": "Southampton",
+  "date": "2019-06-24",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Bangladesh"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "62 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Mashrafe Mortaza"
+  },
+  "player_of_match": "Shakib Al Hasan",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 262,
+      "wickets": 7,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 200,
+      "wickets": 10,
+      "overs": 47,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_bangladesh.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Bangladesh (2019-06-24) at Southampton.\nBangladesh: 262/7 (50 ov)\nAfghanistan: 200 all out (47 ov)\nBangladesh won by 62 runs."
+}

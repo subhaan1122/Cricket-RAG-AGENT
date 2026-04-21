@@ -1,0 +1,338 @@
+{
+  "match_id": "72201783664c",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "M Chinnaswamy Stadium",
+  "city": "Bangalore",
+  "date": "2011-03-16",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Canada"
+  },
+  "toss": {
+    "winner": "Canada",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Ashish Bagai"
+  },
+  "player_of_match": "SR Watson",
+  "innings": [
+    {
+      "team": "Canada",
+      "runs": 211,
+      "wickets": 10,
+      "overs": 45.4,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "H Patel",
+          "runs": 54,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 120.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 39,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ZE Surkari",
+          "runs": 34,
+          "balls": 69,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 49.28,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "K Whatham",
+          "runs": 18,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.9,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "HS Baidwan",
+          "runs": 17,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 121.43,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "B Lee",
+          "overs": "8.4",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 4,
+          "economy": 5.31,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 4.25,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "JJ Krejza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 2,
+          "economy": 4.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Watson",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JM Davison",
+          "runs": 41,
+          "wickets": 1,
+          "overs": "3.5"
+        },
+        {
+          "player": "H Patel",
+          "runs": 82,
+          "wickets": 2,
+          "overs": "11.3"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 150,
+          "wickets": 3,
+          "overs": "28.2"
+        },
+        {
+          "player": "AS Hansra",
+          "runs": 157,
+          "wickets": 4,
+          "overs": "29.6"
+        },
+        {
+          "player": "ZE Surkari",
+          "runs": 157,
+          "wickets": 5,
+          "overs": "30.4"
+        },
+        {
+          "player": "Rizwan Cheema",
+          "runs": 161,
+          "wickets": 6,
+          "overs": "31.3"
+        },
+        {
+          "player": "NR Kumar",
+          "runs": 169,
+          "wickets": 7,
+          "overs": "36.3"
+        },
+        {
+          "player": "HS Baidwan",
+          "runs": 195,
+          "wickets": 8,
+          "overs": "41.2"
+        },
+        {
+          "player": "WD Balaji Rao",
+          "runs": 204,
+          "wickets": 9,
+          "overs": "43.6"
+        },
+        {
+          "player": "K Whatham",
+          "runs": 211,
+          "wickets": 10,
+          "overs": "45.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 212,
+      "wickets": 3,
+      "overs": 34.5,
+      "extras": 3,
+      "top_batters": [
+        {
+          "name": "SR Watson",
+          "runs": 94,
+          "balls": 90,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 104.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BJ Haddin",
+          "runs": 88,
+          "balls": 84,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 104.76,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 7,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CL White",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HS Baidwan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "H Osinde",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 1,
+          "economy": 5.39,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 7.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Balaji Rao",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 6.57,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Rizwan Cheema",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 0,
+          "economy": 7.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BJ Haddin",
+          "runs": 183,
+          "wickets": 1,
+          "overs": "28.5"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 185,
+          "wickets": 2,
+          "overs": "29.3"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 207,
+          "wickets": 3,
+          "overs": "34.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_australia_vs_canada.json",
+  "match_summary": "2011 World Cup Group A: Australia vs Canada (2011-03-16) at Bangalore.\nCanada: 211 all out (45.4 ov)\n  H Patel: 54 (45b, 5x4, 3x6)\n  A Bagai: 39 (55b, 6x4, 0x6)\n  ZE Surkari: 34 (69b, 2x4, 0x6)\n  B Lee: 4/46 (8.4 ov)\n  SW Tait: 2/34 (8.0 ov)\n  JJ Krejza: 2/44 (10.0 ov)\nAustralia: 212/3 (34.5 ov)\n  SR Watson: 94 (90b, 9x4, 4x6)\n  BJ Haddin: 88 (84b, 11x4, 2x6)\nAustralia won by 7 wickets.\nPlayer of the Match: SR Watson."
+}

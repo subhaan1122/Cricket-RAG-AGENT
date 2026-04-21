@@ -1,0 +1,356 @@
+{
+  "match_id": "da33c5cd8116",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Sir Vivian Richards Stadium, North Sound",
+  "city": "Antigua",
+  "date": "2007-03-27",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "103 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brian Lara",
+    "team2": "Ricky Ponting"
+  },
+  "player_of_match": "ML Hayden",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 322,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "ML Hayden",
+          "runs": 158,
+          "balls": 143,
+          "fours": 14,
+          "sixes": 4,
+          "strike_rate": 110.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 41,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 87.23,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 35,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 97.22,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 33,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 126.92,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "A Symonds",
+          "runs": 13,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DBL Powell",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 5.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DJ Bravo",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 7.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MN Samuels",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 6.44,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "CD Collymore",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 5.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 0,
+          "economy": 6.7,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "4.1"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 76,
+          "wickets": 2,
+          "overs": "14.4"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 174,
+          "wickets": 3,
+          "overs": "30.5"
+        },
+        {
+          "player": "A Symonds",
+          "runs": 208,
+          "wickets": 4,
+          "overs": "35.6"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 234,
+          "wickets": 5,
+          "overs": "40.5"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 297,
+          "wickets": 6,
+          "overs": "47.1"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 219,
+      "wickets": 10,
+      "overs": 45.3,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "BC Lara",
+          "runs": 77,
+          "balls": 83,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 92.77,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "D Ramdin",
+          "runs": 52,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 120.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 29,
+          "balls": 58,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Taylor",
+          "runs": 10,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DR Smith",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GD McGrath",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 3,
+          "economy": 3.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 3,
+          "economy": 5.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "7.3",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 5.73,
+          "wides": 7,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 2.78,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "A Symonds",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 8.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Chanderpaul",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "3.5"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 16,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 20,
+          "wickets": 3,
+          "overs": "9.4"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 91,
+          "wickets": 4,
+          "overs": "25.2"
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 107,
+          "wickets": 5,
+          "overs": "28.3"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 156,
+          "wickets": 6,
+          "overs": "35.3"
+        },
+        {
+          "player": "DR Smith",
+          "runs": 172,
+          "wickets": 7,
+          "overs": "37.4"
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 199,
+          "wickets": 8,
+          "overs": "42.4"
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 217,
+          "wickets": 9,
+          "overs": "44.2"
+        },
+        {
+          "player": "DBL Powell",
+          "runs": 219,
+          "wickets": 10,
+          "overs": "45.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_australia_vs_west_indies.json",
+  "match_summary": "2007 World Cup Super Eight: West Indies vs Australia (2007-03-27) at Antigua.\nAustralia: 322/6 (50.0 ov)\n  ML Hayden: 158 (143b, 14x4, 4x6)\n  MJ Clarke: 41 (47b, 4x4, 0x6)\n  RT Ponting: 35 (36b, 4x4, 1x6)\n  DBL Powell: 2/53 (10.0 ov)\n  DJ Bravo: 2/49 (7.0 ov)\nWest Indies: 219 all out (45.3 ov)\n  BC Lara: 77 (83b, 8x4, 1x6)\n  D Ramdin: 52 (43b, 6x4, 0x6)\n  GD McGrath: 3/31 (8.0 ov)\n  GB Hogg: 3/56 (10.0 ov)\n  SW Tait: 2/43 (7.3 ov)\nAustralia won by 103 runs.\nPlayer of the Match: ML Hayden."
+}

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs Pakistan
+Stage: Group D
+Date: 2007-03-13
+Venue: Sabina Park, Kingston, Jamaica
+Captain West Indies: Brian Lara
+Captain Pakistan: Inzamam-ul-Haq
+
+Match Summary:
+  2007 World Cup Group D: West Indies vs Pakistan (2007-03-13) at Jamaica.
+
+West Indies: 241/9 (50.0 ov)
+  MN Samuels: 63 (70b, 5x4, 3x6, SR 90.0)
+  RR Sarwan: 49 (65b, 9x4, 0x6, SR 75.38)
+  BC Lara: 37 (56b, 3x4, 1x6, SR 66.07)
+  DR Smith: 32 (15b, 3x4, 2x6, SR 213.33)
+  S Chanderpaul: 19 (63b, 2x4, 0x6, SR 30.16)
+  Iftikhar Anjum: 3/44 (10.0 ov, Econ 4.4)
+  Umar Gul: 2/38 (9.0 ov, Econ 4.22)
+  Mohammad Hafeez: 2/39 (9.0 ov, Econ 4.33)
+  Danish Kaneria: 1/45 (9.0 ov, Econ 5.0)
+  Naved-ul-Hasan: 0/49 (9.0 ov, Econ 5.44)
+  Extras: 11
+
+Pakistan: 187 all out (47.2 ov)
+  Shoaib Malik: 62 (54b, 6x4, 1x6, SR 114.81)
+  Mohammad Yousuf: 37 (72b, 1x4, 0x6, SR 51.39)
+  Inzamam-ul-Haq: 36 (65b, 4x4, 0x6, SR 55.38)
+  Iftikhar Anjum: 11 (18b, 0x4, 0x6, SR 61.11)
+  Mohammad Hafeez: 11 (28b, 2x4, 0x6, SR 39.29)
+  DR Smith: 3/36 (10.0 ov, Econ 3.6)
+  DJ Bravo: 3/42 (9.0 ov, Econ 4.67)
+  DBL Powell: 2/42 (10.0 ov, Econ 4.2)
+  CD Collymore: 1/27 (8.2 ov, Econ 3.24)
+  JE Taylor: 1/38 (10.0 ov, Econ 3.8)
+  Extras: 4
+
+Batting Highlights:
+  Half-century: MN Samuels scored 63 off 70 balls (SR 90.0)
+  Quickfire innings: DR Smith smashed 32 off 15 balls at SR 213.33
+  Half-century: Shoaib Malik scored 62 off 54 balls (SR 114.81)
+
+Bowling Highlights:
+  Key spell: Iftikhar Anjum took 3/44
+  Key spell: DR Smith took 3/36
+  Key spell: DJ Bravo took 3/42
+  Economical spell: CD Collymore conceded 27 runs in 8.2 overs (Econ 3.24)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 37 off 56 balls
+  Inzamam-ul-Haq (Pakistan): scored 36 off 65 balls
+
+Key Moments:
+  West Indies lost 9 early wickets.
+  Pakistan lost 10 early wickets.
+
+Result: West Indies won by 54 runs
+Toss: Pakistan won and chose to field
+Player of the Match: DR Smith

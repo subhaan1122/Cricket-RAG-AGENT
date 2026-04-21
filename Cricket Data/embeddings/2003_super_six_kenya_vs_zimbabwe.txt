@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2003
+Match: Zimbabwe vs Kenya
+Stage: Super Six
+Date: 2003-03-12
+Venue: Goodyear Park, Bloemfontein, Bloemfontein
+Captain Zimbabwe: Heath Streak
+Captain Kenya: Steve Tikolo
+
+Match Summary:
+  2003 World Cup Super Six: Zimbabwe vs Kenya (2003-03-12) at Bloemfontein.
+
+Zimbabwe: 133 all out (44.1 ov)
+  A Flower: 63 (101b, 5x4, 0x6, SR 62.38)
+  DA Marillier: 21 (39b, 2x4, 0x6, SR 53.85)
+  DD Ebrahim: 13 (24b, 1x4, 0x6, SR 54.17)
+  GW Flower: 7 (15b, 1x4, 0x6, SR 46.67)
+  ADR Campbell: 7 (25b, 0x4, 0x6, SR 28.0)
+  MA Suji: 3/19 (8.0 ov, Econ 2.38)
+  CO Obuya: 3/32 (10.0 ov, Econ 3.2)
+  SO Tikolo: 2/2 (2.1 ov, Econ 0.92)
+  TM Odoyo: 1/43 (10.0 ov, Econ 4.3)
+  AY Karim: 0/20 (9.0 ov, Econ 2.22)
+  Extras: 7
+
+Kenya: 135/3 (26.0 ov)
+  TM Odoyo: 43 (60b, 9x4, 0x6, SR 71.67)
+  MO Odumbe: 38 (20b, 8x4, 0x6, SR 190.0)
+  KO Otieno: 19 (50b, 2x4, 0x6, SR 38.0)
+  RD Shah: 14 (27b, 2x4, 0x6, SR 51.85)
+  SO Tikolo: 2 (7b, 0x4, 0x6, SR 28.57)
+  AM Blignaut: 1/36 (9.0 ov, Econ 4.0)
+  HK Olonga: 1/21 (4.0 ov, Econ 5.25)
+  HH Streak: 0/24 (6.0 ov, Econ 4.0)
+  DT Hondo: 0/14 (3.0 ov, Econ 4.67)
+  GW Flower: 0/27 (3.0 ov, Econ 9.0)
+  Extras: 19
+
+Batting Highlights:
+  Half-century: A Flower scored 63 off 101 balls (SR 62.38)
+  Quickfire innings: MO Odumbe smashed 38 off 20 balls at SR 190.0
+
+Bowling Highlights:
+  Key spell: MA Suji took 3/19
+  Key spell: CO Obuya took 3/32
+  Economical spell: AY Karim conceded 20 runs in 9.0 overs (Econ 2.22)
+
+Captain Performance:
+  Steve Tikolo (Kenya): scored 2 off 7 balls
+
+Key Moments:
+  Zimbabwe lost 10 early wickets.
+  Kenya lost 3 early wickets.
+
+Result: Kenya won by 7 wickets
+Toss: Zimbabwe won and chose to bat
+Player of the Match: MA Suji

@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2007
+Match: Ireland vs Zimbabwe
+Stage: Group D
+Date: 2007-03-15
+Venue: Sabina Park, Kingston, Jamaica
+Captain Ireland: Trent Johnston
+Captain Zimbabwe: Prosper Utseya
+
+Match Summary:
+  2007 World Cup Group D: Ireland vs Zimbabwe (2007-03-15) at Jamaica.
+
+Ireland: 221/9 (49.5 ov)
+  JP Bray: 115 (137b, 10x4, 2x6, SR 83.94)
+  AR White: 28 (48b, 3x4, 0x6, SR 58.33)
+  EJG Morgan: 21 (27b, 4x4, 0x6, SR 77.78)
+  DT Johnston: 20 (24b, 2x4, 0x6, SR 83.33)
+  D Langford-Smith: 15 (17b, 1x4, 0x6, SR 88.24)
+  E Chigumbura: 2/21 (5.5 ov, Econ 3.6)
+  GB Brent: 2/40 (10.0 ov, Econ 4.0)
+  CB Mpofu: 2/58 (10.0 ov, Econ 5.8)
+  SC Williams: 1/21 (6.0 ov, Econ 3.5)
+  EC Rainsford: 1/44 (7.0 ov, Econ 6.29)
+  Extras: 10
+
+Zimbabwe: 221 all out (49.5 ov)
+  S Matsikenyeri: 73 (76b, 9x4, 1x6, SR 96.05)
+  V Sibanda: 67 (84b, 9x4, 0x6, SR 79.76)
+  BRM Taylor: 24 (40b, 3x4, 0x6, SR 60.0)
+  SC Williams: 14 (13b, 2x4, 0x6, SR 107.69)
+  T Duffin: 12 (22b, 2x4, 0x6, SR 54.55)
+  WK McCallan: 2/56 (8.5 ov, Econ 6.34)
+  AC Botha: 1/32 (10.0 ov, Econ 3.2)
+  DT Johnston: 1/32 (10.0 ov, Econ 3.2)
+  KJ O'Brien: 1/8 (2.0 ov, Econ 4.0)
+  AR White: 1/15 (3.0 ov, Econ 5.0)
+  Extras: 10
+
+Batting Highlights:
+  Century: JP Bray scored 115 off 137 balls (SR 83.94, 10 fours, 2 sixes)
+  Half-century: S Matsikenyeri scored 73 off 76 balls (SR 96.05)
+  Half-century: V Sibanda scored 67 off 84 balls (SR 79.76)
+
+Bowling Highlights:
+  Economical spell: SC Williams conceded 21 runs in 6.0 overs (Econ 3.5)
+  Economical spell: AC Botha conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: DT Johnston conceded 32 runs in 10.0 overs (Econ 3.2)
+
+Captain Performance:
+  Trent Johnston (Ireland): scored 20 off 24 balls
+
+Key Moments:
+  Ireland lost 9 early wickets.
+  Zimbabwe lost 10 early wickets.
+
+Result: Zimbabwe won by 23 runs
+Toss: Zimbabwe won and chose to field
+Player of the Match: JP Bray

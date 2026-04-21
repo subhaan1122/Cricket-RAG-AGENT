@@ -1,0 +1,368 @@
+{
+  "match_id": "a9574c2d557f",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+  "city": "Dharamsala",
+  "date": "2023-10-17",
+  "teams": {
+    "team1": "Netherlands",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Netherlands",
+    "margin": "38 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Scott Edwards",
+    "team2": "Temba Bavuma"
+  },
+  "player_of_match": "SA Edwards",
+  "innings": [
+    {
+      "team": "Netherlands",
+      "runs": 245,
+      "wickets": 8,
+      "overs": 43.0,
+      "extras": 32,
+      "top_batters": [
+        {
+          "name": "SA Edwards",
+          "runs": 78,
+          "balls": 69,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 113.04,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RE van der Merwe",
+          "runs": 29,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 152.63,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Dutt",
+          "runs": 23,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 255.56,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AT Nidamanuru",
+          "runs": 20,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SA Engelbrecht",
+          "runs": 19,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 51.35,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Jansen",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 3.38,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 56,
+          "wickets": 2,
+          "economy": 6.22,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 57,
+          "wickets": 2,
+          "economy": 6.33,
+          "wides": 6,
+          "no_balls": 1
+        },
+        {
+          "name": "KA Maharaj",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 4.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "G Coetzee",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 7.12,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Vikramjit Singh",
+          "runs": 22,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "7.1"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 40,
+          "wickets": 3,
+          "overs": "10.5"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 50,
+          "wickets": 4,
+          "overs": "15.1"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 82,
+          "wickets": 5,
+          "overs": "20.2"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 112,
+          "wickets": 6,
+          "overs": "26.6"
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 140,
+          "wickets": 7,
+          "overs": "33.5"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 204,
+          "wickets": 8,
+          "overs": "39.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 207,
+      "wickets": 10,
+      "overs": 42.5,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "DA Miller",
+          "runs": 43,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 82.69,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KA Maharaj",
+          "runs": 40,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 108.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "H Klaasen",
+          "runs": 28,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "G Coetzee",
+          "runs": 22,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 95.65,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 20,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LV van Beek",
+          "overs": "8.5",
+          "maidens": 0,
+          "runs_conceded": 60,
+          "wickets": 3,
+          "economy": 6.79,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "RE van der Merwe",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.44,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "BFW de Leede",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "7.6"
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 39,
+          "wickets": 2,
+          "overs": "9.1"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 42,
+          "wickets": 3,
+          "overs": "10.2"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 44,
+          "wickets": 4,
+          "overs": "11.2"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 89,
+          "wickets": 5,
+          "overs": "18.5"
+        },
+        {
+          "player": "M Jansen",
+          "runs": 109,
+          "wickets": 6,
+          "overs": "24.6"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 145,
+          "wickets": 7,
+          "overs": "30.6"
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 147,
+          "wickets": 8,
+          "overs": "33.1"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 166,
+          "wickets": 9,
+          "overs": "35.1"
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 207,
+          "wickets": 10,
+          "overs": "42.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_netherlands_vs_south_africa.json",
+  "match_summary": "2023 World Cup Group Stage: Netherlands vs South Africa (2023-10-17) at Dharamsala.\nNetherlands: 245/8 (43.0 ov)\n  SA Edwards: 78* (69b, 9x4, 1x6)\n  M Jansen: 2/27 (8.0 ov)\n  K Rabada: 2/56 (9.0 ov)\n  L Ngidi: 2/57 (9.0 ov)\nSouth Africa: 207 all out (42.5 ov)\n  DA Miller: 43 (52b, 4x4, 1x6)\n  KA Maharaj: 40 (37b, 4x4, 1x6)\n  LV van Beek: 3/60 (8.5 ov)\n  RE van der Merwe: 2/34 (9.0 ov)\n  PA van Meekeren: 2/40 (9.0 ov)\nNetherlands won by 38 runs.\nPlayer of the Match: SA Edwards."
+}

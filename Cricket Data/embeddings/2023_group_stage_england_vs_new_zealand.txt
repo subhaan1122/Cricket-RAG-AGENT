@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2023
+Match: England vs New Zealand
+Stage: Group Stage
+Date: 2023-10-05
+Venue: Narendra Modi Stadium, Ahmedabad, Ahmedabad
+Captain England: Jos Buttler
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2023 World Cup Group Stage: England vs New Zealand (2023-10-05) at Ahmedabad.
+
+England: 282/9 (50.0 ov)
+  JE Root: 77 (86b, 4x4, 1x6, SR 89.53)
+  JC Buttler: 43 (42b, 2x4, 2x6, SR 102.38)
+  JM Bairstow: 33 (35b, 4x4, 1x6, SR 94.29)
+  HC Brook: 25 (16b, 4x4, 1x6, SR 156.25)
+  LS Livingstone: 20 (22b, 3x4, 0x6, SR 90.91)
+  MJ Henry: 3/48 (10.0 ov, Econ 4.8)
+  MJ Santner: 2/37 (10.0 ov, Econ 3.7)
+  GD Phillips: 2/17 (3.0 ov, Econ 5.67)
+  TA Boult: 1/48 (10.0 ov, Econ 4.8)
+  R Ravindra: 1/76 (10.0 ov, Econ 7.6)
+  Extras: 6
+
+New Zealand: 283/1 (36.2 ov)
+  DP Conway: 152 (121b, 19x4, 3x6, SR 125.62)
+  R Ravindra: 123 (96b, 11x4, 5x6, SR 128.12)
+  WA Young: 0 (1b, 0x4, 0x6, SR 0.0)
+  SM Curran: 1/47 (6.0 ov, Econ 7.83)
+  MM Ali: 0/60 (9.2 ov, Econ 6.43)
+  AU Rashid: 0/47 (7.0 ov, Econ 6.71)
+  CR Woakes: 0/45 (6.0 ov, Econ 7.5)
+  LS Livingstone: 0/24 (3.0 ov, Econ 8.0)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: JE Root scored 77 off 86 balls (SR 89.53)
+  Quickfire innings: HC Brook smashed 25 off 16 balls at SR 156.25
+  Century: DP Conway scored 152 off 121 balls (SR 125.62, 19 fours, 3 sixes)
+  Century: R Ravindra scored 123 off 96 balls (SR 128.12, 11 fours, 5 sixes)
+
+Bowling Highlights:
+  Key spell: MJ Henry took 3/48
+
+Captain Performance:
+  Jos Buttler (England): scored 43 off 42 balls
+
+Key Moments:
+  England lost 9 early wickets.
+  New Zealand scored aggressively in the powerplay (81 runs at 8.1 RPO).
+
+Result: New Zealand won by 9 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: R Ravindra

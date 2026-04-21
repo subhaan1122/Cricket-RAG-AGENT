@@ -1,0 +1,751 @@
+{
+  "match_info": {
+    "match_id": "b26380f9143f",
+    "world_cup_year": 2007,
+    "stage": "Super Eight",
+    "venue": "Providence Stadium",
+    "city": "Guyana",
+    "date": "2007-04-07",
+    "teams": {
+      "team1": "Bangladesh",
+      "team2": "South Africa"
+    },
+    "toss": {
+      "winner": "South Africa",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Bangladesh",
+      "margin": "67 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Habibul Bashar",
+      "team2": "Graeme Smith"
+    },
+    "player_of_match": "Mohammad Ashraful",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Super Eight: Bangladesh vs South Africa (2007-04-07) at Guyana.\nBangladesh: 251/8 (50.0 ov)\n  Mohammad Ashraful: 87 (83b, 12x4, 0x6)\n  Tamim Iqbal: 38 (59b, 6x4, 0x6)\n  Aftab Ahmed: 35 (43b, 2x4, 2x6)\n  A Nel: 5/45 (10.0 ov)\nSouth Africa: 184 all out (48.3 ov)\n  HH Gibbs: 56* (59b, 1x4, 2x6)\n  JH Kallis: 32 (36b, 6x4, 0x6)\n  Abdur Razzak: 3/25 (9.3 ov)\n  Syed Rasel: 2/41 (10.0 ov)\n  Shakib Al Hasan: 2/49 (10.0 ov)\nBangladesh won by 67 runs.\nPlayer of the Match: Mohammad Ashraful.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 435,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 4.42,
+    "highest_individual_score": 87,
+    "best_bowling_figures": "5/45",
+    "total_sixes": 5,
+    "total_fours": 34
+  },
+  "innings_analysis": [
+    {
+      "team": "Bangladesh",
+      "total_runs": 251,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 5.02,
+      "top_batters": [
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 87,
+          "balls": 83,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 104.82,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 38,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 64.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 35,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 81.4,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "runs": 25,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 156.25,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Javed Omar",
+          "runs": 17,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.46,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Nel",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 5,
+          "economy": 4.5,
+          "wides": 2,
+          "no_balls": 3
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 6.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 2.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "GC Smith",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 5.33,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Javed Omar",
+          "runs": 42,
+          "wickets": 1,
+          "overs": "13.4"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 59,
+          "wickets": 2,
+          "overs": "17.1"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 69,
+          "wickets": 3,
+          "overs": "19.5"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 84,
+          "wickets": 4,
+          "overs": "23.4"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 160,
+          "wickets": 5,
+          "overs": "37.6"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 179,
+          "wickets": 6,
+          "overs": "42.1"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 233,
+          "wickets": 7,
+          "overs": "47.2"
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 248,
+          "wickets": 8,
+          "overs": "49.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 0,
+        "run_rate": 3.6,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 80,
+        "wickets": 3,
+        "run_rate": 8.0,
+        "fours": 10,
+        "sixes": 1,
+        "dot_balls": 21,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "total_runs": 184,
+      "total_wickets": 10,
+      "total_overs": 48.3,
+      "run_rate": 3.83,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 56,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 94.92,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 32,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SM Pollock",
+          "runs": 17,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 73.91,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 15,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 12,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Abdur Razzak",
+          "overs": "9.3",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 3,
+          "economy": 2.63,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "Syed Rasel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 2.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 18,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 63,
+          "wickets": 2,
+          "overs": "15.4"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 64,
+          "wickets": 3,
+          "overs": "16.5"
+        },
+        {
+          "player": "AG Prince",
+          "runs": 67,
+          "wickets": 4,
+          "overs": "19.5"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 87,
+          "wickets": 5,
+          "overs": "26.4"
+        },
+        {
+          "player": "JM Kemp",
+          "runs": 87,
+          "wickets": 6,
+          "overs": "26.5"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 132,
+          "wickets": 7,
+          "overs": "35.5"
+        },
+        {
+          "player": "A Nel",
+          "runs": 137,
+          "wickets": 8,
+          "overs": "37.3"
+        },
+        {
+          "player": "CK Langeveldt",
+          "runs": 162,
+          "wickets": 9,
+          "overs": "46.1"
+        },
+        {
+          "player": "M Ntini",
+          "runs": 184,
+          "wickets": 10,
+          "overs": "48.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 39,
+        "wickets": 1,
+        "run_rate": 3.9,
+        "fours": 4,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "8.3",
+        "balls": 51,
+        "runs": 43,
+        "wickets": 2,
+        "run_rate": 5.06,
+        "fours": 1,
+        "sixes": 1,
+        "dot_balls": 24,
+        "extras": 6
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Mohammad Ashraful": {
+      "batting": {
+        "runs": 87,
+        "balls": 83,
+        "fours": 12,
+        "sixes": 0,
+        "strike_rate": 104.82
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Tamim Iqbal": {
+      "batting": {
+        "runs": 38,
+        "balls": 59,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 64.41
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Aftab Ahmed": {
+      "batting": {
+        "runs": 35,
+        "balls": 43,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 81.4
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mashrafe Mortaza": {
+      "batting": {
+        "runs": 25,
+        "balls": 16,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 156.25
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Javed Omar": {
+      "batting": {
+        "runs": 17,
+        "balls": 41,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 41.46
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Nel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 5,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JH Kallis": {
+      "batting": {
+        "runs": 32,
+        "balls": 36,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 88.89
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Ntini": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 61,
+        "wickets": 1,
+        "economy": 6.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Pollock": {
+      "batting": {
+        "runs": 17,
+        "balls": 23,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 73.91
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 0,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GC Smith": {
+      "batting": {
+        "runs": 12,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 0,
+        "economy": 5.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HH Gibbs": {
+      "batting": {
+        "runs": 56,
+        "balls": 59,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 94.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB de Villiers": {
+      "batting": {
+        "runs": 15,
+        "balls": 39,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 38.46
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdur Razzak": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.5,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 3,
+        "economy": 2.63
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Syed Rasel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shakib Al Hasan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rafique": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 2.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Bangladesh scored 251 in 50.0 overs at 5.02 RPO",
+    "vs South Africa scored 184 in 48.3 overs at 3.83 RPO",
+    "Top batsman: Mohammad Ashraful with 87 runs",
+    "Top bowler: A Nel with 5 wickets"
+  ]
+}

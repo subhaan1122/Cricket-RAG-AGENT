@@ -1,0 +1,753 @@
+{
+  "match_info": {
+    "match_id": "0da764ec970d",
+    "world_cup_year": 2007,
+    "stage": "Group B",
+    "venue": "Queen's Park Oval, Port of Spain",
+    "city": "Trinidad",
+    "date": "2007-03-19",
+    "teams": {
+      "team1": "Bermuda",
+      "team2": "India"
+    },
+    "toss": {
+      "winner": "Bermuda",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "257 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Irving Romaine",
+      "team2": "Rahul Dravid"
+    },
+    "player_of_match": "V Sehwag",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2007 World Cup Group B: Bermuda vs India (2007-03-19) at Trinidad.\nIndia: 413/5 (50.0 ov)\n  V Sehwag: 114 (87b, 17x4, 3x6)\n  SC Ganguly: 89 (114b, 4x4, 2x6)\n  Yuvraj Singh: 83 (46b, 3x4, 7x6)\n  DCC Borden: 2/30 (5.0 ov)\nBermuda: 156 all out (43.1 ov)\n  DL Hemp: 76* (105b, 9x4, 1x6)\n  AB Agarkar: 3/38 (10.0 ov)\n  A Kumble: 3/38 (9.1 ov)\n  Z Khan: 2/32 (10.0 ov)\nIndia won by 257 runs.\nPlayer of the Match: V Sehwag.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 569,
+    "total_wickets_fallen": 15,
+    "average_run_rate": 5.95,
+    "highest_individual_score": 114,
+    "best_bowling_figures": "3/38",
+    "total_sixes": 19,
+    "total_fours": 43
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 413,
+      "total_wickets": 5,
+      "total_overs": 50.0,
+      "run_rate": 8.26,
+      "top_batters": [
+        {
+          "name": "V Sehwag",
+          "runs": 114,
+          "balls": 87,
+          "fours": 17,
+          "sixes": 3,
+          "strike_rate": 131.03,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Ganguly",
+          "runs": 89,
+          "balls": 114,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 78.07,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 83,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 7,
+          "strike_rate": 180.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SR Tendulkar",
+          "runs": 57,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 196.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 29,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 116.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DCC Borden",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KAD Hurdle",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 1,
+          "economy": 5.3,
+          "wides": 1,
+          "no_balls": 5
+        },
+        {
+          "name": "RDM Leverock",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 96,
+          "wickets": 1,
+          "economy": 9.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MO Jones",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 1,
+          "economy": 10.57,
+          "wides": 7,
+          "no_balls": 1
+        },
+        {
+          "name": "JJ Tucker",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 67,
+          "wickets": 0,
+          "economy": 7.44,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RV Uthappa",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 205,
+          "wickets": 2,
+          "overs": "29.5"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 238,
+          "wickets": 3,
+          "overs": "34.5"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 269,
+          "wickets": 4,
+          "overs": "38.2"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 391,
+          "wickets": 5,
+          "overs": "48.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 1,
+        "run_rate": 6.3,
+        "fours": 11,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 136,
+        "wickets": 1,
+        "run_rate": 13.6,
+        "fours": 5,
+        "sixes": 12,
+        "dot_balls": 14,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Bermuda",
+      "total_runs": 156,
+      "total_wickets": 10,
+      "total_overs": 43.1,
+      "run_rate": 3.63,
+      "top_batters": [
+        {
+          "name": "DL Hemp",
+          "runs": 76,
+          "balls": 105,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 72.38,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Minors",
+          "runs": 21,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DCC Borden",
+          "runs": 13,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.21,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SD Outerbridge",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RDM Leverock",
+          "runs": 9,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.03,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AB Agarkar",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 3,
+          "economy": 3.8,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "A Kumble",
+          "overs": "9.1",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 3,
+          "economy": 4.15,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 2,
+          "economy": 3.2,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "SR Tendulkar",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 1,
+          "wickets": 1,
+          "economy": 1.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "8.0",
+          "maidens": 2,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "OL Pitcher",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "SD Outerbridge",
+          "runs": 18,
+          "wickets": 2,
+          "overs": "6.3"
+        },
+        {
+          "player": "DCC Borden",
+          "runs": 47,
+          "wickets": 3,
+          "overs": "13.5"
+        },
+        {
+          "player": "IH Romaine",
+          "runs": 57,
+          "wickets": 4,
+          "overs": "16.4"
+        },
+        {
+          "player": "JJ Tucker",
+          "runs": 63,
+          "wickets": 5,
+          "overs": "18.3"
+        },
+        {
+          "player": "DA Minors",
+          "runs": 106,
+          "wickets": 6,
+          "overs": "29.2"
+        },
+        {
+          "player": "LOB Cann",
+          "runs": 106,
+          "wickets": 7,
+          "overs": "29.4"
+        },
+        {
+          "player": "KAD Hurdle",
+          "runs": 110,
+          "wickets": 8,
+          "overs": "31.2"
+        },
+        {
+          "player": "RDM Leverock",
+          "runs": 154,
+          "wickets": 9,
+          "overs": "41.3"
+        },
+        {
+          "player": "MO Jones",
+          "runs": 156,
+          "wickets": 10,
+          "overs": "43.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 34,
+        "wickets": 2,
+        "run_rate": 3.4,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "3.1",
+        "balls": 19,
+        "runs": 9,
+        "wickets": 2,
+        "run_rate": 2.84,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 14,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "V Sehwag": {
+      "batting": {
+        "runs": 114,
+        "balls": 87,
+        "fours": 17,
+        "sixes": 3,
+        "strike_rate": 131.03
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Ganguly": {
+      "batting": {
+        "runs": 89,
+        "balls": 114,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 78.07
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 83,
+        "balls": 46,
+        "fours": 3,
+        "sixes": 7,
+        "strike_rate": 180.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 57,
+        "balls": 29,
+        "fours": 2,
+        "sixes": 4,
+        "strike_rate": 196.55
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 1,
+        "wickets": 1,
+        "economy": 1.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 29,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 116.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DCC Borden": {
+      "batting": {
+        "runs": 13,
+        "balls": 38,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 34.21
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KAD Hurdle": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 1,
+        "economy": 5.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RDM Leverock": {
+      "batting": {
+        "runs": 9,
+        "balls": 31,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 29.03
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 96,
+        "wickets": 1,
+        "economy": 9.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MO Jones": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 1,
+        "economy": 10.57
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Tucker": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 0,
+        "economy": 7.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Hemp": {
+      "batting": {
+        "runs": 76,
+        "balls": 105,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 72.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Minors": {
+      "batting": {
+        "runs": 21,
+        "balls": 36,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 58.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SD Outerbridge": {
+      "batting": {
+        "runs": 9,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 56.25
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB Agarkar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 3,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Kumble": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.166666666666666,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 3,
+        "economy": 4.15
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 2,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MM Patel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 1,
+        "economy": 2.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 413 in 50.0 overs at 8.26 RPO",
+    "vs Bermuda scored 156 in 43.1 overs at 3.63 RPO",
+    "Top batsman: V Sehwag with 114 runs",
+    "Top bowler: AB Agarkar with 3 wickets"
+  ]
+}

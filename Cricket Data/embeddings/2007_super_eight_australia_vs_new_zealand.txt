@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2007
+Match: Australia vs New Zealand
+Stage: Super Eight
+Date: 2007-04-20
+Venue: National Cricket Stadium, St George's, Grenada
+Captain Australia: Ricky Ponting
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Super Eight: Australia vs New Zealand (2007-04-20) at Grenada.
+
+Australia: 348/6 (50.0 ov)
+  ML Hayden: 103 (100b, 10x4, 2x6, SR 103.0)
+  RT Ponting: 66 (70b, 5x4, 0x6, SR 94.29)
+  SR Watson: 65 (32b, 4x4, 4x6, SR 203.12)
+  MJ Clarke: 49 (46b, 6x4, 0x6, SR 106.52)
+  MEK Hussey: 37 (44b, 2x4, 0x6, SR 84.09)
+  JEC Franklin: 3/74 (8.0 ov, Econ 9.25)
+  JS Patel: 2/48 (10.0 ov, Econ 4.8)
+  SB Styris: 1/50 (10.0 ov, Econ 5.0)
+  DL Vettori: 0/60 (10.0 ov, Econ 6.0)
+  CD McMillan: 0/21 (3.0 ov, Econ 7.0)
+  Extras: 16
+
+New Zealand: 133 all out (25.5 ov)
+  PG Fulton: 62 (72b, 5x4, 0x6, SR 86.11)
+  SB Styris: 27 (22b, 5x4, 0x6, SR 122.73)
+  SP Fleming: 12 (9b, 1x4, 1x6, SR 133.33)
+  BB McCullum: 7 (16b, 0x4, 0x6, SR 43.75)
+  JEC Franklin: 6 (9b, 0x4, 0x6, SR 66.67)
+  GB Hogg: 4/29 (6.5 ov, Econ 4.24)
+  SW Tait: 3/32 (6.0 ov, Econ 5.33)
+  GD McGrath: 2/25 (4.0 ov, Econ 6.25)
+  SR Watson: 1/20 (5.0 ov, Econ 4.0)
+  NW Bracken: 0/27 (4.0 ov, Econ 6.75)
+  Extras: 9
+
+Batting Highlights:
+  Century: ML Hayden scored 103 off 100 balls (SR 103.0, 10 fours, 2 sixes)
+  Half-century: RT Ponting scored 66 off 70 balls (SR 94.29)
+  Half-century: SR Watson scored 65 off 32 balls (SR 203.12)
+  Half-century: PG Fulton scored 62 off 72 balls (SR 86.11)
+
+Bowling Highlights:
+  Key spell: JEC Franklin took 3/74
+  Match-changing spell: GB Hogg took 4/29
+  Key spell: SW Tait took 3/32
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 66 off 70 balls
+  Stephen Fleming (New Zealand): scored 12 off 9 balls
+
+Key Moments:
+  Australia lost 6 early wickets.
+  New Zealand lost 10 early wickets.
+  Australia scored aggressively in the powerplay (77 runs at 7.7 RPO).
+  New Zealand scored aggressively in the powerplay (75 runs at 7.5 RPO).
+
+Result: Australia won by 215 runs
+Toss: Australia won and chose to bat
+Player of the Match: ML Hayden

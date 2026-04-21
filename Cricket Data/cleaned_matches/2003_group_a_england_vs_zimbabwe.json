@@ -1,0 +1,31 @@
+{
+  "match_id": "477f699ef257",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "Harare Sports Club",
+  "city": "Harare",
+  "date": "2003-02-13",
+  "teams": {
+    "team1": "England",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "Zimbabwe",
+    "margin": "walkover",
+    "method": "walkover",
+    "result_type": "forfeit"
+  },
+  "captains": {
+    "team1": "Nasser Hussain",
+    "team2": "Heath Streak"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_england_vs_zimbabwe.json",
+  "match_summary": "2003 World Cup Group A: England vs Zimbabwe (2003-02-13) at Harare.\nZimbabwe won (opposition forfeited due to security concerns)."
+}

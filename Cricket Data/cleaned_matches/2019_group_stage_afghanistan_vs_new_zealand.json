@@ -1,0 +1,54 @@
+{
+  "match_id": "212e984275ab",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "County Ground, Taunton",
+  "city": "Taunton",
+  "date": "2019-06-08",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "JDS Neesham",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 172,
+      "wickets": 10,
+      "overs": 41.1,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 173,
+      "wickets": 3,
+      "overs": 32.1,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_new_zealand.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs New Zealand (2019-06-08) at Taunton.\nAfghanistan: 172 all out (41.1 ov)\nNew Zealand: 173/3 (32.1 ov)\nNew Zealand won by 7 wickets."
+}

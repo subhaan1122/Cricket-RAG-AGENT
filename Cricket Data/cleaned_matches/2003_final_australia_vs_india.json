@@ -1,0 +1,322 @@
+{
+  "match_id": "001577efc03e",
+  "world_cup_year": 2003,
+  "stage": "Final",
+  "venue": "New Wanderers Stadium, Johannesburg",
+  "city": "Johannesburg",
+  "date": "2003-03-23",
+  "teams": {
+    "team1": "Australia",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "125 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Sourav Ganguly"
+  },
+  "player_of_match": "RT Ponting",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 359,
+      "wickets": 2,
+      "overs": 50.0,
+      "extras": 37,
+      "top_batters": [
+        {
+          "name": "RT Ponting",
+          "runs": 140,
+          "balls": 121,
+          "fours": 4,
+          "sixes": 8,
+          "strike_rate": 115.7,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DR Martyn",
+          "runs": 88,
+          "balls": 84,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 104.76,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 57,
+          "balls": 48,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 37,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.52,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Harbhajan Singh",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 6.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "V Sehwag",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "D Mongia",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 5.57,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "A Nehra",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 0,
+          "economy": 5.7,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 105,
+          "wickets": 1,
+          "overs": "13.6"
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 125,
+          "wickets": 2,
+          "overs": "19.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 234,
+      "wickets": 10,
+      "overs": 39.2,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "V Sehwag",
+          "runs": 82,
+          "balls": 81,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 101.23,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "R Dravid",
+          "runs": 47,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.46,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SC Ganguly",
+          "runs": 24,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 96.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 24,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "D Mongia",
+          "runs": 12,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GD McGrath",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 3,
+          "economy": 6.24,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Symonds",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 7,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 31,
+          "wickets": 2,
+          "economy": 4.43,
+          "wides": 2,
+          "no_balls": 4
+        },
+        {
+          "name": "AJ Bichel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 5.7,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 6.1,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Tendulkar",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 58,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 59,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 147,
+          "wickets": 4,
+          "overs": "23.5"
+        },
+        {
+          "player": "R Dravid",
+          "runs": 187,
+          "wickets": 5,
+          "overs": "31.5"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 208,
+          "wickets": 6,
+          "overs": "34.5"
+        },
+        {
+          "player": "D Mongia",
+          "runs": 209,
+          "wickets": 7,
+          "overs": "35.2"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 223,
+          "wickets": 8,
+          "overs": "37.1"
+        },
+        {
+          "player": "J Srinath",
+          "runs": 226,
+          "wickets": 9,
+          "overs": "38.2"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 234,
+          "wickets": 10,
+          "overs": "39.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_final_australia_vs_india.json",
+  "match_summary": "2003 World Cup Final: Australia vs India (2003-03-23) at Johannesburg.\nAustralia: 359/2 (50.0 ov)\n  RT Ponting: 140* (121b, 4x4, 8x6)\n  DR Martyn: 88* (84b, 7x4, 1x6)\n  AC Gilchrist: 57 (48b, 7x4, 1x6)\n  Harbhajan Singh: 2/49 (8.0 ov)\nIndia: 234 all out (39.2 ov)\n  V Sehwag: 82 (81b, 10x4, 3x6)\n  R Dravid: 47 (57b, 2x4, 0x6)\n  GD McGrath: 3/52 (8.2 ov)\n  A Symonds: 2/7 (2.0 ov)\n  B Lee: 2/31 (7.0 ov)\nAustralia won by 125 runs.\nPlayer of the Match: RT Ponting."
+}

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2003
+Match: Australia vs Sri Lanka
+Stage: Semi-Final
+Date: 2003-03-18
+Venue: St George's Park, Port Elizabeth, Gqeberha
+Captain Australia: Ricky Ponting
+Captain Sri Lanka: Sanath Jayasuriya
+
+Match Summary:
+  2003 World Cup Semi-Final: Australia vs Sri Lanka (2003-03-18) at Gqeberha.
+
+Australia: 212/7 (50.0 ov)
+  A Symonds: 91 (118b, 7x4, 1x6, SR 77.12)
+  DS Lehmann: 36 (66b, 2x4, 0x6, SR 54.55)
+  AC Gilchrist: 22 (20b, 2x4, 1x6, SR 110.0)
+  ML Hayden: 20 (38b, 2x4, 0x6, SR 52.63)
+  AJ Bichel: 19 (21b, 0x4, 1x6, SR 90.48)
+  WPUJC Vaas: 3/34 (10.0 ov, Econ 3.4)
+  PA de Silva: 2/36 (10.0 ov, Econ 3.6)
+  ST Jayasuriya: 2/42 (10.0 ov, Econ 4.2)
+  M Muralitharan: 0/29 (10.0 ov, Econ 2.9)
+  RP Arnold: 0/8 (2.0 ov, Econ 4.0)
+  Extras: 7
+
+Sri Lanka: 123/7 (38.1 ov)
+  KC Sangakkara: 39 (70b, 3x4, 0x6, SR 55.71)
+  WPUJC Vaas: 21 (50b, 1x4, 1x6, SR 42.0)
+  ST Jayasuriya: 17 (24b, 0x4, 1x6, SR 70.83)
+  MS Atapattu: 14 (17b, 3x4, 0x6, SR 82.35)
+  PA de Silva: 11 (16b, 2x4, 0x6, SR 68.75)
+  B Lee: 3/35 (8.0 ov, Econ 4.38)
+  GB Hogg: 2/30 (10.0 ov, Econ 3.0)
+  GD McGrath: 1/20 (7.0 ov, Econ 2.86)
+  AJ Bichel: 0/18 (10.0 ov, Econ 1.8)
+  DS Lehmann: 0/4 (1.0 ov, Econ 4.0)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: A Symonds scored 91 off 118 balls (SR 77.12)
+
+Bowling Highlights:
+  Key spell: WPUJC Vaas took 3/34
+  Economical spell: M Muralitharan conceded 29 runs in 10.0 overs (Econ 2.9)
+  Key spell: B Lee took 3/35
+  Economical spell: GB Hogg conceded 30 runs in 10.0 overs (Econ 3.0)
+  Economical spell: GD McGrath conceded 20 runs in 7.0 overs (Econ 2.86)
+  Economical spell: AJ Bichel conceded 18 runs in 10.0 overs (Econ 1.8)
+
+Captain Performance:
+  Sanath Jayasuriya (Sri Lanka): scored 17 off 24 balls
+
+Key Moments:
+  Australia lost 7 early wickets.
+  Sri Lanka lost 7 early wickets.
+  Sri Lanka lost 3 wickets in the powerplay.
+
+Result: Australia won by 48 runs (D/L)
+Toss: Australia won and chose to bat
+Player of the Match: A Symonds

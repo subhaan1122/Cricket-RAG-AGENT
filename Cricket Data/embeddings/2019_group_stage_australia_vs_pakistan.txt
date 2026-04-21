@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: Australia vs Pakistan
+Stage: Group Stage
+Date: 2019-06-12
+Venue: The Cooper Associates County Ground, Taunton
+Captain Australia: Aaron Finch
+Captain Pakistan: Sarfaraz Ahmed
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs Pakistan (2019-06-12) at Taunton.
+
+Australia: 307 all out (49.0 ov)
+  DA Warner: 107 (111b, 11x4, 1x6, SR 96.4)
+  AJ Finch: 82 (84b, 6x4, 4x6, SR 97.62)
+  SE Marsh: 23 (26b, 2x4, 0x6, SR 88.46)
+  GJ Maxwell: 20 (10b, 2x4, 1x6, SR 200.0)
+  AT Carey: 20 (21b, 2x4, 0x6, SR 95.24)
+  Mohammad Amir: 5/30 (10.0 ov, Econ 3.0)
+  Shaheen Shah Afridi: 2/70 (10.0 ov, Econ 7.0)
+  Wahab Riaz: 1/44 (8.0 ov, Econ 5.5)
+  Hasan Ali: 1/67 (10.0 ov, Econ 6.7)
+  Mohammad Hafeez: 1/60 (7.0 ov, Econ 8.57)
+  Extras: 19
+
+Pakistan: 266 all out (45.4 ov)
+  Imam-ul-Haq: 53 (75b, 7x4, 0x6, SR 70.67)
+  Mohammad Hafeez: 46 (49b, 3x4, 1x6, SR 93.88)
+  Wahab Riaz: 45 (39b, 2x4, 3x6, SR 115.38)
+  Sarfraz Ahmed: 40 (48b, 1x4, 0x6, SR 83.33)
+  Hasan Ali: 32 (15b, 3x4, 3x6, SR 213.33)
+  PJ Cummins: 3/33 (10.0 ov, Econ 3.3)
+  MA Starc: 2/43 (9.0 ov, Econ 4.78)
+  KW Richardson: 2/62 (8.4 ov, Econ 7.15)
+  NM Coulter-Nile: 1/53 (9.0 ov, Econ 5.89)
+  AJ Finch: 1/13 (2.0 ov, Econ 6.5)
+  Extras: 14
+
+Batting Highlights:
+  Century: DA Warner scored 107 off 111 balls (SR 96.4, 11 fours, 1 sixes)
+  Half-century: AJ Finch scored 82 off 84 balls (SR 97.62)
+  Half-century: Imam-ul-Haq scored 53 off 75 balls (SR 70.67)
+  Quickfire innings: Hasan Ali smashed 32 off 15 balls at SR 213.33
+
+Bowling Highlights:
+  Match-changing spell: Mohammad Amir took 5/30
+  Key spell: PJ Cummins took 3/33
+
+Captain Performance:
+  Aaron Finch (Australia): scored 82 off 84 balls
+  Sarfaraz Ahmed (Pakistan): scored 40 off 48 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  Pakistan lost 10 early wickets.
+
+Result: Australia won by 41 runs
+Toss: Pakistan won and chose to field
+Player of the Match: DA Warner

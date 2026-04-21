@@ -1,0 +1,134 @@
+{
+  "match_id": "6a3b0e088ad3",
+  "world_cup_year": 2003,
+  "stage": "Group A",
+  "venue": "Queens Sports Club, Bulawayo",
+  "city": "Bulawayo",
+  "date": "2003-03-04",
+  "teams": {
+    "team1": "Pakistan",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "Pakistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Pakistan",
+    "margin": "99 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Waqar Younis",
+    "team2": "Heath Streak"
+  },
+  "player_of_match": "Rashid Latif",
+  "innings": [
+    {
+      "team": "Pakistan",
+      "runs": 73,
+      "wickets": 3,
+      "overs": 13.5,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "Saeed Anwar",
+          "runs": 40,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.89,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Yousuf Youhana",
+          "runs": 17,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Saleem Elahi",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "Inzamam-ul-Haq",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HH Streak",
+          "overs": "6.5",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 3.66,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Ervine",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Saleem Elahi",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 55,
+          "wickets": 2,
+          "overs": "10.4"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 72,
+          "wickets": 3,
+          "overs": "13.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_a_pakistan_vs_zimbabwe.json",
+  "match_summary": "2003 World Cup Group A: Pakistan vs Zimbabwe (2003-03-04) at Bulawayo.\nPakistan: 73/3 (13.5 ov)\n  Saeed Anwar: 40* (45b, 3x4, 1x6)\nPakistan won by 99 runs."
+}

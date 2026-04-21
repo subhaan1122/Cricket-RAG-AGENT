@@ -1,0 +1,344 @@
+{
+  "match_id": "f16d67c27259",
+  "world_cup_year": 2007,
+  "stage": "Group B",
+  "venue": "Queen's Park Oval, Port of Spain",
+  "city": "Trinidad",
+  "date": "2007-03-21",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "198 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Habibul Bashar",
+    "team2": "Mahela Jayawardene"
+  },
+  "player_of_match": "ST Jayasuriya",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 318,
+      "wickets": 4,
+      "overs": 50.0,
+      "extras": 24,
+      "top_batters": [
+        {
+          "name": "ST Jayasuriya",
+          "runs": 109,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 7,
+          "strike_rate": 125.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 56,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 101.82,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 52,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 108.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 46,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WU Tharanga",
+          "runs": 26,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.27,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammad Rafique",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Syed Rasel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 86,
+          "wickets": 1,
+          "economy": 8.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 66,
+          "wickets": 0,
+          "economy": 6.6,
+          "wides": 2,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 98,
+          "wickets": 1,
+          "overs": "14.2"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 202,
+          "wickets": 2,
+          "overs": "35.3"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 261,
+          "wickets": 3,
+          "overs": "44.4"
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 300,
+          "wickets": 4,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 112,
+      "wickets": 10,
+      "overs": 37.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "Mohammad Ashraful",
+          "runs": 45,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Habibul Bashar",
+          "runs": 18,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.3,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 12,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rafique",
+          "runs": 7,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 3,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "WPUJC Vaas",
+          "overs": "7.0",
+          "maidens": 4,
+          "runs_conceded": 11,
+          "wickets": 1,
+          "economy": 1.57,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 1.67,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MF Maharoof",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 3.71,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Shahriar Nafees",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.5"
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "3.4"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 20,
+          "wickets": 3,
+          "overs": "7.3"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 26,
+          "wickets": 4,
+          "overs": "11.1"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 41,
+          "wickets": 5,
+          "overs": "16.4"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 66,
+          "wickets": 6,
+          "overs": "25.3"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 80,
+          "wickets": 7,
+          "overs": "29.4"
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 101,
+          "wickets": 8,
+          "overs": "34.4"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 111,
+          "wickets": 9,
+          "overs": "35.5"
+        },
+        {
+          "player": "Syed Rasel",
+          "runs": 112,
+          "wickets": 10,
+          "overs": "36.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_b_bangladesh_vs_sri_lanka.json",
+  "match_summary": "2007 World Cup Group B: Bangladesh vs Sri Lanka (2007-03-21) at Trinidad.\nSri Lanka: 318/4 (50.0 ov)\n  ST Jayasuriya: 109 (87b, 7x4, 7x6)\n  KC Sangakkara: 56 (55b, 3x4, 1x6)\n  LPC Silva: 52* (48b, 5x4, 2x6)\nBangladesh: 112 all out (37.0 ov)\n  Mohammad Ashraful: 45* (63b, 6x4, 0x6)\n  SL Malinga: 3/27 (6.0 ov)\nSri Lanka won by 198 runs (D/L).\nPlayer of the Match: ST Jayasuriya."
+}

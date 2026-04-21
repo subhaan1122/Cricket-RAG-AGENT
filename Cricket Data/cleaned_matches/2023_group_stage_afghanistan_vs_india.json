@@ -1,0 +1,54 @@
+{
+  "match_id": "c5a2dd9a798a",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "city": "Delhi",
+  "date": "2023-10-11",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "India"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Rohit Sharma"
+  },
+  "player_of_match": "Mohammed Shami",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 272,
+      "wickets": 8,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 273,
+      "wickets": 2,
+      "overs": 35,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_india.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs India (2023-10-11) at Delhi.\nAfghanistan: 272/8 (50 ov)\nIndia: 273/2 (35 ov)\nIndia won by 8 wickets. Player of the Match: Mohammed Shami."
+}

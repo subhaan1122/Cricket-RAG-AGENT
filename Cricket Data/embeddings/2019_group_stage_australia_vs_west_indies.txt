@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: Australia vs West Indies
+Stage: Group Stage
+Date: 2019-06-06
+Venue: Trent Bridge, Nottingham
+Captain Australia: Aaron Finch
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs West Indies (2019-06-06) at Nottingham.
+
+Australia: 288 all out (49.0 ov)
+  NM Coulter-Nile: 92 (60b, 8x4, 4x6, SR 153.33)
+  SPD Smith: 73 (103b, 7x4, 0x6, SR 70.87)
+  AT Carey: 45 (55b, 7x4, 0x6, SR 81.82)
+  MP Stoinis: 19 (23b, 4x4, 0x6, SR 82.61)
+  UT Khawaja: 13 (19b, 2x4, 0x6, SR 68.42)
+  CR Brathwaite: 3/67 (10.0 ov, Econ 6.7)
+  AD Russell: 2/41 (8.0 ov, Econ 5.12)
+  SS Cottrell: 2/56 (9.0 ov, Econ 6.22)
+  O Thomas: 2/63 (10.0 ov, Econ 6.3)
+  JO Holder: 1/28 (7.0 ov, Econ 4.0)
+  Extras: 27
+
+West Indies: 273/9 (50.0 ov)
+  SD Hope: 68 (105b, 7x4, 0x6, SR 64.76)
+  JO Holder: 51 (57b, 7x4, 1x6, SR 89.47)
+  N Pooran: 40 (36b, 5x4, 1x6, SR 111.11)
+  CH Gayle: 21 (17b, 4x4, 0x6, SR 123.53)
+  SO Hetmyer: 21 (28b, 3x4, 0x6, SR 75.0)
+  MA Starc: 5/46 (10.0 ov, Econ 4.6)
+  PJ Cummins: 2/41 (10.0 ov, Econ 4.1)
+  A Zampa: 1/58 (10.0 ov, Econ 5.8)
+  MP Stoinis: 0/18 (4.0 ov, Econ 4.5)
+  GJ Maxwell: 0/31 (6.0 ov, Econ 5.17)
+  Extras: 20
+
+Batting Highlights:
+  Half-century: NM Coulter-Nile scored 92 off 60 balls (SR 153.33)
+  Half-century: SPD Smith scored 73 off 103 balls (SR 70.87)
+  Half-century: SD Hope scored 68 off 105 balls (SR 64.76)
+  Half-century: JO Holder scored 51 off 57 balls (SR 89.47)
+
+Bowling Highlights:
+  Key spell: CR Brathwaite took 3/67
+  Match-changing spell: MA Starc took 5/46
+
+Captain Performance:
+  Jason Holder (West Indies): scored 51 off 57 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  West Indies lost 9 early wickets.
+  Australia lost 4 wickets in the powerplay.
+
+Result: Australia won by 15 runs
+Toss: West Indies won and chose to field
+Player of the Match: NM Coulter-Nile

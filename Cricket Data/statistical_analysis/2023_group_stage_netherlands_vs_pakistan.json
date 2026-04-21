@@ -1,0 +1,743 @@
+{
+  "match_info": {
+    "match_id": "c21adaa7479e",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "city": "Hyderabad",
+    "date": "2023-10-06",
+    "teams": {
+      "team1": "Pakistan",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "81 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Babar Azam",
+      "team2": "Scott Edwards"
+    },
+    "player_of_match": "Saud Shakeel",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Pakistan vs Netherlands (2023-10-06) at Hyderabad.\nPakistan: 286 all out (48.5 ov)\n  Saud Shakeel: 68 (52b, 8x4, 1x6)\n  Mohammad Rizwan: 68 (75b, 8x4, 0x6)\n  Mohammad Nawaz: 39 (43b, 4x4, 0x6)\n  BFW de Leede: 4/62 (9.0 ov)\n  CN Ackermann: 2/39 (8.0 ov)\nNetherlands: 205 all out (41.0 ov)\n  BFW de Leede: 67 (68b, 6x4, 2x6)\n  Vikramjit Singh: 52 (67b, 4x4, 1x6)\n  Haris Rauf: 3/43 (9.0 ov)\n  Hasan Ali: 2/33 (7.0 ov)\nPakistan won by 81 runs.\nPlayer of the Match: Saud Shakeel.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 491,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 5.48,
+    "highest_individual_score": 68,
+    "best_bowling_figures": "4/62",
+    "total_sixes": 7,
+    "total_fours": 41
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 286,
+      "total_wickets": 10,
+      "total_overs": 48.5,
+      "run_rate": 5.96,
+      "top_batters": [
+        {
+          "name": "Saud Shakeel",
+          "runs": 68,
+          "balls": 52,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "runs": 68,
+          "balls": 75,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 90.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "runs": 39,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.7,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Shadab Khan",
+          "runs": 32,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 94.12,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Haris Rauf",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true,
+          "dismissal": "stumped"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "BFW de Leede",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 4,
+          "economy": 6.89,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 39,
+          "wickets": 2,
+          "economy": 4.88,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Dutt",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "LV van Beek",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "5.5",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 6.86,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 15,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 34,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 38,
+          "wickets": 3,
+          "overs": "9.1"
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 158,
+          "wickets": 4,
+          "overs": "28.6"
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 182,
+          "wickets": 5,
+          "overs": "31.2"
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 188,
+          "wickets": 6,
+          "overs": "31.5"
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 252,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 252,
+          "wickets": 8,
+          "overs": "43.4"
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 267,
+          "wickets": 9,
+          "overs": "46.1"
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 286,
+          "wickets": 10,
+          "overs": "48.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 3,
+        "run_rate": 4.3,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "9.0",
+        "balls": 54,
+        "runs": 59,
+        "wickets": 4,
+        "run_rate": 6.56,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 24,
+        "extras": 1
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "total_runs": 205,
+      "total_wickets": 10,
+      "total_overs": 41.0,
+      "run_rate": 5.0,
+      "top_batters": [
+        {
+          "name": "BFW de Leede",
+          "runs": 67,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 98.53,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Vikramjit Singh",
+          "runs": 52,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 77.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LV van Beek",
+          "runs": 28,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CN Ackermann",
+          "runs": 17,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Saqib Zulfiqar",
+          "runs": 10,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Haris Rauf",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 3,
+          "economy": 4.78,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Nawaz",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 4.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 5.29,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Iftikhar Ahmed",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP O'Dowd",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "5.5"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 50,
+          "wickets": 2,
+          "overs": "11.1"
+        },
+        {
+          "player": "Vikramjit Singh",
+          "runs": 120,
+          "wickets": 3,
+          "overs": "23.5"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "26.2"
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 133,
+          "wickets": 5,
+          "overs": "26.4"
+        },
+        {
+          "player": "Saqib Zulfiqar",
+          "runs": 158,
+          "wickets": 6,
+          "overs": "32.1"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 164,
+          "wickets": 7,
+          "overs": "33.2"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 176,
+          "wickets": 8,
+          "overs": "35.6"
+        },
+        {
+          "player": "A Dutt",
+          "runs": 184,
+          "wickets": 9,
+          "overs": "37.1"
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 205,
+          "wickets": 10,
+          "overs": "40.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 47,
+        "wickets": 1,
+        "run_rate": 4.7,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 44,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "1.0",
+        "balls": 6,
+        "runs": 3,
+        "wickets": 1,
+        "run_rate": 3.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 4,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Saud Shakeel": {
+      "batting": {
+        "runs": 68,
+        "balls": 52,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 130.77
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Rizwan": {
+      "batting": {
+        "runs": 68,
+        "balls": 75,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 90.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammad Nawaz": {
+      "batting": {
+        "runs": 39,
+        "balls": 43,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 90.7
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 4.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shadab Khan": {
+      "batting": {
+        "runs": 32,
+        "balls": 34,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 94.12
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Haris Rauf": {
+      "batting": {
+        "runs": 16,
+        "balls": 14,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 114.29
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 3,
+        "economy": 4.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BFW de Leede": {
+      "batting": {
+        "runs": 67,
+        "balls": 68,
+        "fours": 6,
+        "sixes": 2,
+        "strike_rate": 98.53
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 62,
+        "wickets": 4,
+        "economy": 6.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CN Ackermann": {
+      "batting": {
+        "runs": 17,
+        "balls": 21,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 80.95
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 2,
+        "economy": 4.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Dutt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LV van Beek": {
+      "batting": {
+        "runs": 28,
+        "balls": 28,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA van Meekeren": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.833333333333333,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 6.86
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Vikramjit Singh": {
+      "batting": {
+        "runs": 52,
+        "balls": 67,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 77.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Saqib Zulfiqar": {
+      "batting": {
+        "runs": 10,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 55.56
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Hasan Ali": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 2,
+        "economy": 4.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shaheen Shah Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 1,
+        "economy": 5.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Iftikhar Ahmed": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 1,
+        "economy": 5.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 286 in 48.5 overs at 5.96 RPO",
+    "vs Netherlands scored 205 in 41.0 overs at 5.0 RPO",
+    "Top batsman: Saud Shakeel with 68 runs",
+    "Top bowler: BFW de Leede with 4 wickets"
+  ]
+}

@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2003
+Match: Australia vs New Zealand
+Stage: Super Six
+Date: 2003-03-11
+Venue: St George's Park, Port Elizabeth, Gqeberha
+Captain Australia: Ricky Ponting
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Super Six: Australia vs New Zealand (2003-03-11) at Gqeberha.
+
+Australia: 208/9 (50.0 ov)
+  AJ Bichel: 64 (83b, 7x4, 1x6, SR 77.11)
+  MG Bevan: 56 (94b, 4x4, 1x6, SR 59.57)
+  DR Martyn: 31 (53b, 3x4, 0x6, SR 58.49)
+  AC Gilchrist: 18 (20b, 2x4, 0x6, SR 90.0)
+  B Lee: 15 (6b, 0x4, 2x6, SR 250.0)
+  SE Bond: 6/23 (10.0 ov, Econ 2.3)
+  JDP Oram: 2/48 (7.0 ov, Econ 6.86)
+  AR Adams: 1/46 (9.0 ov, Econ 5.11)
+  CZ Harris: 0/24 (10.0 ov, Econ 2.4)
+  DL Vettori: 0/40 (10.0 ov, Econ 4.0)
+  Extras: 8
+
+New Zealand: 112 all out (30.1 ov)
+  SP Fleming: 48 (70b, 7x4, 0x6, SR 68.57)
+  CL Cairns: 16 (25b, 2x4, 1x6, SR 64.0)
+  CZ Harris: 15 (24b, 0x4, 0x6, SR 62.5)
+  DL Vettori: 10 (9b, 1x4, 0x6, SR 111.11)
+  L Vincent: 7 (20b, 1x4, 0x6, SR 35.0)
+  B Lee: 5/42 (9.1 ov, Econ 4.58)
+  GD McGrath: 3/29 (6.0 ov, Econ 4.83)
+  IJ Harvey: 1/11 (6.0 ov, Econ 1.83)
+  AJ Bichel: 1/15 (5.0 ov, Econ 3.0)
+  GB Hogg: 0/11 (4.0 ov, Econ 2.75)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: AJ Bichel scored 64 off 83 balls (SR 77.11)
+  Half-century: MG Bevan scored 56 off 94 balls (SR 59.57)
+
+Bowling Highlights:
+  Match-changing spell: SE Bond took 6/23
+  Economical spell: CZ Harris conceded 24 runs in 10.0 overs (Econ 2.4)
+  Match-changing spell: B Lee took 5/42
+  Key spell: GD McGrath took 3/29
+  Economical spell: IJ Harvey conceded 11 runs in 6.0 overs (Econ 1.83)
+  Economical spell: AJ Bichel conceded 15 runs in 5.0 overs (Econ 3.0)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 48 off 70 balls
+
+Key Moments:
+  Australia lost 9 early wickets.
+  New Zealand lost 10 early wickets.
+  Australia lost 3 wickets in the powerplay.
+  New Zealand lost 3 wickets in the powerplay.
+
+Result: Australia won by 96 runs
+Toss: New Zealand won and chose to field
+Player of the Match: SE Bond

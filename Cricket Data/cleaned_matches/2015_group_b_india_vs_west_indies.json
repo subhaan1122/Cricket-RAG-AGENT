@@ -1,0 +1,356 @@
+{
+  "match_id": "f895761c41f0",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Western Australia Cricket Association Ground",
+  "city": "Perth",
+  "date": "2015-03-06",
+  "teams": {
+    "team1": "India",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "Mohammed Shami",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 182,
+      "wickets": 10,
+      "overs": 44.2,
+      "extras": 21,
+      "top_batters": [
+        {
+          "name": "JO Holder",
+          "runs": 57,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 89.06,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DJG Sammy",
+          "runs": 26,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.27,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 21,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JL Carter",
+          "runs": 21,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JE Taylor",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 4.38,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 3.24,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "UT Yadav",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "9.0",
+          "maidens": 2,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.89,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 4.22,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DR Smith",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "4.5"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 15,
+          "wickets": 2,
+          "overs": "7.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 35,
+          "wickets": 3,
+          "overs": "8.6"
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 35,
+          "wickets": 4,
+          "overs": "9.1"
+        },
+        {
+          "player": "LMP Simmons",
+          "runs": 67,
+          "wickets": 5,
+          "overs": "18.1"
+        },
+        {
+          "player": "JL Carter",
+          "runs": 71,
+          "wickets": 6,
+          "overs": "21.5"
+        },
+        {
+          "player": "AD Russell",
+          "runs": 85,
+          "wickets": 7,
+          "overs": "24.1"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 124,
+          "wickets": 8,
+          "overs": "35.4"
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 175,
+          "wickets": 9,
+          "overs": "42.6"
+        },
+        {
+          "player": "JO Holder",
+          "runs": 182,
+          "wickets": 10,
+          "overs": "44.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 185,
+      "wickets": 6,
+      "overs": 39.1,
+      "extras": 26,
+      "top_batters": [
+        {
+          "name": "MS Dhoni",
+          "runs": 45,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 80.36,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 33,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SK Raina",
+          "runs": 22,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "R Ashwin",
+          "runs": 16,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AM Rahane",
+          "runs": 14,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JE Taylor",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.12,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Russell",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 5.38,
+          "wides": 5,
+          "no_balls": 1
+        },
+        {
+          "name": "DR Smith",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 5,
+          "no_balls": 2
+        },
+        {
+          "name": "MN Samuels",
+          "overs": "3.1",
+          "maidens": 0,
+          "runs_conceded": 10,
+          "wickets": 0,
+          "economy": 3.16,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "S Dhawan",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "4.1"
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 20,
+          "wickets": 2,
+          "overs": "6.6"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 63,
+          "wickets": 3,
+          "overs": "14.6"
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 78,
+          "wickets": 4,
+          "overs": "17.5"
+        },
+        {
+          "player": "SK Raina",
+          "runs": 107,
+          "wickets": 5,
+          "overs": "22.5"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 134,
+          "wickets": 6,
+          "overs": "29.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_india_vs_west_indies.json",
+  "match_summary": "2015 World Cup Group B: India vs West Indies (2015-03-06) at Perth.\nWest Indies: 182 all out (44.2 ov)\n  JO Holder: 57 (64b, 4x4, 3x6)\n  Mohammed Shami: 3/35 (8.0 ov)\n  RA Jadeja: 2/27 (8.2 ov)\n  UT Yadav: 2/42 (10.0 ov)\nIndia: 185/6 (39.1 ov)\n  MS Dhoni: 45* (56b, 3x4, 1x6)\n  V Kohli: 33 (36b, 5x4, 0x6)\n  JE Taylor: 2/33 (8.0 ov)\n  AD Russell: 2/43 (8.0 ov)\nIndia won by 4 wickets.\nPlayer of the Match: Mohammed Shami."
+}

@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Sri Lanka
+Stage: Super Eight
+Date: 2007-04-16
+Venue: National Cricket Stadium, St George's, Grenada
+Captain Australia: Ricky Ponting
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Super Eight: Australia vs Sri Lanka (2007-04-16) at Grenada.
+
+Sri Lanka: 226 all out (49.4 ov)
+  DPMD Jayawardene: 72 (88b, 5x4, 1x6, SR 81.82)
+  LPC Silva: 64 (107b, 6x4, 0x6, SR 59.81)
+  MF Maharoof: 25 (22b, 4x4, 0x6, SR 113.64)
+  HMCM Bandara: 17 (19b, 0x4, 2x6, SR 89.47)
+  ST Jayasuriya: 12 (12b, 2x4, 0x6, SR 100.0)
+  NW Bracken: 4/19 (9.4 ov, Econ 1.97)
+  GB Hogg: 2/35 (10.0 ov, Econ 3.5)
+  GD McGrath: 2/48 (9.0 ov, Econ 5.33)
+  SW Tait: 2/68 (10.0 ov, Econ 6.8)
+  MJ Clarke: 0/36 (8.0 ov, Econ 4.5)
+  Extras: 19
+
+Australia: 232/3 (42.4 ov)
+  RT Ponting: 66 (80b, 4x4, 1x6, SR 82.5)
+  A Symonds: 63 (71b, 5x4, 2x6, SR 88.73)
+  ML Hayden: 41 (30b, 5x4, 2x6, SR 136.67)
+  AC Gilchrist: 30 (49b, 4x4, 0x6, SR 61.22)
+  MJ Clarke: 23 (31b, 4x4, 0x6, SR 74.19)
+  RP Arnold: 2/20 (4.0 ov, Econ 5.0)
+  HMCM Bandara: 1/53 (9.4 ov, Econ 5.48)
+  TM Dilshan: 0/19 (6.0 ov, Econ 3.17)
+  KMDN Kulasekara: 0/20 (4.0 ov, Econ 5.0)
+  ST Jayasuriya: 0/32 (6.0 ov, Econ 5.33)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: DPMD Jayawardene scored 72 off 88 balls (SR 81.82)
+  Half-century: LPC Silva scored 64 off 107 balls (SR 59.81)
+  Half-century: RT Ponting scored 66 off 80 balls (SR 82.5)
+  Half-century: A Symonds scored 63 off 71 balls (SR 88.73)
+
+Bowling Highlights:
+  Match-changing spell: NW Bracken took 4/19
+  Economical spell: GB Hogg conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: TM Dilshan conceded 19 runs in 6.0 overs (Econ 3.17)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 72 off 88 balls
+  Ricky Ponting (Australia): scored 66 off 80 balls
+
+Key Moments:
+  Sri Lanka lost 10 early wickets.
+  Australia lost 3 early wickets.
+  Sri Lanka lost 3 wickets in the powerplay.
+
+Result: Australia won by 7 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: NW Bracken

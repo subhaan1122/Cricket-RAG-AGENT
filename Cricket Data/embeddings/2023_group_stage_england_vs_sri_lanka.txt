@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2023
+Match: England vs Sri Lanka
+Stage: Group Stage
+Date: 2023-10-26
+Venue: M Chinnaswamy Stadium, Bengaluru, Bengaluru
+Captain England: Jos Buttler
+Captain Sri Lanka: Kusal Mendis
+
+Match Summary:
+  2023 World Cup Group Stage: England vs Sri Lanka (2023-10-26) at Bengaluru.
+
+England: 156 all out (33.2 ov)
+  BA Stokes: 43 (73b, 6x4, 0x6, SR 58.9)
+  JM Bairstow: 30 (31b, 3x4, 0x6, SR 96.77)
+  DJ Malan: 28 (25b, 6x4, 0x6, SR 112.0)
+  MM Ali: 15 (15b, 1x4, 0x6, SR 100.0)
+  DJ Willey: 14 (17b, 1x4, 1x6, SR 82.35)
+  CBRLS Kumara: 3/35 (7.0 ov, Econ 5.0)
+  AD Mathews: 2/14 (5.0 ov, Econ 2.8)
+  CAK Rajitha: 2/36 (7.0 ov, Econ 5.14)
+  M Theekshana: 1/21 (8.2 ov, Econ 2.52)
+  D Madushanka: 0/37 (5.0 ov, Econ 7.4)
+  Extras: 7
+
+Sri Lanka: 160/2 (25.4 ov)
+  P Nissanka: 77 (83b, 7x4, 2x6, SR 92.77)
+  S Samarawickrama: 65 (54b, 7x4, 1x6, SR 120.37)
+  BKG Mendis: 11 (12b, 2x4, 0x6, SR 91.67)
+  MDKJ Perera: 4 (5b, 1x4, 0x6, SR 80.0)
+  DJ Willey: 2/30 (5.0 ov, Econ 6.0)
+  CR Woakes: 0/30 (6.0 ov, Econ 5.0)
+  LS Livingstone: 0/17 (3.0 ov, Econ 5.67)
+  MA Wood: 0/23 (4.0 ov, Econ 5.75)
+  MM Ali: 0/21 (3.0 ov, Econ 7.0)
+  Extras: 3
+
+Batting Highlights:
+  Half-century: P Nissanka scored 77 off 83 balls (SR 92.77)
+  Half-century: S Samarawickrama scored 65 off 54 balls (SR 120.37)
+
+Bowling Highlights:
+  Key spell: CBRLS Kumara took 3/35
+  Economical spell: AD Mathews conceded 14 runs in 5.0 overs (Econ 2.8)
+  Economical spell: M Theekshana conceded 21 runs in 8.2 overs (Econ 2.52)
+
+Captain Performance:
+  Kusal Mendis (Sri Lanka): scored 11 off 12 balls
+
+Key Moments:
+  England lost 10 early wickets.
+
+Result: Sri Lanka won by 8 wickets
+Toss: England won and chose to bat
+Player of the Match: CBRLS Kumara

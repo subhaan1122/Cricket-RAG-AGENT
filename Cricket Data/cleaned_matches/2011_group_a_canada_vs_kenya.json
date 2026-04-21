@@ -1,0 +1,350 @@
+{
+  "match_id": "0572a43aab93",
+  "world_cup_year": 2011,
+  "stage": "Group A",
+  "venue": "Feroz Shah Kotla",
+  "city": "Delhi",
+  "date": "2011-03-07",
+  "teams": {
+    "team1": "Canada",
+    "team2": "Kenya"
+  },
+  "toss": {
+    "winner": "Kenya",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Canada",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ashish Bagai",
+    "team2": "Jimmy Kamande"
+  },
+  "player_of_match": "H Osinde",
+  "innings": [
+    {
+      "team": "Kenya",
+      "runs": 198,
+      "wickets": 10,
+      "overs": 50.0,
+      "extras": 14,
+      "top_batters": [
+        {
+          "name": "TM Odoyo",
+          "runs": 51,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 82.26,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "T Mishra",
+          "runs": 51,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 31,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.57,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JK Kamande",
+          "runs": 22,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 12,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "H Osinde",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 26,
+          "wickets": 4,
+          "economy": 2.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "Rizwan Cheema",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 3.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HS Baidwan",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Balaji Rao",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 1,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Davison",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 5.2,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MA Ouma",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "SR Waters",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "4.5"
+        },
+        {
+          "player": "DO Obuya",
+          "runs": 21,
+          "wickets": 3,
+          "overs": "6.6"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 41,
+          "wickets": 4,
+          "overs": "11.3"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 57,
+          "wickets": 5,
+          "overs": "14.6"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 109,
+          "wickets": 6,
+          "overs": "29.2"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 166,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "NN Odhiambo",
+          "runs": 171,
+          "wickets": 8,
+          "overs": "43.6"
+        },
+        {
+          "player": "E Otieno",
+          "runs": 193,
+          "wickets": 9,
+          "overs": "48.6"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 198,
+          "wickets": 10,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Canada",
+      "runs": 199,
+      "wickets": 5,
+      "overs": 45.3,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "AS Hansra",
+          "runs": 70,
+          "balls": 99,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 70.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "A Bagai",
+          "runs": 64,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 65.98,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "R Gunasekera",
+          "runs": 18,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Rizwan Cheema",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "ZE Surkari",
+          "runs": 10,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NN Odhiambo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JO Ngoche",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 2.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "E Otieno",
+          "overs": "8.3",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.29,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SO Tikolo",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Rizwan Cheema",
+          "runs": 19,
+          "wickets": 1,
+          "overs": "3.4"
+        },
+        {
+          "player": "ZE Surkari",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "9.5"
+        },
+        {
+          "player": "R Gunasekera",
+          "runs": 48,
+          "wickets": 3,
+          "overs": "11.6"
+        },
+        {
+          "player": "AS Hansra",
+          "runs": 180,
+          "wickets": 4,
+          "overs": "42.5"
+        },
+        {
+          "player": "TG Gordon",
+          "runs": 186,
+          "wickets": 5,
+          "overs": "44.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_a_canada_vs_kenya.json",
+  "match_summary": "2011 World Cup Group A: Canada vs Kenya (2011-03-07) at Delhi.\nKenya: 198 all out (50.0 ov)\n  TM Odoyo: 51 (62b, 5x4, 1x6)\n  T Mishra: 51 (73b, 3x4, 0x6)\n  CO Obuya: 31 (35b, 3x4, 1x6)\n  H Osinde: 4/26 (10.0 ov)\n  Rizwan Cheema: 2/30 (9.0 ov)\n  HS Baidwan: 2/41 (10.0 ov)\nCanada: 199/5 (45.3 ov)\n  AS Hansra: 70 (99b, 7x4, 2x6)\n  A Bagai: 64* (97b, 7x4, 0x6)\n  NN Odhiambo: 2/45 (10.0 ov)\nCanada won by 5 wickets.\nPlayer of the Match: H Osinde."
+}

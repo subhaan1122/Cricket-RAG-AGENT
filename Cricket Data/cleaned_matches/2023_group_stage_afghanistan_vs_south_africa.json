@@ -1,0 +1,54 @@
+{
+  "match_id": "555b3f01ae05",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Narendra Modi Stadium, Ahmedabad",
+  "city": "Ahmedabad",
+  "date": "2023-11-10",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Temba Bavuma"
+  },
+  "player_of_match": "Rahmanullah Gurbaz",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 244,
+      "wickets": 10,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 247,
+      "wickets": 5,
+      "overs": 47.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_south_africa.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs South Africa (2023-11-10) at Ahmedabad.\nAfghanistan: 244 all out (50 ov)\nSouth Africa: 247/5 (47.3 ov)\nSouth Africa won by 5 wickets. Player of the Match: Rahmanullah Gurbaz."
+}

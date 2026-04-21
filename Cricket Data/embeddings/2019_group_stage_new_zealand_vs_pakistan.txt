@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2019
+Match: New Zealand vs Pakistan
+Stage: Group Stage
+Date: 2019-06-26
+Venue: Edgbaston, Birmingham
+Captain New Zealand: Kane Williamson
+Captain Pakistan: Sarfaraz Ahmed
+
+Match Summary:
+  2019 World Cup Group Stage: New Zealand vs Pakistan (2019-06-26) at Birmingham.
+
+New Zealand: 237/6 (50.0 ov)
+  JDS Neesham: 97 (112b, 5x4, 3x6, SR 86.61)
+  C de Grandhomme: 64 (71b, 6x4, 1x6, SR 90.14)
+  KS Williamson: 41 (69b, 4x4, 0x6, SR 59.42)
+  C Munro: 12 (17b, 2x4, 0x6, SR 70.59)
+  MJ Guptill: 5 (4b, 1x4, 0x6, SR 125.0)
+  Shaheen Shah Afridi: 3/28 (10.0 ov, Econ 2.8)
+  Shadab Khan: 1/43 (10.0 ov, Econ 4.3)
+  Mohammad Amir: 1/67 (10.0 ov, Econ 6.7)
+  Mohammad Hafeez: 0/22 (7.0 ov, Econ 3.14)
+  Wahab Riaz: 0/55 (10.0 ov, Econ 5.5)
+  Extras: 9
+
+Pakistan: 241/4 (49.1 ov)
+  Babar Azam: 101 (127b, 11x4, 0x6, SR 79.53)
+  Haris Sohail: 68 (76b, 5x4, 2x6, SR 89.47)
+  Mohammad Hafeez: 32 (50b, 5x4, 0x6, SR 64.0)
+  Imam-ul-Haq: 19 (29b, 3x4, 0x6, SR 65.52)
+  Fakhar Zaman: 9 (10b, 2x4, 0x6, SR 90.0)
+  TA Boult: 1/48 (10.0 ov, Econ 4.8)
+  KS Williamson: 1/39 (8.0 ov, Econ 4.88)
+  LH Ferguson: 1/50 (8.1 ov, Econ 6.12)
+  MJ Henry: 0/25 (7.0 ov, Econ 3.57)
+  MJ Santner: 0/38 (10.0 ov, Econ 3.8)
+  Extras: 7
+
+Batting Highlights:
+  Half-century: JDS Neesham scored 97 off 112 balls (SR 86.61)
+  Half-century: C de Grandhomme scored 64 off 71 balls (SR 90.14)
+  Century: Babar Azam scored 101 off 127 balls (SR 79.53, 11 fours, 0 sixes)
+  Half-century: Haris Sohail scored 68 off 76 balls (SR 89.47)
+
+Bowling Highlights:
+  Key spell: Shaheen Shah Afridi took 3/28
+  Economical spell: Mohammad Hafeez conceded 22 runs in 7.0 overs (Econ 3.14)
+
+Captain Performance:
+  Kane Williamson (New Zealand): scored 41 off 69 balls
+
+Key Moments:
+  New Zealand lost 6 early wickets.
+  Pakistan lost 4 early wickets.
+  New Zealand lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 6 wickets
+Toss: New Zealand won and chose to bat
+Player of the Match: Babar Azam

@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2015
+Match: United Arab Emirates vs West Indies
+Stage: Group B
+Date: 2015-03-15
+Venue: McLean Park, Napier
+Captain United Arab Emirates: Mohammad Tauqir
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Group B: United Arab Emirates vs West Indies (2015-03-15) at Napier.
+
+United Arab Emirates: 175 all out (47.4 ov)
+  Nasir Aziz: 60 (86b, 8x4, 0x6, SR 69.77)
+  Amjad Javed: 56 (99b, 7x4, 1x6, SR 56.57)
+  Mohammad Naveed: 14 (9b, 1x4, 1x6, SR 155.56)
+  AR Berenger: 7 (7b, 1x4, 0x6, SR 100.0)
+  SP Patil: 6 (20b, 0x4, 0x6, SR 30.0)
+  JO Holder: 4/27 (10.0 ov, Econ 2.7)
+  JE Taylor: 3/36 (8.4 ov, Econ 4.15)
+  AD Russell: 2/20 (8.0 ov, Econ 2.5)
+  MN Samuels: 1/25 (10.0 ov, Econ 2.5)
+  DR Smith: 0/5 (2.0 ov, Econ 2.5)
+  Extras: 14
+
+West Indies: 176/4 (30.3 ov)
+  J Charles: 55 (40b, 9x4, 2x6, SR 137.5)
+  JL Carter: 50 (58b, 5x4, 0x6, SR 86.21)
+  D Ramdin: 33 (50b, 2x4, 0x6, SR 66.0)
+  DR Smith: 15 (9b, 1x4, 1x6, SR 166.67)
+  MN Samuels: 9 (18b, 1x4, 0x6, SR 50.0)
+  Amjad Javed: 2/29 (8.0 ov, Econ 3.62)
+  AM Guruge: 2/40 (7.3 ov, Econ 5.33)
+  Mohammad Naveed: 0/34 (6.0 ov, Econ 5.67)
+  Mohammad Tauqir: 0/22 (3.0 ov, Econ 7.33)
+  Nasir Aziz: 0/47 (6.0 ov, Econ 7.83)
+  Extras: 7
+
+Batting Highlights:
+  Half-century: Nasir Aziz scored 60 off 86 balls (SR 69.77)
+  Half-century: Amjad Javed scored 56 off 99 balls (SR 56.57)
+  Half-century: J Charles scored 55 off 40 balls (SR 137.5)
+  Half-century: JL Carter scored 50 off 58 balls (SR 86.21)
+
+Bowling Highlights:
+  Match-changing spell: JO Holder took 4/27
+  Key spell: JE Taylor took 3/36
+  Economical spell: AD Russell conceded 20 runs in 8.0 overs (Econ 2.5)
+  Economical spell: MN Samuels conceded 25 runs in 10.0 overs (Econ 2.5)
+
+Captain Performance:
+  United Arab Emirates captain: Mohammad Tauqir
+  West Indies captain: Jason Holder
+
+Key Moments:
+  United Arab Emirates lost 10 early wickets.
+  West Indies lost 4 early wickets.
+  United Arab Emirates lost 5 wickets in the powerplay.
+
+Result: West Indies won by 6 wickets
+Toss: West Indies won and chose to field
+Player of the Match: JO Holder

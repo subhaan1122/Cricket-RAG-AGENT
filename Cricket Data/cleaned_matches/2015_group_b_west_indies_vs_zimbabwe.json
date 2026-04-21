@@ -1,0 +1,312 @@
+{
+  "match_id": "a36a231c9fcb",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Manuka Oval",
+  "city": "Canberra",
+  "date": "2015-02-24",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "Zimbabwe"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "West Indies",
+    "margin": "73 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Jason Holder",
+    "team2": "Elton Chigumbura"
+  },
+  "player_of_match": "CH Gayle",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 372,
+      "wickets": 2,
+      "overs": 50.0,
+      "extras": 24,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 215,
+          "balls": 147,
+          "fours": 10,
+          "sixes": 16,
+          "strike_rate": 146.26,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 133,
+          "balls": 156,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 85.26,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DR Smith",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "H Masakadza",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 6.16,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "T Panyangara",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 82,
+          "wickets": 1,
+          "economy": 9.11,
+          "wides": 4,
+          "no_balls": 2
+        },
+        {
+          "name": "Sikandar Raza",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 6.29,
+          "wides": 6,
+          "no_balls": 1
+        },
+        {
+          "name": "TL Chatara",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 0,
+          "economy": 7.66,
+          "wides": 0,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DR Smith",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 372,
+          "wickets": 2,
+          "overs": "49.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "runs": 289,
+      "wickets": 10,
+      "overs": 44.3,
+      "extras": 25,
+      "top_batters": [
+        {
+          "name": "SC Williams",
+          "runs": 76,
+          "balls": 61,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 124.59,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CR Ervine",
+          "runs": 52,
+          "balls": 41,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 126.83,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 37,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 77.08,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Sikandar Raza",
+          "runs": 26,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "E Chigumbura",
+          "runs": 21,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 105.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 3,
+          "economy": 3.8,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "JO Holder",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 3,
+          "economy": 6.86,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 5.83,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MN Samuels",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NO Miller",
+          "overs": "6.3",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 7.38,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RW Chakabva",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "H Masakadza",
+          "runs": 26,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 46,
+          "wickets": 3,
+          "overs": "7.6"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 126,
+          "wickets": 4,
+          "overs": "20.1"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 177,
+          "wickets": 5,
+          "overs": "27.5"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 226,
+          "wickets": 6,
+          "overs": "33.4"
+        },
+        {
+          "player": "S Matsikenyeri",
+          "runs": 239,
+          "wickets": 7,
+          "overs": "35.4"
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 254,
+          "wickets": 8,
+          "overs": "38.1"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 266,
+          "wickets": 9,
+          "overs": "40.5"
+        },
+        {
+          "player": "TL Chatara",
+          "runs": 289,
+          "wickets": 10,
+          "overs": "44.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_west_indies_vs_zimbabwe.json",
+  "match_summary": "2015 World Cup Group B: West Indies vs Zimbabwe (2015-02-24) at Canberra.\nWest Indies: 372/2 (50.0 ov)\n  CH Gayle: 215 (147b, 10x4, 16x6)\n  MN Samuels: 133* (156b, 11x4, 3x6)\nZimbabwe: 289 all out (44.3 ov)\n  SC Williams: 76 (61b, 9x4, 0x6)\n  CR Ervine: 52 (41b, 7x4, 1x6)\n  BRM Taylor: 37 (48b, 2x4, 1x6)\n  JE Taylor: 3/38 (10.0 ov)\n  JO Holder: 3/48 (7.0 ov)\n  CH Gayle: 2/35 (6.0 ov)\nWest Indies won by 73 runs (D/L).\nPlayer of the Match: CH Gayle."
+}

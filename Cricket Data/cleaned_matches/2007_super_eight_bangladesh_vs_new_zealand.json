@@ -1,0 +1,306 @@
+{
+  "match_id": "636074f0b17e",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Sir Vivian Richards Stadium, North Sound",
+  "city": "Antigua",
+  "date": "2007-04-02",
+  "teams": {
+    "team1": "Bangladesh",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Habibul Bashar",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "SE Bond",
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "runs": 174,
+      "wickets": 10,
+      "overs": 48.3,
+      "extras": 17,
+      "top_batters": [
+        {
+          "name": "Mohammad Rafique",
+          "runs": 30,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 83.33,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Tamim Iqbal",
+          "runs": 29,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.7,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "Aftab Ahmed",
+          "runs": 27,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "runs": 25,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.98,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Javed Omar",
+          "runs": 22,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.14,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SB Styris",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 43,
+          "wickets": 4,
+          "economy": 4.3,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "9.3",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.16,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 1.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Mason",
+          "overs": "1.3",
+          "maidens": 1,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 55,
+          "wickets": 1,
+          "overs": "16.4"
+        },
+        {
+          "player": "Javed Omar",
+          "runs": 62,
+          "wickets": 2,
+          "overs": "18.4"
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 105,
+          "wickets": 3,
+          "overs": "28.2"
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 122,
+          "wickets": 4,
+          "overs": "33.3"
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 127,
+          "wickets": 5,
+          "overs": "35.1"
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 127,
+          "wickets": 6,
+          "overs": "35.6"
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 129,
+          "wickets": 7,
+          "overs": "38.2"
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 140,
+          "wickets": 8,
+          "overs": "42.1"
+        },
+        {
+          "player": "Abdur Razzak",
+          "runs": 140,
+          "wickets": 9,
+          "overs": "42.3"
+        },
+        {
+          "player": "Syed Rasel",
+          "runs": 174,
+          "wickets": 10,
+          "overs": "48.3"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 178,
+      "wickets": 1,
+      "overs": 29.2,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "SP Fleming",
+          "runs": 102,
+          "balls": 92,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 110.87,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "HJH Marshall",
+          "runs": 50,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 92.59,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "PG Fulton",
+          "runs": 15,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Syed Rasel",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 3.14,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdur Razzak",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 0,
+          "economy": 4.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Mashrafe Mortaza",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 6.83,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammad Rafique",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 7.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 11.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PG Fulton",
+          "runs": 44,
+          "wickets": 1,
+          "overs": "9.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_bangladesh_vs_new_zealand.json",
+  "match_summary": "2007 World Cup Super Eight: Bangladesh vs New Zealand (2007-04-02) at Antigua.\nBangladesh: 174 all out (48.3 ov)\n  Mohammad Rafique: 30* (36b, 1x4, 2x6)\n  SB Styris: 4/43 (10.0 ov)\n  JDP Oram: 3/30 (9.3 ov)\n  SE Bond: 2/15 (10.0 ov)\nNew Zealand: 178/1 (29.2 ov)\n  SP Fleming: 102* (92b, 10x4, 3x6)\n  HJH Marshall: 50* (54b, 2x4, 1x6)\nNew Zealand won by 9 wickets.\nPlayer of the Match: SE Bond."
+}

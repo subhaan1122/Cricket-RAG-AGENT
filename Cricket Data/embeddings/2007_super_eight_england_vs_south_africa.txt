@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: England vs South Africa
+Stage: Super Eight
+Date: 2007-04-17
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain England: Michael Vaughan
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Super Eight: England vs South Africa (2007-04-17) at Barbados.
+
+England: 154 all out (48.0 ov)
+  AJ Strauss: 46 (67b, 2x4, 1x6, SR 68.66)
+  PD Collingwood: 30 (57b, 3x4, 0x6, SR 52.63)
+  RS Bopara: 27 (44b, 4x4, 0x6, SR 61.36)
+  MP Vaughan: 17 (38b, 3x4, 0x6, SR 44.74)
+  IR Bell: 7 (23b, 1x4, 0x6, SR 30.43)
+  AJ Hall: 5/18 (10.0 ov, Econ 1.8)
+  A Nel: 3/35 (10.0 ov, Econ 3.5)
+  JH Kallis: 1/22 (8.0 ov, Econ 2.75)
+  CK Langeveldt: 1/38 (7.0 ov, Econ 5.43)
+  SM Pollock: 0/17 (10.0 ov, Econ 1.7)
+  Extras: 16
+
+South Africa: 157/1 (19.2 ov)
+  GC Smith: 89 (58b, 13x4, 0x6, SR 153.45)
+  AB de Villiers: 42 (35b, 8x4, 0x6, SR 120.0)
+  JH Kallis: 17 (25b, 2x4, 0x6, SR 68.0)
+  A Flintoff: 1/36 (6.0 ov, Econ 6.0)
+  PD Collingwood: 0/12 (2.0 ov, Econ 6.0)
+  JM Anderson: 0/32 (5.0 ov, Econ 6.4)
+  SI Mahmood: 0/49 (4.2 ov, Econ 11.31)
+  MS Panesar: 0/24 (2.0 ov, Econ 12.0)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: GC Smith scored 89 off 58 balls (SR 153.45)
+
+Bowling Highlights:
+  Match-changing spell: AJ Hall took 5/18
+  Key spell: A Nel took 3/35
+  Economical spell: JH Kallis conceded 22 runs in 8.0 overs (Econ 2.75)
+  Economical spell: SM Pollock conceded 17 runs in 10.0 overs (Econ 1.7)
+
+Captain Performance:
+  Michael Vaughan (England): scored 17 off 38 balls
+  Graeme Smith (South Africa): scored 89 off 58 balls
+
+Key Moments:
+  England lost 10 early wickets.
+  South Africa scored aggressively in the powerplay (85 runs at 8.5 RPO).
+
+Result: South Africa won by 9 wickets
+Toss: England won and chose to bat
+Player of the Match: AJ Hall

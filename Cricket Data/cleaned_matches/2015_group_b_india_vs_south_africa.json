@@ -1,0 +1,362 @@
+{
+  "match_id": "120d50fafe7f",
+  "world_cup_year": 2015,
+  "stage": "Group B",
+  "venue": "Melbourne Cricket Ground",
+  "city": "",
+  "date": "2015-02-22",
+  "teams": {
+    "team1": "India",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "130 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "AB de Villiers"
+  },
+  "player_of_match": "S Dhawan",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 307,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 10,
+      "top_batters": [
+        {
+          "name": "S Dhawan",
+          "runs": 137,
+          "balls": 146,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 93.84,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AM Rahane",
+          "runs": 79,
+          "balls": 60,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 131.67,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 46,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 18,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 163.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SK Raina",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "M Morkel",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WD Parnell",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 85,
+          "wickets": 1,
+          "economy": 9.44,
+          "wides": 4,
+          "no_balls": 2
+        },
+        {
+          "name": "VD Philander",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 4.75,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 136,
+          "wickets": 2,
+          "overs": "27.1"
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 261,
+          "wickets": 3,
+          "overs": "43.4"
+        },
+        {
+          "player": "SK Raina",
+          "runs": 269,
+          "wickets": 4,
+          "overs": "44.5"
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 278,
+          "wickets": 5,
+          "overs": "45.6"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 284,
+          "wickets": 6,
+          "overs": "47.2"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 302,
+          "wickets": 7,
+          "overs": "48.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 177,
+      "wickets": 10,
+      "overs": 40.2,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "F du Plessis",
+          "runs": 55,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 30,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 22,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.65,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 22,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "WD Parnell",
+          "runs": 17,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Shami",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 3.75,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Sharma",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 2,
+          "economy": 4.43,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 4.44,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SK Raina",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 3,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "3.3"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 40,
+          "wickets": 2,
+          "overs": "10.2"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 108,
+          "wickets": 3,
+          "overs": "22.5"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "28.1"
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 147,
+          "wickets": 5,
+          "overs": "31.3"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 153,
+          "wickets": 6,
+          "overs": "33.4"
+        },
+        {
+          "player": "VD Philander",
+          "runs": 153,
+          "wickets": 7,
+          "overs": "33.6"
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 158,
+          "wickets": 8,
+          "overs": "36.2"
+        },
+        {
+          "player": "M Morkel",
+          "runs": 161,
+          "wickets": 9,
+          "overs": "37.2"
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 177,
+          "wickets": 10,
+          "overs": "40.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_b_india_vs_south_africa.json",
+  "match_summary": "2015 World Cup Group B: India vs South Africa (2015-02-22) at Melbourne Cricket Ground.\nIndia: 307/7 (50.0 ov)\n  S Dhawan: 137 (146b, 16x4, 2x6)\n  AM Rahane: 79 (60b, 7x4, 3x6)\n  V Kohli: 46 (60b, 3x4, 0x6)\n  M Morkel: 2/59 (10.0 ov)\nSouth Africa: 177 all out (40.2 ov)\n  F du Plessis: 55 (71b, 5x4, 0x6)\n  AB de Villiers: 30 (38b, 3x4, 0x6)\n  R Ashwin: 3/41 (10.0 ov)\n  Mohammed Shami: 2/30 (8.0 ov)\n  MM Sharma: 2/31 (7.0 ov)\nIndia won by 130 runs.\nPlayer of the Match: S Dhawan."
+}

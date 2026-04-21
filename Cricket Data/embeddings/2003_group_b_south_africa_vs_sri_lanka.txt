@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2003
+Match: Sri Lanka vs South Africa
+Stage: Group B
+Date: 2003-03-03
+Venue: Kingsmead, Durban, Durban
+Captain Sri Lanka: Sanath Jayasuriya
+Captain South Africa: Shaun Pollock
+
+Match Summary:
+  2003 World Cup Group B: Sri Lanka vs South Africa (2003-03-03) at Durban.
+
+Sri Lanka: 268/9 (50.0 ov)
+  MS Atapattu: 124 (129b, 17x4, 0x6, SR 96.12)
+  PA de Silva: 73 (78b, 6x4, 2x6, SR 93.59)
+  ST Jayasuriya: 16 (30b, 1x4, 0x6, SR 53.33)
+  HP Tillakaratne: 14 (28b, 2x4, 0x6, SR 50.0)
+  RP Arnold: 8 (11b, 0x4, 0x6, SR 72.73)
+  JH Kallis: 3/41 (10.0 ov, Econ 4.1)
+  AJ Hall: 2/62 (10.0 ov, Econ 6.2)
+  SM Pollock: 1/48 (10.0 ov, Econ 4.8)
+  M Ntini: 1/49 (10.0 ov, Econ 4.9)
+  M Zondeki: 0/35 (6.0 ov, Econ 5.83)
+  Extras: 18
+
+South Africa: 229/6 (45.0 ov)
+  HH Gibbs: 73 (88b, 7x4, 2x6, SR 82.95)
+  MV Boucher: 45 (50b, 2x4, 1x6, SR 90.0)
+  GC Smith: 35 (34b, 5x4, 0x6, SR 102.94)
+  SM Pollock: 25 (37b, 1x4, 0x6, SR 67.57)
+  JH Kallis: 16 (19b, 1x4, 0x6, SR 84.21)
+  PA de Silva: 2/36 (8.0 ov, Econ 4.5)
+  ST Jayasuriya: 2/49 (10.0 ov, Econ 4.9)
+  M Muralitharan: 1/51 (9.0 ov, Econ 5.67)
+  RP Arnold: 0/16 (4.0 ov, Econ 4.0)
+  PW Gunaratne: 0/26 (6.0 ov, Econ 4.33)
+  Extras: 18
+
+Batting Highlights:
+  Century: MS Atapattu scored 124 off 129 balls (SR 96.12, 17 fours, 0 sixes)
+  Half-century: PA de Silva scored 73 off 78 balls (SR 93.59)
+  Half-century: HH Gibbs scored 73 off 88 balls (SR 82.95)
+
+Bowling Highlights:
+  Key spell: JH Kallis took 3/41
+
+Captain Performance:
+  Sanath Jayasuriya (Sri Lanka): scored 16 off 30 balls
+  Shaun Pollock (South Africa): scored 25 off 37 balls
+
+Key Moments:
+  Sri Lanka lost 9 early wickets.
+  South Africa lost 6 early wickets.
+
+Result: South Africa won by 1 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: MS Atapattu

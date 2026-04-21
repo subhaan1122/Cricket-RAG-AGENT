@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: Australia vs Pakistan
+Stage: Quarter-Final
+Date: 2015-03-20
+Venue: Adelaide Oval
+Captain Australia: Michael Clarke
+Captain Pakistan: Misbah-ul-Haq
+
+Match Summary:
+  2015 World Cup Quarter-Final: Australia vs Pakistan (2015-03-20) at Adelaide Oval.
+
+Pakistan: 213 all out (49.5 ov)
+  Haris Sohail: 41 (57b, 4x4, 0x6, SR 71.93)
+  Misbah-ul-Haq: 34 (59b, 1x4, 2x6, SR 57.63)
+  Sohaib Maqsood: 29 (44b, 1x4, 0x6, SR 65.91)
+  Shahid Afridi: 23 (15b, 3x4, 1x6, SR 153.33)
+  Umar Akmal: 20 (25b, 2x4, 0x6, SR 80.0)
+  JR Hazlewood: 4/35 (10.0 ov, Econ 3.5)
+  MA Starc: 2/40 (10.0 ov, Econ 4.0)
+  GJ Maxwell: 2/43 (7.0 ov, Econ 6.14)
+  JP Faulkner: 1/31 (7.5 ov, Econ 3.96)
+  MG Johnson: 1/42 (10.0 ov, Econ 4.2)
+  Extras: 10
+
+Australia: 216/4 (33.5 ov)
+  SPD Smith: 65 (69b, 7x4, 0x6, SR 94.2)
+  SR Watson: 64 (66b, 7x4, 1x6, SR 96.97)
+  GJ Maxwell: 44 (29b, 5x4, 2x6, SR 151.72)
+  DA Warner: 24 (23b, 3x4, 0x6, SR 104.35)
+  MJ Clarke: 8 (11b, 0x4, 0x6, SR 72.73)
+  Wahab Riaz: 2/54 (9.0 ov, Econ 6.0)
+  Ehsan Adil: 1/31 (5.0 ov, Econ 6.2)
+  Sohail Khan: 1/57 (7.5 ov, Econ 7.28)
+  Haris Sohail: 0/7 (2.0 ov, Econ 3.5)
+  Rahat Ali: 0/37 (6.0 ov, Econ 6.17)
+  Extras: 9
+
+Batting Highlights:
+  Quickfire innings: Shahid Afridi smashed 23 off 15 balls at SR 153.33
+  Half-century: SPD Smith scored 65 off 69 balls (SR 94.2)
+  Half-century: SR Watson scored 64 off 66 balls (SR 96.97)
+  Quickfire innings: GJ Maxwell smashed 44 off 29 balls at SR 151.72
+
+Bowling Highlights:
+  Match-changing spell: JR Hazlewood took 4/35
+
+Captain Performance:
+  Misbah-ul-Haq (Pakistan): scored 34 off 59 balls
+  Michael Clarke (Australia): scored 8 off 11 balls
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  Australia lost 4 early wickets.
+
+Result: Australia won by 6 wickets
+Toss: Pakistan won and chose to bat
+Player of the Match: JR Hazlewood

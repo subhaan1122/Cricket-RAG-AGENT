@@ -1,0 +1,320 @@
+{
+  "match_id": "20414dd0b2db",
+  "world_cup_year": 2011,
+  "stage": "Final",
+  "venue": "Wankhede Stadium",
+  "city": "Mumbai",
+  "date": "2011-04-02",
+  "teams": {
+    "team1": "India",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "Kumar Sangakkara"
+  },
+  "player_of_match": "MS Dhoni",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 274,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 103,
+          "balls": 88,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 117.05,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "KC Sangakkara",
+          "runs": 48,
+          "balls": 67,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 71.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TM Dilshan",
+          "runs": 33,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.35,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "runs": 32,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 106.67,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "NLTC Perera",
+          "runs": 22,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 244.44,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Yuvraj Singh",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 60,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 4.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SR Tendulkar",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "WU Tharanga",
+          "runs": 17,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 60,
+          "wickets": 2,
+          "overs": "16.3"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 122,
+          "wickets": 3,
+          "overs": "27.5"
+        },
+        {
+          "player": "TT Samaraweera",
+          "runs": 179,
+          "wickets": 4,
+          "overs": "38.1"
+        },
+        {
+          "player": "CK Kapugedera",
+          "runs": 182,
+          "wickets": 5,
+          "overs": "39.5"
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 248,
+          "wickets": 6,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 277,
+      "wickets": 4,
+      "overs": 48.2,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "G Gambhir",
+          "runs": 97,
+          "balls": 122,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 79.51,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 91,
+          "balls": 79,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 115.19,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 35,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 21,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SR Tendulkar",
+          "runs": 18,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.67,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 5.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 1,
+          "economy": 6.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "S Randiv",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 0,
+          "economy": 4.78,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "M Muralitharan",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 0,
+          "economy": 4.88,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "6.1"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 114,
+          "wickets": 3,
+          "overs": "21.4"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 223,
+          "wickets": 4,
+          "overs": "41.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_final_india_vs_sri_lanka.json",
+  "match_summary": "2011 World Cup Final: India vs Sri Lanka (2011-04-02) at Mumbai.\nSri Lanka: 274/6 (50.0 ov)\n  DPMD Jayawardene: 103* (88b, 13x4, 0x6)\n  KC Sangakkara: 48 (67b, 5x4, 0x6)\n  TM Dilshan: 33 (49b, 3x4, 0x6)\n  Yuvraj Singh: 2/49 (10.0 ov)\n  Z Khan: 2/60 (10.0 ov)\nIndia: 277/4 (48.2 ov)\n  G Gambhir: 97 (122b, 9x4, 0x6)\n  MS Dhoni: 91* (79b, 8x4, 2x6)\n  V Kohli: 35 (49b, 4x4, 0x6)\n  SL Malinga: 2/42 (9.0 ov)\nIndia won by 6 wickets.\nPlayer of the Match: MS Dhoni."
+}

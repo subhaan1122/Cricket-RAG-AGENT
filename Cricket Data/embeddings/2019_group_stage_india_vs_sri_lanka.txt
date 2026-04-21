@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: India vs Sri Lanka
+Stage: Group Stage
+Date: 2019-07-06
+Venue: Headingley, Leeds
+Captain India: Virat Kohli
+Captain Sri Lanka: Dimuth Karunaratne
+
+Match Summary:
+  2019 World Cup Group Stage: India vs Sri Lanka (2019-07-06) at Leeds.
+
+Sri Lanka: 264/7 (50.0 ov)
+  AD Mathews: 113 (128b, 10x4, 2x6, SR 88.28)
+  HDRL Thirimanne: 53 (68b, 4x4, 0x6, SR 77.94)
+  DM de Silva: 29 (36b, 1x4, 0x6, SR 80.56)
+  WIA Fernando: 20 (21b, 4x4, 0x6, SR 95.24)
+  MDKJ Perera: 18 (14b, 3x4, 0x6, SR 128.57)
+  JJ Bumrah: 3/37 (10.0 ov, Econ 3.7)
+  RA Jadeja: 1/40 (10.0 ov, Econ 4.0)
+  HH Pandya: 1/50 (10.0 ov, Econ 5.0)
+  Kuldeep Yadav: 1/58 (10.0 ov, Econ 5.8)
+  B Kumar: 1/73 (10.0 ov, Econ 7.3)
+  Extras: 15
+
+India: 265/3 (43.3 ov)
+  KL Rahul: 111 (118b, 11x4, 1x6, SR 94.07)
+  RG Sharma: 103 (94b, 14x4, 2x6, SR 109.57)
+  V Kohli: 34 (41b, 3x4, 0x6, SR 82.93)
+  HH Pandya: 7 (4b, 1x4, 0x6, SR 175.0)
+  RR Pant: 4 (4b, 1x4, 0x6, SR 100.0)
+  I Udana: 1/50 (9.3 ov, Econ 5.26)
+  CAK Rajitha: 1/47 (8.0 ov, Econ 5.88)
+  SL Malinga: 1/82 (10.0 ov, Econ 8.2)
+  NLTC Perera: 0/34 (10.0 ov, Econ 3.4)
+  DM de Silva: 0/51 (6.0 ov, Econ 8.5)
+  Extras: 6
+
+Batting Highlights:
+  Century: AD Mathews scored 113 off 128 balls (SR 88.28, 10 fours, 2 sixes)
+  Half-century: HDRL Thirimanne scored 53 off 68 balls (SR 77.94)
+  Century: KL Rahul scored 111 off 118 balls (SR 94.07, 11 fours, 1 sixes)
+  Century: RG Sharma scored 103 off 94 balls (SR 109.57, 14 fours, 2 sixes)
+
+Bowling Highlights:
+  Key spell: JJ Bumrah took 3/37
+  Economical spell: NLTC Perera conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  Virat Kohli (India): scored 34 off 41 balls
+
+Key Moments:
+  Sri Lanka lost 7 early wickets.
+  India lost 3 early wickets.
+
+Result: India won by 7 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: RG Sharma

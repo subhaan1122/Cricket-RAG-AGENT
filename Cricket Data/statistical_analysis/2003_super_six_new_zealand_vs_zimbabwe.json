@@ -1,0 +1,709 @@
+{
+  "match_info": {
+    "match_id": "dfb131e36d6a",
+    "world_cup_year": 2003,
+    "stage": "Super Six",
+    "venue": "Goodyear Park, Bloemfontein",
+    "city": "Bloemfontein",
+    "date": "2003-03-08",
+    "teams": {
+      "team1": "Zimbabwe",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "Zimbabwe",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Heath Streak",
+      "team2": "Stephen Fleming"
+    },
+    "player_of_match": "NJ Astle",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Super Six: Zimbabwe vs New Zealand (2003-03-08) at Bloemfontein.\nZimbabwe: 252/7 (50.0 ov)\n  HH Streak: 72* (84b, 5x4, 2x6)\n  T Taibu: 53 (79b, 3x4, 1x6)\n  A Flower: 37 (61b, 5x4, 0x6)\n  CL Cairns: 2/16 (4.0 ov)\nNew Zealand: 253/4 (47.2 ov)\n  NJ Astle: 102* (122b, 11x4, 0x6)\n  CL Cairns: 54 (73b, 3x4, 2x6)\n  SP Fleming: 46 (42b, 10x4, 0x6)\n  AM Blignaut: 2/41 (10.0 ov)\nNew Zealand won by 6 wickets.\nPlayer of the Match: NJ Astle.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 505,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 5.21,
+    "highest_individual_score": 102,
+    "best_bowling_figures": "2/41",
+    "total_sixes": 6,
+    "total_fours": 49
+  },
+  "innings_analysis": [
+    {
+      "team": "Zimbabwe",
+      "total_runs": 252,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 5.04,
+      "top_batters": [
+        {
+          "name": "HH Streak",
+          "runs": 72,
+          "balls": 84,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 85.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "T Taibu",
+          "runs": 53,
+          "balls": 79,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 67.09,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "A Flower",
+          "runs": 37,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.66,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "SM Ervine",
+          "runs": 31,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 221.43,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CB Wishart",
+          "runs": 30,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CL Cairns",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 3,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 2.8,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CZ Harris",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "AR Adams",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 10.8,
+          "wides": 5,
+          "no_balls": 1
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 3.7,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DD Ebrahim",
+          "runs": 5,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "CB Wishart",
+          "runs": 59,
+          "wickets": 2,
+          "overs": "14.3"
+        },
+        {
+          "player": "GW Flower",
+          "runs": 63,
+          "wickets": 3,
+          "overs": "15.5"
+        },
+        {
+          "player": "GJ Whittall",
+          "runs": 65,
+          "wickets": 4,
+          "overs": "16.6"
+        },
+        {
+          "player": "A Flower",
+          "runs": 98,
+          "wickets": 5,
+          "overs": "21.6"
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 106,
+          "wickets": 6,
+          "overs": "23.6"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 174,
+          "wickets": 7,
+          "overs": "43.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 1,
+        "run_rate": 3.2,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 49,
+        "extras": 9
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 101,
+        "wickets": 1,
+        "run_rate": 10.1,
+        "fours": 9,
+        "sixes": 4,
+        "dot_balls": 21,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 253,
+      "total_wickets": 4,
+      "total_overs": 47.2,
+      "run_rate": 5.38,
+      "top_batters": [
+        {
+          "name": "NJ Astle",
+          "runs": 102,
+          "balls": 122,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 83.61,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CL Cairns",
+          "runs": 54,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 73.97,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 46,
+          "balls": 42,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 109.52,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "CZ Harris",
+          "runs": 14,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SB Styris",
+          "runs": 13,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AM Blignaut",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "DT Hondo",
+          "overs": "8.2",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 6.24,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Ervine",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 7.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GW Flower",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 3.3,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "HH Streak",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 0,
+          "economy": 5.9,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CD McMillan",
+          "runs": 27,
+          "wickets": 1,
+          "overs": "5.6"
+        },
+        {
+          "player": "SP Fleming",
+          "runs": 72,
+          "wickets": 2,
+          "overs": "13.3"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 97,
+          "wickets": 3,
+          "overs": "19.2"
+        },
+        {
+          "player": "CL Cairns",
+          "runs": 218,
+          "wickets": 4,
+          "overs": "43.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 45,
+        "wickets": 1,
+        "run_rate": 4.5,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 41,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "7.2",
+        "balls": 44,
+        "runs": 63,
+        "wickets": 1,
+        "run_rate": 8.59,
+        "fours": 6,
+        "sixes": 2,
+        "dot_balls": 17,
+        "extras": 4
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "HH Streak": {
+      "batting": {
+        "runs": 72,
+        "balls": 84,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 0,
+        "economy": 5.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Taibu": {
+      "batting": {
+        "runs": 53,
+        "balls": 79,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 67.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Flower": {
+      "batting": {
+        "runs": 37,
+        "balls": 61,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 60.66
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SM Ervine": {
+      "batting": {
+        "runs": 31,
+        "balls": 14,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 221.43
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 1,
+        "economy": 7.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CB Wishart": {
+      "batting": {
+        "runs": 30,
+        "balls": 50,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 60.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL Cairns": {
+      "batting": {
+        "runs": 54,
+        "balls": 73,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 73.97
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 1,
+        "economy": 2.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CZ Harris": {
+      "batting": {
+        "runs": 14,
+        "balls": 10,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 140.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AR Adams": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 54,
+        "wickets": 1,
+        "economy": 10.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SE Bond": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 0,
+        "economy": 3.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NJ Astle": {
+      "batting": {
+        "runs": 102,
+        "balls": 122,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 83.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SP Fleming": {
+      "batting": {
+        "runs": 46,
+        "balls": 42,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 109.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 13,
+        "balls": 22,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 59.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AM Blignaut": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DT Hondo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 1,
+        "economy": 6.24
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GW Flower": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 0,
+        "economy": 3.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Zimbabwe scored 252 in 50.0 overs at 5.04 RPO",
+    "vs New Zealand scored 253 in 47.2 overs at 5.38 RPO",
+    "Top batsman: NJ Astle with 102 runs",
+    "Top bowler: CL Cairns with 2 wickets"
+  ]
+}

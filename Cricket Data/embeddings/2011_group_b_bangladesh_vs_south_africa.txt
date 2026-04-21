@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2011
+Match: Bangladesh vs South Africa
+Stage: Group B
+Date: 2011-03-19
+Venue: Shere Bangla National Stadium, Mirpur
+Captain Bangladesh: Shakib Al Hasan
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2011 World Cup Group B: Bangladesh vs South Africa (2011-03-19) at Mirpur.
+
+South Africa: 284/8 (50.0 ov)
+  JH Kallis: 69 (76b, 5x4, 1x6, SR 90.79)
+  F du Plessis: 52 (52b, 4x4, 1x6, SR 100.0)
+  HM Amla: 51 (59b, 6x4, 0x6, SR 86.44)
+  GC Smith: 45 (68b, 4x4, 0x6, SR 66.18)
+  RJ Peterson: 22 (9b, 4x4, 0x6, SR 244.44)
+  Rubel Hossain: 3/56 (8.0 ov, Econ 7.0)
+  Shakib Al Hasan: 2/46 (10.0 ov, Econ 4.6)
+  Mahmudullah: 1/46 (10.0 ov, Econ 4.6)
+  Abdur Razzak: 1/47 (10.0 ov, Econ 4.7)
+  Naeem Islam: 0/42 (7.0 ov, Econ 6.0)
+  Extras: 7
+
+Bangladesh: 78 all out (28.0 ov)
+  Shakib Al Hasan: 30 (49b, 4x4, 0x6, SR 61.22)
+  Rubel Hossain: 8 (9b, 2x4, 0x6, SR 88.89)
+  Naeem Islam: 8 (20b, 1x4, 0x6, SR 40.0)
+  Shahriar Nafees: 5 (12b, 1x4, 0x6, SR 41.67)
+  Tamim Iqbal: 5 (14b, 1x4, 0x6, SR 35.71)
+  RJ Peterson: 4/12 (7.0 ov, Econ 1.71)
+  LL Tsotsobe: 3/14 (5.0 ov, Econ 2.8)
+  J Botha: 1/23 (7.0 ov, Econ 3.29)
+  Imran Tahir: 1/20 (5.0 ov, Econ 4.0)
+  WD Parnell: 0/4 (4.0 ov, Econ 1.0)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: JH Kallis scored 69 off 76 balls (SR 90.79)
+  Half-century: F du Plessis scored 52 off 52 balls (SR 100.0)
+  Half-century: HM Amla scored 51 off 59 balls (SR 86.44)
+
+Bowling Highlights:
+  Key spell: Rubel Hossain took 3/56
+  Match-changing spell: RJ Peterson took 4/12
+  Key spell: LL Tsotsobe took 3/14
+  Economical spell: J Botha conceded 23 runs in 7.0 overs (Econ 3.29)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 45 off 68 balls
+  Shakib Al Hasan (Bangladesh): scored 30 off 49 balls
+
+Key Moments:
+  South Africa lost 8 early wickets.
+  Bangladesh lost 10 early wickets.
+  Bangladesh lost 4 wickets in the powerplay.
+
+Result: South Africa won by 206 runs
+Toss: South Africa won and chose to bat
+Player of the Match: LL Tsotsobe

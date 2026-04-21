@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2023
+Match: Pakistan vs South Africa
+Stage: Group Stage
+Date: 2023-10-27
+Venue: MA Chidambaram Stadium, Chepauk, Chennai, Chennai
+Captain Pakistan: Babar Azam
+Captain South Africa: Temba Bavuma
+
+Match Summary:
+  2023 World Cup Group Stage: Pakistan vs South Africa (2023-10-27) at Chennai.
+
+Pakistan: 270 all out (46.4 ov)
+  Saud Shakeel: 52 (52b, 7x4, 0x6, SR 100.0)
+  Babar Azam: 50 (65b, 3x4, 1x6, SR 76.92)
+  Shadab Khan: 43 (36b, 3x4, 2x6, SR 119.44)
+  Mohammad Rizwan: 31 (27b, 4x4, 1x6, SR 114.81)
+  Mohammad Nawaz: 24 (24b, 1x4, 2x6, SR 100.0)
+  T Shamsi: 4/60 (10.0 ov, Econ 6.0)
+  M Jansen: 3/43 (9.0 ov, Econ 4.78)
+  G Coetzee: 2/42 (7.0 ov, Econ 6.0)
+  L Ngidi: 1/45 (7.4 ov, Econ 5.87)
+  AK Markram: 0/20 (4.0 ov, Econ 5.0)
+  Extras: 19
+
+South Africa: 271/9 (47.2 ov)
+  AK Markram: 91 (93b, 7x4, 3x6, SR 97.85)
+  DA Miller: 29 (33b, 2x4, 2x6, SR 87.88)
+  T Bavuma: 28 (27b, 4x4, 1x6, SR 103.7)
+  Q de Kock: 24 (14b, 5x4, 0x6, SR 171.43)
+  HE van der Dussen: 21 (39b, 0x4, 0x6, SR 53.85)
+  Shaheen Shah Afridi: 3/45 (10.0 ov, Econ 4.5)
+  Mohammad Wasim: 2/50 (10.0 ov, Econ 5.0)
+  Usama Mir: 2/45 (8.0 ov, Econ 5.62)
+  Haris Rauf: 2/62 (10.0 ov, Econ 6.2)
+  Mohammad Nawaz: 0/40 (6.2 ov, Econ 6.32)
+  Extras: 21
+
+Batting Highlights:
+  Half-century: Saud Shakeel scored 52 off 52 balls (SR 100.0)
+  Half-century: Babar Azam scored 50 off 65 balls (SR 76.92)
+  Half-century: AK Markram scored 91 off 93 balls (SR 97.85)
+
+Bowling Highlights:
+  Match-changing spell: T Shamsi took 4/60
+  Key spell: M Jansen took 3/43
+  Key spell: Shaheen Shah Afridi took 3/45
+
+Captain Performance:
+  Babar Azam (Pakistan): scored 50 off 65 balls
+  Temba Bavuma (South Africa): scored 28 off 27 balls
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  South Africa lost 9 early wickets.
+
+Result: South Africa won by 1 wickets
+Toss: Pakistan won and chose to bat
+Player of the Match: T Shamsi

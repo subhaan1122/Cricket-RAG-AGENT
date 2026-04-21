@@ -1,0 +1,374 @@
+{
+  "match_id": "862d57032a1b",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "Kensington Oval, Bridgetown",
+  "city": "Barbados",
+  "date": "2007-04-21",
+  "teams": {
+    "team1": "West Indies",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brian Lara",
+    "team2": "Michael Vaughan"
+  },
+  "player_of_match": "KP Pietersen",
+  "innings": [
+    {
+      "team": "West Indies",
+      "runs": 300,
+      "wickets": 10,
+      "overs": 49.5,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "CH Gayle",
+          "runs": 79,
+          "balls": 58,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 136.21,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DS Smith",
+          "runs": 61,
+          "balls": 106,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 57.55,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MN Samuels",
+          "runs": 51,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Chanderpaul",
+          "runs": 34,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 87.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BC Lara",
+          "runs": 18,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MP Vaughan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 3,
+          "economy": 3.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "A Flintoff",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 10.14,
+          "wides": 5,
+          "no_balls": 2
+        },
+        {
+          "name": "SCJ Broad",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 5.33,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 131,
+          "wickets": 1,
+          "overs": "23.5"
+        },
+        {
+          "player": "DS Smith",
+          "runs": 168,
+          "wickets": 2,
+          "overs": "29.3"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 173,
+          "wickets": 3,
+          "overs": "30.5"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 181,
+          "wickets": 4,
+          "overs": "33.2"
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 258,
+          "wickets": 5,
+          "overs": "42.5"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 276,
+          "wickets": 6,
+          "overs": "45.3"
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 277,
+          "wickets": 7,
+          "overs": "46.1"
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 296,
+          "wickets": 8,
+          "overs": "48.5"
+        },
+        {
+          "player": "DBL Powell",
+          "runs": 298,
+          "wickets": 9,
+          "overs": "49.2"
+        },
+        {
+          "player": "CD Collymore",
+          "runs": 300,
+          "wickets": 10,
+          "overs": "49.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "England",
+      "runs": 301,
+      "wickets": 9,
+      "overs": 49.5,
+      "extras": 22,
+      "top_batters": [
+        {
+          "name": "KP Pietersen",
+          "runs": 100,
+          "balls": 91,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 109.89,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MP Vaughan",
+          "runs": 79,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 116.18,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "PA Nixon",
+          "runs": 38,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 97.44,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 26,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.47,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "A Flintoff",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DJ Bravo",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JE Taylor",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 65,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RR Sarwan",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 21,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CD Collymore",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 6.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DBL Powell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 0,
+          "economy": 5.8,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AJ Strauss",
+          "runs": 11,
+          "wickets": 1,
+          "overs": "2.3"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 101,
+          "wickets": 2,
+          "overs": "15.3"
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 154,
+          "wickets": 3,
+          "overs": "26.3"
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 162,
+          "wickets": 4,
+          "overs": "29.2"
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 185,
+          "wickets": 5,
+          "overs": "34.2"
+        },
+        {
+          "player": "JWM Dalrymple",
+          "runs": 189,
+          "wickets": 6,
+          "overs": "35.5"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 269,
+          "wickets": 7,
+          "overs": "46.2"
+        },
+        {
+          "player": "LE Plunkett",
+          "runs": 271,
+          "wickets": 8,
+          "overs": "46.5"
+        },
+        {
+          "player": "PA Nixon",
+          "runs": 298,
+          "wickets": 9,
+          "overs": "49.2"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_england_vs_west_indies.json",
+  "match_summary": "2007 World Cup Super Eight: West Indies vs England (2007-04-21) at Barbados.\nWest Indies: 300 all out (49.5 ov)\n  CH Gayle: 79 (58b, 10x4, 3x6)\n  DS Smith: 61 (106b, 6x4, 0x6)\n  MN Samuels: 51 (39b, 5x4, 1x6)\n  MP Vaughan: 3/39 (10.0 ov)\n  A Flintoff: 2/59 (9.5 ov)\nEngland: 301/9 (49.5 ov)\n  KP Pietersen: 100 (91b, 10x4, 1x6)\n  MP Vaughan: 79 (68b, 6x4, 2x6)\n  PA Nixon: 38 (39b, 4x4, 0x6)\n  DJ Bravo: 2/47 (9.5 ov)\n  JE Taylor: 2/65 (10.0 ov)\nEngland won by 1 wickets.\nPlayer of the Match: KP Pietersen."
+}

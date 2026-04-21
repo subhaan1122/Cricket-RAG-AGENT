@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2023
+Match: England vs Bangladesh
+Stage: Group Stage
+Date: 2023-10-10
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala, Dharamsala
+Captain England: Jos Buttler
+Captain Bangladesh: Shakib Al Hasan
+
+Match Summary:
+  2023 World Cup Group Stage: England vs Bangladesh (2023-10-10) at Dharamsala.
+
+England: 364/9 (50.0 ov)
+  DJ Malan: 140 (107b, 16x4, 5x6, SR 130.84)
+  JE Root: 82 (68b, 8x4, 1x6, SR 120.59)
+  JM Bairstow: 52 (59b, 8x4, 0x6, SR 88.14)
+  JC Buttler: 20 (10b, 1x4, 1x6, SR 200.0)
+  HC Brook: 20 (15b, 3x4, 0x6, SR 133.33)
+  Mahedi Hasan: 4/71 (8.0 ov, Econ 8.88)
+  Shoriful Islam: 3/75 (10.0 ov, Econ 7.5)
+  Shakib Al Hasan: 1/52 (10.0 ov, Econ 5.2)
+  Taskin Ahmed: 1/38 (6.0 ov, Econ 6.33)
+  Mustafizur Rahman: 0/70 (10.0 ov, Econ 7.0)
+  Extras: 7
+
+Bangladesh: 227 all out (48.2 ov)
+  Liton Das: 76 (66b, 7x4, 2x6, SR 115.15)
+  Mushfiqur Rahim: 51 (64b, 4x4, 0x6, SR 79.69)
+  Towhid Hridoy: 39 (61b, 2x4, 0x6, SR 63.93)
+  Taskin Ahmed: 15 (25b, 0x4, 1x6, SR 60.0)
+  Mahedi Hasan: 14 (32b, 1x4, 0x6, SR 43.75)
+  RJW Topley: 4/43 (10.0 ov, Econ 4.3)
+  CR Woakes: 2/49 (8.0 ov, Econ 6.12)
+  MA Wood: 1/29 (10.0 ov, Econ 2.9)
+  AU Rashid: 1/42 (10.0 ov, Econ 4.2)
+  LS Livingstone: 1/13 (3.0 ov, Econ 4.33)
+  Extras: 7
+
+Batting Highlights:
+  Century: DJ Malan scored 140 off 107 balls (SR 130.84, 16 fours, 5 sixes)
+  Half-century: JE Root scored 82 off 68 balls (SR 120.59)
+  Half-century: JM Bairstow scored 52 off 59 balls (SR 88.14)
+  Half-century: Liton Das scored 76 off 66 balls (SR 115.15)
+  Half-century: Mushfiqur Rahim scored 51 off 64 balls (SR 79.69)
+
+Bowling Highlights:
+  Match-changing spell: Mahedi Hasan took 4/71
+  Key spell: Shoriful Islam took 3/75
+  Match-changing spell: RJW Topley took 4/43
+  Economical spell: MA Wood conceded 29 runs in 10.0 overs (Econ 2.9)
+
+Captain Performance:
+  Jos Buttler (England): scored 20 off 10 balls
+  Shakib Al Hasan (Bangladesh): scored 14 off 32 balls
+
+Key Moments:
+  England lost 9 early wickets.
+  Bangladesh lost 10 early wickets.
+  Bangladesh lost 4 wickets in the powerplay.
+
+Result: England won by 137 runs
+Toss: Bangladesh won and chose to field
+Player of the Match: DJ Malan

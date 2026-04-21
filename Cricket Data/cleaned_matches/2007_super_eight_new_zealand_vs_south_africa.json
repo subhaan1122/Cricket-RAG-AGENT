@@ -1,0 +1,332 @@
+{
+  "match_id": "e014d4ccf802",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "National Cricket Stadium, St George's",
+  "city": "Grenada",
+  "date": "2007-04-14",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Stephen Fleming",
+    "team2": "Graeme Smith"
+  },
+  "player_of_match": "CD McMillan",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 193,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 60,
+          "balls": 100,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 60.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AG Prince",
+          "runs": 37,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 22,
+          "balls": 54,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 40.74,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SM Pollock",
+          "runs": 21,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 80.77,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AJ Hall",
+          "runs": 17,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CD McMillan",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 3,
+          "economy": 4.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 2,
+          "economy": 2.6,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "JEC Franklin",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 2.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JS Patel",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 3,
+          "wickets": 1,
+          "overs": "1.5"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 3,
+          "wickets": 2,
+          "overs": "2.6"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 52,
+          "wickets": 3,
+          "overs": "19.5"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 128,
+          "wickets": 4,
+          "overs": "36.6"
+        },
+        {
+          "player": "AG Prince",
+          "runs": 143,
+          "wickets": 5,
+          "overs": "40.5"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 149,
+          "wickets": 6,
+          "overs": "42.2"
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 181,
+          "wickets": 7,
+          "overs": "47.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 196,
+      "wickets": 5,
+      "overs": 48.2,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "SB Styris",
+          "runs": 56,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 50,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 38,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 69.09,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "PG Fulton",
+          "runs": 16,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 10,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Nel",
+          "overs": "9.2",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 3.54,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RJ Peterson",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 5.57,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AJ Hall",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PG Fulton",
+          "runs": 25,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 42,
+          "wickets": 2,
+          "overs": "12.2"
+        },
+        {
+          "player": "SP Fleming",
+          "runs": 120,
+          "wickets": 3,
+          "overs": "30.1"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 176,
+          "wickets": 4,
+          "overs": "43.4"
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 192,
+          "wickets": 5,
+          "overs": "48.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_new_zealand_vs_south_africa.json",
+  "match_summary": "2007 World Cup Super Eight: New Zealand vs South Africa (2007-04-14) at Grenada.\nSouth Africa: 193/7 (50.0 ov)\n  HH Gibbs: 60 (100b, 2x4, 1x6)\n  AG Prince: 37 (57b, 2x4, 0x6)\n  CD McMillan: 3/23 (5.0 ov)\n  SE Bond: 2/26 (10.0 ov)\nNew Zealand: 196/5 (48.2 ov)\n  SB Styris: 56 (84b, 4x4, 0x6)\n  SP Fleming: 50 (84b, 6x4, 0x6)\n  CD McMillan: 38* (55b, 2x4, 1x6)\n  A Nel: 2/33 (9.2 ov)\nNew Zealand won by 5 wickets.\nPlayer of the Match: CD McMillan."
+}

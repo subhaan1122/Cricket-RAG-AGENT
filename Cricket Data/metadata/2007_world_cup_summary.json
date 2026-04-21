@@ -1,0 +1,1011 @@
+{
+  "year": 2007,
+  "host_countries": [
+    "West Indies"
+  ],
+  "format": "16 teams – 4 groups of 4, Super Eight, Semi-finals, Final",
+  "total_matches": 51,
+  "completed_matches": 51,
+  "winner": "Australia",
+  "runner_up": "Sri Lanka",
+  "semi_finalists": [
+    "Australia",
+    "New Zealand",
+    "South Africa",
+    "Sri Lanka"
+  ],
+  "finalists": [
+    "Australia",
+    "Sri Lanka"
+  ],
+  "teams": [
+    "Australia",
+    "Bangladesh",
+    "Bermuda",
+    "Canada",
+    "England",
+    "India",
+    "Ireland",
+    "Kenya",
+    "Netherlands",
+    "New Zealand",
+    "Pakistan",
+    "Scotland",
+    "South Africa",
+    "Sri Lanka",
+    "West Indies",
+    "Zimbabwe"
+  ],
+  "player_of_tournament": "Glenn McGrath",
+  "top_run_scorer": {
+    "name": "ML Hayden",
+    "runs": 659
+  },
+  "top_wicket_taker": {
+    "name": "GD McGrath",
+    "wickets": 26
+  },
+  "highest_individual_score": {
+    "name": "Imran Nazir",
+    "runs": 160,
+    "against": "Zimbabwe",
+    "match_stage": "Group D"
+  },
+  "team_standings": [
+    {
+      "team": "Australia",
+      "played": 11,
+      "won": 11,
+      "lost": 0,
+      "win_pct": 100.0
+    },
+    {
+      "team": "Sri Lanka",
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "win_pct": 72.7
+    },
+    {
+      "team": "New Zealand",
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "win_pct": 70.0
+    },
+    {
+      "team": "South Africa",
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "win_pct": 60.0
+    },
+    {
+      "team": "England",
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "win_pct": 55.6
+    },
+    {
+      "team": "West Indies",
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "win_pct": 44.4
+    },
+    {
+      "team": "Bangladesh",
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Ireland",
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "win_pct": 22.2
+    },
+    {
+      "team": "India",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Kenya",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Netherlands",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Pakistan",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Zimbabwe",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Bermuda",
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "win_pct": 0.0
+    },
+    {
+      "team": "Canada",
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "win_pct": 0.0
+    },
+    {
+      "team": "Scotland",
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "win_pct": 0.0
+    }
+  ],
+  "captains": {
+    "Australia": "Ricky Ponting",
+    "Sri Lanka": "Mahela Jayawardene",
+    "New Zealand": "Stephen Fleming",
+    "South Africa": "Graeme Smith",
+    "England": "Michael Vaughan",
+    "West Indies": "Brian Lara",
+    "India": "Rahul Dravid",
+    "Pakistan": "Inzamam-ul-Haq",
+    "Bangladesh": "Habibul Bashar",
+    "Kenya": "Steve Tikolo",
+    "Zimbabwe": "Prosper Utseya",
+    "Ireland": "Trent Johnston",
+    "Canada": "John Davison",
+    "Scotland": "Craig Wright",
+    "Netherlands": "Luuk van Troost",
+    "Bermuda": "Irving Romaine"
+  },
+  "team_performance": {
+    "Australia": {
+      "matches": 11,
+      "wins": 11,
+      "losses": 0,
+      "no_results": 0,
+      "runs_scored": 2851,
+      "runs_conceded": 1938,
+      "wickets_taken": 103,
+      "wickets_lost": 43,
+      "highest_total": 377,
+      "lowest_total": 92,
+      "win_percentage": 100.0
+    },
+    "Bangladesh": {
+      "matches": 9,
+      "wins": 3,
+      "losses": 6,
+      "no_results": 0,
+      "runs_scored": 1372,
+      "runs_conceded": 1691,
+      "wickets_taken": 52,
+      "wickets_lost": 72,
+      "highest_total": 251,
+      "lowest_total": 96,
+      "win_percentage": 33.3
+    },
+    "Bermuda": {
+      "matches": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 328,
+      "runs_conceded": 830,
+      "wickets_taken": 14,
+      "wickets_lost": 29,
+      "highest_total": 156,
+      "lowest_total": 78,
+      "win_percentage": 0.0
+    },
+    "Canada": {
+      "matches": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 676,
+      "runs_conceded": 845,
+      "wickets_taken": 14,
+      "wickets_lost": 27,
+      "highest_total": 249,
+      "lowest_total": 199,
+      "win_percentage": 0.0
+    },
+    "England": {
+      "matches": 9,
+      "wins": 5,
+      "losses": 4,
+      "no_results": 0,
+      "runs_scored": 2014,
+      "runs_conceded": 1916,
+      "wickets_taken": 65,
+      "wickets_lost": 66,
+      "highest_total": 301,
+      "lowest_total": 147,
+      "win_percentage": 55.6
+    },
+    "India": {
+      "matches": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 789,
+      "runs_conceded": 602,
+      "wickets_taken": 21,
+      "wickets_lost": 25,
+      "highest_total": 413,
+      "lowest_total": 185,
+      "win_percentage": 33.3
+    },
+    "Ireland": {
+      "matches": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "runs_scored": 1452,
+      "runs_conceded": 1579,
+      "wickets_taken": 53,
+      "wickets_lost": 79,
+      "highest_total": 243,
+      "lowest_total": 77,
+      "win_percentage": 22.2
+    },
+    "Kenya": {
+      "matches": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 563,
+      "runs_conceded": 708,
+      "wickets_taken": 20,
+      "wickets_lost": 23,
+      "highest_total": 203,
+      "lowest_total": 177,
+      "win_percentage": 33.3
+    },
+    "Netherlands": {
+      "matches": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 401,
+      "runs_conceded": 847,
+      "wickets_taken": 18,
+      "wickets_lost": 21,
+      "highest_total": 140,
+      "lowest_total": 129,
+      "win_percentage": 33.3
+    },
+    "New Zealand": {
+      "matches": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 2280,
+      "runs_conceded": 2178,
+      "wickets_taken": 79,
+      "wickets_lost": 60,
+      "highest_total": 363,
+      "lowest_total": 133,
+      "win_percentage": 70.0
+    },
+    "Pakistan": {
+      "matches": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 668,
+      "runs_conceded": 473,
+      "wickets_taken": 26,
+      "wickets_lost": 30,
+      "highest_total": 349,
+      "lowest_total": 132,
+      "win_percentage": 33.3
+    },
+    "Scotland": {
+      "matches": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 453,
+      "runs_conceded": 662,
+      "wickets_taken": 11,
+      "wickets_lost": 27,
+      "highest_total": 186,
+      "lowest_total": 131,
+      "win_percentage": 0.0
+    },
+    "South Africa": {
+      "matches": 10,
+      "wins": 6,
+      "losses": 4,
+      "no_results": 0,
+      "runs_scored": 2251,
+      "runs_conceded": 2099,
+      "wickets_taken": 76,
+      "wickets_lost": 60,
+      "highest_total": 356,
+      "lowest_total": 149,
+      "win_percentage": 60.0
+    },
+    "Sri Lanka": {
+      "matches": 11,
+      "wins": 8,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 2673,
+      "runs_conceded": 2027,
+      "wickets_taken": 91,
+      "wickets_lost": 70,
+      "highest_total": 321,
+      "lowest_total": 81,
+      "win_percentage": 72.7
+    },
+    "West Indies": {
+      "matches": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "runs_scored": 2040,
+      "runs_conceded": 2164,
+      "wickets_taken": 60,
+      "wickets_lost": 69,
+      "highest_total": 300,
+      "lowest_total": 177,
+      "win_percentage": 44.4
+    },
+    "Zimbabwe": {
+      "matches": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 522,
+      "runs_conceded": 774,
+      "wickets_taken": 23,
+      "wickets_lost": 25,
+      "highest_total": 221,
+      "lowest_total": 99,
+      "win_percentage": 33.3
+    }
+  },
+  "head_to_head": {
+    "Australia vs Sri Lanka": {
+      "matches": 2,
+      "wins": {
+        "Australia": 2
+      },
+      "results": [
+        "Australia won by 53 runs",
+        "Australia won by 7 wickets"
+      ]
+    },
+    "Australia vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 229 runs"
+      ]
+    },
+    "Australia vs Scotland": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 203 runs"
+      ]
+    },
+    "Australia vs South Africa": {
+      "matches": 2,
+      "wins": {
+        "Australia": 2
+      },
+      "results": [
+        "Australia won by 83 runs",
+        "Australia won by 7 wickets"
+      ]
+    },
+    "Netherlands vs Scotland": {
+      "matches": 1,
+      "wins": {
+        "Netherlands": 1
+      },
+      "results": [
+        "Netherlands won by 8 wickets"
+      ]
+    },
+    "Netherlands vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 221 runs"
+      ]
+    },
+    "Scotland vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 7 wickets"
+      ]
+    },
+    "Bangladesh vs Bermuda": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 7 wickets"
+      ]
+    },
+    "Bangladesh vs India": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 5 wickets"
+      ]
+    },
+    "Bangladesh vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 198 runs"
+      ]
+    },
+    "Bermuda vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 257 runs"
+      ]
+    },
+    "Bermuda vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 243 runs"
+      ]
+    },
+    "India vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 69 runs"
+      ]
+    },
+    "Canada vs England": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 51 runs"
+      ]
+    },
+    "Canada vs Kenya": {
+      "matches": 1,
+      "wins": {
+        "Kenya": 1
+      },
+      "results": [
+        "Kenya won by 7 wickets"
+      ]
+    },
+    "Canada vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 114 runs"
+      ]
+    },
+    "England vs Kenya": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 7 wickets"
+      ]
+    },
+    "England vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 6 wickets"
+      ]
+    },
+    "Kenya vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 148 runs"
+      ]
+    },
+    "Ireland vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Ireland": 1
+      },
+      "results": [
+        "Ireland won by 3 wickets"
+      ]
+    },
+    "Ireland vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 8 wickets"
+      ]
+    },
+    "Ireland vs Zimbabwe": {
+      "matches": 1,
+      "wins": {
+        "Zimbabwe": 1
+      },
+      "results": [
+        "Zimbabwe won by 23 runs"
+      ]
+    },
+    "Pakistan vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 54 runs"
+      ]
+    },
+    "Pakistan vs Zimbabwe": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 93 runs"
+      ]
+    },
+    "West Indies vs Zimbabwe": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 6 wickets"
+      ]
+    },
+    "New Zealand vs Sri Lanka": {
+      "matches": 2,
+      "wins": {
+        "Sri Lanka": 2
+      },
+      "results": [
+        "Sri Lanka won by 81 runs",
+        "Sri Lanka won by 6 wickets"
+      ]
+    },
+    "Australia vs Bangladesh": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 10 wickets"
+      ]
+    },
+    "Australia vs England": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 7 wickets"
+      ]
+    },
+    "Australia vs Ireland": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 9 wickets"
+      ]
+    },
+    "Australia vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 215 runs"
+      ]
+    },
+    "Australia vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 103 runs"
+      ]
+    },
+    "Bangladesh vs England": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 4 wickets"
+      ]
+    },
+    "Bangladesh vs Ireland": {
+      "matches": 1,
+      "wins": {
+        "Ireland": 1
+      },
+      "results": [
+        "Ireland won by 74 runs"
+      ]
+    },
+    "Bangladesh vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 9 wickets"
+      ]
+    },
+    "Bangladesh vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 67 runs"
+      ]
+    },
+    "Bangladesh vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "West Indies": 1
+      },
+      "results": [
+        "West Indies won by 99 runs"
+      ]
+    },
+    "England vs Ireland": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 48 runs"
+      ]
+    },
+    "England vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 9 wickets"
+      ]
+    },
+    "England vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 2 runs"
+      ]
+    },
+    "England vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 1 wickets"
+      ]
+    },
+    "Ireland vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 129 runs"
+      ]
+    },
+    "Ireland vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 7 wickets"
+      ]
+    },
+    "Ireland vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 8 wickets"
+      ]
+    },
+    "New Zealand vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 5 wickets"
+      ]
+    },
+    "New Zealand vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 7 wickets"
+      ]
+    },
+    "South Africa vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 1 wickets"
+      ]
+    },
+    "South Africa vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 67 runs"
+      ]
+    },
+    "Sri Lanka vs West Indies": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 113 runs"
+      ]
+    }
+  },
+  "captain_performance": {
+    "Ricky Ponting": {
+      "team": "Australia",
+      "matches_as_captain": 11,
+      "wins": 11,
+      "losses": 0,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 539,
+      "batting_innings": 9,
+      "win_percentage": 100.0
+    },
+    "Mahela Jayawardene": {
+      "team": "Sri Lanka",
+      "matches_as_captain": 11,
+      "wins": 8,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 529,
+      "batting_innings": 9,
+      "win_percentage": 72.7
+    },
+    "Stephen Fleming": {
+      "team": "New Zealand",
+      "matches_as_captain": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 6,
+      "batting_runs": 342,
+      "batting_innings": 7,
+      "win_percentage": 70.0
+    },
+    "Graeme Smith": {
+      "team": "South Africa",
+      "matches_as_captain": 10,
+      "wins": 6,
+      "losses": 4,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 440,
+      "batting_innings": 8,
+      "win_percentage": 60.0
+    },
+    "Michael Vaughan": {
+      "team": "England",
+      "matches_as_captain": 9,
+      "wins": 5,
+      "losses": 4,
+      "no_results": 0,
+      "toss_wins": 6,
+      "batting_runs": 198,
+      "batting_innings": 6,
+      "win_percentage": 55.6
+    },
+    "Brian Lara": {
+      "team": "West Indies",
+      "matches_as_captain": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "toss_wins": 4,
+      "batting_runs": 267,
+      "batting_innings": 7,
+      "win_percentage": 44.4
+    },
+    "Rahul Dravid": {
+      "team": "India",
+      "matches_as_captain": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 2,
+      "batting_runs": 74,
+      "batting_innings": 2,
+      "win_percentage": 33.3
+    },
+    "Inzamam-ul-Haq": {
+      "team": "Pakistan",
+      "matches_as_captain": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 1,
+      "batting_runs": 73,
+      "batting_innings": 2,
+      "win_percentage": 33.3
+    },
+    "Habibul Bashar": {
+      "team": "Bangladesh",
+      "matches_as_captain": 9,
+      "wins": 3,
+      "losses": 6,
+      "no_results": 0,
+      "toss_wins": 3,
+      "batting_runs": 86,
+      "batting_innings": 4,
+      "win_percentage": 33.3
+    },
+    "Steve Tikolo": {
+      "team": "Kenya",
+      "matches_as_captain": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 3,
+      "batting_runs": 83,
+      "batting_innings": 2,
+      "win_percentage": 33.3
+    },
+    "Prosper Utseya": {
+      "team": "Zimbabwe",
+      "matches_as_captain": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 2,
+      "batting_runs": 0,
+      "batting_innings": 0,
+      "win_percentage": 33.3
+    },
+    "Trent Johnston": {
+      "team": "Ireland",
+      "matches_as_captain": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "toss_wins": 3,
+      "batting_runs": 116,
+      "batting_innings": 6,
+      "win_percentage": 22.2
+    },
+    "John Davison": {
+      "team": "Canada",
+      "matches_as_captain": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 2,
+      "batting_runs": 73,
+      "batting_innings": 2,
+      "win_percentage": 0.0
+    },
+    "Craig Wright": {
+      "team": "Scotland",
+      "matches_as_captain": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 1,
+      "batting_runs": 0,
+      "batting_innings": 0,
+      "win_percentage": 0.0
+    },
+    "Luuk van Troost": {
+      "team": "Netherlands",
+      "matches_as_captain": 3,
+      "wins": 1,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 2,
+      "batting_runs": 5,
+      "batting_innings": 1,
+      "win_percentage": 33.3
+    },
+    "Irving Romaine": {
+      "team": "Bermuda",
+      "matches_as_captain": 3,
+      "wins": 0,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 1,
+      "batting_runs": 11,
+      "batting_innings": 1,
+      "win_percentage": 0.0
+    }
+  }
+}

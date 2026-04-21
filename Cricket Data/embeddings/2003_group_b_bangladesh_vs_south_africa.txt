@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2003
+Match: Bangladesh vs South Africa
+Stage: Group B
+Date: 2003-02-22
+Venue: Goodyear Park, Bloemfontein, Bloemfontein
+Captain Bangladesh: Khaled Mashud
+Captain South Africa: Shaun Pollock
+
+Match Summary:
+  2003 World Cup Group B: Bangladesh vs South Africa (2003-02-22) at Bloemfontein.
+
+Bangladesh: 108 all out (35.1 ov)
+  Khaled Mashud: 29 (67b, 3x4, 0x6, SR 43.28)
+  Khaled Mahmud: 23 (35b, 1x4, 1x6, SR 65.71)
+  Sanwar Hossain: 11 (14b, 1x4, 0x6, SR 78.57)
+  Tushar Imran: 9 (24b, 0x4, 0x6, SR 37.5)
+  Mohammad Ashraful: 6 (10b, 1x4, 0x6, SR 60.0)
+  M Ntini: 4/24 (7.1 ov, Econ 3.35)
+  SM Pollock: 2/8 (6.0 ov, Econ 1.33)
+  AJ Hall: 2/15 (6.0 ov, Econ 2.5)
+  M Zondeki: 1/17 (5.0 ov, Econ 3.4)
+  RJ Peterson: 0/21 (6.0 ov, Econ 3.5)
+  Extras: 20
+
+South Africa: 109/0 (12.0 ov)
+  G Kirsten: 52 (32b, 9x4, 1x6, SR 162.5)
+  HH Gibbs: 49 (40b, 8x4, 1x6, SR 122.5)
+  Manjural Islam: 0/26 (4.0 ov, Econ 6.5)
+  Alok Kapali: 0/18 (2.0 ov, Econ 9.0)
+  Khaled Mahmud: 0/20 (2.0 ov, Econ 10.0)
+  Mohammad Rafique: 0/20 (2.0 ov, Econ 10.0)
+  Talha Jubair: 0/24 (2.0 ov, Econ 12.0)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: G Kirsten scored 52 off 32 balls (SR 162.5)
+
+Bowling Highlights:
+  Match-changing spell: M Ntini took 4/24
+  Economical spell: SM Pollock conceded 8 runs in 6.0 overs (Econ 1.33)
+  Economical spell: AJ Hall conceded 15 runs in 6.0 overs (Econ 2.5)
+  Economical spell: M Zondeki conceded 17 runs in 5.0 overs (Econ 3.4)
+  Economical spell: RJ Peterson conceded 21 runs in 6.0 overs (Econ 3.5)
+
+Captain Performance:
+  Khaled Mashud (Bangladesh): scored 29 off 67 balls
+
+Key Moments:
+  Bangladesh lost 10 early wickets.
+  Bangladesh lost 3 wickets in the powerplay.
+  South Africa scored aggressively in the powerplay (83 runs at 8.3 RPO).
+
+Result: South Africa won by 10 wickets
+Toss: South Africa won and chose to field
+Player of the Match: M Ntini

@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Pakistan vs India
+Stage: Group A
+Date: 2003-03-01
+Venue: SuperSport Park, Centurion, Centurion
+Captain Pakistan: Waqar Younis
+Captain India: Sourav Ganguly
+
+Match Summary:
+  2003 World Cup Group A: Pakistan vs India (2003-03-01) at Centurion.
+
+Pakistan: 273/7 (50.0 ov)
+  Saeed Anwar: 101 (126b, 7x4, 0x6, SR 80.16)
+  Younis Khan: 32 (36b, 2x4, 0x6, SR 88.89)
+  Rashid Latif: 29 (25b, 2x4, 0x6, SR 116.0)
+  Yousuf Youhana: 25 (42b, 0x4, 0x6, SR 59.52)
+  Taufeeq Umar: 22 (32b, 4x4, 0x6, SR 68.75)
+  Z Khan: 2/46 (10.0 ov, Econ 4.6)
+  A Nehra: 2/74 (10.0 ov, Econ 7.4)
+  J Srinath: 1/41 (10.0 ov, Econ 4.1)
+  D Mongia: 1/19 (3.0 ov, Econ 6.33)
+  SC Ganguly: 0/14 (3.0 ov, Econ 4.67)
+  Extras: 27
+
+India: 276/4 (45.4 ov)
+  SR Tendulkar: 98 (75b, 12x4, 2x6, SR 130.67)
+  Yuvraj Singh: 50 (53b, 6x4, 0x6, SR 94.34)
+  R Dravid: 44 (76b, 2x4, 0x6, SR 57.89)
+  M Kaif: 35 (60b, 5x4, 0x6, SR 58.33)
+  V Sehwag: 21 (14b, 3x4, 1x6, SR 150.0)
+  Waqar Younis: 2/71 (8.4 ov, Econ 8.19)
+  Shahid Afridi: 1/45 (9.0 ov, Econ 5.0)
+  Shoaib Akhtar: 1/72 (10.0 ov, Econ 7.2)
+  Abdul Razzaq: 0/36 (8.0 ov, Econ 4.5)
+  Wasim Akram: 0/48 (10.0 ov, Econ 4.8)
+  Extras: 28
+
+Batting Highlights:
+  Century: Saeed Anwar scored 101 off 126 balls (SR 80.16, 7 fours, 0 sixes)
+  Half-century: SR Tendulkar scored 98 off 75 balls (SR 130.67)
+  Half-century: Yuvraj Singh scored 50 off 53 balls (SR 94.34)
+
+Bowling Highlights:
+  Best bowling: Z Khan with 2/46
+
+Captain Performance:
+  Pakistan captain: Waqar Younis
+  India captain: Sourav Ganguly
+
+Key Moments:
+  Pakistan lost 7 early wickets.
+  India lost 4 early wickets.
+  India scored aggressively in the powerplay (88 runs at 8.8 RPO).
+
+Result: India won by 6 wickets
+Toss: Pakistan won and chose to bat
+Player of the Match: SR Tendulkar

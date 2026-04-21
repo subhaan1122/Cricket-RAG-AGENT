@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2003
+Match: Zimbabwe vs New Zealand
+Stage: Super Six
+Date: 2003-03-08
+Venue: Goodyear Park, Bloemfontein, Bloemfontein
+Captain Zimbabwe: Heath Streak
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Super Six: Zimbabwe vs New Zealand (2003-03-08) at Bloemfontein.
+
+Zimbabwe: 252/7 (50.0 ov)
+  HH Streak: 72 (84b, 5x4, 2x6, SR 85.71)
+  T Taibu: 53 (79b, 3x4, 1x6, SR 67.09)
+  A Flower: 37 (61b, 5x4, 0x6, SR 60.66)
+  SM Ervine: 31 (14b, 4x4, 1x6, SR 221.43)
+  CB Wishart: 30 (50b, 4x4, 0x6, SR 60.0)
+  CL Cairns: 2/16 (4.0 ov, Econ 4.0)
+  JDP Oram: 1/28 (10.0 ov, Econ 2.8)
+  CZ Harris: 1/45 (10.0 ov, Econ 4.5)
+  AR Adams: 1/54 (5.0 ov, Econ 10.8)
+  SE Bond: 0/37 (10.0 ov, Econ 3.7)
+  Extras: 24
+
+New Zealand: 253/4 (47.2 ov)
+  NJ Astle: 102 (122b, 11x4, 0x6, SR 83.61)
+  CL Cairns: 54 (73b, 3x4, 2x6, SR 73.97)
+  SP Fleming: 46 (42b, 10x4, 0x6, SR 109.52)
+  CZ Harris: 14 (10b, 3x4, 0x6, SR 140.0)
+  SB Styris: 13 (22b, 1x4, 0x6, SR 59.09)
+  AM Blignaut: 2/41 (10.0 ov, Econ 4.1)
+  DT Hondo: 1/52 (8.2 ov, Econ 6.24)
+  SM Ervine: 1/44 (6.0 ov, Econ 7.33)
+  GW Flower: 0/33 (10.0 ov, Econ 3.3)
+  HH Streak: 0/59 (10.0 ov, Econ 5.9)
+  Extras: 16
+
+Batting Highlights:
+  Half-century: HH Streak scored 72 off 84 balls (SR 85.71)
+  Half-century: T Taibu scored 53 off 79 balls (SR 67.09)
+  Century: NJ Astle scored 102 off 122 balls (SR 83.61, 11 fours, 0 sixes)
+  Half-century: CL Cairns scored 54 off 73 balls (SR 73.97)
+
+Bowling Highlights:
+  Economical spell: JDP Oram conceded 28 runs in 10.0 overs (Econ 2.8)
+  Economical spell: GW Flower conceded 33 runs in 10.0 overs (Econ 3.3)
+
+Captain Performance:
+  Heath Streak (Zimbabwe): scored 72 off 84 balls
+  Stephen Fleming (New Zealand): scored 46 off 42 balls
+
+Key Moments:
+  Zimbabwe lost 7 early wickets.
+  New Zealand lost 4 early wickets.
+  Zimbabwe exploded in the death overs (101 runs at 10.1 RPO).
+
+Result: New Zealand won by 6 wickets
+Toss: Zimbabwe won and chose to bat
+Player of the Match: NJ Astle

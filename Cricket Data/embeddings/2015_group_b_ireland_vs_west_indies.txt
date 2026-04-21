@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: Ireland vs West Indies
+Stage: Group B
+Date: 2015-02-16
+Venue: Saxton Oval, Nelson
+Captain Ireland: William Porterfield
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Group B: Ireland vs West Indies (2015-02-16) at Nelson.
+
+West Indies: 304/7 (50.0 ov)
+  LMP Simmons: 102 (84b, 9x4, 5x6, SR 121.43)
+  DJG Sammy: 89 (67b, 9x4, 4x6, SR 132.84)
+  CH Gayle: 36 (65b, 3x4, 1x6, SR 55.38)
+  AD Russell: 27 (13b, 3x4, 1x6, SR 207.69)
+  MN Samuels: 21 (41b, 1x4, 1x6, SR 51.22)
+  GH Dockrell: 3/50 (10.0 ov, Econ 5.0)
+  KJ O'Brien: 1/71 (9.0 ov, Econ 7.89)
+  MC Sorensen: 1/64 (8.0 ov, Econ 8.0)
+  JF Mooney: 1/59 (7.0 ov, Econ 8.43)
+  AR McBrine: 0/26 (10.0 ov, Econ 2.6)
+  Extras: 10
+
+Ireland: 307/6 (45.5 ov)
+  PR Stirling: 92 (84b, 9x4, 3x6, SR 109.52)
+  EC Joyce: 84 (67b, 10x4, 2x6, SR 125.37)
+  NJ O'Brien: 79 (60b, 11x4, 0x6, SR 131.67)
+  WTS Porterfield: 23 (43b, 1x4, 1x6, SR 53.49)
+  A Balbirnie: 9 (9b, 2x4, 0x6, SR 100.0)
+  JE Taylor: 3/71 (8.5 ov, Econ 8.04)
+  CH Gayle: 1/41 (8.0 ov, Econ 5.12)
+  MN Samuels: 1/25 (4.0 ov, Econ 6.25)
+  JO Holder: 0/44 (9.0 ov, Econ 4.89)
+  AD Russell: 0/33 (6.0 ov, Econ 5.5)
+  Extras: 13
+
+Batting Highlights:
+  Century: LMP Simmons scored 102 off 84 balls (SR 121.43, 9 fours, 5 sixes)
+  Half-century: DJG Sammy scored 89 off 67 balls (SR 132.84)
+  Half-century: PR Stirling scored 92 off 84 balls (SR 109.52)
+  Half-century: EC Joyce scored 84 off 67 balls (SR 125.37)
+  Half-century: NJ O'Brien scored 79 off 60 balls (SR 131.67)
+
+Bowling Highlights:
+  Key spell: GH Dockrell took 3/50
+  Economical spell: AR McBrine conceded 26 runs in 10.0 overs (Econ 2.6)
+  Key spell: JE Taylor took 3/71
+
+Captain Performance:
+  William Porterfield (Ireland): scored 23 off 43 balls
+
+Key Moments:
+  West Indies lost 7 early wickets.
+  Ireland lost 6 early wickets.
+  West Indies exploded in the death overs (124 runs at 12.4 RPO).
+
+Result: Ireland won by 4 wickets
+Toss: Ireland won and chose to field
+Player of the Match: PR Stirling

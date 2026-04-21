@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: Sri Lanka vs West Indies
+Stage: Group B
+Date: 2003-02-28
+Venue: Newlands, Cape Town, Cape Town
+Captain Sri Lanka: Sanath Jayasuriya
+Captain West Indies: Brian Lara
+
+Match Summary:
+  2003 World Cup Group B: Sri Lanka vs West Indies (2003-02-28) at Cape Town.
+
+Sri Lanka: 228/6 (50.1 ov)
+  ST Jayasuriya: 66 (99b, 4x4, 0x6, SR 66.67)
+  HP Tillakaratne: 36 (68b, 4x4, 0x6, SR 52.94)
+  RP Arnold: 34 (44b, 1x4, 0x6, SR 77.27)
+  WPUJC Vaas: 28 (25b, 3x4, 0x6, SR 112.0)
+  KC Sangakkara: 24 (30b, 2x4, 0x6, SR 80.0)
+  VC Drakes: 1/32 (10.0 ov, Econ 3.2)
+  CH Gayle: 1/42 (10.0 ov, Econ 4.2)
+  CL Hooper: 1/30 (6.1 ov, Econ 4.86)
+  WW Hinds: 1/27 (4.0 ov, Econ 6.75)
+  M Dillon: 0/30 (10.0 ov, Econ 3.0)
+  Extras: 15
+
+West Indies: 222/9 (50.0 ov)
+  S Chanderpaul: 65 (90b, 6x4, 0x6, SR 72.22)
+  CH Gayle: 55 (76b, 8x4, 0x6, SR 72.37)
+  RR Sarwan: 47 (44b, 4x4, 2x6, SR 106.82)
+  VC Drakes: 25 (48b, 1x4, 0x6, SR 52.08)
+  M Dillon: 4 (7b, 0x4, 0x6, SR 57.14)
+  WPUJC Vaas: 4/22 (10.0 ov, Econ 2.2)
+  M Muralitharan: 1/26 (10.0 ov, Econ 2.6)
+  PA de Silva: 1/48 (10.0 ov, Econ 4.8)
+  CRD Fernando: 1/33 (6.0 ov, Econ 5.5)
+  ST Jayasuriya: 1/46 (8.0 ov, Econ 5.75)
+  Extras: 21
+
+Batting Highlights:
+  Half-century: ST Jayasuriya scored 66 off 99 balls (SR 66.67)
+  Half-century: S Chanderpaul scored 65 off 90 balls (SR 72.22)
+  Half-century: CH Gayle scored 55 off 76 balls (SR 72.37)
+
+Bowling Highlights:
+  Economical spell: VC Drakes conceded 32 runs in 10.0 overs (Econ 3.2)
+  Economical spell: M Dillon conceded 30 runs in 10.0 overs (Econ 3.0)
+  Match-changing spell: WPUJC Vaas took 4/22
+  Economical spell: M Muralitharan conceded 26 runs in 10.0 overs (Econ 2.6)
+
+Captain Performance:
+  Sanath Jayasuriya (Sri Lanka): scored 66 off 99 balls
+
+Key Moments:
+  Sri Lanka lost 6 early wickets.
+  West Indies lost 9 early wickets.
+
+Result: Sri Lanka won by 6 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: WPUJC Vaas

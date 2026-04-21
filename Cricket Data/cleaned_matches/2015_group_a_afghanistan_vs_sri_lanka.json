@@ -1,0 +1,54 @@
+{
+  "match_id": "b28b13c6bf92",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "University Oval, Dunedin",
+  "city": "Dunedin",
+  "date": "2015-02-22",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "4 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Angelo Mathews"
+  },
+  "player_of_match": "HMRKB Herath",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 232,
+      "wickets": 10,
+      "overs": 49.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 236,
+      "wickets": 6,
+      "overs": 48.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_sri_lanka.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Sri Lanka (2015-02-22) at Dunedin.\nAfghanistan: 232 all out (49.4 ov)\nSri Lanka: 236/6 (48.2 ov)\nSri Lanka won by 4 wickets. Player of the Match: HMRKB Herath."
+}

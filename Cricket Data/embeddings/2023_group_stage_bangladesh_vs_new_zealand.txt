@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2023
+Match: Bangladesh vs New Zealand
+Stage: Group Stage
+Date: 2023-10-13
+Venue: MA Chidambaram Stadium, Chepauk, Chennai, Chennai
+Captain Bangladesh: Shakib Al Hasan
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2023 World Cup Group Stage: Bangladesh vs New Zealand (2023-10-13) at Chennai.
+
+Bangladesh: 245/9 (50.0 ov)
+  Mushfiqur Rahim: 66 (75b, 6x4, 2x6, SR 88.0)
+  Mahmudullah: 41 (49b, 2x4, 2x6, SR 83.67)
+  Shakib Al Hasan: 40 (51b, 3x4, 2x6, SR 78.43)
+  Mehedi Hasan Miraz: 30 (46b, 4x4, 0x6, SR 65.22)
+  Taskin Ahmed: 17 (19b, 0x4, 2x6, SR 89.47)
+  LH Ferguson: 3/49 (10.0 ov, Econ 4.9)
+  TA Boult: 2/45 (10.0 ov, Econ 4.5)
+  MJ Henry: 2/58 (10.0 ov, Econ 5.8)
+  MJ Santner: 1/31 (10.0 ov, Econ 3.1)
+  GD Phillips: 1/13 (2.0 ov, Econ 6.5)
+  Extras: 9
+
+New Zealand: 248/3 (42.5 ov)
+  DJ Mitchell: 89 (67b, 6x4, 4x6, SR 132.84)
+  KS Williamson: 78 (107b, 8x4, 1x6, SR 72.9)
+  DP Conway: 45 (59b, 3x4, 0x6, SR 76.27)
+  GD Phillips: 16 (11b, 1x4, 1x6, SR 145.45)
+  R Ravindra: 9 (13b, 2x4, 0x6, SR 69.23)
+  Mustafizur Rahman: 1/36 (8.0 ov, Econ 4.5)
+  Shakib Al Hasan: 1/54 (10.0 ov, Econ 5.4)
+  Shoriful Islam: 0/43 (7.5 ov, Econ 5.49)
+  Mehedi Hasan Miraz: 0/58 (9.0 ov, Econ 6.44)
+  Taskin Ahmed: 0/56 (8.0 ov, Econ 7.0)
+  Extras: 11
+
+Batting Highlights:
+  Half-century: Mushfiqur Rahim scored 66 off 75 balls (SR 88.0)
+  Half-century: DJ Mitchell scored 89 off 67 balls (SR 132.84)
+  Half-century: KS Williamson scored 78 off 107 balls (SR 72.9)
+
+Bowling Highlights:
+  Key spell: LH Ferguson took 3/49
+  Economical spell: MJ Santner conceded 31 runs in 10.0 overs (Econ 3.1)
+
+Captain Performance:
+  Shakib Al Hasan (Bangladesh): scored 40 off 51 balls
+  Kane Williamson (New Zealand): scored 78 off 107 balls
+
+Key Moments:
+  Bangladesh lost 9 early wickets.
+  New Zealand lost 3 early wickets.
+
+Result: New Zealand won by 8 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: LH Ferguson

@@ -1,0 +1,344 @@
+{
+  "match_id": "d89bf34a6d97",
+  "world_cup_year": 2023,
+  "stage": "Semi-Final",
+  "venue": "Wankhede Stadium, Mumbai",
+  "city": "Mumbai",
+  "date": "2023-11-15",
+  "teams": {
+    "team1": "India",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "70 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Rohit Sharma",
+    "team2": "Kane Williamson"
+  },
+  "player_of_match": "Mohammed Shami",
+  "innings": [
+    {
+      "team": "India",
+      "runs": 397,
+      "wickets": 4,
+      "overs": 50.0,
+      "extras": 8,
+      "top_batters": [
+        {
+          "name": "V Kohli",
+          "runs": 117,
+          "balls": 113,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 103.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 105,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 8,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shubman Gill",
+          "runs": 80,
+          "balls": 66,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 121.21,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RG Sharma",
+          "runs": 47,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 162.07,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 39,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 195.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 100,
+          "wickets": 3,
+          "economy": 10.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 86,
+          "wickets": 1,
+          "economy": 8.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 51,
+          "wickets": 0,
+          "economy": 5.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD Phillips",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 6.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 65,
+          "wickets": 0,
+          "economy": 8.12,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 71,
+          "wickets": 1,
+          "overs": "8.2"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 327,
+          "wickets": 2,
+          "overs": "43.6"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 381,
+          "wickets": 3,
+          "overs": "48.5"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 382,
+          "wickets": 4,
+          "overs": "49.1"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 327,
+      "wickets": 10,
+      "overs": 48.5,
+      "extras": 29,
+      "top_batters": [
+        {
+          "name": "DJ Mitchell",
+          "runs": 134,
+          "balls": 119,
+          "fours": 8,
+          "sixes": 7,
+          "strike_rate": 112.61,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 69,
+          "balls": 73,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 94.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GD Phillips",
+          "runs": 41,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 124.24,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DP Conway",
+          "runs": 13,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "R Ravindra",
+          "runs": 13,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 7,
+          "economy": 5.8,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 1,
+          "economy": 5.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 6.4,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 78,
+          "wickets": 1,
+          "economy": 8.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 63,
+          "wickets": 0,
+          "economy": 6.3,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DP Conway",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "5.1"
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 39,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 220,
+          "wickets": 3,
+          "overs": "32.2"
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 220,
+          "wickets": 4,
+          "overs": "32.4"
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 295,
+          "wickets": 5,
+          "overs": "42.5"
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 298,
+          "wickets": 6,
+          "overs": "43.5"
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 306,
+          "wickets": 7,
+          "overs": "45.2"
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 319,
+          "wickets": 8,
+          "overs": "47.5"
+        },
+        {
+          "player": "TG Southee",
+          "runs": 321,
+          "wickets": 9,
+          "overs": "48.2"
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 327,
+          "wickets": 10,
+          "overs": "48.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_semi_final_india_vs_new_zealand.json",
+  "match_summary": "2023 World Cup Semi-Final: India vs New Zealand (2023-11-15) at Mumbai.\nIndia: 397/4 (50.0 ov)\n  V Kohli: 117 (113b, 9x4, 2x6)\n  SS Iyer: 105 (70b, 4x4, 8x6)\n  Shubman Gill: 80* (66b, 8x4, 3x6)\n  TG Southee: 3/100 (10.0 ov)\nNew Zealand: 327 all out (48.5 ov)\n  DJ Mitchell: 134 (119b, 8x4, 7x6)\n  KS Williamson: 69 (73b, 9x4, 1x6)\n  GD Phillips: 41 (33b, 4x4, 2x6)\n  Mohammed Shami: 7/57 (9.5 ov)\nIndia won by 70 runs.\nPlayer of the Match: Mohammed Shami."
+}

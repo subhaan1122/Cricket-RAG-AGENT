@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2015
+Match: Ireland vs United Arab Emirates
+Stage: Group B
+Date: 2015-02-25
+Venue: Brisbane Cricket Ground, Woolloongabba, Brisbane
+Captain Ireland: William Porterfield
+Captain United Arab Emirates: Mohammad Tauqir
+
+Match Summary:
+  2015 World Cup Group B: Ireland vs United Arab Emirates (2015-02-25) at Brisbane.
+
+United Arab Emirates: 278/9 (50.0 ov)
+  Shaiman Anwar: 106 (83b, 10x4, 1x6, SR 127.71)
+  Amjad Ali: 45 (71b, 5x4, 0x6, SR 63.38)
+  Amjad Javed: 42 (35b, 5x4, 0x6, SR 120.0)
+  Khurram Khan: 36 (53b, 2x4, 0x6, SR 67.92)
+  Mohammad Naveed: 13 (11b, 2x4, 0x6, SR 118.18)
+  PR Stirling: 2/27 (10.0 ov, Econ 2.7)
+  AR Cusack: 2/54 (10.0 ov, Econ 5.4)
+  MC Sorensen: 2/60 (10.0 ov, Econ 6.0)
+  KJ O'Brien: 2/61 (7.0 ov, Econ 8.71)
+  GH Dockrell: 1/39 (7.0 ov, Econ 5.57)
+  Extras: 17
+
+Ireland: 279/8 (49.2 ov)
+  GC Wilson: 80 (69b, 10x4, 0x6, SR 115.94)
+  KJ O'Brien: 50 (25b, 8x4, 2x6, SR 200.0)
+  EC Joyce: 37 (49b, 3x4, 0x6, SR 75.51)
+  WTS Porterfield: 37 (64b, 2x4, 0x6, SR 57.81)
+  A Balbirnie: 30 (41b, 1x4, 0x6, SR 73.17)
+  Amjad Javed: 3/60 (10.0 ov, Econ 6.0)
+  Mohammad Tauqir: 2/38 (9.0 ov, Econ 4.22)
+  Mohammad Naveed: 2/65 (9.2 ov, Econ 6.96)
+  AM Guruge: 1/21 (7.0 ov, Econ 3.0)
+  Rohan Mustafa: 0/45 (9.0 ov, Econ 5.0)
+  Extras: 11
+
+Batting Highlights:
+  Century: Shaiman Anwar scored 106 off 83 balls (SR 127.71, 10 fours, 1 sixes)
+  Half-century: GC Wilson scored 80 off 69 balls (SR 115.94)
+  Half-century: KJ O'Brien scored 50 off 25 balls (SR 200.0)
+
+Bowling Highlights:
+  Economical spell: PR Stirling conceded 27 runs in 10.0 overs (Econ 2.7)
+  Key spell: Amjad Javed took 3/60
+  Economical spell: AM Guruge conceded 21 runs in 7.0 overs (Econ 3.0)
+
+Captain Performance:
+  William Porterfield (Ireland): scored 37 off 64 balls
+
+Key Moments:
+  United Arab Emirates lost 9 early wickets.
+  Ireland lost 8 early wickets.
+  United Arab Emirates exploded in the death overs (100 runs at 10.0 RPO).
+  Ireland exploded in the death overs (95 runs at 10.18 RPO).
+
+Result: Ireland won by 2 wickets
+Toss: Ireland won and chose to field
+Player of the Match: GC Wilson

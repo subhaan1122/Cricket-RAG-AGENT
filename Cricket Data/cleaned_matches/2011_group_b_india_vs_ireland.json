@@ -1,0 +1,350 @@
+{
+  "match_id": "9e66cd0c231e",
+  "world_cup_year": 2011,
+  "stage": "Group B",
+  "venue": "M Chinnaswamy Stadium",
+  "city": "Bangalore",
+  "date": "2011-03-06",
+  "teams": {
+    "team1": "India",
+    "team2": "Ireland"
+  },
+  "toss": {
+    "winner": "India",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "India",
+    "margin": "5 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "MS Dhoni",
+    "team2": "William Porterfield"
+  },
+  "player_of_match": "Yuvraj Singh",
+  "innings": [
+    {
+      "team": "Ireland",
+      "runs": 207,
+      "wickets": 10,
+      "overs": 47.5,
+      "extras": 18,
+      "top_batters": [
+        {
+          "name": "WTS Porterfield",
+          "runs": 75,
+          "balls": 104,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 72.12,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NJ O'Brien",
+          "runs": 46,
+          "balls": 78,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.97,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AR Cusack",
+          "runs": 24,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DT Johnston",
+          "runs": 17,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "KJ O'Brien",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Yuvraj Singh",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 5,
+          "economy": 3.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 3,
+          "economy": 3.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MM Patel",
+          "overs": "4.5",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 5.17,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 3.22,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "YK Pathan",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 4.57,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "PR Stirling",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 9,
+          "wickets": 2,
+          "overs": "2.3"
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 122,
+          "wickets": 3,
+          "overs": "26.5"
+        },
+        {
+          "player": "AR White",
+          "runs": 129,
+          "wickets": 4,
+          "overs": "29.1"
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 147,
+          "wickets": 5,
+          "overs": "33.4"
+        },
+        {
+          "player": "WTS Porterfield",
+          "runs": 160,
+          "wickets": 6,
+          "overs": "37.1"
+        },
+        {
+          "player": "JF Mooney",
+          "runs": 178,
+          "wickets": 7,
+          "overs": "41.5"
+        },
+        {
+          "player": "AR Cusack",
+          "runs": 184,
+          "wickets": 8,
+          "overs": "43.4"
+        },
+        {
+          "player": "GH Dockrell",
+          "runs": 201,
+          "wickets": 9,
+          "overs": "46.6"
+        },
+        {
+          "player": "DT Johnston",
+          "runs": 207,
+          "wickets": 10,
+          "overs": "47.5"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "runs": 210,
+      "wickets": 5,
+      "overs": 46.0,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "Yuvraj Singh",
+          "runs": 50,
+          "balls": 75,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SR Tendulkar",
+          "runs": 38,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 67.86,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 34,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 34,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.15,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "YK Pathan",
+          "runs": 30,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 125.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DT Johnston",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 2,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GH Dockrell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KJ O'Brien",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 3,
+          "wickets": 0,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "WB Rankin",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 3.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "PR Stirling",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 9,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 24,
+          "wickets": 2,
+          "overs": "5.2"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 87,
+          "wickets": 3,
+          "overs": "20.1"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 100,
+          "wickets": 4,
+          "overs": "23.4"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 167,
+          "wickets": 5,
+          "overs": "40.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2011_group_b_india_vs_ireland.json",
+  "match_summary": "2011 World Cup Group B: India vs Ireland (2011-03-06) at Bangalore.\nIreland: 207 all out (47.5 ov)\n  WTS Porterfield: 75 (104b, 6x4, 1x6)\n  NJ O'Brien: 46 (78b, 3x4, 0x6)\n  Yuvraj Singh: 5/31 (10.0 ov)\n  Z Khan: 3/30 (9.0 ov)\nIndia: 210/5 (46.0 ov)\n  Yuvraj Singh: 50* (75b, 3x4, 0x6)\n  SR Tendulkar: 38 (56b, 4x4, 0x6)\n  MS Dhoni: 34 (50b, 2x4, 0x6)\n  DT Johnston: 2/16 (5.0 ov)\n  GH Dockrell: 2/49 (10.0 ov)\nIndia won by 5 wickets.\nPlayer of the Match: Yuvraj Singh."
+}

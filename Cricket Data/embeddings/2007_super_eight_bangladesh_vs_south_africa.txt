@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs South Africa
+Stage: Super Eight
+Date: 2007-04-07
+Venue: Providence Stadium, Guyana
+Captain Bangladesh: Habibul Bashar
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Super Eight: Bangladesh vs South Africa (2007-04-07) at Guyana.
+
+Bangladesh: 251/8 (50.0 ov)
+  Mohammad Ashraful: 87 (83b, 12x4, 0x6, SR 104.82)
+  Tamim Iqbal: 38 (59b, 6x4, 0x6, SR 64.41)
+  Aftab Ahmed: 35 (43b, 2x4, 2x6, SR 81.4)
+  Mashrafe Mortaza: 25 (16b, 3x4, 1x6, SR 156.25)
+  Javed Omar: 17 (41b, 2x4, 0x6, SR 41.46)
+  A Nel: 5/45 (10.0 ov, Econ 4.5)
+  JH Kallis: 1/27 (6.0 ov, Econ 4.5)
+  M Ntini: 1/61 (10.0 ov, Econ 6.1)
+  SM Pollock: 0/25 (10.0 ov, Econ 2.5)
+  GC Smith: 0/16 (3.0 ov, Econ 5.33)
+  Extras: 24
+
+South Africa: 184 all out (48.3 ov)
+  HH Gibbs: 56 (59b, 1x4, 2x6, SR 94.92)
+  JH Kallis: 32 (36b, 6x4, 0x6, SR 88.89)
+  SM Pollock: 17 (23b, 0x4, 0x6, SR 73.91)
+  AB de Villiers: 15 (39b, 1x4, 0x6, SR 38.46)
+  GC Smith: 12 (24b, 1x4, 0x6, SR 50.0)
+  Abdur Razzak: 3/25 (9.3 ov, Econ 2.63)
+  Syed Rasel: 2/41 (10.0 ov, Econ 4.1)
+  Shakib Al Hasan: 2/49 (10.0 ov, Econ 4.9)
+  Mohammad Rafique: 1/22 (10.0 ov, Econ 2.2)
+  Mashrafe Mortaza: 0/45 (9.0 ov, Econ 5.0)
+  Extras: 14
+
+Batting Highlights:
+  Half-century: Mohammad Ashraful scored 87 off 83 balls (SR 104.82)
+  Quickfire innings: Mashrafe Mortaza smashed 25 off 16 balls at SR 156.25
+  Half-century: HH Gibbs scored 56 off 59 balls (SR 94.92)
+
+Bowling Highlights:
+  Match-changing spell: A Nel took 5/45
+  Economical spell: SM Pollock conceded 25 runs in 10.0 overs (Econ 2.5)
+  Key spell: Abdur Razzak took 3/25
+  Economical spell: Mohammad Rafique conceded 22 runs in 10.0 overs (Econ 2.2)
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 12 off 24 balls
+
+Key Moments:
+  Bangladesh lost 8 early wickets.
+  South Africa lost 10 early wickets.
+
+Result: Bangladesh won by 67 runs
+Toss: South Africa won and chose to field
+Player of the Match: Mohammad Ashraful

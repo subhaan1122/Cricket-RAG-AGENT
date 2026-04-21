@@ -1,0 +1,312 @@
+{
+  "match_id": "e9751de70dfc",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "Westpac Stadium",
+  "city": "Wellington",
+  "date": "2015-02-20",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "8 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Brendon McCullum",
+    "team2": "Eoin Morgan"
+  },
+  "player_of_match": "TG Southee",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 123,
+      "wickets": 10,
+      "overs": 33.2,
+      "extras": 13,
+      "top_batters": [
+        {
+          "name": "JE Root",
+          "runs": 46,
+          "balls": 70,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MM Ali",
+          "runs": 20,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "EJG Morgan",
+          "runs": 17,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "GS Ballance",
+          "runs": 10,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 8,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TG Southee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 7,
+          "economy": 3.67,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 2.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 32,
+          "wickets": 1,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AF Milne",
+          "overs": "5.2",
+          "maidens": 1,
+          "runs_conceded": 25,
+          "wickets": 1,
+          "economy": 4.69,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CJ Anderson",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "IR Bell",
+          "runs": 18,
+          "wickets": 1,
+          "overs": "4.1"
+        },
+        {
+          "player": "MM Ali",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "6.2"
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 57,
+          "wickets": 3,
+          "overs": "13.1"
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 104,
+          "wickets": 4,
+          "overs": "25.6"
+        },
+        {
+          "player": "JWA Taylor",
+          "runs": 104,
+          "wickets": 5,
+          "overs": "26.2"
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 108,
+          "wickets": 6,
+          "overs": "28.1"
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 110,
+          "wickets": 7,
+          "overs": "28.4"
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 116,
+          "wickets": 8,
+          "overs": "30.4"
+        },
+        {
+          "player": "ST Finn",
+          "runs": 117,
+          "wickets": 9,
+          "overs": "32.3"
+        },
+        {
+          "player": "JE Root",
+          "runs": 123,
+          "wickets": 10,
+          "overs": "33.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 125,
+      "wickets": 2,
+      "overs": 12.2,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "BB McCullum",
+          "runs": 77,
+          "balls": 25,
+          "fours": 8,
+          "sixes": 7,
+          "strike_rate": 308.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Guptill",
+          "runs": 22,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "KS Williamson",
+          "runs": 9,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "LRPL Taylor",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CR Woakes",
+          "overs": "3.0",
+          "maidens": 1,
+          "runs_conceded": 8,
+          "wickets": 2,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 7.4,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SCJ Broad",
+          "overs": "2.2",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 0,
+          "economy": 11.57,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "ST Finn",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 24.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BB McCullum",
+          "runs": 105,
+          "wickets": 1,
+          "overs": "7.1"
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 112,
+          "wickets": 2,
+          "overs": "9.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2015_group_a_england_vs_new_zealand.json",
+  "match_summary": "2015 World Cup Group A: New Zealand vs England (2015-02-20) at Wellington.\nEngland: 123 all out (33.2 ov)\n  JE Root: 46 (70b, 3x4, 0x6)\n  TG Southee: 7/33 (9.0 ov)\nNew Zealand: 125/2 (12.2 ov)\n  BB McCullum: 77 (25b, 8x4, 7x6)\n  CR Woakes: 2/8 (3.0 ov)\nNew Zealand won by 8 wickets.\nPlayer of the Match: TG Southee."
+}

@@ -1,0 +1,72 @@
+ICC Cricket World Cup 2019
+Match: England vs New Zealand
+Stage: Final
+Date: 2019-07-14
+Venue: Lord's, London
+Captain England: Eoin Morgan
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2019 World Cup Final: England vs New Zealand (2019-07-14) at London.
+
+New Zealand: 241/8 (50.0 ov)
+  HM Nicholls: 55 (77b, 4x4, 0x6, SR 71.43)
+  TWM Latham: 47 (56b, 2x4, 1x6, SR 83.93)
+  KS Williamson: 30 (53b, 2x4, 0x6, SR 56.6)
+  MJ Guptill: 19 (18b, 2x4, 1x6, SR 105.56)
+  JDS Neesham: 19 (25b, 3x4, 0x6, SR 76.0)
+  CR Woakes: 3/37 (9.0 ov, Econ 4.11)
+  LE Plunkett: 3/42 (10.0 ov, Econ 4.2)
+  JC Archer: 1/42 (10.0 ov, Econ 4.2)
+  MA Wood: 1/49 (10.0 ov, Econ 4.9)
+  AU Rashid: 0/39 (8.0 ov, Econ 4.88)
+  Extras: 30
+
+England: 241 all out (50.0 ov)
+  BA Stokes: 84 (98b, 5x4, 3x6, SR 85.71)
+  JC Buttler: 59 (60b, 6x4, 0x6, SR 98.33)
+  JM Bairstow: 36 (55b, 7x4, 0x6, SR 65.45)
+  JJ Roy: 17 (20b, 3x4, 0x6, SR 85.0)
+  LE Plunkett: 10 (10b, 1x4, 0x6, SR 100.0)
+  LH Ferguson: 3/50 (10.0 ov, Econ 5.0)
+  JDS Neesham: 3/43 (7.0 ov, Econ 6.14)
+  C de Grandhomme: 1/25 (10.0 ov, Econ 2.5)
+  MJ Henry: 1/40 (10.0 ov, Econ 4.0)
+  MJ Santner: 0/11 (3.0 ov, Econ 3.67)
+  Extras: 17
+
+England: 15/0 (1.0 ov)
+  BA Stokes: 8 (3b, 1x4, 0x6, SR 266.67)
+  JC Buttler: 7 (3b, 1x4, 0x6, SR 233.33)
+  TA Boult: 0/15 (1.0 ov, Econ 15.0)
+
+New Zealand: 15/1 (1.0 ov)
+  JDS Neesham: 13 (5b, 0x4, 1x6, SR 260.0)
+  MJ Guptill: 1 (1b, 0x4, 0x6, SR 100.0)
+  JC Archer: 0/15 (1.0 ov, Econ 15.0)
+  Extras: 1
+
+Batting Highlights:
+  Half-century: HM Nicholls scored 55 off 77 balls (SR 71.43)
+  Half-century: BA Stokes scored 84 off 98 balls (SR 85.71)
+  Half-century: JC Buttler scored 59 off 60 balls (SR 98.33)
+
+Bowling Highlights:
+  Key spell: CR Woakes took 3/37
+  Key spell: LE Plunkett took 3/42
+  Key spell: LH Ferguson took 3/50
+  Key spell: JDS Neesham took 3/43
+  Economical spell: C de Grandhomme conceded 25 runs in 10.0 overs (Econ 2.5)
+
+Captain Performance:
+  Kane Williamson (New Zealand): scored 30 off 53 balls
+
+Key Moments:
+  New Zealand lost 8 early wickets.
+  England lost 10 early wickets.
+  England scored aggressively in the powerplay (15 runs at 15.0 RPO).
+  New Zealand scored aggressively in the powerplay (15 runs at 15.0 RPO).
+
+Result: England won by 1 wickets
+Toss: New Zealand won and chose to bat
+Player of the Match: BA Stokes

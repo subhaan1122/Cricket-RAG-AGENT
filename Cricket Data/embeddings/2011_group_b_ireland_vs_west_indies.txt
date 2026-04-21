@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: Ireland vs West Indies
+Stage: Group B
+Date: 2011-03-11
+Venue: Punjab Cricket Association Stadium, Mohali, Chandigarh
+Captain Ireland: William Porterfield
+Captain West Indies: Darren Sammy
+
+Match Summary:
+  2011 World Cup Group B: Ireland vs West Indies (2011-03-11) at Chandigarh.
+
+West Indies: 275 all out (50.0 ov)
+  DS Smith: 107 (133b, 11x4, 1x6, SR 80.45)
+  KA Pollard: 94 (55b, 8x4, 5x6, SR 170.91)
+  S Chanderpaul: 35 (62b, 3x4, 0x6, SR 56.45)
+  RR Sarwan: 10 (19b, 1x4, 0x6, SR 52.63)
+  NO Miller: 5 (6b, 0x4, 0x6, SR 83.33)
+  KJ O'Brien: 4/71 (9.0 ov, Econ 7.89)
+  JF Mooney: 2/58 (9.0 ov, Econ 6.44)
+  WB Rankin: 1/35 (10.0 ov, Econ 3.5)
+  GH Dockrell: 1/15 (3.0 ov, Econ 5.0)
+  AC Botha: 1/56 (10.0 ov, Econ 5.6)
+  Extras: 12
+
+Ireland: 231 all out (49.0 ov)
+  EC Joyce: 84 (106b, 9x4, 0x6, SR 79.25)
+  GC Wilson: 61 (62b, 6x4, 1x6, SR 98.39)
+  NJ O'Brien: 25 (31b, 2x4, 0x6, SR 80.65)
+  GH Dockrell: 19 (19b, 3x4, 0x6, SR 100.0)
+  WTS Porterfield: 11 (34b, 2x4, 0x6, SR 32.35)
+  SJ Benn: 4/53 (10.0 ov, Econ 5.3)
+  DJG Sammy: 3/31 (10.0 ov, Econ 3.1)
+  AD Russell: 1/37 (10.0 ov, Econ 3.7)
+  KAJ Roach: 1/34 (8.0 ov, Econ 4.25)
+  KA Pollard: 0/32 (5.0 ov, Econ 6.4)
+  Extras: 8
+
+Batting Highlights:
+  Century: DS Smith scored 107 off 133 balls (SR 80.45, 11 fours, 1 sixes)
+  Half-century: KA Pollard scored 94 off 55 balls (SR 170.91)
+  Half-century: EC Joyce scored 84 off 106 balls (SR 79.25)
+  Half-century: GC Wilson scored 61 off 62 balls (SR 98.39)
+
+Bowling Highlights:
+  Match-changing spell: KJ O'Brien took 4/71
+  Economical spell: WB Rankin conceded 35 runs in 10.0 overs (Econ 3.5)
+  Match-changing spell: SJ Benn took 4/53
+  Key spell: DJG Sammy took 3/31
+
+Captain Performance:
+  William Porterfield (Ireland): scored 11 off 34 balls
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  Ireland lost 10 early wickets.
+
+Result: West Indies won by 44 runs
+Toss: Ireland won and chose to field
+Player of the Match: KA Pollard

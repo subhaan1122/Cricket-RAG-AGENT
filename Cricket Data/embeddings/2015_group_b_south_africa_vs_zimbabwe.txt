@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: South Africa vs Zimbabwe
+Stage: Group B
+Date: 2015-02-15
+Venue: Seddon Park, Hamilton
+Captain South Africa: AB de Villiers
+Captain Zimbabwe: Elton Chigumbura
+
+Match Summary:
+  2015 World Cup Group B: South Africa vs Zimbabwe (2015-02-15) at Hamilton.
+
+South Africa: 339/4 (50.0 ov)
+  DA Miller: 138 (92b, 7x4, 9x6, SR 150.0)
+  JP Duminy: 115 (100b, 9x4, 3x6, SR 115.0)
+  AB de Villiers: 25 (36b, 1x4, 1x6, SR 69.44)
+  F du Plessis: 24 (32b, 0x4, 1x6, SR 75.0)
+  HM Amla: 11 (26b, 1x4, 0x6, SR 42.31)
+  T Kamungozi: 1/34 (8.0 ov, Econ 4.25)
+  TL Chatara: 1/71 (10.0 ov, Econ 7.1)
+  T Panyangara: 1/73 (10.0 ov, Econ 7.3)
+  E Chigumbura: 1/30 (4.0 ov, Econ 7.5)
+  SC Williams: 0/44 (8.0 ov, Econ 5.5)
+  Extras: 19
+
+Zimbabwe: 277 all out (48.2 ov)
+  H Masakadza: 80 (74b, 8x4, 2x6, SR 108.11)
+  CJ Chibhabha: 64 (82b, 10x4, 0x6, SR 78.05)
+  BRM Taylor: 40 (40b, 4x4, 1x6, SR 100.0)
+  SF Mire: 27 (25b, 2x4, 2x6, SR 108.0)
+  CR Ervine: 13 (21b, 0x4, 1x6, SR 61.9)
+  Imran Tahir: 3/36 (10.0 ov, Econ 3.6)
+  VD Philander: 2/30 (8.0 ov, Econ 3.75)
+  M Morkel: 2/49 (8.2 ov, Econ 5.88)
+  JP Duminy: 1/45 (8.0 ov, Econ 5.62)
+  DW Steyn: 1/64 (9.0 ov, Econ 7.11)
+  Extras: 22
+
+Batting Highlights:
+  Century: DA Miller scored 138 off 92 balls (SR 150.0, 7 fours, 9 sixes)
+  Century: JP Duminy scored 115 off 100 balls (SR 115.0, 9 fours, 3 sixes)
+  Half-century: H Masakadza scored 80 off 74 balls (SR 108.11)
+  Half-century: CJ Chibhabha scored 64 off 82 balls (SR 78.05)
+
+Bowling Highlights:
+  Key spell: Imran Tahir took 3/36
+
+Captain Performance:
+  AB de Villiers (South Africa): scored 25 off 36 balls
+
+Key Moments:
+  South Africa lost 4 early wickets.
+  Zimbabwe lost 10 early wickets.
+  South Africa exploded in the death overs (146 runs at 14.6 RPO).
+
+Result: South Africa won by 62 runs
+Toss: Zimbabwe won and chose to field
+Player of the Match: DA Miller

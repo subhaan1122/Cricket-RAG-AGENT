@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: India vs South Africa
+Stage: Group B
+Date: 2015-02-22
+Venue: Melbourne Cricket Ground
+Captain India: MS Dhoni
+Captain South Africa: AB de Villiers
+
+Match Summary:
+  2015 World Cup Group B: India vs South Africa (2015-02-22) at Melbourne Cricket Ground.
+
+India: 307/7 (50.0 ov)
+  S Dhawan: 137 (146b, 16x4, 2x6, SR 93.84)
+  AM Rahane: 79 (60b, 7x4, 3x6, SR 131.67)
+  V Kohli: 46 (60b, 3x4, 0x6, SR 76.67)
+  MS Dhoni: 18 (11b, 3x4, 0x6, SR 163.64)
+  SK Raina: 6 (5b, 1x4, 0x6, SR 120.0)
+  M Morkel: 2/59 (10.0 ov, Econ 5.9)
+  Imran Tahir: 1/48 (10.0 ov, Econ 4.8)
+  DW Steyn: 1/55 (10.0 ov, Econ 5.5)
+  WD Parnell: 1/85 (9.0 ov, Econ 9.44)
+  VD Philander: 0/19 (4.0 ov, Econ 4.75)
+  Extras: 10
+
+South Africa: 177 all out (40.2 ov)
+  F du Plessis: 55 (71b, 5x4, 0x6, SR 77.46)
+  AB de Villiers: 30 (38b, 3x4, 0x6, SR 78.95)
+  DA Miller: 22 (23b, 2x4, 0x6, SR 95.65)
+  HM Amla: 22 (28b, 2x4, 0x6, SR 78.57)
+  WD Parnell: 17 (28b, 1x4, 0x6, SR 60.71)
+  R Ashwin: 3/41 (10.0 ov, Econ 4.1)
+  Mohammed Shami: 2/30 (8.0 ov, Econ 3.75)
+  MM Sharma: 2/31 (7.0 ov, Econ 4.43)
+  RA Jadeja: 1/37 (8.2 ov, Econ 4.44)
+  SK Raina: 0/3 (1.0 ov, Econ 3.0)
+  Extras: 7
+
+Batting Highlights:
+  Century: S Dhawan scored 137 off 146 balls (SR 93.84, 16 fours, 2 sixes)
+  Half-century: AM Rahane scored 79 off 60 balls (SR 131.67)
+  Half-century: F du Plessis scored 55 off 71 balls (SR 77.46)
+
+Bowling Highlights:
+  Key spell: R Ashwin took 3/41
+
+Captain Performance:
+  MS Dhoni (India): scored 18 off 11 balls
+  AB de Villiers (South Africa): scored 30 off 38 balls
+
+Key Moments:
+  India lost 7 early wickets.
+  South Africa lost 10 early wickets.
+
+Result: India won by 130 runs
+Toss: India won and chose to bat
+Player of the Match: S Dhawan

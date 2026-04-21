@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2003
+Match: India vs Netherlands
+Stage: Group A
+Date: 2003-02-12
+Venue: Boland Bank Park, Paarl, Paarl
+Captain India: Sourav Ganguly
+Captain Netherlands: Roland Lefebvre
+
+Match Summary:
+  2003 World Cup Group A: India vs Netherlands (2003-02-12) at Paarl.
+
+India: 204 all out (48.5 ov)
+  SR Tendulkar: 52 (72b, 7x4, 0x6, SR 72.22)
+  D Mongia: 42 (49b, 2x4, 0x6, SR 85.71)
+  Yuvraj Singh: 37 (56b, 3x4, 0x6, SR 66.07)
+  R Dravid: 17 (38b, 0x4, 0x6, SR 44.74)
+  Harbhajan Singh: 13 (8b, 0x4, 1x6, SR 162.5)
+  TBM de Leede: 4/35 (9.5 ov, Econ 3.56)
+  Adeel Raja: 2/47 (9.0 ov, Econ 5.22)
+  RP Lefebvre: 1/27 (9.0 ov, Econ 3.0)
+  JF Kloppenburg: 1/40 (10.0 ov, Econ 4.0)
+  LP van Troost: 0/4 (1.0 ov, Econ 4.0)
+  Extras: 11
+
+Netherlands: 136 all out (48.1 ov)
+  DLS van Bunge: 62 (116b, 5x4, 0x6, SR 53.45)
+  J Smits: 26 (66b, 0x4, 0x6, SR 39.39)
+  E Schiferli: 13 (21b, 2x4, 0x6, SR 61.9)
+  RP Lefebvre: 3 (14b, 0x4, 0x6, SR 21.43)
+  HJC Mol: 2 (30b, 0x4, 0x6, SR 6.67)
+  A Kumble: 4/32 (10.0 ov, Econ 3.2)
+  J Srinath: 4/30 (9.1 ov, Econ 3.27)
+  Harbhajan Singh: 1/20 (10.0 ov, Econ 2.0)
+  Z Khan: 1/17 (8.0 ov, Econ 2.12)
+  V Sehwag: 0/6 (3.0 ov, Econ 2.0)
+  Extras: 28
+
+Batting Highlights:
+  Half-century: SR Tendulkar scored 52 off 72 balls (SR 72.22)
+  Half-century: DLS van Bunge scored 62 off 116 balls (SR 53.45)
+
+Bowling Highlights:
+  Match-changing spell: TBM de Leede took 4/35
+  Economical spell: RP Lefebvre conceded 27 runs in 9.0 overs (Econ 3.0)
+  Match-changing spell: A Kumble took 4/32
+  Match-changing spell: J Srinath took 4/30
+  Economical spell: Harbhajan Singh conceded 20 runs in 10.0 overs (Econ 2.0)
+  Economical spell: Z Khan conceded 17 runs in 8.0 overs (Econ 2.12)
+
+Captain Performance:
+  Roland Lefebvre (Netherlands): scored 3 off 14 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  Netherlands lost 10 early wickets.
+  Netherlands lost 3 wickets in the powerplay.
+
+Result: India won by 68 runs
+Toss: India won and chose to bat
+Player of the Match: TBM de Leede

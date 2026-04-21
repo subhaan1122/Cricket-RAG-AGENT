@@ -1,0 +1,54 @@
+{
+  "match_id": "d725675e5841",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Wankhede Stadium, Mumbai",
+  "city": "Mumbai",
+  "date": "2023-11-07",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Australia"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "3 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Pat Cummins"
+  },
+  "player_of_match": "GJ Maxwell",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 291,
+      "wickets": 5,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 293,
+      "wickets": 7,
+      "overs": 46.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_australia.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs Australia (2023-11-07) at Mumbai.\nAfghanistan: 291/5 (50 ov)\nAustralia: 293/7 (46.5 ov)\nAustralia won by 3 wickets. Player of the Match: GJ Maxwell."
+}

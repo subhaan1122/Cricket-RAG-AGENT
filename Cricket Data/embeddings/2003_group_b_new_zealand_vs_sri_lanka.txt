@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Sri Lanka vs New Zealand
+Stage: Group B
+Date: 2003-02-10
+Venue: Goodyear Park, Bloemfontein, Bloemfontein
+Captain Sri Lanka: Sanath Jayasuriya
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Group B: Sri Lanka vs New Zealand (2003-02-10) at Bloemfontein.
+
+Sri Lanka: 272/7 (50.0 ov)
+  ST Jayasuriya: 120 (125b, 15x4, 0x6, SR 96.0)
+  HP Tillakaratne: 81 (106b, 5x4, 0x6, SR 76.42)
+  KC Sangakkara: 13 (18b, 0x4, 0x6, SR 72.22)
+  PA de Silva: 12 (11b, 2x4, 0x6, SR 109.09)
+  RP Arnold: 12 (14b, 0x4, 0x6, SR 85.71)
+  NJ Astle: 3/34 (7.0 ov, Econ 4.86)
+  SE Bond: 2/44 (10.0 ov, Econ 4.4)
+  AR Adams: 2/58 (9.0 ov, Econ 6.44)
+  JDP Oram: 0/37 (10.0 ov, Econ 3.7)
+  SB Styris: 0/28 (5.0 ov, Econ 5.6)
+  Extras: 18
+
+New Zealand: 225 all out (45.3 ov)
+  SB Styris: 141 (125b, 3x4, 6x6, SR 112.8)
+  CL Cairns: 32 (56b, 2x4, 0x6, SR 57.14)
+  CZ Harris: 13 (35b, 0x4, 0x6, SR 37.14)
+  JDP Oram: 12 (20b, 0x4, 0x6, SR 60.0)
+  DR Tuffey: 4 (3b, 0x4, 0x6, SR 133.33)
+  RP Arnold: 3/47 (8.3 ov, Econ 5.53)
+  M Muralitharan: 2/42 (9.0 ov, Econ 4.67)
+  PW Gunaratne: 2/24 (5.0 ov, Econ 4.8)
+  ST Jayasuriya: 1/32 (8.0 ov, Econ 4.0)
+  PA de Silva: 1/29 (5.0 ov, Econ 5.8)
+  Extras: 15
+
+Batting Highlights:
+  Century: ST Jayasuriya scored 120 off 125 balls (SR 96.0, 15 fours, 0 sixes)
+  Half-century: HP Tillakaratne scored 81 off 106 balls (SR 76.42)
+  Century: SB Styris scored 141 off 125 balls (SR 112.8, 3 fours, 6 sixes)
+
+Bowling Highlights:
+  Key spell: NJ Astle took 3/34
+  Key spell: RP Arnold took 3/47
+
+Captain Performance:
+  Sanath Jayasuriya (Sri Lanka): scored 120 off 125 balls
+
+Key Moments:
+  Sri Lanka lost 7 early wickets.
+  New Zealand lost 10 early wickets.
+  New Zealand lost 3 wickets in the powerplay.
+
+Result: Sri Lanka won by 47 runs
+Toss: New Zealand won and chose to field
+Player of the Match: ST Jayasuriya

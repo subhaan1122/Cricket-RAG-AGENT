@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2011
+Match: India vs West Indies
+Stage: Group B
+Date: 2011-03-20
+Venue: MA Chidambaram Stadium, Chepauk, Chennai
+Captain India: MS Dhoni
+Captain West Indies: Darren Sammy
+
+Match Summary:
+  2011 World Cup Group B: India vs West Indies (2011-03-20) at Chennai.
+
+India: 268 all out (49.1 ov)
+  Yuvraj Singh: 113 (123b, 10x4, 2x6, SR 91.87)
+  V Kohli: 59 (76b, 5x4, 0x6, SR 77.63)
+  G Gambhir: 22 (26b, 4x4, 0x6, SR 84.62)
+  MS Dhoni: 22 (30b, 1x4, 0x6, SR 73.33)
+  YK Pathan: 11 (10b, 1x4, 0x6, SR 110.0)
+  R Rampaul: 5/51 (10.0 ov, Econ 5.1)
+  AD Russell: 2/46 (9.1 ov, Econ 5.02)
+  D Bishoo: 1/48 (10.0 ov, Econ 4.8)
+  KA Pollard: 1/49 (10.0 ov, Econ 4.9)
+  DJG Sammy: 1/35 (6.0 ov, Econ 5.83)
+  Extras: 16
+
+West Indies: 188 all out (43.0 ov)
+  DS Smith: 81 (97b, 7x4, 1x6, SR 83.51)
+  RR Sarwan: 39 (68b, 3x4, 0x6, SR 57.35)
+  DM Bravo: 22 (29b, 1x4, 1x6, SR 75.86)
+  KA Edwards: 17 (17b, 1x4, 1x6, SR 100.0)
+  D Bishoo: 6 (11b, 1x4, 0x6, SR 54.55)
+  Z Khan: 3/26 (6.0 ov, Econ 4.33)
+  R Ashwin: 2/41 (10.0 ov, Econ 4.1)
+  Yuvraj Singh: 2/18 (4.0 ov, Econ 4.5)
+  Harbhajan Singh: 1/35 (9.0 ov, Econ 3.89)
+  SK Raina: 1/12 (2.0 ov, Econ 6.0)
+  Extras: 14
+
+Batting Highlights:
+  Century: Yuvraj Singh scored 113 off 123 balls (SR 91.87, 10 fours, 2 sixes)
+  Half-century: V Kohli scored 59 off 76 balls (SR 77.63)
+  Half-century: DS Smith scored 81 off 97 balls (SR 83.51)
+
+Bowling Highlights:
+  Match-changing spell: R Rampaul took 5/51
+  Key spell: Z Khan took 3/26
+
+Captain Performance:
+  MS Dhoni (India): scored 22 off 30 balls
+
+Key Moments:
+  India lost 10 early wickets.
+  West Indies lost 10 early wickets.
+
+Result: India won by 80 runs
+Toss: India won and chose to bat
+Player of the Match: Yuvraj Singh

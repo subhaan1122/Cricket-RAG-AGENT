@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2023
+Match: New Zealand vs India
+Stage: Group Stage
+Date: 2023-10-22
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala, Dharamsala
+Captain New Zealand: Kane Williamson
+Captain India: Rohit Sharma
+
+Match Summary:
+  2023 World Cup Group Stage: New Zealand vs India (2023-10-22) at Dharamsala.
+
+New Zealand: 273 all out (50.0 ov)
+  DJ Mitchell: 130 (127b, 9x4, 5x6, SR 102.36)
+  R Ravindra: 75 (87b, 6x4, 1x6, SR 86.21)
+  GD Phillips: 23 (26b, 0x4, 1x6, SR 88.46)
+  WA Young: 17 (27b, 3x4, 0x6, SR 62.96)
+  MS Chapman: 6 (8b, 0x4, 0x6, SR 75.0)
+  Mohammed Shami: 5/54 (10.0 ov, Econ 5.4)
+  Kuldeep Yadav: 2/73 (10.0 ov, Econ 7.3)
+  JJ Bumrah: 1/45 (10.0 ov, Econ 4.5)
+  Mohammed Siraj: 1/45 (10.0 ov, Econ 4.5)
+  RA Jadeja: 0/48 (10.0 ov, Econ 4.8)
+  Extras: 15
+
+India: 274/6 (48.0 ov)
+  V Kohli: 95 (104b, 8x4, 2x6, SR 91.35)
+  RG Sharma: 46 (40b, 4x4, 4x6, SR 115.0)
+  RA Jadeja: 39 (44b, 3x4, 1x6, SR 88.64)
+  SS Iyer: 33 (29b, 6x4, 0x6, SR 113.79)
+  KL Rahul: 27 (35b, 3x4, 0x6, SR 77.14)
+  LH Ferguson: 2/63 (8.0 ov, Econ 7.88)
+  MJ Santner: 1/37 (10.0 ov, Econ 3.7)
+  TA Boult: 1/60 (10.0 ov, Econ 6.0)
+  MJ Henry: 1/55 (9.0 ov, Econ 6.11)
+  R Ravindra: 0/46 (9.0 ov, Econ 5.11)
+  Extras: 5
+
+Batting Highlights:
+  Century: DJ Mitchell scored 130 off 127 balls (SR 102.36, 9 fours, 5 sixes)
+  Half-century: R Ravindra scored 75 off 87 balls (SR 86.21)
+  Half-century: V Kohli scored 95 off 104 balls (SR 91.35)
+
+Bowling Highlights:
+  Match-changing spell: Mohammed Shami took 5/54
+
+Captain Performance:
+  Rohit Sharma (India): scored 46 off 40 balls
+
+Key Moments:
+  New Zealand lost 10 early wickets.
+  India lost 6 early wickets.
+
+Result: India won by 4 wickets
+Toss: India won and chose to field
+Player of the Match: Mohammed Shami

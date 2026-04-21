@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: West Indies vs South Africa
+Stage: Super Eight
+Date: 2007-04-10
+Venue: National Cricket Stadium, St George's, Grenada
+Captain West Indies: Brian Lara
+Captain South Africa: Graeme Smith
+
+Match Summary:
+  2007 World Cup Super Eight: West Indies vs South Africa (2007-04-10) at Grenada.
+
+South Africa: 356/4 (50.1 ov)
+  AB de Villiers: 146 (130b, 12x4, 5x6, SR 112.31)
+  JH Kallis: 81 (86b, 6x4, 1x6, SR 94.19)
+  HH Gibbs: 61 (40b, 4x4, 3x6, SR 152.5)
+  MV Boucher: 52 (23b, 2x4, 5x6, SR 226.09)
+  GC Smith: 7 (22b, 0x4, 0x6, SR 31.82)
+  CD Collymore: 2/41 (10.0 ov, Econ 4.1)
+  CH Gayle: 1/42 (6.0 ov, Econ 7.0)
+  DJ Bravo: 1/69 (7.1 ov, Econ 9.63)
+  KA Pollard: 0/20 (3.0 ov, Econ 6.67)
+  IDR Bradshaw: 0/73 (10.0 ov, Econ 7.3)
+  Extras: 9
+
+West Indies: 289/9 (50.0 ov)
+  RR Sarwan: 92 (75b, 10x4, 1x6, SR 122.67)
+  DBL Powell: 48 (36b, 2x4, 3x6, SR 133.33)
+  DS Smith: 33 (27b, 4x4, 0x6, SR 122.22)
+  CH Gayle: 32 (35b, 3x4, 0x6, SR 91.43)
+  BC Lara: 21 (26b, 1x4, 0x6, SR 80.77)
+  SM Pollock: 2/33 (8.0 ov, Econ 4.12)
+  JH Kallis: 2/36 (8.0 ov, Econ 4.5)
+  GC Smith: 2/56 (5.0 ov, Econ 11.2)
+  A Nel: 1/54 (10.0 ov, Econ 5.4)
+  M Ntini: 1/57 (10.0 ov, Econ 5.7)
+  Extras: 7
+
+Batting Highlights:
+  Century: AB de Villiers scored 146 off 130 balls (SR 112.31, 12 fours, 5 sixes)
+  Half-century: JH Kallis scored 81 off 86 balls (SR 94.19)
+  Half-century: HH Gibbs scored 61 off 40 balls (SR 152.5)
+  Half-century: MV Boucher scored 52 off 23 balls (SR 226.09)
+  Half-century: RR Sarwan scored 92 off 75 balls (SR 122.67)
+
+Bowling Highlights:
+  Best bowling: CD Collymore with 2/41
+
+Captain Performance:
+  Graeme Smith (South Africa): scored 7 off 22 balls
+  Brian Lara (West Indies): scored 21 off 26 balls
+
+Key Moments:
+  South Africa lost 4 early wickets.
+  West Indies lost 9 early wickets.
+  South Africa exploded in the death overs (134 runs at 13.4 RPO).
+
+Result: South Africa won by 67 runs
+Toss: West Indies won and chose to field
+Player of the Match: AB de Villiers

@@ -1,0 +1,46 @@
+{
+  "match_info": {
+    "match_id": "4c7edf20a92a",
+    "world_cup_year": 2015,
+    "stage": "Group A",
+    "venue": "The Gabba, Brisbane",
+    "city": "Brisbane",
+    "date": "2015-02-21",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Bangladesh"
+    },
+    "toss": {
+      "winner": "",
+      "decision": ""
+    },
+    "result": {
+      "winner": "",
+      "margin": "no result",
+      "method": "",
+      "result_type": "no result"
+    },
+    "captains": {
+      "team1": "Michael Clarke",
+      "team2": "Mashrafe Mortaza"
+    },
+    "player_of_match": "",
+    "data_source": "summary_only"
+  },
+  "match_summary": "2015 World Cup Group A: Australia vs Bangladesh (2015-02-21) at Brisbane.\nMatch had no result (abandoned / no play possible).",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 0,
+    "total_wickets_fallen": 0,
+    "average_run_rate": 0,
+    "highest_individual_score": 0,
+    "best_bowling_figures": "0/0",
+    "total_sixes": 0,
+    "total_fours": 0
+  },
+  "innings_analysis": [],
+  "player_analysis": {},
+  "match_insights": [
+    "Competitive match between both teams."
+  ]
+}

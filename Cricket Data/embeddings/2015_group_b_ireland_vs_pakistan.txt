@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2015
+Match: Ireland vs Pakistan
+Stage: Group B
+Date: 2015-03-15
+Venue: Adelaide Oval
+Captain Ireland: William Porterfield
+Captain Pakistan: Misbah-ul-Haq
+
+Match Summary:
+  2015 World Cup Group B: Ireland vs Pakistan (2015-03-15) at Adelaide Oval.
+
+Ireland: 237 all out (50.0 ov)
+  WTS Porterfield: 107 (131b, 11x4, 1x6, SR 81.68)
+  GC Wilson: 29 (38b, 2x4, 0x6, SR 76.32)
+  A Balbirnie: 18 (36b, 0x4, 0x6, SR 50.0)
+  JF Mooney: 13 (19b, 1x4, 0x6, SR 68.42)
+  NJ O'Brien: 12 (10b, 2x4, 0x6, SR 120.0)
+  Wahab Riaz: 3/54 (10.0 ov, Econ 5.4)
+  Sohail Khan: 2/44 (10.0 ov, Econ 4.4)
+  Rahat Ali: 2/48 (10.0 ov, Econ 4.8)
+  Ehsan Adil: 1/31 (7.0 ov, Econ 4.43)
+  Haris Sohail: 1/20 (3.0 ov, Econ 6.67)
+  Extras: 12
+
+Pakistan: 241/3 (46.1 ov)
+  Sarfraz Ahmed: 101 (124b, 6x4, 0x6, SR 81.45)
+  Ahmed Shehzad: 63 (71b, 7x4, 0x6, SR 88.73)
+  Misbah-ul-Haq: 39 (46b, 3x4, 2x6, SR 84.78)
+  Umar Akmal: 20 (29b, 4x4, 0x6, SR 68.97)
+  Haris Sohail: 3 (7b, 0x4, 0x6, SR 42.86)
+  AR Cusack: 1/43 (10.0 ov, Econ 4.3)
+  SR Thompson: 1/59 (10.0 ov, Econ 5.9)
+  PR Stirling: 0/5 (1.1 ov, Econ 4.29)
+  JF Mooney: 0/40 (9.0 ov, Econ 4.44)
+  KJ O'Brien: 0/49 (10.0 ov, Econ 4.9)
+  Extras: 15
+
+Batting Highlights:
+  Century: WTS Porterfield scored 107 off 131 balls (SR 81.68, 11 fours, 1 sixes)
+  Century: Sarfraz Ahmed scored 101 off 124 balls (SR 81.45, 6 fours, 0 sixes)
+  Half-century: Ahmed Shehzad scored 63 off 71 balls (SR 88.73)
+
+Bowling Highlights:
+  Key spell: Wahab Riaz took 3/54
+
+Captain Performance:
+  William Porterfield (Ireland): scored 107 off 131 balls
+  Misbah-ul-Haq (Pakistan): scored 39 off 46 balls
+
+Key Moments:
+  Ireland lost 10 early wickets.
+  Pakistan lost 3 early wickets.
+
+Result: Pakistan won by 7 wickets
+Toss: Ireland won and chose to bat
+Player of the Match: Sarfraz Ahmed

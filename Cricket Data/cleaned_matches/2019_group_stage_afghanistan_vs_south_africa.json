@@ -1,0 +1,54 @@
+{
+  "match_id": "51203d459425",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Sophia Gardens, Cardiff",
+  "city": "Cardiff",
+  "date": "2019-06-15",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Faf du Plessis"
+  },
+  "player_of_match": "Imran Tahir",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 125,
+      "wickets": 10,
+      "overs": 34.1,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 131,
+      "wickets": 1,
+      "overs": 28.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_south_africa.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs South Africa (2019-06-15) at Cardiff.\nAfghanistan: 125 all out (34.1 ov)\nSouth Africa: 131/1 (28.4 ov)\nSouth Africa won by 9 wickets."
+}

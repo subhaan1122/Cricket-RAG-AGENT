@@ -1,0 +1,368 @@
+{
+  "match_id": "0746755f9209",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "city": "Delhi",
+  "date": "2023-10-25",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "309 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Pat Cummins",
+    "team2": "Scott Edwards"
+  },
+  "player_of_match": "GJ Maxwell",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 399,
+      "wickets": 8,
+      "overs": 50.0,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "GJ Maxwell",
+          "runs": 106,
+          "balls": 44,
+          "fours": 9,
+          "sixes": 8,
+          "strike_rate": 240.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 104,
+          "balls": 93,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 111.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 71,
+          "balls": 68,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 104.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 62,
+          "balls": 47,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 131.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 14,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LV van Beek",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 4,
+          "economy": 7.4,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "BFW de Leede",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 115,
+          "wickets": 2,
+          "economy": 11.5,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "A Dutt",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 8.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 4.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MR Marsh",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "3.5"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 160,
+          "wickets": 2,
+          "overs": "23.3"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 244,
+          "wickets": 3,
+          "overs": "36.1"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 266,
+          "wickets": 4,
+          "overs": "38.6"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 267,
+          "wickets": 5,
+          "overs": "39.1"
+        },
+        {
+          "player": "C Green",
+          "runs": 290,
+          "wickets": 6,
+          "overs": "42.2"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 393,
+          "wickets": 7,
+          "overs": "49.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 393,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 90,
+      "wickets": 10,
+      "overs": 21.0,
+      "extras": 7,
+      "top_batters": [
+        {
+          "name": "Vikramjit Singh",
+          "runs": 25,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AT Nidamanuru",
+          "runs": 14,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Edwards",
+          "runs": 12,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SA Engelbrecht",
+          "runs": 11,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CN Ackermann",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 4,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MR Marsh",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 4.75,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP O'Dowd",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "4.5"
+        },
+        {
+          "player": "Vikramjit Singh",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "5.5"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 47,
+          "wickets": 3,
+          "overs": "9.2"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 53,
+          "wickets": 4,
+          "overs": "10.5"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 62,
+          "wickets": 5,
+          "overs": "13.2"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 84,
+          "wickets": 6,
+          "overs": "17.5"
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 86,
+          "wickets": 7,
+          "overs": "18.3"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 86,
+          "wickets": 8,
+          "overs": "18.4"
+        },
+        {
+          "player": "A Dutt",
+          "runs": 90,
+          "wickets": 9,
+          "overs": "20.5"
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 90,
+          "wickets": 10,
+          "overs": "20.6"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_australia_vs_netherlands.json",
+  "match_summary": "2023 World Cup Group Stage: Australia vs Netherlands (2023-10-25) at Delhi.\nAustralia: 399/8 (50.0 ov)\n  GJ Maxwell: 106 (44b, 9x4, 8x6)\n  DA Warner: 104 (93b, 11x4, 3x6)\n  SPD Smith: 71 (68b, 9x4, 1x6)\n  LV van Beek: 4/74 (10.0 ov)\n  BFW de Leede: 2/115 (10.0 ov)\nNetherlands: 90 all out (21.0 ov)\n  A Zampa: 4/8 (3.0 ov)\n  MR Marsh: 2/19 (4.0 ov)\nAustralia won by 309 runs.\nPlayer of the Match: GJ Maxwell."
+}

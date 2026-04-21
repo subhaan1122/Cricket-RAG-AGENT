@@ -1,0 +1,787 @@
+{
+  "match_info": {
+    "match_id": "939482b88225",
+    "world_cup_year": 2015,
+    "stage": "Group B",
+    "venue": "Seddon Park",
+    "city": "Hamilton",
+    "date": "2015-02-15",
+    "teams": {
+      "team1": "South Africa",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "Zimbabwe",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "South Africa",
+      "margin": "62 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "AB de Villiers",
+      "team2": "Elton Chigumbura"
+    },
+    "player_of_match": "DA Miller",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2015 World Cup Group B: South Africa vs Zimbabwe (2015-02-15) at Hamilton.\nSouth Africa: 339/4 (50.0 ov)\n  DA Miller: 138* (92b, 7x4, 9x6)\n  JP Duminy: 115* (100b, 9x4, 3x6)\nZimbabwe: 277 all out (48.2 ov)\n  H Masakadza: 80 (74b, 8x4, 2x6)\n  CJ Chibhabha: 64 (82b, 10x4, 0x6)\n  BRM Taylor: 40 (40b, 4x4, 1x6)\n  Imran Tahir: 3/36 (10.0 ov)\n  VD Philander: 2/30 (8.0 ov)\n  M Morkel: 2/49 (8.2 ov)\nSouth Africa won by 62 runs.\nPlayer of the Match: DA Miller.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 616,
+    "total_wickets_fallen": 14,
+    "average_run_rate": 6.28,
+    "highest_individual_score": 138,
+    "best_bowling_figures": "3/36",
+    "total_sixes": 20,
+    "total_fours": 42
+  },
+  "innings_analysis": [
+    {
+      "team": "South Africa",
+      "total_runs": 339,
+      "total_wickets": 4,
+      "total_overs": 50.0,
+      "run_rate": 6.78,
+      "top_batters": [
+        {
+          "name": "DA Miller",
+          "runs": 138,
+          "balls": 92,
+          "fours": 7,
+          "sixes": 9,
+          "strike_rate": 150.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JP Duminy",
+          "runs": 115,
+          "balls": 100,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 115.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AB de Villiers",
+          "runs": 25,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 69.44,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "F du Plessis",
+          "runs": 24,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HM Amla",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "T Kamungozi",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 4.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TL Chatara",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 7.1,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "T Panyangara",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 73,
+          "wickets": 1,
+          "economy": 7.3,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "E Chigumbura",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 7.5,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "SC Williams",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 0,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Q de Kock",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "3.6"
+        },
+        {
+          "player": "HM Amla",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "8.1"
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 67,
+          "wickets": 3,
+          "overs": "16.6"
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 83,
+          "wickets": 4,
+          "overs": "20.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 2,
+        "run_rate": 2.8,
+        "fours": 2,
+        "sixes": 1,
+        "dot_balls": 48,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 146,
+        "wickets": 0,
+        "run_rate": 14.6,
+        "fours": 12,
+        "sixes": 9,
+        "dot_balls": 7,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "total_runs": 277,
+      "total_wickets": 10,
+      "total_overs": 48.2,
+      "run_rate": 5.77,
+      "top_batters": [
+        {
+          "name": "H Masakadza",
+          "runs": 80,
+          "balls": 74,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 108.11,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CJ Chibhabha",
+          "runs": 64,
+          "balls": 82,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 78.05,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 40,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SF Mire",
+          "runs": 27,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 108.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CR Ervine",
+          "runs": 13,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 61.9,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Imran Tahir",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 3,
+          "economy": 3.6,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "VD Philander",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 30,
+          "wickets": 2,
+          "economy": 3.75,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Morkel",
+          "overs": "8.2",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 5.88,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.62,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "DW Steyn",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 1,
+          "economy": 7.11,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Sikandar Raza",
+          "runs": 32,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 137,
+          "wickets": 2,
+          "overs": "23.6"
+        },
+        {
+          "player": "H Masakadza",
+          "runs": 191,
+          "wickets": 3,
+          "overs": "32.6"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 214,
+          "wickets": 4,
+          "overs": "36.1"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 218,
+          "wickets": 5,
+          "overs": "37.4"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 236,
+          "wickets": 6,
+          "overs": "40.5"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 240,
+          "wickets": 7,
+          "overs": "42.6"
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 245,
+          "wickets": 8,
+          "overs": "43.5"
+        },
+        {
+          "player": "SF Mire",
+          "runs": 272,
+          "wickets": 9,
+          "overs": "47.1"
+        },
+        {
+          "player": "TL Chatara",
+          "runs": 277,
+          "wickets": 10,
+          "overs": "48.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 56,
+        "wickets": 1,
+        "run_rate": 5.6,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 42,
+        "extras": 14
+      },
+      "death_overs_stats": {
+        "overs": "8.2",
+        "balls": 50,
+        "runs": 43,
+        "wickets": 5,
+        "run_rate": 5.16,
+        "fours": 4,
+        "sixes": 2,
+        "dot_balls": 33,
+        "extras": 3
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "DA Miller": {
+      "batting": {
+        "runs": 138,
+        "balls": 92,
+        "fours": 7,
+        "sixes": 9,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Duminy": {
+      "batting": {
+        "runs": 115,
+        "balls": 100,
+        "fours": 9,
+        "sixes": 3,
+        "strike_rate": 115.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 5.62
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AB de Villiers": {
+      "batting": {
+        "runs": 25,
+        "balls": 36,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 69.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "F du Plessis": {
+      "batting": {
+        "runs": 24,
+        "balls": 32,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HM Amla": {
+      "batting": {
+        "runs": 11,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 42.31
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Kamungozi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 4.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TL Chatara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 1,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Panyangara": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 73,
+        "wickets": 1,
+        "economy": 7.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Chigumbura": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 7.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Williams": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 0,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "H Masakadza": {
+      "batting": {
+        "runs": 80,
+        "balls": 74,
+        "fours": 8,
+        "sixes": 2,
+        "strike_rate": 108.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CJ Chibhabha": {
+      "batting": {
+        "runs": 64,
+        "balls": 82,
+        "fours": 10,
+        "sixes": 0,
+        "strike_rate": 78.05
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BRM Taylor": {
+      "batting": {
+        "runs": 40,
+        "balls": 40,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SF Mire": {
+      "batting": {
+        "runs": 27,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 108.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CR Ervine": {
+      "batting": {
+        "runs": 13,
+        "balls": 21,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 61.9
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Imran Tahir": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 3,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "VD Philander": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 2,
+        "economy": 3.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Morkel": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.333333333333334,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 5.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DW Steyn": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 1,
+        "economy": 7.11
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: South Africa scored 339 in 50.0 overs at 6.78 RPO",
+    "vs Zimbabwe scored 277 in 48.2 overs at 5.77 RPO",
+    "Top batsman: DA Miller with 138 runs",
+    "Top bowler: Imran Tahir with 3 wickets"
+  ]
+}

@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2003
+Match: South Africa vs New Zealand
+Stage: Group B
+Date: 2003-02-16
+Venue: New Wanderers Stadium, Johannesburg, Johannesburg
+Captain South Africa: Shaun Pollock
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Group B: South Africa vs New Zealand (2003-02-16) at Johannesburg.
+
+South Africa: 306/6 (50.0 ov)
+  HH Gibbs: 143 (141b, 19x4, 3x6, SR 101.42)
+  L Klusener: 33 (21b, 4x4, 1x6, SR 157.14)
+  JH Kallis: 33 (48b, 1x4, 1x6, SR 68.75)
+  N Boje: 29 (37b, 4x4, 0x6, SR 78.38)
+  GC Smith: 23 (28b, 5x4, 0x6, SR 82.14)
+  JDP Oram: 2/52 (8.0 ov, Econ 6.5)
+  SB Styris: 1/44 (10.0 ov, Econ 4.4)
+  DL Vettori: 1/58 (10.0 ov, Econ 5.8)
+  AR Adams: 1/57 (9.0 ov, Econ 6.33)
+  SE Bond: 1/73 (10.0 ov, Econ 7.3)
+  Extras: 20
+
+New Zealand: 229/1 (36.5 ov)
+  SP Fleming: 134 (132b, 21x4, 0x6, SR 101.52)
+  NJ Astle: 54 (57b, 4x4, 0x6, SR 94.74)
+  CD McMillan: 25 (32b, 1x4, 1x6, SR 78.12)
+  AA Donald: 1/52 (5.5 ov, Econ 8.91)
+  M Ntini: 0/33 (8.0 ov, Econ 4.12)
+  SM Pollock: 0/36 (8.0 ov, Econ 4.5)
+  JH Kallis: 0/47 (8.0 ov, Econ 5.88)
+  L Klusener: 0/37 (5.0 ov, Econ 7.4)
+  Extras: 16
+
+Batting Highlights:
+  Century: HH Gibbs scored 143 off 141 balls (SR 101.42, 19 fours, 3 sixes)
+  Quickfire innings: L Klusener smashed 33 off 21 balls at SR 157.14
+  Century: SP Fleming scored 134 off 132 balls (SR 101.52, 21 fours, 0 sixes)
+  Half-century: NJ Astle scored 54 off 57 balls (SR 94.74)
+
+Bowling Highlights:
+  Best bowling: JDP Oram with 2/52
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 134 off 132 balls
+
+Key Moments:
+  South Africa lost 6 early wickets.
+
+Result: New Zealand won by 9 wickets (D/L)
+Toss: South Africa won and chose to bat
+Player of the Match: SP Fleming

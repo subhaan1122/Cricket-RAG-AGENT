@@ -1,0 +1,289 @@
+{
+  "match_id": "f2f5d990b584",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "North West Cricket Stadium, Potchefstroom",
+  "city": "Potchefstroom",
+  "date": "2003-02-12",
+  "teams": {
+    "team1": "Kenya",
+    "team2": "South Africa"
+  },
+  "toss": {
+    "winner": "Kenya",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Steve Tikolo",
+    "team2": "Shaun Pollock"
+  },
+  "player_of_match": "L Klusener",
+  "innings": [
+    {
+      "team": "Kenya",
+      "runs": 140,
+      "wickets": 10,
+      "overs": 38.0,
+      "extras": 15,
+      "top_batters": [
+        {
+          "name": "RD Shah",
+          "runs": 60,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "TM Odoyo",
+          "runs": 22,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 53.66,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MO Odumbe",
+          "runs": 16,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 48.48,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PJ Ongondo",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HS Modi",
+          "runs": 9,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "L Klusener",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 4,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 15,
+          "wickets": 2,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "M Ntini",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 2.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "N Boje",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CK Langeveldt",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KO Otieno",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "1.6"
+        },
+        {
+          "player": "BJ Patel",
+          "runs": 7,
+          "wickets": 2,
+          "overs": "2.5"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 26,
+          "wickets": 3,
+          "overs": "8.4"
+        },
+        {
+          "player": "HS Modi",
+          "runs": 62,
+          "wickets": 4,
+          "overs": "17.5"
+        },
+        {
+          "player": "RD Shah",
+          "runs": 92,
+          "wickets": 5,
+          "overs": "25.2"
+        },
+        {
+          "player": "MO Odumbe",
+          "runs": 105,
+          "wickets": 6,
+          "overs": "30.4"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 105,
+          "wickets": 7,
+          "overs": "30.5"
+        },
+        {
+          "player": "MA Suji",
+          "runs": 120,
+          "wickets": 8,
+          "overs": "32.4"
+        },
+        {
+          "player": "PJ Ongondo",
+          "runs": 139,
+          "wickets": 9,
+          "overs": "36.2"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 140,
+          "wickets": 10,
+          "overs": "37.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "South Africa",
+      "runs": 142,
+      "wickets": 0,
+      "overs": 21.2,
+      "extras": 3,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 87,
+          "balls": 66,
+          "fours": 12,
+          "sixes": 4,
+          "strike_rate": 131.82,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "G Kirsten",
+          "runs": 52,
+          "balls": 63,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 82.54,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Suji",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 5.25,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 0,
+          "economy": 5.67,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "PJ Ongondo",
+          "overs": "2.2",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 7.29,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AY Karim",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 8.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_kenya_vs_south_africa.json",
+  "match_summary": "2003 World Cup Group B: Kenya vs South Africa (2003-02-12) at Potchefstroom.\nKenya: 140 all out (38.0 ov)\n  RD Shah: 60 (87b, 7x4, 0x6)\n  L Klusener: 4/16 (8.0 ov)\n  SM Pollock: 2/15 (6.0 ov)\nSouth Africa: 142/0 (21.2 ov)\n  HH Gibbs: 87* (66b, 12x4, 4x6)\n  G Kirsten: 52* (63b, 9x4, 0x6)\nSouth Africa won by 10 wickets.\nPlayer of the Match: L Klusener."
+}

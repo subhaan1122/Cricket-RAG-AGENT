@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: England vs Scotland
+Stage: Group A
+Date: 2015-02-23
+Venue: Hagley Oval, Christchurch
+Captain England: Eoin Morgan
+Captain Scotland: Preston Mommsen
+
+Match Summary:
+  2015 World Cup Group A: England vs Scotland (2015-02-23) at Christchurch.
+
+England: 303/8 (50.0 ov)
+  MM Ali: 128 (107b, 12x4, 5x6, SR 119.63)
+  IR Bell: 54 (85b, 2x4, 0x6, SR 63.53)
+  EJG Morgan: 46 (42b, 4x4, 2x6, SR 109.52)
+  JC Buttler: 24 (14b, 4x4, 0x6, SR 171.43)
+  JWA Taylor: 17 (26b, 0x4, 0x6, SR 65.38)
+  JH Davey: 4/68 (10.0 ov, Econ 6.8)
+  AC Evans: 1/46 (10.0 ov, Econ 4.6)
+  RM Haq: 1/51 (10.0 ov, Econ 5.1)
+  I Wardlaw: 1/60 (10.0 ov, Econ 6.0)
+  RD Berrington: 1/43 (5.0 ov, Econ 8.6)
+  Extras: 21
+
+Scotland: 184 all out (42.2 ov)
+  KJ Coetzer: 71 (84b, 11x4, 0x6, SR 84.52)
+  PL Mommsen: 26 (42b, 3x4, 0x6, SR 61.9)
+  MH Cross: 23 (32b, 1x4, 0x6, SR 71.88)
+  RM Haq: 15 (24b, 3x4, 0x6, SR 62.5)
+  JH Davey: 9 (15b, 0x4, 0x6, SR 60.0)
+  ST Finn: 3/26 (9.0 ov, Econ 2.89)
+  CR Woakes: 2/25 (5.2 ov, Econ 4.69)
+  MM Ali: 2/47 (10.0 ov, Econ 4.7)
+  JM Anderson: 2/30 (6.0 ov, Econ 5.0)
+  JE Root: 1/27 (5.0 ov, Econ 5.4)
+  Extras: 7
+
+Batting Highlights:
+  Century: MM Ali scored 128 off 107 balls (SR 119.63, 12 fours, 5 sixes)
+  Half-century: IR Bell scored 54 off 85 balls (SR 63.53)
+  Half-century: KJ Coetzer scored 71 off 84 balls (SR 84.52)
+
+Bowling Highlights:
+  Match-changing spell: JH Davey took 4/68
+  Key spell: ST Finn took 3/26
+
+Captain Performance:
+  Eoin Morgan (England): scored 46 off 42 balls
+  Preston Mommsen (Scotland): scored 26 off 42 balls
+
+Key Moments:
+  England lost 8 early wickets.
+  Scotland lost 10 early wickets.
+
+Result: England won by 119 runs
+Toss: Scotland won and chose to field
+Player of the Match: MM Ali

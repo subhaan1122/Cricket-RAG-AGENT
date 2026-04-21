@@ -1,0 +1,54 @@
+{
+  "match_id": "47f489c8e315",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Sophia Gardens, Cardiff",
+  "city": "Cardiff",
+  "date": "2019-06-04",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "34 runs",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Dimuth Karunaratne"
+  },
+  "player_of_match": "NLTC Perera",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 201,
+      "wickets": 10,
+      "overs": 36.5,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 152,
+      "wickets": 10,
+      "overs": 32.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_sri_lanka.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs Sri Lanka (2019-06-04) at Cardiff.\nSri Lanka: 201 all out (36.5 ov)\nAfghanistan: 152 all out (32.4 ov)\nSri Lanka won by 34 runs (D/L)."
+}

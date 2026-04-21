@@ -1,0 +1,31 @@
+{
+  "match_id": "4c7edf20a92a",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "The Gabba, Brisbane",
+  "city": "Brisbane",
+  "date": "2015-02-21",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Bangladesh"
+  },
+  "toss": {
+    "winner": "",
+    "decision": ""
+  },
+  "result": {
+    "winner": "",
+    "margin": "no result",
+    "method": "",
+    "result_type": "no result"
+  },
+  "captains": {
+    "team1": "Michael Clarke",
+    "team2": "Mashrafe Mortaza"
+  },
+  "player_of_match": "",
+  "innings": [],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_australia_vs_bangladesh.json",
+  "match_summary": "2015 World Cup Group A: Australia vs Bangladesh (2015-02-21) at Brisbane.\nMatch had no result (abandoned / no play possible)."
+}

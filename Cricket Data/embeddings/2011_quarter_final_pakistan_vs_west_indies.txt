@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2011
+Match: Pakistan vs West Indies
+Stage: Quarter-Final
+Date: 2011-03-23
+Venue: Shere Bangla National Stadium, Mirpur
+Captain Pakistan: Shahid Afridi
+Captain West Indies: Darren Sammy
+
+Match Summary:
+  2011 World Cup Quarter-Final: Pakistan vs West Indies (2011-03-23) at Mirpur.
+
+West Indies: 112 all out (43.3 ov)
+  S Chanderpaul: 44 (106b, 0x4, 1x6, SR 41.51)
+  RR Sarwan: 24 (68b, 2x4, 0x6, SR 35.29)
+  KAJ Roach: 16 (43b, 2x4, 0x6, SR 37.21)
+  CH Gayle: 8 (9b, 2x4, 0x6, SR 88.89)
+  DS Smith: 7 (14b, 1x4, 0x6, SR 50.0)
+  Shahid Afridi: 4/30 (9.3 ov, Econ 3.16)
+  Mohammad Hafeez: 2/16 (10.0 ov, Econ 1.6)
+  Saeed Ajmal: 2/18 (8.0 ov, Econ 2.25)
+  Abdul Razzaq: 1/4 (3.0 ov, Econ 1.33)
+  Umar Gul: 1/13 (7.0 ov, Econ 1.86)
+  Extras: 11
+
+Pakistan: 113/0 (20.5 ov)
+  Mohammad Hafeez: 61 (64b, 10x4, 0x6, SR 95.31)
+  Kamran Akmal: 47 (61b, 7x4, 0x6, SR 77.05)
+  DJG Sammy: 0/18 (5.0 ov, Econ 3.6)
+  D Bishoo: 0/24 (5.0 ov, Econ 4.8)
+  R Rampaul: 0/28 (5.0 ov, Econ 5.6)
+  KAJ Roach: 0/39 (5.5 ov, Econ 6.69)
+  Extras: 5
+
+Batting Highlights:
+  Half-century: Mohammad Hafeez scored 61 off 64 balls (SR 95.31)
+
+Bowling Highlights:
+  Match-changing spell: Shahid Afridi took 4/30
+  Economical spell: Mohammad Hafeez conceded 16 runs in 10.0 overs (Econ 1.6)
+  Economical spell: Saeed Ajmal conceded 18 runs in 8.0 overs (Econ 2.25)
+  Economical spell: Umar Gul conceded 13 runs in 7.0 overs (Econ 1.86)
+
+Captain Performance:
+  Pakistan captain: Shahid Afridi
+  West Indies captain: Darren Sammy
+
+Key Moments:
+  West Indies lost 10 early wickets.
+  West Indies lost 3 wickets in the powerplay.
+
+Result: Pakistan won by 10 wickets
+Toss: West Indies won and chose to bat
+Player of the Match: Mohammad Hafeez

@@ -1,0 +1,54 @@
+{
+  "match_id": "6e7599d0ba3f",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "HPCA Stadium, Dharamsala",
+  "city": "Dharamsala",
+  "date": "2023-10-07",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Bangladesh"
+  },
+  "toss": {
+    "winner": "Bangladesh",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Bangladesh",
+    "margin": "6 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Hashmatullah Shahidi",
+    "team2": "Shakib Al Hasan"
+  },
+  "player_of_match": "Rashid Khan",
+  "innings": [
+    {
+      "team": "Afghanistan",
+      "runs": 156,
+      "wickets": 10,
+      "overs": 37.2,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Bangladesh",
+      "runs": 158,
+      "wickets": 4,
+      "overs": 34.4,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2023_group_stage_afghanistan_vs_bangladesh.json",
+  "match_summary": "2023 World Cup Group Stage: Afghanistan vs Bangladesh (2023-10-07) at Dharamsala.\nAfghanistan: 156 all out (37.2 ov)\nBangladesh: 158/4 (34.4 ov)\nBangladesh won by 6 wickets. Player of the Match: Rashid Khan."
+}

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: India vs Pakistan
+Stage: Semi-Final
+Date: 2011-03-30
+Venue: Punjab Cricket Association Stadium, Mohali, Chandigarh
+Captain India: MS Dhoni
+Captain Pakistan: Shahid Afridi
+
+Match Summary:
+  2011 World Cup Semi-Final: India vs Pakistan (2011-03-30) at Chandigarh.
+
+India: 260/9 (50.0 ov)
+  SR Tendulkar: 85 (115b, 11x4, 0x6, SR 73.91)
+  V Sehwag: 38 (25b, 8x4, 0x6, SR 152.0)
+  SK Raina: 36 (39b, 3x4, 0x6, SR 92.31)
+  G Gambhir: 27 (32b, 2x4, 0x6, SR 84.38)
+  MS Dhoni: 25 (42b, 2x4, 0x6, SR 59.52)
+  Wahab Riaz: 5/46 (10.0 ov, Econ 4.6)
+  Saeed Ajmal: 2/44 (10.0 ov, Econ 4.4)
+  Mohammad Hafeez: 1/34 (10.0 ov, Econ 3.4)
+  Shahid Afridi: 0/45 (10.0 ov, Econ 4.5)
+  Abdul Razzaq: 0/14 (2.0 ov, Econ 7.0)
+  Extras: 18
+
+Pakistan: 231 all out (49.5 ov)
+  Misbah-ul-Haq: 56 (76b, 5x4, 1x6, SR 73.68)
+  Mohammad Hafeez: 43 (59b, 7x4, 0x6, SR 72.88)
+  Asad Shafiq: 30 (39b, 2x4, 0x6, SR 76.92)
+  Umar Akmal: 29 (24b, 1x4, 2x6, SR 120.83)
+  Shahid Afridi: 19 (17b, 1x4, 0x6, SR 111.76)
+  A Nehra: 2/33 (10.0 ov, Econ 3.3)
+  MM Patel: 2/40 (10.0 ov, Econ 4.0)
+  Harbhajan Singh: 2/43 (10.0 ov, Econ 4.3)
+  Yuvraj Singh: 2/57 (10.0 ov, Econ 5.7)
+  Z Khan: 2/58 (9.5 ov, Econ 5.9)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: SR Tendulkar scored 85 off 115 balls (SR 73.91)
+  Quickfire innings: V Sehwag smashed 38 off 25 balls at SR 152.0
+  Half-century: Misbah-ul-Haq scored 56 off 76 balls (SR 73.68)
+
+Bowling Highlights:
+  Match-changing spell: Wahab Riaz took 5/46
+  Economical spell: Mohammad Hafeez conceded 34 runs in 10.0 overs (Econ 3.4)
+  Economical spell: A Nehra conceded 33 runs in 10.0 overs (Econ 3.3)
+
+Captain Performance:
+  MS Dhoni (India): scored 25 off 42 balls
+  Shahid Afridi (Pakistan): scored 19 off 17 balls
+
+Key Moments:
+  India lost 9 early wickets.
+  Pakistan lost 10 early wickets.
+  India scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: India won by 29 runs
+Toss: India won and chose to bat
+Player of the Match: SR Tendulkar

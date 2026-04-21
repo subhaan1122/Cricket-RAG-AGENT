@@ -1,0 +1,697 @@
+{
+  "match_info": {
+    "match_id": "3edc69866e26",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "date": "2003-02-25",
+    "teams": {
+      "team1": "Pakistan",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Netherlands",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Pakistan",
+      "margin": "97 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Waqar Younis",
+      "team2": "Roland Lefebvre"
+    },
+    "player_of_match": "Yousuf Youhana",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: Pakistan vs Netherlands (2003-02-25) at Paarl.\nPakistan: 253/9 (50.0 ov)\n  Yousuf Youhana: 58 (59b, 4x4, 0x6)\n  Taufeeq Umar: 48 (71b, 6x4, 0x6)\n  Abdul Razzaq: 47 (63b, 4x4, 0x6)\n  TBM de Leede: 2/53 (10.0 ov)\n  DLS van Bunge: 2/27 (4.0 ov)\nNetherlands: 156 all out (39.3 ov)\n  DLS van Bunge: 31 (60b, 3x4, 1x6)\n  Wasim Akram: 3/24 (8.3 ov)\n  Shoaib Akhtar: 3/26 (7.0 ov)\nPakistan won by 97 runs.\nPlayer of the Match: Yousuf Youhana.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 409,
+    "total_wickets_fallen": 19,
+    "average_run_rate": 4.53,
+    "highest_individual_score": 58,
+    "best_bowling_figures": "3/26",
+    "total_sixes": 3,
+    "total_fours": 25
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 253,
+      "total_wickets": 9,
+      "total_overs": 50.0,
+      "run_rate": 5.06,
+      "top_batters": [
+        {
+          "name": "Yousuf Youhana",
+          "runs": 58,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 98.31,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Taufeeq Umar",
+          "runs": 48,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 67.61,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Abdul Razzaq",
+          "runs": 47,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.6,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "runs": 26,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 96.3,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Saeed Anwar",
+          "runs": 25,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.57,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TBM de Leede",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 2,
+          "economy": 5.3,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "DLS van Bunge",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 2,
+          "economy": 6.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RP Lefebvre",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 3.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "E Schiferli",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "HJC Mol",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Saeed Anwar",
+          "runs": 61,
+          "wickets": 1,
+          "overs": "13.5"
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 106,
+          "wickets": 2,
+          "overs": "22.2"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 108,
+          "wickets": 3,
+          "overs": "23.5"
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 143,
+          "wickets": 4,
+          "overs": "31.5"
+        },
+        {
+          "player": "Saleem Elahi",
+          "runs": 153,
+          "wickets": 5,
+          "overs": "33.4"
+        },
+        {
+          "player": "Rashid Latif",
+          "runs": 192,
+          "wickets": 6,
+          "overs": "40.3"
+        },
+        {
+          "player": "Wasim Akram",
+          "runs": 196,
+          "wickets": 7,
+          "overs": "42.1"
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 238,
+          "wickets": 8,
+          "overs": "47.4"
+        },
+        {
+          "player": "Waqar Younis",
+          "runs": 245,
+          "wickets": 9,
+          "overs": "48.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 40,
+        "wickets": 0,
+        "run_rate": 4.0,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 43,
+        "extras": 8
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 63,
+        "wickets": 4,
+        "run_rate": 6.3,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 24,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "total_runs": 156,
+      "total_wickets": 10,
+      "total_overs": 39.3,
+      "run_rate": 4.0,
+      "top_batters": [
+        {
+          "name": "DLS van Bunge",
+          "runs": 31,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 51.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "LP van Troost",
+          "runs": 22,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TBM de Leede",
+          "runs": 15,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 42.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HJC Mol",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "E Schiferli",
+          "runs": 9,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Wasim Akram",
+          "overs": "8.3",
+          "maidens": 1,
+          "runs_conceded": 24,
+          "wickets": 3,
+          "economy": 2.82,
+          "wides": 5,
+          "no_balls": 4
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 3,
+          "economy": 3.71,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "Waqar Younis",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 3.17,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Saeed Anwar",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 1,
+          "economy": 3.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 3.83,
+          "wides": 1,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "NA Statham",
+          "runs": 6,
+          "wickets": 1,
+          "overs": "2.1"
+        },
+        {
+          "player": "E Schiferli",
+          "runs": 31,
+          "wickets": 2,
+          "overs": "7.3"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 35,
+          "wickets": 3,
+          "overs": "8.3"
+        },
+        {
+          "player": "KJJ van Noortwijk",
+          "runs": 43,
+          "wickets": 4,
+          "overs": "9.6"
+        },
+        {
+          "player": "TBM de Leede",
+          "runs": 78,
+          "wickets": 5,
+          "overs": "21.1"
+        },
+        {
+          "player": "DLS van Bunge",
+          "runs": 108,
+          "wickets": 6,
+          "overs": "26.4"
+        },
+        {
+          "player": "HJC Mol",
+          "runs": 135,
+          "wickets": 7,
+          "overs": "32.5"
+        },
+        {
+          "player": "JJ Esmeijer",
+          "runs": 136,
+          "wickets": 8,
+          "overs": "33.2"
+        },
+        {
+          "player": "LP van Troost",
+          "runs": 138,
+          "wickets": 9,
+          "overs": "34.1"
+        },
+        {
+          "player": "J Smits",
+          "runs": 156,
+          "wickets": 10,
+          "overs": "39.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 43,
+        "wickets": 4,
+        "run_rate": 4.3,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 48,
+        "extras": 18
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Yousuf Youhana": {
+      "batting": {
+        "runs": 58,
+        "balls": 59,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 98.31
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Taufeeq Umar": {
+      "batting": {
+        "runs": 48,
+        "balls": 71,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 67.61
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdul Razzaq": {
+      "batting": {
+        "runs": 47,
+        "balls": 63,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 74.6
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 1,
+        "economy": 3.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shoaib Akhtar": {
+      "batting": {
+        "runs": 26,
+        "balls": 27,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 96.3
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 3,
+        "economy": 3.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Saeed Anwar": {
+      "batting": {
+        "runs": 25,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 67.57
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 3.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TBM de Leede": {
+      "batting": {
+        "runs": 15,
+        "balls": 35,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 42.86
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 53,
+        "wickets": 2,
+        "economy": 5.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DLS van Bunge": {
+      "batting": {
+        "runs": 31,
+        "balls": 60,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 51.67
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 2,
+        "economy": 6.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Lefebvre": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 1,
+        "economy": 3.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Schiferli": {
+      "batting": {
+        "runs": 9,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 37.5
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HJC Mol": {
+      "batting": {
+        "runs": 13,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 54.17
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LP van Troost": {
+      "batting": {
+        "runs": 22,
+        "balls": 30,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 73.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wasim Akram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.5,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 3,
+        "economy": 2.82
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Waqar Younis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 1,
+        "economy": 3.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 253 in 50.0 overs at 5.06 RPO",
+    "vs Netherlands scored 156 in 39.3 overs at 4.0 RPO",
+    "Top batsman: Yousuf Youhana with 58 runs",
+    "Top bowler: Wasim Akram with 3 wickets"
+  ]
+}

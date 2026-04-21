@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: Pakistan vs West Indies
+Stage: Group B
+Date: 2015-02-21
+Venue: Hagley Oval, Christchurch
+Captain Pakistan: Misbah-ul-Haq
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Group B: Pakistan vs West Indies (2015-02-21) at Christchurch.
+
+West Indies: 310/7 (50.0 ov)
+  D Ramdin: 51 (43b, 7x4, 0x6, SR 118.6)
+  LMP Simmons: 50 (46b, 4x4, 2x6, SR 108.7)
+  DM Bravo: 49 (78b, 3x4, 0x6, SR 62.82)
+  AD Russell: 42 (13b, 3x4, 4x6, SR 323.08)
+  MN Samuels: 38 (52b, 4x4, 0x6, SR 73.08)
+  Haris Sohail: 2/62 (9.0 ov, Econ 6.89)
+  Mohammad Irfan: 1/44 (10.0 ov, Econ 4.4)
+  Wahab Riaz: 1/67 (10.0 ov, Econ 6.7)
+  Sohail Khan: 1/73 (10.0 ov, Econ 7.3)
+  Shahid Afridi: 0/48 (10.0 ov, Econ 4.8)
+  Extras: 23
+
+Pakistan: 160 all out (39.0 ov)
+  Umar Akmal: 59 (71b, 5x4, 1x6, SR 83.1)
+  Sohaib Maqsood: 50 (66b, 4x4, 1x6, SR 75.76)
+  Shahid Afridi: 28 (26b, 4x4, 0x6, SR 107.69)
+  Misbah-ul-Haq: 7 (21b, 1x4, 0x6, SR 33.33)
+  Wahab Riaz: 3 (13b, 0x4, 0x6, SR 23.08)
+  JE Taylor: 3/15 (7.0 ov, Econ 2.14)
+  AD Russell: 3/33 (8.0 ov, Econ 4.12)
+  SJ Benn: 2/39 (9.0 ov, Econ 4.33)
+  JO Holder: 1/23 (7.0 ov, Econ 3.29)
+  DJG Sammy: 1/47 (8.0 ov, Econ 5.88)
+  Extras: 9
+
+Batting Highlights:
+  Half-century: D Ramdin scored 51 off 43 balls (SR 118.6)
+  Half-century: LMP Simmons scored 50 off 46 balls (SR 108.7)
+  Half-century: Umar Akmal scored 59 off 71 balls (SR 83.1)
+  Half-century: Sohaib Maqsood scored 50 off 66 balls (SR 75.76)
+
+Bowling Highlights:
+  Key spell: JE Taylor took 3/15
+  Key spell: AD Russell took 3/33
+  Economical spell: JO Holder conceded 23 runs in 7.0 overs (Econ 3.29)
+
+Captain Performance:
+  Misbah-ul-Haq (Pakistan): scored 7 off 21 balls
+
+Key Moments:
+  West Indies lost 7 early wickets.
+  Pakistan lost 10 early wickets.
+  West Indies exploded in the death overs (115 runs at 11.5 RPO).
+  Pakistan lost 4 wickets in the powerplay.
+
+Result: West Indies won by 150 runs
+Toss: Pakistan won and chose to field
+Player of the Match: AD Russell

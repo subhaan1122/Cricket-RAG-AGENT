@@ -1,0 +1,785 @@
+{
+  "match_info": {
+    "match_id": "fef6945c3649",
+    "world_cup_year": 2019,
+    "stage": "Group Stage",
+    "venue": "Kennington Oval",
+    "city": "London",
+    "date": "2019-06-15",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "87 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Aaron Finch",
+      "team2": "Dimuth Karunaratne"
+    },
+    "player_of_match": "AJ Finch",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2019 World Cup Group Stage: Australia vs Sri Lanka (2019-06-15) at London.\nAustralia: 334/7 (50.0 ov)\n  AJ Finch: 153 (132b, 15x4, 5x6)\n  SPD Smith: 73 (59b, 7x4, 1x6)\n  GJ Maxwell: 46* (25b, 5x4, 1x6)\n  DM de Silva: 2/40 (8.0 ov)\n  I Udana: 2/57 (10.0 ov)\nSri Lanka: 247 all out (45.5 ov)\n  FDM Karunaratne: 97 (108b, 9x4, 0x6)\n  MDKJ Perera: 52 (36b, 5x4, 1x6)\n  BKG Mendis: 30 (37b, 0x4, 2x6)\n  MA Starc: 4/55 (10.0 ov)\n  KW Richardson: 3/47 (9.0 ov)\n  PJ Cummins: 2/38 (7.5 ov)\nAustralia won by 87 runs.\nPlayer of the Match: AJ Finch.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 581,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 6.08,
+    "highest_individual_score": 153,
+    "best_bowling_figures": "4/55",
+    "total_sixes": 10,
+    "total_fours": 47
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 334,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 6.68,
+      "top_batters": [
+        {
+          "name": "AJ Finch",
+          "runs": 153,
+          "balls": 132,
+          "fours": 15,
+          "sixes": 5,
+          "strike_rate": 115.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 73,
+          "balls": 59,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 123.73,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GJ Maxwell",
+          "runs": 46,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 184.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 26,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "UT Khawaja",
+          "runs": 10,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "DM de Silva",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "I Udana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 2,
+          "economy": 5.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 61,
+          "wickets": 1,
+          "economy": 6.1,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 0,
+          "economy": 6.7,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TAM Siriwardana",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 17,
+          "wickets": 0,
+          "economy": 8.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 80,
+          "wickets": 1,
+          "overs": "16.4"
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 100,
+          "wickets": 2,
+          "overs": "22.6"
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 273,
+          "wickets": 3,
+          "overs": "42.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 278,
+          "wickets": 4,
+          "overs": "43.3"
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 310,
+          "wickets": 5,
+          "overs": "46.6"
+        },
+        {
+          "player": "AT Carey",
+          "runs": 317,
+          "wickets": 6,
+          "overs": "48.1"
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 320,
+          "wickets": 7,
+          "overs": "48.3"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 53,
+        "wickets": 0,
+        "run_rate": 5.3,
+        "fours": 9,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 97,
+        "wickets": 5,
+        "run_rate": 9.7,
+        "fours": 10,
+        "sixes": 2,
+        "dot_balls": 14,
+        "extras": 3
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 247,
+      "total_wickets": 10,
+      "total_overs": 45.5,
+      "run_rate": 5.49,
+      "top_batters": [
+        {
+          "name": "FDM Karunaratne",
+          "runs": 97,
+          "balls": 108,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 89.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MDKJ Perera",
+          "runs": 52,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 30,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 81.08,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "runs": 16,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DM de Silva",
+          "runs": 16,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 4,
+          "economy": 5.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KW Richardson",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 47,
+          "wickets": 3,
+          "economy": 5.22,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 2,
+          "economy": 4.85,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JP Behrendorff",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 6.56,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 4.6,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MDKJ Perera",
+          "runs": 115,
+          "wickets": 1,
+          "overs": "15.3"
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 153,
+          "wickets": 2,
+          "overs": "23.5"
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 186,
+          "wickets": 3,
+          "overs": "32.1"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 205,
+          "wickets": 4,
+          "overs": "35.4"
+        },
+        {
+          "player": "TAM Siriwardana",
+          "runs": 209,
+          "wickets": 5,
+          "overs": "36.2"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 217,
+          "wickets": 6,
+          "overs": "36.6"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 222,
+          "wickets": 7,
+          "overs": "38.1"
+        },
+        {
+          "player": "I Udana",
+          "runs": 236,
+          "wickets": 8,
+          "overs": "39.6"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 237,
+          "wickets": 9,
+          "overs": "41.4"
+        },
+        {
+          "player": "N Pradeep",
+          "runs": 247,
+          "wickets": 10,
+          "overs": "45.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 87,
+        "wickets": 0,
+        "run_rate": 8.7,
+        "fours": 11,
+        "sixes": 1,
+        "dot_balls": 26,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "5.5",
+        "balls": 35,
+        "runs": 11,
+        "wickets": 2,
+        "run_rate": 1.89,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 29,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "AJ Finch": {
+      "batting": {
+        "runs": 153,
+        "balls": 132,
+        "fours": 15,
+        "sixes": 5,
+        "strike_rate": 115.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 73,
+        "balls": 59,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 123.73
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 46,
+        "balls": 25,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 184.0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 0,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 26,
+        "balls": 48,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 54.17
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "UT Khawaja": {
+      "batting": {
+        "runs": 10,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM de Silva": {
+      "batting": {
+        "runs": 16,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 53.33
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 2,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "I Udana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 2,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SL Malinga": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 61,
+        "wickets": 1,
+        "economy": 6.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NLTC Perera": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 0,
+        "economy": 6.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TAM Siriwardana": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 0,
+        "economy": 8.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "FDM Karunaratne": {
+      "batting": {
+        "runs": 97,
+        "balls": 108,
+        "fours": 9,
+        "sixes": 0,
+        "strike_rate": 89.81
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MDKJ Perera": {
+      "batting": {
+        "runs": 52,
+        "balls": 36,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 144.44
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BKG Mendis": {
+      "batting": {
+        "runs": 30,
+        "balls": 37,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 81.08
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HDRL Thirimanne": {
+      "batting": {
+        "runs": 16,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 61.54
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 55,
+        "wickets": 4,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KW Richardson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 3,
+        "economy": 5.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.833333333333333,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 2,
+        "economy": 4.85
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Behrendorff": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 6.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 334 in 50.0 overs at 6.68 RPO",
+    "vs Sri Lanka scored 247 in 45.5 overs at 5.49 RPO",
+    "Top batsman: AJ Finch with 153 runs",
+    "Top bowler: MA Starc with 4 wickets"
+  ]
+}

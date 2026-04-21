@@ -1,0 +1,282 @@
+{
+  "match_id": "739f75b322a5",
+  "world_cup_year": 2003,
+  "stage": "Group B",
+  "venue": "New Wanderers Stadium, Johannesburg",
+  "city": "Johannesburg",
+  "date": "2003-02-16",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "New Zealand"
+  },
+  "toss": {
+    "winner": "South Africa",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "method": "D/L",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Shaun Pollock",
+    "team2": "Stephen Fleming"
+  },
+  "player_of_match": "SP Fleming",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 306,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 20,
+      "top_batters": [
+        {
+          "name": "HH Gibbs",
+          "runs": 143,
+          "balls": 141,
+          "fours": 19,
+          "sixes": 3,
+          "strike_rate": 101.42,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "L Klusener",
+          "runs": 33,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 157.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JH Kallis",
+          "runs": 33,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 68.75,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "N Boje",
+          "runs": 29,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.38,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "GC Smith",
+          "runs": 23,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 82.14,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JDP Oram",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 2,
+          "economy": 6.5,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "SB Styris",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.4,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AR Adams",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 57,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "SE Bond",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 73,
+          "wickets": 1,
+          "economy": 7.3,
+          "wides": 3,
+          "no_balls": 2
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GC Smith",
+          "runs": 60,
+          "wickets": 1,
+          "overs": "9.5"
+        },
+        {
+          "player": "N Boje",
+          "runs": 126,
+          "wickets": 2,
+          "overs": "23.2"
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 193,
+          "wickets": 3,
+          "overs": "38.1"
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 243,
+          "wickets": 4,
+          "overs": "43.2"
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 260,
+          "wickets": 5,
+          "overs": "45.2"
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 287,
+          "wickets": 6,
+          "overs": "48.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 229,
+      "wickets": 1,
+      "overs": 36.5,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "SP Fleming",
+          "runs": 134,
+          "balls": 132,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 101.52,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "NJ Astle",
+          "runs": 54,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "CD McMillan",
+          "runs": 25,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 78.12,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AA Donald",
+          "overs": "5.5",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 1,
+          "economy": 8.91,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "M Ntini",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 0,
+          "economy": 4.12,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "SM Pollock",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JH Kallis",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 0,
+          "economy": 5.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "L Klusener",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 0,
+          "economy": 7.4,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CD McMillan",
+          "runs": 89,
+          "wickets": 1,
+          "overs": "14.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2003_group_b_new_zealand_vs_south_africa.json",
+  "match_summary": "2003 World Cup Group B: South Africa vs New Zealand (2003-02-16) at Johannesburg.\nSouth Africa: 306/6 (50.0 ov)\n  HH Gibbs: 143 (141b, 19x4, 3x6)\n  L Klusener: 33* (21b, 4x4, 1x6)\n  JH Kallis: 33 (48b, 1x4, 1x6)\n  JDP Oram: 2/52 (8.0 ov)\nNew Zealand: 229/1 (36.5 ov)\n  SP Fleming: 134* (132b, 21x4, 0x6)\n  NJ Astle: 54* (57b, 4x4, 0x6)\nNew Zealand won by 9 wickets (D/L).\nPlayer of the Match: SP Fleming."
+}

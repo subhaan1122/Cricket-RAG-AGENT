@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2003
+Match: Netherlands vs England
+Stage: Group A
+Date: 2003-02-16
+Venue: Buffalo Park, East London, East London
+Captain Netherlands: Roland Lefebvre
+Captain England: Nasser Hussain
+
+Match Summary:
+  2003 World Cup Group A: Netherlands vs England (2003-02-16) at East London.
+
+Netherlands: 142/9 (50.0 ov)
+  TBM de Leede: 58 (96b, 6x4, 0x6, SR 60.42)
+  J Smits: 17 (38b, 2x4, 0x6, SR 44.74)
+  E Schiferli: 12 (16b, 2x4, 0x6, SR 75.0)
+  JF Kloppenburg: 10 (30b, 1x4, 0x6, SR 33.33)
+  LP van Troost: 8 (31b, 1x4, 0x6, SR 25.81)
+  JM Anderson: 4/25 (10.0 ov, Econ 2.5)
+  C White: 2/22 (10.0 ov, Econ 2.2)
+  ID Blackwell: 2/37 (10.0 ov, Econ 3.7)
+  A Flintoff: 1/29 (10.0 ov, Econ 2.9)
+  AR Caddick: 0/19 (10.0 ov, Econ 1.9)
+  Extras: 16
+
+England: 144/4 (23.2 ov)
+  MP Vaughan: 51 (47b, 8x4, 0x6, SR 108.51)
+  NV Knight: 51 (58b, 8x4, 0x6, SR 87.93)
+  ID Blackwell: 22 (11b, 5x4, 0x6, SR 200.0)
+  ME Trescothick: 12 (14b, 2x4, 0x6, SR 85.71)
+  PD Collingwood: 5 (8b, 1x4, 0x6, SR 62.5)
+  DLS van Bunge: 3/16 (3.0 ov, Econ 5.33)
+  E Schiferli: 1/33 (5.0 ov, Econ 6.6)
+  RP Lefebvre: 0/18 (5.0 ov, Econ 3.6)
+  Adeel Raja: 0/34 (5.0 ov, Econ 6.8)
+  TBM de Leede: 0/29 (4.0 ov, Econ 7.25)
+  Extras: 3
+
+Batting Highlights:
+  Half-century: TBM de Leede scored 58 off 96 balls (SR 60.42)
+  Half-century: MP Vaughan scored 51 off 47 balls (SR 108.51)
+  Half-century: NV Knight scored 51 off 58 balls (SR 87.93)
+
+Bowling Highlights:
+  Match-changing spell: JM Anderson took 4/25
+  Economical spell: C White conceded 22 runs in 10.0 overs (Econ 2.2)
+  Economical spell: A Flintoff conceded 29 runs in 10.0 overs (Econ 2.9)
+  Economical spell: AR Caddick conceded 19 runs in 10.0 overs (Econ 1.9)
+  Key spell: DLS van Bunge took 3/16
+
+Captain Performance:
+  Netherlands captain: Roland Lefebvre
+  England captain: Nasser Hussain
+
+Key Moments:
+  Netherlands lost 9 early wickets.
+  England lost 4 early wickets.
+
+Result: England won by 6 wickets
+Toss: England won and chose to field
+Player of the Match: JM Anderson

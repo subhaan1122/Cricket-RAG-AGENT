@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2019
+Match: England vs West Indies
+Stage: Group Stage
+Date: 2019-06-14
+Venue: The Rose Bowl, Southampton
+Captain England: Eoin Morgan
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: England vs West Indies (2019-06-14) at Southampton.
+
+West Indies: 212 all out (44.4 ov)
+  N Pooran: 63 (78b, 3x4, 1x6, SR 80.77)
+  SO Hetmyer: 39 (48b, 4x4, 0x6, SR 81.25)
+  CH Gayle: 36 (41b, 5x4, 1x6, SR 87.8)
+  AD Russell: 21 (16b, 1x4, 2x6, SR 131.25)
+  CR Brathwaite: 14 (22b, 0x4, 1x6, SR 63.64)
+  MA Wood: 3/18 (6.4 ov, Econ 2.7)
+  JC Archer: 3/30 (9.0 ov, Econ 3.33)
+  JE Root: 2/27 (5.0 ov, Econ 5.4)
+  CR Woakes: 1/16 (5.0 ov, Econ 3.2)
+  LE Plunkett: 1/30 (5.0 ov, Econ 6.0)
+  Extras: 17
+
+England: 213/2 (33.1 ov)
+  JE Root: 100 (94b, 11x4, 0x6, SR 106.38)
+  JM Bairstow: 45 (46b, 7x4, 0x6, SR 97.83)
+  CR Woakes: 40 (54b, 4x4, 0x6, SR 74.07)
+  BA Stokes: 10 (6b, 1x4, 0x6, SR 166.67)
+  ST Gabriel: 2/49 (7.0 ov, Econ 7.0)
+  CH Gayle: 0/22 (5.0 ov, Econ 4.4)
+  SS Cottrell: 0/17 (3.0 ov, Econ 5.67)
+  JO Holder: 0/31 (5.1 ov, Econ 6.0)
+  AD Russell: 0/14 (2.0 ov, Econ 7.0)
+  Extras: 18
+
+Batting Highlights:
+  Half-century: N Pooran scored 63 off 78 balls (SR 80.77)
+  Century: JE Root scored 100 off 94 balls (SR 106.38, 11 fours, 0 sixes)
+
+Bowling Highlights:
+  Key spell: MA Wood took 3/18
+  Key spell: JC Archer took 3/30
+  Economical spell: CR Woakes conceded 16 runs in 5.0 overs (Econ 3.2)
+
+Captain Performance:
+  England captain: Eoin Morgan
+  West Indies captain: Jason Holder
+
+Key Moments:
+  West Indies lost 10 early wickets.
+
+Result: England won by 8 wickets
+Toss: England won and chose to field
+Player of the Match: JE Root

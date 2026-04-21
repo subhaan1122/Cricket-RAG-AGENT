@@ -1,0 +1,803 @@
+{
+  "match_info": {
+    "match_id": "9620f38c01b7",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "Boland Bank Park, Paarl",
+    "city": "Paarl",
+    "date": "2003-02-12",
+    "teams": {
+      "team1": "India",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "68 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Sourav Ganguly",
+      "team2": "Roland Lefebvre"
+    },
+    "player_of_match": "TBM de Leede",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: India vs Netherlands (2003-02-12) at Paarl.\nIndia: 204 all out (48.5 ov)\n  SR Tendulkar: 52 (72b, 7x4, 0x6)\n  D Mongia: 42 (49b, 2x4, 0x6)\n  Yuvraj Singh: 37 (56b, 3x4, 0x6)\n  TBM de Leede: 4/35 (9.5 ov)\n  Adeel Raja: 2/47 (9.0 ov)\nNetherlands: 136 all out (48.1 ov)\n  DLS van Bunge: 62 (116b, 5x4, 0x6)\n  A Kumble: 4/32 (10.0 ov)\n  J Srinath: 4/30 (9.1 ov)\nIndia won by 68 runs.\nPlayer of the Match: TBM de Leede.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 340,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 3.54,
+    "highest_individual_score": 62,
+    "best_bowling_figures": "4/35",
+    "total_sixes": 1,
+    "total_fours": 19
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 204,
+      "total_wickets": 10,
+      "total_overs": 48.5,
+      "run_rate": 4.25,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 52,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "D Mongia",
+          "runs": 42,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 37,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.07,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "R Dravid",
+          "runs": 17,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.74,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Harbhajan Singh",
+          "runs": 13,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 162.5,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TBM de Leede",
+          "overs": "9.5",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 4,
+          "economy": 3.56,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Adeel Raja",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 5.22,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "RP Lefebvre",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JF Kloppenburg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "LP van Troost",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 4.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SC Ganguly",
+          "runs": 30,
+          "wickets": 1,
+          "overs": "11.5"
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 56,
+          "wickets": 2,
+          "overs": "14.5"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 81,
+          "wickets": 3,
+          "overs": "23.3"
+        },
+        {
+          "player": "R Dravid",
+          "runs": 91,
+          "wickets": 4,
+          "overs": "25.6"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 114,
+          "wickets": 5,
+          "overs": "31.5"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 169,
+          "wickets": 6,
+          "overs": "43.5"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 186,
+          "wickets": 7,
+          "overs": "46.2"
+        },
+        {
+          "player": "A Kumble",
+          "runs": 203,
+          "wickets": 8,
+          "overs": "48.2"
+        },
+        {
+          "player": "D Mongia",
+          "runs": 204,
+          "wickets": 9,
+          "overs": "48.4"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 204,
+          "wickets": 10,
+          "overs": "48.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 0,
+        "run_rate": 2.8,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "8.5",
+        "balls": 53,
+        "runs": 57,
+        "wickets": 5,
+        "run_rate": 6.45,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 19,
+        "extras": 2
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "total_runs": 136,
+      "total_wickets": 10,
+      "total_overs": 48.1,
+      "run_rate": 2.83,
+      "top_batters": [
+        {
+          "name": "DLS van Bunge",
+          "runs": 62,
+          "balls": 116,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 53.45,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "J Smits",
+          "runs": 26,
+          "balls": 66,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "E Schiferli",
+          "runs": 13,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RP Lefebvre",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "HJC Mol",
+          "runs": 2,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Kumble",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 4,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "J Srinath",
+          "overs": "9.1",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 4,
+          "economy": 3.27,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 20,
+          "wickets": 1,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Z Khan",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 17,
+          "wickets": 1,
+          "economy": 2.12,
+          "wides": 9,
+          "no_balls": 0
+        },
+        {
+          "name": "V Sehwag",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 2.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "JF Kloppenburg",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.4"
+        },
+        {
+          "player": "HJC Mol",
+          "runs": 29,
+          "wickets": 2,
+          "overs": "8.2"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 31,
+          "wickets": 3,
+          "overs": "9.4"
+        },
+        {
+          "player": "TBM de Leede",
+          "runs": 38,
+          "wickets": 4,
+          "overs": "12.6"
+        },
+        {
+          "player": "LP van Troost",
+          "runs": 42,
+          "wickets": 5,
+          "overs": "15.5"
+        },
+        {
+          "player": "RH Scholte",
+          "runs": 44,
+          "wickets": 6,
+          "overs": "17.1"
+        },
+        {
+          "player": "RP Lefebvre",
+          "runs": 54,
+          "wickets": 7,
+          "overs": "21.3"
+        },
+        {
+          "player": "E Schiferli",
+          "runs": 82,
+          "wickets": 8,
+          "overs": "27.5"
+        },
+        {
+          "player": "DLS van Bunge",
+          "runs": 131,
+          "wickets": 9,
+          "overs": "44.4"
+        },
+        {
+          "player": "J Smits",
+          "runs": 136,
+          "wickets": 10,
+          "overs": "48.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 32,
+        "wickets": 3,
+        "run_rate": 3.2,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 50,
+        "extras": 15
+      },
+      "death_overs_stats": {
+        "overs": "8.1",
+        "balls": 49,
+        "runs": 25,
+        "wickets": 2,
+        "run_rate": 3.06,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 27,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 52,
+        "balls": 72,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 72.22
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Mongia": {
+      "batting": {
+        "runs": 42,
+        "balls": 49,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 85.71
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 37,
+        "balls": 56,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 66.07
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Dravid": {
+      "batting": {
+        "runs": 17,
+        "balls": 38,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 44.74
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Harbhajan Singh": {
+      "batting": {
+        "runs": 13,
+        "balls": 8,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 162.5
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 1,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TBM de Leede": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.833333333333334,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 4,
+        "economy": 3.56
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Adeel Raja": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 5.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RP Lefebvre": {
+      "batting": {
+        "runs": 3,
+        "balls": 14,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 21.43
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JF Kloppenburg": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LP van Troost": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DLS van Bunge": {
+      "batting": {
+        "runs": 62,
+        "balls": 116,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 53.45
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "J Smits": {
+      "batting": {
+        "runs": 26,
+        "balls": 66,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 39.39
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Schiferli": {
+      "batting": {
+        "runs": 13,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 61.9
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HJC Mol": {
+      "batting": {
+        "runs": 2,
+        "balls": 30,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 6.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Kumble": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 4,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "J Srinath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.166666666666666,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 4,
+        "economy": 3.27
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 1,
+        "economy": 2.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 6,
+        "wickets": 0,
+        "economy": 2.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 204 in 48.5 overs at 4.25 RPO",
+    "vs Netherlands scored 136 in 48.1 overs at 2.83 RPO",
+    "Top batsman: DLS van Bunge with 62 runs",
+    "Top bowler: TBM de Leede with 4 wickets"
+  ]
+}

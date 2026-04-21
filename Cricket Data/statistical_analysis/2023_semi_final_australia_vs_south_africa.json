@@ -1,0 +1,745 @@
+{
+  "match_info": {
+    "match_id": "e3353e039306",
+    "world_cup_year": 2023,
+    "stage": "Semi-Final",
+    "venue": "Eden Gardens, Kolkata",
+    "city": "Kolkata",
+    "date": "2023-11-16",
+    "teams": {
+      "team1": "South Africa",
+      "team2": "Australia"
+    },
+    "toss": {
+      "winner": "South Africa",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "3 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Temba Bavuma",
+      "team2": "Pat Cummins"
+    },
+    "player_of_match": "TM Head",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Semi-Final: South Africa vs Australia (2023-11-16) at Kolkata.\nSouth Africa: 212 all out (49.4 ov)\n  DA Miller: 101 (116b, 8x4, 5x6)\n  H Klaasen: 47 (48b, 4x4, 2x6)\n  MA Starc: 3/34 (10.0 ov)\n  PJ Cummins: 3/51 (9.4 ov)\n  JR Hazlewood: 2/12 (8.0 ov)\nAustralia: 215/7 (47.2 ov)\n  TM Head: 62 (48b, 9x4, 2x6)\n  SPD Smith: 30 (62b, 2x4, 0x6)\n  T Shamsi: 2/42 (10.0 ov)\n  G Coetzee: 2/47 (9.0 ov)\nAustralia won by 3 wickets.\nPlayer of the Match: TM Head.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 427,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 4.45,
+    "highest_individual_score": 101,
+    "best_bowling_figures": "3/51",
+    "total_sixes": 14,
+    "total_fours": 33
+  },
+  "innings_analysis": [
+    {
+      "team": "South Africa",
+      "total_runs": 212,
+      "total_wickets": 10,
+      "total_overs": 49.4,
+      "run_rate": 4.33,
+      "top_batters": [
+        {
+          "name": "DA Miller",
+          "runs": 101,
+          "balls": 116,
+          "fours": 8,
+          "sixes": 5,
+          "strike_rate": 87.07,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "H Klaasen",
+          "runs": 47,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 97.92,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "G Coetzee",
+          "runs": 19,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.72,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "K Rabada",
+          "runs": 10,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 10,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MA Starc",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 3,
+          "economy": 3.4,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 3,
+          "economy": 5.28,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "8.0",
+          "maidens": 3,
+          "runs_conceded": 12,
+          "wickets": 2,
+          "economy": 1.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Head",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "T Bavuma",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 8,
+          "wickets": 2,
+          "overs": "5.4"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 22,
+          "wickets": 3,
+          "overs": "10.5"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 24,
+          "wickets": 4,
+          "overs": "11.5"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 119,
+          "wickets": 5,
+          "overs": "30.4"
+        },
+        {
+          "player": "M Jansen",
+          "runs": 119,
+          "wickets": 6,
+          "overs": "30.5"
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 172,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 191,
+          "wickets": 8,
+          "overs": "46.2"
+        },
+        {
+          "player": "DA Miller",
+          "runs": 203,
+          "wickets": 9,
+          "overs": "47.2"
+        },
+        {
+          "player": "K Rabada",
+          "runs": 212,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 18,
+        "wickets": 2,
+        "run_rate": 1.8,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 50,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "9.4",
+        "balls": 58,
+        "runs": 56,
+        "wickets": 4,
+        "run_rate": 5.79,
+        "fours": 2,
+        "sixes": 3,
+        "dot_balls": 32,
+        "extras": 6
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "total_runs": 215,
+      "total_wickets": 7,
+      "total_overs": 47.2,
+      "run_rate": 4.57,
+      "top_batters": [
+        {
+          "name": "TM Head",
+          "runs": 62,
+          "balls": 48,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 129.17,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 30,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 29,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 161.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 28,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 18,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "T Shamsi",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 2,
+          "economy": 4.2,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "G Coetzee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 47,
+          "wickets": 2,
+          "economy": 5.22,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "KA Maharaj",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 1,
+          "economy": 2.4,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AK Markram",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 23,
+          "wickets": 1,
+          "economy": 2.88,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 6.83,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DA Warner",
+          "runs": 60,
+          "wickets": 1,
+          "overs": "6.1"
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 61,
+          "wickets": 2,
+          "overs": "7.4"
+        },
+        {
+          "player": "TM Head",
+          "runs": 106,
+          "wickets": 3,
+          "overs": "14.1"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 133,
+          "wickets": 4,
+          "overs": "21.5"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 137,
+          "wickets": 5,
+          "overs": "23.4"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 174,
+          "wickets": 6,
+          "overs": "33.3"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 193,
+          "wickets": 7,
+          "overs": "39.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 74,
+        "wickets": 2,
+        "run_rate": 7.4,
+        "fours": 6,
+        "sixes": 6,
+        "dot_balls": 42,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "7.2",
+        "balls": 44,
+        "runs": 22,
+        "wickets": 0,
+        "run_rate": 3.0,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 34,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "DA Miller": {
+      "batting": {
+        "runs": 101,
+        "balls": 116,
+        "fours": 8,
+        "sixes": 5,
+        "strike_rate": 87.07
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "H Klaasen": {
+      "batting": {
+        "runs": 47,
+        "balls": 48,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 97.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Coetzee": {
+      "batting": {
+        "runs": 19,
+        "balls": 39,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 48.72
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 2,
+        "economy": 5.22
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "K Rabada": {
+      "batting": {
+        "runs": 10,
+        "balls": 12,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 1,
+        "economy": 6.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AK Markram": {
+      "batting": {
+        "runs": 10,
+        "balls": 20,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 50.0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 1,
+        "economy": 2.88
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 3,
+        "economy": 3.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 3,
+        "economy": 5.28
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 1.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Head": {
+      "batting": {
+        "runs": 62,
+        "balls": 48,
+        "fours": 9,
+        "sixes": 2,
+        "strike_rate": 129.17
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 0,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 30,
+        "balls": 62,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 48.39
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 29,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 4,
+        "strike_rate": 161.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Inglis": {
+      "batting": {
+        "runs": 28,
+        "balls": 49,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 57.14
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Labuschagne": {
+      "batting": {
+        "runs": 18,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 58.06
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Shamsi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 2,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Maharaj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 1,
+        "economy": 2.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: South Africa scored 212 in 49.4 overs at 4.33 RPO",
+    "vs Australia scored 215 in 47.2 overs at 4.57 RPO",
+    "Top batsman: DA Miller with 101 runs",
+    "Top bowler: MA Starc with 3 wickets"
+  ]
+}

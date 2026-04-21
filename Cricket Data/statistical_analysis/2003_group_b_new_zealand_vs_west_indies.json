@@ -1,0 +1,745 @@
+{
+  "match_info": {
+    "match_id": "f787774c8a7f",
+    "world_cup_year": 2003,
+    "stage": "Group B",
+    "venue": "St George's Park, Port Elizabeth",
+    "city": "Gqeberha",
+    "date": "2003-02-13",
+    "teams": {
+      "team1": "New Zealand",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "West Indies",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "20 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Stephen Fleming",
+      "team2": "Brian Lara"
+    },
+    "player_of_match": "AR Adams",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group B: New Zealand vs West Indies (2003-02-13) at Gqeberha.\nNew Zealand: 241/7 (50.0 ov)\n  NJ Astle: 46 (70b, 6x4, 0x6)\n  CL Cairns: 37 (44b, 2x4, 1x6)\n  BB McCullum: 36* (53b, 1x4, 0x6)\n  WW Hinds: 3/35 (10.0 ov)\n  VC Drakes: 2/49 (10.0 ov)\nWest Indies: 221 all out (49.4 ov)\n  RR Sarwan: 75 (99b, 6x4, 0x6)\n  RD Jacobs: 50 (73b, 3x4, 1x6)\n  AR Adams: 4/44 (9.4 ov)\n  JDP Oram: 2/26 (10.0 ov)\nNew Zealand won by 20 runs.\nPlayer of the Match: AR Adams.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 462,
+    "total_wickets_fallen": 17,
+    "average_run_rate": 4.67,
+    "highest_individual_score": 75,
+    "best_bowling_figures": "4/44",
+    "total_sixes": 6,
+    "total_fours": 30
+  },
+  "innings_analysis": [
+    {
+      "team": "New Zealand",
+      "total_runs": 241,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 4.82,
+      "top_batters": [
+        {
+          "name": "NJ Astle",
+          "runs": 46,
+          "balls": 70,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CL Cairns",
+          "runs": 37,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 84.09,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 36,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 67.92,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AR Adams",
+          "runs": 35,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 145.83,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SP Fleming",
+          "runs": 25,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "WW Hinds",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 3,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "VC Drakes",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "M Dillon",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 30,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 37,
+          "wickets": 1,
+          "economy": 7.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CL Hooper",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 42,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SP Fleming",
+          "runs": 42,
+          "wickets": 1,
+          "overs": "6.6"
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 58,
+          "wickets": 2,
+          "overs": "11.6"
+        },
+        {
+          "player": "SB Styris",
+          "runs": 66,
+          "wickets": 3,
+          "overs": "15.6"
+        },
+        {
+          "player": "NJ Astle",
+          "runs": 130,
+          "wickets": 4,
+          "overs": "28.2"
+        },
+        {
+          "player": "CL Cairns",
+          "runs": 141,
+          "wickets": 5,
+          "overs": "30.6"
+        },
+        {
+          "player": "L Vincent",
+          "runs": 147,
+          "wickets": 6,
+          "overs": "32.2"
+        },
+        {
+          "player": "CZ Harris",
+          "runs": 188,
+          "wickets": 7,
+          "overs": "43.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 55,
+        "wickets": 1,
+        "run_rate": 5.5,
+        "fours": 8,
+        "sixes": 1,
+        "dot_balls": 42,
+        "extras": 8
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 64,
+        "wickets": 1,
+        "run_rate": 6.4,
+        "fours": 1,
+        "sixes": 2,
+        "dot_balls": 23,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 221,
+      "total_wickets": 10,
+      "total_overs": 49.4,
+      "run_rate": 4.51,
+      "top_batters": [
+        {
+          "name": "RR Sarwan",
+          "runs": 75,
+          "balls": 99,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.76,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RD Jacobs",
+          "runs": 50,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 68.49,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 22,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 75.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "VC Drakes",
+          "runs": 16,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "RL Powell",
+          "runs": 14,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "AR Adams",
+          "overs": "9.4",
+          "maidens": 1,
+          "runs_conceded": 44,
+          "wickets": 4,
+          "economy": 4.55,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 26,
+          "wickets": 2,
+          "economy": 2.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 38,
+          "wickets": 1,
+          "economy": 3.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SB Styris",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 6.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "NJ Astle",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CH Gayle",
+          "runs": 34,
+          "wickets": 1,
+          "overs": "9.2"
+        },
+        {
+          "player": "BC Lara",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "9.6"
+        },
+        {
+          "player": "WW Hinds",
+          "runs": 42,
+          "wickets": 3,
+          "overs": "11.2"
+        },
+        {
+          "player": "CL Hooper",
+          "runs": 46,
+          "wickets": 4,
+          "overs": "13.3"
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 46,
+          "wickets": 5,
+          "overs": "14.1"
+        },
+        {
+          "player": "RL Powell",
+          "runs": 80,
+          "wickets": 6,
+          "overs": "20.1"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 178,
+          "wickets": 7,
+          "overs": "43.3"
+        },
+        {
+          "player": "RD Jacobs",
+          "runs": 191,
+          "wickets": 8,
+          "overs": "44.6"
+        },
+        {
+          "player": "NAM McLean",
+          "runs": 200,
+          "wickets": 9,
+          "overs": "47.1"
+        },
+        {
+          "player": "M Dillon",
+          "runs": 221,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 36,
+        "wickets": 2,
+        "run_rate": 3.6,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 47,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "9.4",
+        "balls": 58,
+        "runs": 64,
+        "wickets": 4,
+        "run_rate": 6.62,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 21,
+        "extras": 5
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "NJ Astle": {
+      "batting": {
+        "runs": 46,
+        "balls": 70,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 65.71
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL Cairns": {
+      "batting": {
+        "runs": 37,
+        "balls": 44,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 84.09
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BB McCullum": {
+      "batting": {
+        "runs": 36,
+        "balls": 53,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 67.92
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AR Adams": {
+      "batting": {
+        "runs": 35,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 145.83
+      },
+      "bowling": {
+        "overs": 9.666666666666666,
+        "maidens": 0,
+        "runs": 44,
+        "wickets": 4,
+        "economy": 4.55
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SP Fleming": {
+      "batting": {
+        "runs": 25,
+        "balls": 25,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "WW Hinds": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 3,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "VC Drakes": {
+      "batting": {
+        "runs": 16,
+        "balls": 18,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 88.89
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Dillon": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CH Gayle": {
+      "batting": {
+        "runs": 22,
+        "balls": 29,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 75.86
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 1,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL Hooper": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 0,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 75,
+        "balls": 99,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 75.76
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RD Jacobs": {
+      "batting": {
+        "runs": 50,
+        "balls": 73,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 68.49
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RL Powell": {
+      "batting": {
+        "runs": 14,
+        "balls": 14,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 2,
+        "economy": 2.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 1,
+        "economy": 3.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SB Styris": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 1,
+        "economy": 6.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: New Zealand scored 241 in 50.0 overs at 4.82 RPO",
+    "vs West Indies scored 221 in 49.4 overs at 4.51 RPO",
+    "Top batsman: RR Sarwan with 75 runs",
+    "Top bowler: AR Adams with 4 wickets"
+  ]
+}

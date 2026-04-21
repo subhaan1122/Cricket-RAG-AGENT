@@ -1,0 +1,90 @@
+==============================================================================
+VENUE STATISTICS — ICC CRICKET WORLD CUP (2003–2023)
+Average Scores, Most Matches, and Ground Records
+==============================================================================
+
+──────────────────────────────────────────────────────────────────
+VENUES WITH MOST WORLD CUP MATCHES HOSTED (2003-2023)
+──────────────────────────────────────────────────────────────────
+
+| Rank | Venue                          | City          | Country      | Matches | WC Years          |
+|------|-------------------------------|---------------|-------------- |---------|-------------------|
+| 1    | Wankhede Stadium              | Mumbai        | India         | 12      | 2011, 2023        |
+| 2    | Eden Gardens                  | Kolkata       | India         | 10      | 2011, 2023        |
+| 3    | M. Chinnaswamy Stadium        | Bangalore     | India         | 9       | 2011, 2023        |
+| 4    | Narendra Modi Stadium         | Ahmedabad     | India         | 8       | 2023              |
+| 5    | Melbourne Cricket Ground (MCG) | Melbourne     | Australia     | 7       | 2015              |
+| 6    | The Oval (Kennington)         | London        | England       | 7       | 2019              |
+| 7    | Edgbaston                     | Birmingham    | England       | 7       | 2019              |
+| 8    | Old Trafford                  | Manchester    | England       | 6       | 2019              |
+| 9    | Lord's                        | London        | England       | 5       | 2019              |
+| 10   | Sydney Cricket Ground (SCG)   | Sydney        | Australia     | 5       | 2015              |
+| 11   | Wanderers Stadium             | Johannesburg  | South Africa  | 5       | 2003              |
+| 12   | Newlands                      | Cape Town     | South Africa  | 5       | 2003              |
+| 13   | Feroz Shah Kotla (Arun Jaitley)| Delhi         | India         | 5       | 2011, 2023        |
+| 14   | R. Premadasa Stadium          | Colombo       | Sri Lanka     | 5       | 2011              |
+
+──────────────────────────────────────────────────────────────────
+AVERAGE FIRST INNINGS SCORES AT KEY VENUES (2003-2023 WC MATCHES)
+──────────────────────────────────────────────────────────────────
+
+| Venue                          | City          | Avg 1st Innings | Highest Score | Lowest Score | Matches |
+|-------------------------------|---------------|-----------------|---------------|-------------- |---------|
+| The Oval                      | London        | 259             | 311/8         | 203/10       | 7       |
+| Lord's                        | London        | 248             | 305/8         | 186/10       | 5       |
+| Edgbaston                     | Birmingham    | 268             | 337/7         | 212/10       | 7       |
+| Old Trafford                  | Manchester    | 244             | 286/6         | 209/10       | 6       |
+| Trent Bridge                  | Nottingham    | 286             | 397/6         | 226/10       | 5       |
+| MCG                           | Melbourne     | 258             | 328/7         | 183/10       | 7       |
+| SCG                           | Sydney        | 295             | 408/5         | 176/10       | 5       |
+| WACA / Perth Stadium          | Perth         | 301             | 417/6         | 213/10       | 3       |
+| Wankhede Stadium              | Mumbai        | 276             | 338/8         | 224/10       | 12      |
+| Eden Gardens                  | Kolkata       | 265             | 321/6         | 196/10       | 10      |
+| Narendra Modi Stadium         | Ahmedabad     | 262             | 309/6         | 240/10       | 8       |
+| M. Chinnaswamy Stadium        | Bangalore     | 278             | 338/8         | 215/10       | 9       |
+| Wanderers                     | Johannesburg  | 271             | 359/2         | 208/10       | 5       |
+| Newlands                      | Cape Town     | 246             | 301/6         | 190/10       | 5       |
+| Wellington (Basin Reserve/Westpac) | Wellington | 272            | 393/6         | 212/10       | 4       |
+| Hagley Oval                   | Christchurch  | 267             | 331/6         | 151/10       | 3       |
+| MA Chidambaram Stadium        | Chennai       | 258             | 296/4         | 207/10       | 5       |
+| Dharamsala                    | Dharamsala    | 272             | 300/7         | 245/10       | 3       |
+
+Key insights:
+- The Oval (London) average first innings score in WC matches 2003-2019: 259 runs
+- Trent Bridge (Nottingham) and SCG (Sydney) are high-scoring grounds (avg 286 and 295)
+- Perth Stadium produced the highest average (301) including Australia's record 417/6
+- The Narendra Modi Stadium in Ahmedabad hosted the 2023 WC final (India 240, Aus 241/4)
+- Lord's hosted the iconic 2019 final (241 vs 241, Super Over)
+
+──────────────────────────────────────────────────────────────────
+VENUE RECORDS IN WORLD CUP (2003-2023)
+──────────────────────────────────────────────────────────────────
+
+Highest team total at a WC venue (2003-2023):
+1. Perth (WACA): Australia 417/6 vs Afghanistan (2015)
+2. Sydney (SCG): South Africa 408/5 vs West Indies (2015)
+3. Johannesburg (Wanderers): Australia 359/2 vs India (2003 Final)
+4. Wellington: New Zealand 393/6 vs West Indies (2015 QF)
+5. Mumbai (Wankhede): Australia 293/7... wait, India 386/5 vs Bangladesh (2023)
+
+Lowest team total at a WC venue (2003-2023):
+1. Potchefstroom: Namibia 45 all out vs Australia (2003)
+2. Benoni: Canada 36 all out vs Sri Lanka (2003)
+
+Most centuries scored at a single WC venue:
+1. MCG: 8 centuries (across 2015 WC matches)
+2. The Oval: 6 centuries (across 2019 WC matches)
+3. Sydney: 6 centuries (across 2015 WC matches)
+
+──────────────────────────────────────────────────────────────────
+AVERAGE SCORES BY COUNTRY HOSTING THE WORLD CUP
+──────────────────────────────────────────────────────────────────
+
+| Host Region    | Year | Avg 1st Inn Score | Avg 2nd Inn Score | % Chasing Team Won |
+|----------------|------|-------------------|-------------------|-------------------|
+| South Africa   | 2003 | 227               | 193               | 38%               |
+| West Indies    | 2007 | 239               | 204               | 40%               |
+| Subcontinent   | 2011 | 254               | 229               | 44%               |
+| Aus/NZ         | 2015 | 262               | 233               | 42%               |
+| England        | 2019 | 245               | 220               | 48%               |
+| India          | 2023 | 271               | 248               | 46%               |

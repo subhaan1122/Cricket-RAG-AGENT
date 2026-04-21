@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2023
+Match: New Zealand vs Pakistan
+Stage: Group Stage
+Date: 2023-11-04
+Venue: M Chinnaswamy Stadium, Bengaluru, Bengaluru
+Captain New Zealand: Kane Williamson
+Captain Pakistan: Babar Azam
+
+Match Summary:
+  2023 World Cup Group Stage: New Zealand vs Pakistan (2023-11-04) at Bengaluru.
+
+New Zealand: 401/6 (50.0 ov)
+  R Ravindra: 108 (94b, 15x4, 1x6, SR 114.89)
+  KS Williamson: 95 (79b, 10x4, 2x6, SR 120.25)
+  GD Phillips: 41 (25b, 4x4, 2x6, SR 164.0)
+  MS Chapman: 39 (27b, 7x4, 0x6, SR 144.44)
+  DP Conway: 35 (39b, 6x4, 0x6, SR 89.74)
+  Mohammad Wasim: 3/60 (10.0 ov, Econ 6.0)
+  Iftikhar Ahmed: 1/55 (8.0 ov, Econ 6.88)
+  Hasan Ali: 1/82 (10.0 ov, Econ 8.2)
+  Haris Rauf: 1/85 (10.0 ov, Econ 8.5)
+  Shaheen Shah Afridi: 0/90 (10.0 ov, Econ 9.0)
+  Extras: 26
+
+Pakistan: 200/1 (25.3 ov)
+  Fakhar Zaman: 126 (81b, 8x4, 11x6, SR 155.56)
+  Babar Azam: 66 (63b, 6x4, 2x6, SR 104.76)
+  Abdullah Shafique: 4 (9b, 1x4, 0x6, SR 44.44)
+  TG Southee: 1/27 (5.0 ov, Econ 5.4)
+  DJ Mitchell: 0/1 (0.3 ov, Econ 2.0)
+  MJ Santner: 0/35 (5.0 ov, Econ 7.0)
+  TA Boult: 0/50 (6.0 ov, Econ 8.33)
+  GD Phillips: 0/42 (5.0 ov, Econ 8.4)
+  Extras: 4
+
+Batting Highlights:
+  Century: R Ravindra scored 108 off 94 balls (SR 114.89, 15 fours, 1 sixes)
+  Half-century: KS Williamson scored 95 off 79 balls (SR 120.25)
+  Quickfire innings: GD Phillips smashed 41 off 25 balls at SR 164.0
+  Century: Fakhar Zaman scored 126 off 81 balls (SR 155.56, 8 fours, 11 sixes)
+  Half-century: Babar Azam scored 66 off 63 balls (SR 104.76)
+
+Bowling Highlights:
+  Key spell: Mohammad Wasim took 3/60
+
+Captain Performance:
+  Kane Williamson (New Zealand): scored 95 off 79 balls
+  Babar Azam (Pakistan): scored 66 off 63 balls
+
+Key Moments:
+  New Zealand lost 6 early wickets.
+  Pakistan scored aggressively in the powerplay (75 runs at 7.5 RPO).
+
+Result: Pakistan won by 21 runs (D/L)
+Toss: Pakistan won and chose to field
+Player of the Match: Fakhar Zaman

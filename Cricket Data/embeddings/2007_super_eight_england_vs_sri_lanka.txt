@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2007
+Match: England vs Sri Lanka
+Stage: Super Eight
+Date: 2007-04-04
+Venue: Sir Vivian Richards Stadium, North Sound, Antigua
+Captain England: Michael Vaughan
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Super Eight: England vs Sri Lanka (2007-04-04) at Antigua.
+
+Sri Lanka: 235 all out (50.0 ov)
+  WU Tharanga: 62 (103b, 2x4, 0x6, SR 60.19)
+  DPMD Jayawardene: 56 (61b, 4x4, 0x6, SR 91.8)
+  ST Jayasuriya: 25 (26b, 4x4, 1x6, SR 96.15)
+  LPC Silva: 23 (37b, 2x4, 0x6, SR 62.16)
+  RP Arnold: 20 (22b, 1x4, 0x6, SR 90.91)
+  SI Mahmood: 4/50 (9.0 ov, Econ 5.56)
+  A Flintoff: 3/35 (10.0 ov, Econ 3.5)
+  PD Collingwood: 1/44 (10.0 ov, Econ 4.4)
+  JM Anderson: 0/38 (10.0 ov, Econ 3.8)
+  MP Vaughan: 0/14 (3.0 ov, Econ 4.67)
+  Extras: 17
+
+England: 233/8 (49.5 ov)
+  KP Pietersen: 58 (80b, 5x4, 1x6, SR 72.5)
+  RS Bopara: 52 (53b, 4x4, 0x6, SR 98.11)
+  IR Bell: 47 (71b, 4x4, 0x6, SR 66.2)
+  PA Nixon: 42 (44b, 2x4, 1x6, SR 95.45)
+  PD Collingwood: 14 (20b, 2x4, 0x6, SR 70.0)
+  CRD Fernando: 3/41 (9.0 ov, Econ 4.56)
+  SL Malinga: 2/50 (10.0 ov, Econ 5.0)
+  M Muralitharan: 1/48 (10.0 ov, Econ 4.8)
+  WPUJC Vaas: 1/45 (8.0 ov, Econ 5.62)
+  TM Dilshan: 0/16 (5.0 ov, Econ 3.2)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: WU Tharanga scored 62 off 103 balls (SR 60.19)
+  Half-century: DPMD Jayawardene scored 56 off 61 balls (SR 91.8)
+  Half-century: KP Pietersen scored 58 off 80 balls (SR 72.5)
+  Half-century: RS Bopara scored 52 off 53 balls (SR 98.11)
+
+Bowling Highlights:
+  Match-changing spell: SI Mahmood took 4/50
+  Key spell: A Flintoff took 3/35
+  Key spell: CRD Fernando took 3/41
+  Economical spell: TM Dilshan conceded 16 runs in 5.0 overs (Econ 3.2)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 56 off 61 balls
+
+Key Moments:
+  Sri Lanka lost 10 early wickets.
+  England lost 8 early wickets.
+
+Result: Sri Lanka won by 2 runs
+Toss: England won and chose to field
+Player of the Match: RS Bopara

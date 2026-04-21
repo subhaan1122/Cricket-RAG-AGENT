@@ -1,0 +1,54 @@
+{
+  "match_id": "19398b48df27",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Old Trafford, Manchester",
+  "city": "Manchester",
+  "date": "2019-06-18",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "England",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "150 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Gulbadin Naib",
+    "team2": "Eoin Morgan"
+  },
+  "player_of_match": "JC Buttler",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 397,
+      "wickets": 6,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 247,
+      "wickets": 8,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2019_group_stage_afghanistan_vs_england.json",
+  "match_summary": "2019 World Cup Group Stage: Afghanistan vs England (2019-06-18) at Manchester.\nEngland: 397/6 (50 ov)\nAfghanistan: 247/8 (50 ov)\nEngland won by 150 runs."
+}

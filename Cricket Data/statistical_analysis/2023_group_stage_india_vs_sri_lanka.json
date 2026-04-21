@@ -1,0 +1,751 @@
+{
+  "match_info": {
+    "match_id": "e2bf70333a40",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Wankhede Stadium, Mumbai",
+    "city": "Mumbai",
+    "date": "2023-11-02",
+    "teams": {
+      "team1": "India",
+      "team2": "Sri Lanka"
+    },
+    "toss": {
+      "winner": "Sri Lanka",
+      "decision": "field"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "302 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Rohit Sharma",
+      "team2": "Kusal Mendis"
+    },
+    "player_of_match": "Mohammed Shami",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: India vs Sri Lanka (2023-11-02) at Mumbai.\nIndia: 357/8 (50.0 ov)\n  Shubman Gill: 92 (92b, 11x4, 2x6)\n  V Kohli: 88 (94b, 11x4, 0x6)\n  SS Iyer: 82 (56b, 3x4, 6x6)\n  D Madushanka: 5/80 (10.0 ov)\nSri Lanka: 55 all out (19.4 ov)\n  Mohammed Shami: 5/18 (5.0 ov)\n  Mohammed Siraj: 3/16 (7.0 ov)\nIndia won by 302 runs.\nPlayer of the Match: Mohammed Shami.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 412,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 5.01,
+    "highest_individual_score": 92,
+    "best_bowling_figures": "5/80",
+    "total_sixes": 9,
+    "total_fours": 34
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 357,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 7.14,
+      "top_batters": [
+        {
+          "name": "Shubman Gill",
+          "runs": 92,
+          "balls": 92,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 88,
+          "balls": 94,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 93.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SS Iyer",
+          "runs": 82,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 6,
+          "strike_rate": 146.43,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RA Jadeja",
+          "runs": 35,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 145.83,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "KL Rahul",
+          "runs": 21,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.53,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Madushanka",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 80,
+          "wickets": 5,
+          "economy": 8.0,
+          "wides": 6,
+          "no_balls": 0
+        },
+        {
+          "name": "PVD Chameera",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 7.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 3.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MADI Hemantha",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 52,
+          "wickets": 0,
+          "economy": 6.5,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "M Theekshana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 67,
+          "wickets": 0,
+          "economy": 6.7,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "RG Sharma",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 193,
+          "wickets": 2,
+          "overs": "29.6"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 196,
+          "wickets": 3,
+          "overs": "31.3"
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 256,
+          "wickets": 4,
+          "overs": "39.2"
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 276,
+          "wickets": 5,
+          "overs": "41.3"
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 333,
+          "wickets": 6,
+          "overs": "47.3"
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 355,
+          "wickets": 7,
+          "overs": "49.3"
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 357,
+          "wickets": 8,
+          "overs": "49.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 60,
+        "wickets": 1,
+        "run_rate": 6.0,
+        "fours": 11,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 93,
+        "wickets": 4,
+        "run_rate": 9.3,
+        "fours": 3,
+        "sixes": 4,
+        "dot_balls": 13,
+        "extras": 7
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "total_runs": 55,
+      "total_wickets": 10,
+      "total_overs": 19.4,
+      "run_rate": 2.89,
+      "top_batters": [
+        {
+          "name": "CAK Rajitha",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Theekshana",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AD Mathews",
+          "runs": 12,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "D Madushanka",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 18,
+          "wickets": 5,
+          "economy": 3.6,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Mohammed Siraj",
+          "overs": "7.0",
+          "maidens": 2,
+          "runs_conceded": 16,
+          "wickets": 3,
+          "economy": 2.29,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "5.0",
+          "maidens": 1,
+          "runs_conceded": 8,
+          "wickets": 1,
+          "economy": 1.6,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "RA Jadeja",
+          "overs": "0.4",
+          "maidens": 0,
+          "runs_conceded": 4,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 3,
+          "wickets": 0,
+          "economy": 1.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "P Nissanka",
+          "runs": 0,
+          "wickets": 1,
+          "overs": "0.1"
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 2,
+          "wickets": 2,
+          "overs": "1.1"
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 2,
+          "wickets": 3,
+          "overs": "1.5"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 3,
+          "wickets": 4,
+          "overs": "3.1"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 14,
+          "wickets": 5,
+          "overs": "9.3"
+        },
+        {
+          "player": "MADI Hemantha",
+          "runs": 14,
+          "wickets": 6,
+          "overs": "9.4"
+        },
+        {
+          "player": "PVD Chameera",
+          "runs": 22,
+          "wickets": 7,
+          "overs": "11.3"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 29,
+          "wickets": 8,
+          "overs": "13.1"
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 49,
+          "wickets": 9,
+          "overs": "17.6"
+        },
+        {
+          "player": "D Madushanka",
+          "runs": 55,
+          "wickets": 10,
+          "overs": "19.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 14,
+        "wickets": 6,
+        "run_rate": 1.4,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 55,
+        "extras": 5
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Shubman Gill": {
+      "batting": {
+        "runs": 92,
+        "balls": 92,
+        "fours": 11,
+        "sixes": 2,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 88,
+        "balls": 94,
+        "fours": 11,
+        "sixes": 0,
+        "strike_rate": 93.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SS Iyer": {
+      "batting": {
+        "runs": 82,
+        "balls": 56,
+        "fours": 3,
+        "sixes": 6,
+        "strike_rate": 146.43
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RA Jadeja": {
+      "batting": {
+        "runs": 35,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 145.83
+      },
+      "bowling": {
+        "overs": 0.6666666666666666,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KL Rahul": {
+      "batting": {
+        "runs": 21,
+        "balls": 19,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 110.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Madushanka": {
+      "batting": {
+        "runs": 5,
+        "balls": 6,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 83.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 80,
+        "wickets": 5,
+        "economy": 8.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PVD Chameera": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 1,
+        "economy": 7.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Mathews": {
+      "batting": {
+        "runs": 12,
+        "balls": 25,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 48.0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 0,
+        "economy": 3.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MADI Hemantha": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 52,
+        "wickets": 0,
+        "economy": 6.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Theekshana": {
+      "batting": {
+        "runs": 12,
+        "balls": 23,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 52.17
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 67,
+        "wickets": 0,
+        "economy": 6.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CAK Rajitha": {
+      "batting": {
+        "runs": 14,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 82.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BKG Mendis": {
+      "batting": {
+        "runs": 1,
+        "balls": 10,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 10.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Shami": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 5,
+        "economy": 3.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Mohammed Siraj": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 3,
+        "economy": 2.29
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Bumrah": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 1,
+        "economy": 1.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Kuldeep Yadav": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 3,
+        "wickets": 0,
+        "economy": 1.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 357 in 50.0 overs at 7.14 RPO",
+    "vs Sri Lanka scored 55 in 19.4 overs at 2.89 RPO",
+    "Top batsman: Shubman Gill with 92 runs",
+    "Top bowler: D Madushanka with 5 wickets"
+  ]
+}

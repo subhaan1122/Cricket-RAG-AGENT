@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2019
+Match: England vs Pakistan
+Stage: Group Stage
+Date: 2019-06-03
+Venue: Trent Bridge, Nottingham
+Captain England: Eoin Morgan
+Captain Pakistan: Sarfaraz Ahmed
+
+Match Summary:
+  2019 World Cup Group Stage: England vs Pakistan (2019-06-03) at Nottingham.
+
+Pakistan: 348/8 (50.0 ov)
+  Mohammad Hafeez: 84 (62b, 8x4, 2x6, SR 135.48)
+  Babar Azam: 63 (66b, 4x4, 1x6, SR 95.45)
+  Sarfraz Ahmed: 55 (44b, 6x4, 0x6, SR 125.0)
+  Imam-ul-Haq: 44 (58b, 3x4, 1x6, SR 75.86)
+  Fakhar Zaman: 36 (40b, 6x4, 0x6, SR 90.0)
+  MM Ali: 3/50 (10.0 ov, Econ 5.0)
+  CR Woakes: 3/71 (8.0 ov, Econ 8.88)
+  MA Wood: 2/53 (10.0 ov, Econ 5.3)
+  BA Stokes: 0/43 (7.0 ov, Econ 6.14)
+  JC Archer: 0/79 (10.0 ov, Econ 7.9)
+  Extras: 20
+
+England: 334/9 (50.0 ov)
+  JE Root: 107 (104b, 10x4, 1x6, SR 102.88)
+  JC Buttler: 103 (76b, 9x4, 2x6, SR 135.53)
+  JM Bairstow: 32 (31b, 4x4, 1x6, SR 103.23)
+  CR Woakes: 21 (14b, 1x4, 1x6, SR 150.0)
+  MM Ali: 19 (20b, 1x4, 0x6, SR 95.0)
+  Wahab Riaz: 3/82 (10.0 ov, Econ 8.2)
+  Shadab Khan: 2/63 (10.0 ov, Econ 6.3)
+  Mohammad Amir: 2/67 (10.0 ov, Econ 6.7)
+  Shoaib Malik: 1/10 (3.0 ov, Econ 3.33)
+  Mohammad Hafeez: 1/43 (7.0 ov, Econ 6.14)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: Mohammad Hafeez scored 84 off 62 balls (SR 135.48)
+  Half-century: Babar Azam scored 63 off 66 balls (SR 95.45)
+  Half-century: Sarfraz Ahmed scored 55 off 44 balls (SR 125.0)
+  Century: JE Root scored 107 off 104 balls (SR 102.88, 10 fours, 1 sixes)
+  Century: JC Buttler scored 103 off 76 balls (SR 135.53, 9 fours, 2 sixes)
+
+Bowling Highlights:
+  Key spell: MM Ali took 3/50
+  Key spell: CR Woakes took 3/71
+  Key spell: Wahab Riaz took 3/82
+
+Captain Performance:
+  Sarfaraz Ahmed (Pakistan): scored 55 off 44 balls
+
+Key Moments:
+  Pakistan lost 8 early wickets.
+  England lost 9 early wickets.
+
+Result: Pakistan won by 14 runs
+Toss: England won and chose to field
+Player of the Match: Mohammad Hafeez

@@ -1,0 +1,338 @@
+{
+  "match_id": "30b22782befa",
+  "world_cup_year": 2007,
+  "stage": "Super Eight",
+  "venue": "National Cricket Stadium, St George's",
+  "city": "Grenada",
+  "date": "2007-04-16",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "7 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Mahela Jayawardene"
+  },
+  "player_of_match": "NW Bracken",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 226,
+      "wickets": 10,
+      "overs": 49.4,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "DPMD Jayawardene",
+          "runs": 72,
+          "balls": 88,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "LPC Silva",
+          "runs": 64,
+          "balls": 107,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.81,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MF Maharoof",
+          "runs": 25,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 113.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HMCM Bandara",
+          "runs": 17,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 89.47,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ST Jayasuriya",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NW Bracken",
+          "overs": "9.4",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 4,
+          "economy": 1.97,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "GB Hogg",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 48,
+          "wickets": 2,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "SW Tait",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 2,
+          "economy": 6.8,
+          "wides": 6,
+          "no_balls": 1
+        },
+        {
+          "name": "MJ Clarke",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ST Jayasuriya",
+          "runs": 26,
+          "wickets": 1,
+          "overs": "4.3"
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 27,
+          "wickets": 2,
+          "overs": "5.3"
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 27,
+          "wickets": 3,
+          "overs": "6.4"
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 167,
+          "wickets": 4,
+          "overs": "37.2"
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 174,
+          "wickets": 5,
+          "overs": "39.4"
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 178,
+          "wickets": 6,
+          "overs": "40.6"
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 183,
+          "wickets": 7,
+          "overs": "42.4"
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 184,
+          "wickets": 8,
+          "overs": "43.3"
+        },
+        {
+          "player": "HMCM Bandara",
+          "runs": 218,
+          "wickets": 9,
+          "overs": "48.6"
+        },
+        {
+          "player": "MF Maharoof",
+          "runs": 226,
+          "wickets": 10,
+          "overs": "49.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Australia",
+      "runs": 232,
+      "wickets": 3,
+      "overs": 42.4,
+      "extras": 9,
+      "top_batters": [
+        {
+          "name": "RT Ponting",
+          "runs": 66,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 82.5,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "A Symonds",
+          "runs": 63,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 88.73,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 41,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 136.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 30,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.22,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 23,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.19,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RP Arnold",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 2,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "HMCM Bandara",
+          "overs": "9.4",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 1,
+          "economy": 5.48,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TM Dilshan",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 3.17,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KMDN Kulasekara",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "ST Jayasuriya",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 5.33,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 76,
+          "wickets": 1,
+          "overs": "11.5"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 79,
+          "wickets": 2,
+          "overs": "13.3"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 126,
+          "wickets": 3,
+          "overs": "23.1"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_super_eight_australia_vs_sri_lanka.json",
+  "match_summary": "2007 World Cup Super Eight: Australia vs Sri Lanka (2007-04-16) at Grenada.\nSri Lanka: 226 all out (49.4 ov)\n  DPMD Jayawardene: 72 (88b, 5x4, 1x6)\n  LPC Silva: 64 (107b, 6x4, 0x6)\n  NW Bracken: 4/19 (9.4 ov)\n  GB Hogg: 2/35 (10.0 ov)\n  GD McGrath: 2/48 (9.0 ov)\nAustralia: 232/3 (42.4 ov)\n  RT Ponting: 66* (80b, 4x4, 1x6)\n  A Symonds: 63* (71b, 5x4, 2x6)\n  ML Hayden: 41 (30b, 5x4, 2x6)\n  RP Arnold: 2/20 (4.0 ov)\nAustralia won by 7 wickets.\nPlayer of the Match: NW Bracken."
+}

@@ -1,0 +1,52 @@
+ICC Cricket World Cup 2015
+Match: South Africa vs Sri Lanka
+Stage: Quarter-Final
+Date: 2015-03-18
+Venue: Sydney Cricket Ground
+Captain South Africa: AB de Villiers
+Captain Sri Lanka: Angelo Mathews
+
+Match Summary:
+  2015 World Cup Quarter-Final: South Africa vs Sri Lanka (2015-03-18) at Sydney Cricket Ground.
+
+Sri Lanka: 133 all out (37.2 ov)
+  KC Sangakkara: 45 (96b, 3x4, 0x6, SR 46.88)
+  HDRL Thirimanne: 41 (48b, 5x4, 0x6, SR 85.42)
+  AD Mathews: 19 (32b, 1x4, 0x6, SR 59.38)
+  DPMD Jayawardene: 4 (16b, 0x4, 0x6, SR 25.0)
+  SL Malinga: 3 (6b, 0x4, 0x6, SR 50.0)
+  Imran Tahir: 4/26 (8.2 ov, Econ 3.12)
+  JP Duminy: 3/29 (9.0 ov, Econ 3.22)
+  DW Steyn: 1/18 (7.0 ov, Econ 2.57)
+  M Morkel: 1/27 (7.0 ov, Econ 3.86)
+  KJ Abbott: 1/27 (6.0 ov, Econ 4.5)
+  Extras: 15
+
+South Africa: 134/1 (18.0 ov)
+  Q de Kock: 78 (57b, 11x4, 0x6, SR 136.84)
+  F du Plessis: 21 (31b, 0x4, 0x6, SR 67.74)
+  HM Amla: 16 (23b, 1x4, 0x6, SR 69.57)
+  SL Malinga: 1/43 (6.0 ov, Econ 7.17)
+  PHT Kaushal: 0/25 (6.0 ov, Econ 4.17)
+  TM Dilshan: 0/10 (2.0 ov, Econ 5.0)
+  NLTC Perera: 0/10 (1.0 ov, Econ 10.0)
+  KMDN Kulasekara: 0/13 (1.0 ov, Econ 13.0)
+  Extras: 19
+
+Batting Highlights:
+  Half-century: Q de Kock scored 78 off 57 balls (SR 136.84)
+
+Bowling Highlights:
+  Match-changing spell: Imran Tahir took 4/26
+  Key spell: JP Duminy took 3/29
+  Economical spell: DW Steyn conceded 18 runs in 7.0 overs (Econ 2.57)
+
+Captain Performance:
+  Angelo Mathews (Sri Lanka): scored 19 off 32 balls
+
+Key Moments:
+  Sri Lanka lost 10 early wickets.
+
+Result: South Africa won by 9 wickets
+Toss: Sri Lanka won and chose to bat
+Player of the Match: Imran Tahir

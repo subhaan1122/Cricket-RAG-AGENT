@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Kenya vs Bangladesh
+Stage: Group B
+Date: 2003-03-01
+Venue: New Wanderers Stadium, Johannesburg, Johannesburg
+Captain Kenya: Steve Tikolo
+Captain Bangladesh: Khaled Mashud
+
+Match Summary:
+  2003 World Cup Group B: Kenya vs Bangladesh (2003-03-01) at Johannesburg.
+
+Kenya: 217/7 (50.0 ov)
+  MO Odumbe: 52 (46b, 4x4, 0x6, SR 113.04)
+  RD Shah: 37 (54b, 6x4, 0x6, SR 68.52)
+  BJ Patel: 32 (60b, 6x4, 0x6, SR 53.33)
+  SO Tikolo: 27 (45b, 2x4, 0x6, SR 60.0)
+  CO Obuya: 22 (21b, 1x4, 1x6, SR 104.76)
+  Sanwar Hossain: 3/49 (10.0 ov, Econ 4.9)
+  Tapash Baisya: 1/22 (8.0 ov, Econ 2.75)
+  Khaled Mahmud: 1/39 (10.0 ov, Econ 3.9)
+  Manjural Islam: 1/30 (7.0 ov, Econ 4.29)
+  Mohammad Rafique: 1/35 (7.0 ov, Econ 5.0)
+  Extras: 14
+
+Bangladesh: 185 all out (47.2 ov)
+  Tushar Imran: 48 (81b, 3x4, 1x6, SR 59.26)
+  Akram Khan: 44 (60b, 3x4, 0x6, SR 73.33)
+  Alok Kapali: 18 (26b, 1x4, 1x6, SR 69.23)
+  Sanwar Hossain: 16 (28b, 1x4, 0x6, SR 57.14)
+  Al Sahariar: 14 (12b, 2x4, 1x6, SR 116.67)
+  MO Odumbe: 4/38 (10.0 ov, Econ 3.8)
+  SO Tikolo: 3/14 (5.2 ov, Econ 2.62)
+  MA Suji: 2/27 (8.0 ov, Econ 3.38)
+  CO Obuya: 1/40 (9.0 ov, Econ 4.44)
+  TM Odoyo: 0/9 (4.0 ov, Econ 2.25)
+  Extras: 18
+
+Batting Highlights:
+  Half-century: MO Odumbe scored 52 off 46 balls (SR 113.04)
+
+Bowling Highlights:
+  Key spell: Sanwar Hossain took 3/49
+  Economical spell: Tapash Baisya conceded 22 runs in 8.0 overs (Econ 2.75)
+  Match-changing spell: MO Odumbe took 4/38
+  Key spell: SO Tikolo took 3/14
+  Economical spell: MA Suji conceded 27 runs in 8.0 overs (Econ 3.38)
+
+Captain Performance:
+  Steve Tikolo (Kenya): scored 27 off 45 balls
+
+Key Moments:
+  Kenya lost 7 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: Kenya won by 32 runs
+Toss: Kenya won and chose to bat
+Player of the Match: MO Odumbe

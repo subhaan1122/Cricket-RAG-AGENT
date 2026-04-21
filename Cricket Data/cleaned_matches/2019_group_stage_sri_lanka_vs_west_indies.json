@@ -1,0 +1,350 @@
+{
+  "match_id": "e5ca92cc183c",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Riverside Ground",
+  "city": "Chester-le-Street",
+  "date": "2019-07-01",
+  "teams": {
+    "team1": "Sri Lanka",
+    "team2": "West Indies"
+  },
+  "toss": {
+    "winner": "West Indies",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Sri Lanka",
+    "margin": "23 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Dimuth Karunaratne",
+    "team2": "Jason Holder"
+  },
+  "player_of_match": "WIA Fernando",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 338,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "WIA Fernando",
+          "runs": 104,
+          "balls": 103,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 100.97,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MDKJ Perera",
+          "runs": 64,
+          "balls": 51,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 125.49,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "runs": 45,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 39,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.12,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "FDM Karunaratne",
+          "runs": 32,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "JO Holder",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 2,
+          "economy": 5.9,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "FA Allen",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "O Thomas",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 5.8,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "SS Cottrell",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 69,
+          "wickets": 1,
+          "economy": 6.9,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CR Brathwaite",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 53,
+          "wickets": 0,
+          "economy": 7.57,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 93,
+          "wickets": 1,
+          "overs": "15.2"
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 104,
+          "wickets": 2,
+          "overs": "18.1"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 189,
+          "wickets": 3,
+          "overs": "31.5"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 247,
+          "wickets": 4,
+          "overs": "39.1"
+        },
+        {
+          "player": "WIA Fernando",
+          "runs": 314,
+          "wickets": 5,
+          "overs": "47.2"
+        },
+        {
+          "player": "I Udana",
+          "runs": 327,
+          "wickets": 6,
+          "overs": "48.6"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "runs": 315,
+      "wickets": 9,
+      "overs": 50.0,
+      "extras": 27,
+      "top_batters": [
+        {
+          "name": "N Pooran",
+          "runs": 118,
+          "balls": 103,
+          "fours": 11,
+          "sixes": 4,
+          "strike_rate": 114.56,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "FA Allen",
+          "runs": 51,
+          "balls": 32,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 159.38,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "CH Gayle",
+          "runs": 35,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 72.92,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SO Hetmyer",
+          "runs": 29,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.32,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "JO Holder",
+          "runs": 26,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SL Malinga",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 55,
+          "wickets": 3,
+          "economy": 5.5,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 6,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JDF Vandersay",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 1,
+          "economy": 7.14,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "CAK Rajitha",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 7.6,
+          "wides": 4,
+          "no_balls": 1
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 0,
+          "economy": 4.9,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SW Ambris",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.2"
+        },
+        {
+          "player": "SD Hope",
+          "runs": 22,
+          "wickets": 2,
+          "overs": "4.6"
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 71,
+          "wickets": 3,
+          "overs": "15.2"
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 84,
+          "wickets": 4,
+          "overs": "17.5"
+        },
+        {
+          "player": "JO Holder",
+          "runs": 145,
+          "wickets": 5,
+          "overs": "28.2"
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 199,
+          "wickets": 6,
+          "overs": "34.3"
+        },
+        {
+          "player": "FA Allen",
+          "runs": 282,
+          "wickets": 7,
+          "overs": "44.1"
+        },
+        {
+          "player": "N Pooran",
+          "runs": 308,
+          "wickets": 8,
+          "overs": "47.1"
+        },
+        {
+          "player": "O Thomas",
+          "runs": 311,
+          "wickets": 9,
+          "overs": "48.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_sri_lanka_vs_west_indies.json",
+  "match_summary": "2019 World Cup Group Stage: Sri Lanka vs West Indies (2019-07-01) at Chester-le-Street.\nSri Lanka: 338/6 (50.0 ov)\n  WIA Fernando: 104 (103b, 9x4, 2x6)\n  MDKJ Perera: 64 (51b, 8x4, 0x6)\n  HDRL Thirimanne: 45* (33b, 4x4, 0x6)\n  JO Holder: 2/59 (10.0 ov)\nWest Indies: 315/9 (50.0 ov)\n  N Pooran: 118 (103b, 11x4, 4x6)\n  FA Allen: 51 (32b, 7x4, 1x6)\n  CH Gayle: 35 (48b, 1x4, 2x6)\n  SL Malinga: 3/55 (10.0 ov)\nSri Lanka won by 23 runs.\nPlayer of the Match: WIA Fernando."
+}

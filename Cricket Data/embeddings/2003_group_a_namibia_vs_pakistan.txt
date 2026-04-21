@@ -1,0 +1,53 @@
+ICC Cricket World Cup 2003
+Match: Pakistan vs Namibia
+Stage: Group A
+Date: 2003-02-16
+Venue: De Beers Diamond Oval, Kimberley, Kimberley
+Captain Pakistan: Waqar Younis
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: Pakistan vs Namibia (2003-02-16) at Kimberley.
+
+Pakistan: 255/9 (50.0 ov)
+  Saleem Elahi: 63 (100b, 5x4, 0x6, SR 63.0)
+  Yousuf Youhana: 43 (55b, 3x4, 0x6, SR 78.18)
+  Rashid Latif: 36 (30b, 4x4, 0x6, SR 120.0)
+  Younis Khan: 28 (39b, 2x4, 0x6, SR 71.79)
+  Saeed Anwar: 23 (35b, 3x4, 0x6, SR 65.71)
+  BL Kotze: 2/51 (10.0 ov, Econ 5.1)
+  G Snyman: 2/51 (8.0 ov, Econ 6.38)
+  DB Kotze: 1/32 (8.0 ov, Econ 4.0)
+  LJ Burger: 1/45 (10.0 ov, Econ 4.5)
+  AJ Burger: 1/18 (4.0 ov, Econ 4.5)
+  Extras: 22
+
+Namibia: 84 all out (17.3 ov)
+  BL Kotze: 24 (29b, 3x4, 0x6, SR 82.76)
+  AJ Burger: 14 (18b, 1x4, 0x6, SR 77.78)
+  RJ van Vuuren: 14 (19b, 2x4, 0x6, SR 73.68)
+  DB Kotze: 8 (25b, 0x4, 0x6, SR 32.0)
+  GB Murgatroyd: 4 (4b, 1x4, 0x6, SR 100.0)
+  Wasim Akram: 5/28 (8.5 ov, Econ 3.17)
+  Shoaib Akhtar: 4/46 (8.0 ov, Econ 5.75)
+  Saqlain Mushtaq: 1/1 (0.4 ov, Econ 1.5)
+  Extras: 17
+
+Batting Highlights:
+  Half-century: Saleem Elahi scored 63 off 100 balls (SR 63.0)
+
+Bowling Highlights:
+  Match-changing spell: Wasim Akram took 5/28
+  Match-changing spell: Shoaib Akhtar took 4/46
+
+Captain Performance:
+  Deon Kotze (Namibia): scored 24 off 29 balls
+
+Key Moments:
+  Pakistan lost 9 early wickets.
+  Namibia lost 10 early wickets.
+  Namibia lost 8 wickets in the powerplay.
+
+Result: Pakistan won by 171 runs
+Toss: Pakistan won and chose to bat
+Player of the Match: Wasim Akram

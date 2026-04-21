@@ -1,0 +1,63 @@
+ICC Cricket World Cup 2007
+Match: Canada vs New Zealand
+Stage: Group C
+Date: 2007-03-22
+Venue: Beausejour Stadium, Gros Islet, St Lucia
+Captain Canada: John Davison
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2007 World Cup Group C: Canada vs New Zealand (2007-03-22) at St Lucia.
+
+New Zealand: 363/5 (50.1 ov)
+  L Vincent: 101 (117b, 9x4, 1x6, SR 86.32)
+  SP Fleming: 66 (67b, 8x4, 1x6, SR 98.51)
+  BB McCullum: 52 (21b, 1x4, 5x6, SR 247.62)
+  PG Fulton: 47 (47b, 4x4, 1x6, SR 100.0)
+  JDP Oram: 35 (27b, 0x4, 3x6, SR 129.63)
+  KT Sandher: 2/58 (10.0 ov, Econ 5.8)
+  JM Davison: 2/67 (10.0 ov, Econ 6.7)
+  AM Samad: 1/31 (2.3 ov, Econ 12.4)
+  U Bhatti: 0/25 (5.3 ov, Econ 4.55)
+  AC Cummins: 0/59 (10.0 ov, Econ 5.9)
+  Extras: 24
+
+Canada: 249 all out (49.2 ov)
+  JM Davison: 52 (31b, 9x4, 1x6, SR 167.74)
+  IS Billcliff: 50 (56b, 4x4, 0x6, SR 89.29)
+  GEF Barnett: 40 (72b, 5x4, 0x6, SR 55.56)
+  A Bagai: 37 (64b, 2x4, 0x6, SR 57.81)
+  S Dhaniram: 17 (19b, 1x4, 1x6, SR 89.47)
+  JS Patel: 3/25 (9.2 ov, Econ 2.68)
+  DL Vettori: 3/57 (10.0 ov, Econ 5.7)
+  SB Styris: 1/21 (6.0 ov, Econ 3.5)
+  MJ Mason: 1/60 (8.0 ov, Econ 7.5)
+  JDP Oram: 0/16 (7.0 ov, Econ 2.29)
+  Extras: 23
+
+Batting Highlights:
+  Century: L Vincent scored 101 off 117 balls (SR 86.32, 9 fours, 1 sixes)
+  Half-century: SP Fleming scored 66 off 67 balls (SR 98.51)
+  Half-century: BB McCullum scored 52 off 21 balls (SR 247.62)
+  Half-century: JM Davison scored 52 off 31 balls (SR 167.74)
+  Half-century: IS Billcliff scored 50 off 56 balls (SR 89.29)
+
+Bowling Highlights:
+  Key spell: JS Patel took 3/25
+  Key spell: DL Vettori took 3/57
+  Economical spell: SB Styris conceded 21 runs in 6.0 overs (Econ 3.5)
+  Economical spell: JDP Oram conceded 16 runs in 7.0 overs (Econ 2.29)
+
+Captain Performance:
+  Stephen Fleming (New Zealand): scored 66 off 67 balls
+  John Davison (Canada): scored 52 off 31 balls
+
+Key Moments:
+  New Zealand lost 5 early wickets.
+  Canada lost 10 early wickets.
+  New Zealand exploded in the death overs (103 runs at 10.3 RPO).
+  Canada scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: New Zealand won by 114 runs
+Toss: Canada won and chose to field
+Player of the Match: L Vincent

@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: Australia vs India
+Stage: Group Stage
+Date: 2023-10-08
+Venue: MA Chidambaram Stadium, Chepauk, Chennai, Chennai
+Captain Australia: Pat Cummins
+Captain India: Rohit Sharma
+
+Match Summary:
+  2023 World Cup Group Stage: Australia vs India (2023-10-08) at Chennai.
+
+Australia: 199 all out (49.3 ov)
+  SPD Smith: 46 (71b, 5x4, 0x6, SR 64.79)
+  DA Warner: 41 (52b, 6x4, 0x6, SR 78.85)
+  MA Starc: 28 (35b, 2x4, 1x6, SR 80.0)
+  M Labuschagne: 27 (41b, 1x4, 0x6, SR 65.85)
+  PJ Cummins: 15 (24b, 1x4, 1x6, SR 62.5)
+  RA Jadeja: 3/28 (10.0 ov, Econ 2.8)
+  JJ Bumrah: 2/35 (10.0 ov, Econ 3.5)
+  Kuldeep Yadav: 2/42 (10.0 ov, Econ 4.2)
+  R Ashwin: 1/34 (10.0 ov, Econ 3.4)
+  Mohammed Siraj: 1/26 (6.3 ov, Econ 4.0)
+  Extras: 12
+
+India: 201/4 (41.2 ov)
+  KL Rahul: 97 (115b, 8x4, 2x6, SR 84.35)
+  V Kohli: 85 (116b, 6x4, 0x6, SR 73.28)
+  HH Pandya: 11 (8b, 0x4, 1x6, SR 137.5)
+  Ishan Kishan: 0 (1b, 0x4, 0x6, SR 0.0)
+  SS Iyer: 0 (3b, 0x4, 0x6, SR 0.0)
+  JR Hazlewood: 3/38 (9.0 ov, Econ 4.22)
+  MA Starc: 1/31 (8.0 ov, Econ 3.88)
+  GJ Maxwell: 0/33 (8.0 ov, Econ 4.12)
+  PJ Cummins: 0/33 (6.2 ov, Econ 5.21)
+  C Green: 0/11 (2.0 ov, Econ 5.5)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: KL Rahul scored 97 off 115 balls (SR 84.35)
+  Half-century: V Kohli scored 85 off 116 balls (SR 73.28)
+
+Bowling Highlights:
+  Key spell: RA Jadeja took 3/28
+  Economical spell: JJ Bumrah conceded 35 runs in 10.0 overs (Econ 3.5)
+  Economical spell: R Ashwin conceded 34 runs in 10.0 overs (Econ 3.4)
+  Key spell: JR Hazlewood took 3/38
+
+Captain Performance:
+  Pat Cummins (Australia): scored 15 off 24 balls
+
+Key Moments:
+  Australia lost 10 early wickets.
+  India lost 4 early wickets.
+  India lost 3 wickets in the powerplay.
+  India exploded in the death overs (19 runs at 14.25 RPO).
+
+Result: India won by 6 wickets
+Toss: Australia won and chose to bat
+Player of the Match: KL Rahul

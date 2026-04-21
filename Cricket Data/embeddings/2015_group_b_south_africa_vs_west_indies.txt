@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2015
+Match: South Africa vs West Indies
+Stage: Group B
+Date: 2015-02-27
+Venue: Sydney Cricket Ground
+Captain South Africa: AB de Villiers
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Group B: South Africa vs West Indies (2015-02-27) at Sydney Cricket Ground.
+
+South Africa: 408/5 (50.0 ov)
+  AB de Villiers: 162 (66b, 16x4, 8x6, SR 245.45)
+  HM Amla: 65 (88b, 1x4, 1x6, SR 73.86)
+  F du Plessis: 62 (70b, 3x4, 0x6, SR 88.57)
+  RR Rossouw: 61 (39b, 5x4, 1x6, SR 156.41)
+  DA Miller: 20 (16b, 0x4, 0x6, SR 125.0)
+  CH Gayle: 2/21 (4.0 ov, Econ 5.25)
+  AD Russell: 2/74 (9.0 ov, Econ 8.22)
+  JO Holder: 1/104 (10.0 ov, Econ 10.4)
+  MN Samuels: 0/14 (2.0 ov, Econ 7.0)
+  DJG Sammy: 0/50 (7.0 ov, Econ 7.14)
+  Extras: 16
+
+West Indies: 151 all out (33.1 ov)
+  JO Holder: 56 (48b, 3x4, 4x6, SR 116.67)
+  DR Smith: 31 (34b, 4x4, 1x6, SR 91.18)
+  D Ramdin: 22 (47b, 2x4, 0x6, SR 46.81)
+  JE Taylor: 15 (18b, 2x4, 0x6, SR 83.33)
+  JL Carter: 10 (20b, 1x4, 0x6, SR 50.0)
+  Imran Tahir: 5/45 (10.0 ov, Econ 4.5)
+  M Morkel: 2/23 (5.1 ov, Econ 4.45)
+  KJ Abbott: 2/37 (8.0 ov, Econ 4.62)
+  DW Steyn: 1/24 (7.0 ov, Econ 3.43)
+  F du Plessis: 0/17 (3.0 ov, Econ 5.67)
+  Extras: 8
+
+Batting Highlights:
+  Century: AB de Villiers scored 162 off 66 balls (SR 245.45, 16 fours, 8 sixes)
+  Half-century: HM Amla scored 65 off 88 balls (SR 73.86)
+  Half-century: F du Plessis scored 62 off 70 balls (SR 88.57)
+  Half-century: RR Rossouw scored 61 off 39 balls (SR 156.41)
+  Half-century: JO Holder scored 56 off 48 balls (SR 116.67)
+
+Bowling Highlights:
+  Match-changing spell: Imran Tahir took 5/45
+  Economical spell: DW Steyn conceded 24 runs in 7.0 overs (Econ 3.43)
+
+Captain Performance:
+  AB de Villiers (South Africa): scored 162 off 66 balls
+  Jason Holder (West Indies): scored 56 off 48 balls
+
+Key Moments:
+  South Africa lost 5 early wickets.
+  West Indies lost 10 early wickets.
+  South Africa exploded in the death overs (150 runs at 15.0 RPO).
+
+Result: South Africa won by 257 runs
+Toss: South Africa won and chose to bat
+Player of the Match: AB de Villiers

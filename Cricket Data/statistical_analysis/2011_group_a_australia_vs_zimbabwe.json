@@ -1,0 +1,759 @@
+{
+  "match_info": {
+    "match_id": "b2195a1fe7d0",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "Sardar Patel Stadium, Motera",
+    "city": "Ahmedabad",
+    "date": "2011-02-21",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Zimbabwe"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "91 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Elton Chigumbura"
+    },
+    "player_of_match": "SR Watson",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Australia vs Zimbabwe (2011-02-21) at Ahmedabad.\nAustralia: 262/6 (50.0 ov)\n  SR Watson: 79 (92b, 8x4, 1x6)\n  MJ Clarke: 58* (55b, 4x4, 0x6)\n  CB Mpofu: 2/58 (9.0 ov)\nZimbabwe: 171 all out (46.2 ov)\n  AG Cremer: 37 (51b, 4x4, 0x6)\n  MG Johnson: 4/19 (9.2 ov)\n  JJ Krejza: 2/28 (8.0 ov)\n  SW Tait: 2/34 (9.0 ov)\nAustralia won by 91 runs.\nPlayer of the Match: SR Watson.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 433,
+    "total_wickets_fallen": 16,
+    "average_run_rate": 4.48,
+    "highest_individual_score": 79,
+    "best_bowling_figures": "4/19",
+    "total_sixes": 3,
+    "total_fours": 23
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 262,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 5.24,
+      "top_batters": [
+        {
+          "name": "SR Watson",
+          "runs": 79,
+          "balls": 92,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 85.87,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 58,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.45,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BJ Haddin",
+          "runs": 29,
+          "balls": 66,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.94,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 28,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "CL White",
+          "runs": 22,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "CB Mpofu",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 6.44,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "AG Cremer",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RW Price",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "P Utseya",
+          "overs": "10.0",
+          "maidens": 2,
+          "runs_conceded": 43,
+          "wickets": 1,
+          "economy": 4.3,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "SC Williams",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 4.83,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "BJ Haddin",
+          "runs": 61,
+          "wickets": 1,
+          "overs": "18.5"
+        },
+        {
+          "player": "SR Watson",
+          "runs": 140,
+          "wickets": 2,
+          "overs": "31.2"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 144,
+          "wickets": 3,
+          "overs": "32.5"
+        },
+        {
+          "player": "CL White",
+          "runs": 207,
+          "wickets": 4,
+          "overs": "44.6"
+        },
+        {
+          "player": "DJ Hussey",
+          "runs": 241,
+          "wickets": 5,
+          "overs": "48.1"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 254,
+          "wickets": 6,
+          "overs": "49.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 28,
+        "wickets": 0,
+        "run_rate": 2.8,
+        "fours": 2,
+        "sixes": 0,
+        "dot_balls": 39,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 90,
+        "wickets": 3,
+        "run_rate": 9.0,
+        "fours": 7,
+        "sixes": 2,
+        "dot_balls": 16,
+        "extras": 9
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Zimbabwe",
+      "total_runs": 171,
+      "total_wickets": 10,
+      "total_overs": 46.2,
+      "run_rate": 3.72,
+      "top_batters": [
+        {
+          "name": "AG Cremer",
+          "runs": 37,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.55,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SC Williams",
+          "runs": 28,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 70.0,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "P Utseya",
+          "runs": 24,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BRM Taylor",
+          "runs": 16,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CK Coventry",
+          "runs": 14,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "MG Johnson",
+          "overs": "9.2",
+          "maidens": 2,
+          "runs_conceded": 19,
+          "wickets": 4,
+          "economy": 2.04,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Krejza",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 2,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 34,
+          "wickets": 2,
+          "economy": 3.78,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "DJ Hussey",
+          "overs": "4.0",
+          "maidens": 1,
+          "runs_conceded": 12,
+          "wickets": 1,
+          "economy": 3.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "B Lee",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 34,
+          "wickets": 1,
+          "economy": 4.25,
+          "wides": 1,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "CK Coventry",
+          "runs": 22,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "T Taibu",
+          "runs": 40,
+          "wickets": 2,
+          "overs": "10.3"
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 40,
+          "wickets": 3,
+          "overs": "11.2"
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 44,
+          "wickets": 4,
+          "overs": "12.3"
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 88,
+          "wickets": 5,
+          "overs": "21.2"
+        },
+        {
+          "player": "SC Williams",
+          "runs": 96,
+          "wickets": 6,
+          "overs": "24.6"
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 104,
+          "wickets": 7,
+          "overs": "27.2"
+        },
+        {
+          "player": "P Utseya",
+          "runs": 153,
+          "wickets": 8,
+          "overs": "39.2"
+        },
+        {
+          "player": "AG Cremer",
+          "runs": 167,
+          "wickets": 9,
+          "overs": "42.4"
+        },
+        {
+          "player": "CB Mpofu",
+          "runs": 171,
+          "wickets": 10,
+          "overs": "46.2"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 39,
+        "wickets": 1,
+        "run_rate": 3.9,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 41,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "6.2",
+        "balls": 38,
+        "runs": 16,
+        "wickets": 2,
+        "run_rate": 2.53,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 27,
+        "extras": 2
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "SR Watson": {
+      "batting": {
+        "runs": 79,
+        "balls": 92,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 85.87
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Clarke": {
+      "batting": {
+        "runs": 58,
+        "balls": 55,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 105.45
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BJ Haddin": {
+      "batting": {
+        "runs": 29,
+        "balls": 66,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 43.94
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 28,
+        "balls": 36,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 77.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CL White": {
+      "batting": {
+        "runs": 22,
+        "balls": 36,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 61.11
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CB Mpofu": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 58,
+        "wickets": 2,
+        "economy": 6.44
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AG Cremer": {
+      "batting": {
+        "runs": 37,
+        "balls": 51,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 72.55
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 1,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RW Price": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "P Utseya": {
+      "batting": {
+        "runs": 24,
+        "balls": 45,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 53.33
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 4.3
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Williams": {
+      "batting": {
+        "runs": 28,
+        "balls": 40,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 70.0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 0,
+        "economy": 4.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BRM Taylor": {
+      "batting": {
+        "runs": 16,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CK Coventry": {
+      "batting": {
+        "runs": 14,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 58.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.333333333333334,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 4,
+        "economy": 2.04
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Krejza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 2,
+        "economy": 3.78
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJ Hussey": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 34,
+        "wickets": 1,
+        "economy": 4.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 262 in 50.0 overs at 5.24 RPO",
+    "vs Zimbabwe scored 171 in 46.2 overs at 3.72 RPO",
+    "Top batsman: SR Watson with 79 runs",
+    "Top bowler: MG Johnson with 4 wickets"
+  ]
+}

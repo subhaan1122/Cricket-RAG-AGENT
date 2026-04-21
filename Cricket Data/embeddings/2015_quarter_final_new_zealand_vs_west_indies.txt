@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2015
+Match: New Zealand vs West Indies
+Stage: Quarter-Final
+Date: 2015-03-21
+Venue: Westpac Stadium, Wellington
+Captain New Zealand: Brendon McCullum
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2015 World Cup Quarter-Final: New Zealand vs West Indies (2015-03-21) at Wellington.
+
+New Zealand: 393/6 (50.0 ov)
+  MJ Guptill: 237 (163b, 24x4, 11x6, SR 145.4)
+  LRPL Taylor: 42 (61b, 2x4, 0x6, SR 68.85)
+  KS Williamson: 33 (35b, 5x4, 0x6, SR 94.29)
+  GD Elliott: 27 (11b, 2x4, 2x6, SR 245.45)
+  CJ Anderson: 15 (16b, 1x4, 1x6, SR 93.75)
+  JE Taylor: 3/71 (7.0 ov, Econ 10.14)
+  AD Russell: 2/96 (10.0 ov, Econ 9.6)
+  DJG Sammy: 0/38 (8.0 ov, Econ 4.75)
+  MN Samuels: 0/44 (7.0 ov, Econ 6.29)
+  SJ Benn: 0/66 (10.0 ov, Econ 6.6)
+  Extras: 10
+
+West Indies: 250 all out (30.3 ov)
+  CH Gayle: 61 (33b, 2x4, 8x6, SR 184.85)
+  JO Holder: 42 (26b, 5x4, 2x6, SR 161.54)
+  JL Carter: 32 (39b, 4x4, 1x6, SR 82.05)
+  MN Samuels: 27 (15b, 3x4, 1x6, SR 180.0)
+  DJG Sammy: 27 (16b, 3x4, 1x6, SR 168.75)
+  TA Boult: 4/44 (10.0 ov, Econ 4.4)
+  DL Vettori: 2/58 (6.3 ov, Econ 8.92)
+  TG Southee: 2/82 (8.0 ov, Econ 10.25)
+  AF Milne: 1/42 (4.0 ov, Econ 10.5)
+  CJ Anderson: 1/24 (2.0 ov, Econ 12.0)
+  Extras: 6
+
+Batting Highlights:
+  Century: MJ Guptill scored 237 off 163 balls (SR 145.4, 24 fours, 11 sixes)
+  Half-century: CH Gayle scored 61 off 33 balls (SR 184.85)
+  Quickfire innings: JO Holder smashed 42 off 26 balls at SR 161.54
+  Quickfire innings: MN Samuels smashed 27 off 15 balls at SR 180.0
+  Quickfire innings: DJG Sammy smashed 27 off 16 balls at SR 168.75
+
+Bowling Highlights:
+  Key spell: JE Taylor took 3/71
+  Match-changing spell: TA Boult took 4/44
+
+Captain Performance:
+  Jason Holder (West Indies): scored 42 off 26 balls
+
+Key Moments:
+  New Zealand lost 6 early wickets.
+  West Indies lost 10 early wickets.
+  New Zealand exploded in the death overs (153 runs at 15.3 RPO).
+  West Indies scored aggressively in the powerplay (80 runs at 8.0 RPO).
+  West Indies lost 4 wickets in the powerplay.
+
+Result: New Zealand won by 143 runs
+Toss: New Zealand won and chose to bat
+Player of the Match: MJ Guptill

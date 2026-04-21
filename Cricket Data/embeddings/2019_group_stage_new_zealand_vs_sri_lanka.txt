@@ -1,0 +1,54 @@
+ICC Cricket World Cup 2019
+Match: New Zealand vs Sri Lanka
+Stage: Group Stage
+Date: 2019-06-01
+Venue: Sophia Gardens, Cardiff
+Captain New Zealand: Kane Williamson
+Captain Sri Lanka: Dimuth Karunaratne
+
+Match Summary:
+  2019 World Cup Group Stage: New Zealand vs Sri Lanka (2019-06-01) at Cardiff.
+
+Sri Lanka: 136 all out (29.2 ov)
+  FDM Karunaratne: 52 (84b, 4x4, 0x6, SR 61.9)
+  MDKJ Perera: 29 (24b, 4x4, 0x6, SR 120.83)
+  NLTC Perera: 27 (23b, 0x4, 2x6, SR 117.39)
+  RAS Lakmal: 7 (13b, 1x4, 0x6, SR 53.85)
+  HDRL Thirimanne: 4 (2b, 1x4, 0x6, SR 200.0)
+  LH Ferguson: 3/22 (6.2 ov, Econ 3.47)
+  MJ Henry: 3/29 (7.0 ov, Econ 4.14)
+  MJ Santner: 1/5 (2.0 ov, Econ 2.5)
+  TA Boult: 1/44 (9.0 ov, Econ 4.89)
+  C de Grandhomme: 1/14 (2.0 ov, Econ 7.0)
+  Extras: 11
+
+New Zealand: 137/0 (16.1 ov)
+  MJ Guptill: 73 (51b, 7x4, 2x6, SR 143.14)
+  C Munro: 58 (47b, 6x4, 1x6, SR 123.4)
+  RAS Lakmal: 0/28 (4.0 ov, Econ 7.0)
+  I Udana: 0/24 (3.0 ov, Econ 8.0)
+  NLTC Perera: 0/25 (3.0 ov, Econ 8.33)
+  SL Malinga: 0/46 (5.0 ov, Econ 9.2)
+  BMAJ Mendis: 0/11 (1.1 ov, Econ 9.43)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: FDM Karunaratne scored 52 off 84 balls (SR 61.9)
+  Half-century: MJ Guptill scored 73 off 51 balls (SR 143.14)
+  Half-century: C Munro scored 58 off 47 balls (SR 123.4)
+
+Bowling Highlights:
+  Key spell: LH Ferguson took 3/22
+  Key spell: MJ Henry took 3/29
+
+Captain Performance:
+  Dimuth Karunaratne (Sri Lanka): scored 52 off 84 balls
+
+Key Moments:
+  Sri Lanka lost 10 early wickets.
+  Sri Lanka lost 3 wickets in the powerplay.
+  New Zealand scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: New Zealand won by 10 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: MJ Henry

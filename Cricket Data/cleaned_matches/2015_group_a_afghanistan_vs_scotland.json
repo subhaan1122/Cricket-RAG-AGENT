@@ -1,0 +1,54 @@
+{
+  "match_id": "a5725bcce5ff",
+  "world_cup_year": 2015,
+  "stage": "Group A",
+  "venue": "University Oval, Dunedin",
+  "city": "Dunedin",
+  "date": "2015-02-26",
+  "teams": {
+    "team1": "Afghanistan",
+    "team2": "Scotland"
+  },
+  "toss": {
+    "winner": "Afghanistan",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "Afghanistan",
+    "margin": "1 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Mohammad Nabi",
+    "team2": "Preston Mommsen"
+  },
+  "player_of_match": "Samiullah Shenwari",
+  "innings": [
+    {
+      "team": "Scotland",
+      "runs": 210,
+      "wickets": 10,
+      "overs": 50,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    },
+    {
+      "team": "Afghanistan",
+      "runs": 211,
+      "wickets": 9,
+      "overs": 49.3,
+      "extras": 0,
+      "top_batters": [],
+      "top_bowlers": [],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "summary_only",
+  "original_file": "2015_group_a_afghanistan_vs_scotland.json",
+  "match_summary": "2015 World Cup Group A: Afghanistan vs Scotland (2015-02-26) at Dunedin.\nScotland: 210 all out (50 ov)\nAfghanistan: 211/9 (49.3 ov)\nAfghanistan won by 1 wickets. Player of the Match: Samiullah Shenwari."
+}

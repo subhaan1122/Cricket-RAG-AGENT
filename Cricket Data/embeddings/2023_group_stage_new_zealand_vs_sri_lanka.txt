@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: Sri Lanka vs New Zealand
+Stage: Group Stage
+Date: 2023-11-09
+Venue: M Chinnaswamy Stadium, Bengaluru, Bengaluru
+Captain Sri Lanka: Kusal Mendis
+Captain New Zealand: Kane Williamson
+
+Match Summary:
+  2023 World Cup Group Stage: Sri Lanka vs New Zealand (2023-11-09) at Bengaluru.
+
+Sri Lanka: 171 all out (46.4 ov)
+  MDKJ Perera: 51 (28b, 9x4, 2x6, SR 182.14)
+  M Theekshana: 38 (91b, 3x4, 0x6, SR 41.76)
+  DM de Silva: 19 (24b, 2x4, 1x6, SR 79.17)
+  D Madushanka: 19 (48b, 2x4, 0x6, SR 39.58)
+  AD Mathews: 16 (27b, 2x4, 0x6, SR 59.26)
+  TA Boult: 3/37 (10.0 ov, Econ 3.7)
+  MJ Santner: 2/22 (10.0 ov, Econ 2.2)
+  R Ravindra: 2/21 (7.4 ov, Econ 2.74)
+  LH Ferguson: 2/35 (10.0 ov, Econ 3.5)
+  TG Southee: 1/52 (8.0 ov, Econ 6.5)
+  Extras: 4
+
+New Zealand: 172/5 (23.2 ov)
+  DP Conway: 45 (42b, 9x4, 0x6, SR 107.14)
+  DJ Mitchell: 43 (31b, 5x4, 2x6, SR 138.71)
+  R Ravindra: 42 (34b, 3x4, 3x6, SR 123.53)
+  GD Phillips: 17 (10b, 3x4, 0x6, SR 170.0)
+  KS Williamson: 14 (15b, 2x4, 0x6, SR 93.33)
+  AD Mathews: 2/29 (4.0 ov, Econ 7.25)
+  PVD Chameera: 1/20 (4.0 ov, Econ 5.0)
+  M Theekshana: 1/43 (7.0 ov, Econ 6.14)
+  D Madushanka: 0/58 (6.2 ov, Econ 9.16)
+  DM de Silva: 0/22 (2.0 ov, Econ 11.0)
+  Extras: 2
+
+Batting Highlights:
+  Half-century: MDKJ Perera scored 51 off 28 balls (SR 182.14)
+
+Bowling Highlights:
+  Key spell: TA Boult took 3/37
+  Economical spell: MJ Santner conceded 22 runs in 10.0 overs (Econ 2.2)
+  Economical spell: R Ravindra conceded 21 runs in 7.4 overs (Econ 2.74)
+  Economical spell: LH Ferguson conceded 35 runs in 10.0 overs (Econ 3.5)
+
+Captain Performance:
+  Kane Williamson (New Zealand): scored 14 off 15 balls
+
+Key Moments:
+  Sri Lanka lost 10 early wickets.
+  New Zealand lost 5 early wickets.
+  Sri Lanka scored aggressively in the powerplay (74 runs at 7.4 RPO).
+  Sri Lanka lost 5 wickets in the powerplay.
+  New Zealand scored aggressively in the powerplay (73 runs at 7.3 RPO).
+
+Result: New Zealand won by 5 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: TA Boult

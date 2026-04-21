@@ -1,0 +1,60 @@
+ICC Cricket World Cup 2019
+Match: Australia vs Sri Lanka
+Stage: Group Stage
+Date: 2019-06-15
+Venue: Kennington Oval, London
+Captain Australia: Aaron Finch
+Captain Sri Lanka: Dimuth Karunaratne
+
+Match Summary:
+  2019 World Cup Group Stage: Australia vs Sri Lanka (2019-06-15) at London.
+
+Australia: 334/7 (50.0 ov)
+  AJ Finch: 153 (132b, 15x4, 5x6, SR 115.91)
+  SPD Smith: 73 (59b, 7x4, 1x6, SR 123.73)
+  GJ Maxwell: 46 (25b, 5x4, 1x6, SR 184.0)
+  DA Warner: 26 (48b, 2x4, 0x6, SR 54.17)
+  UT Khawaja: 10 (20b, 1x4, 0x6, SR 50.0)
+  DM de Silva: 2/40 (8.0 ov, Econ 5.0)
+  I Udana: 2/57 (10.0 ov, Econ 5.7)
+  SL Malinga: 1/61 (10.0 ov, Econ 6.1)
+  NLTC Perera: 0/67 (10.0 ov, Econ 6.7)
+  TAM Siriwardana: 0/17 (2.0 ov, Econ 8.5)
+  Extras: 14
+
+Sri Lanka: 247 all out (45.5 ov)
+  FDM Karunaratne: 97 (108b, 9x4, 0x6, SR 89.81)
+  MDKJ Perera: 52 (36b, 5x4, 1x6, SR 144.44)
+  BKG Mendis: 30 (37b, 0x4, 2x6, SR 81.08)
+  HDRL Thirimanne: 16 (26b, 1x4, 0x6, SR 61.54)
+  DM de Silva: 16 (30b, 2x4, 0x6, SR 53.33)
+  MA Starc: 4/55 (10.0 ov, Econ 5.5)
+  KW Richardson: 3/47 (9.0 ov, Econ 5.22)
+  PJ Cummins: 2/38 (7.5 ov, Econ 4.85)
+  JP Behrendorff: 1/59 (9.0 ov, Econ 6.56)
+  GJ Maxwell: 0/46 (10.0 ov, Econ 4.6)
+  Extras: 8
+
+Batting Highlights:
+  Century: AJ Finch scored 153 off 132 balls (SR 115.91, 15 fours, 5 sixes)
+  Half-century: SPD Smith scored 73 off 59 balls (SR 123.73)
+  Quickfire innings: GJ Maxwell smashed 46 off 25 balls at SR 184.0
+  Half-century: FDM Karunaratne scored 97 off 108 balls (SR 89.81)
+  Half-century: MDKJ Perera scored 52 off 36 balls (SR 144.44)
+
+Bowling Highlights:
+  Match-changing spell: MA Starc took 4/55
+  Key spell: KW Richardson took 3/47
+
+Captain Performance:
+  Aaron Finch (Australia): scored 153 off 132 balls
+  Dimuth Karunaratne (Sri Lanka): scored 97 off 108 balls
+
+Key Moments:
+  Australia lost 7 early wickets.
+  Sri Lanka lost 10 early wickets.
+  Sri Lanka scored aggressively in the powerplay (87 runs at 8.7 RPO).
+
+Result: Australia won by 87 runs
+Toss: Sri Lanka won and chose to field
+Player of the Match: AJ Finch

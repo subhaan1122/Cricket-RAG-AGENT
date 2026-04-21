@@ -1,0 +1,788 @@
+{
+  "year": 2023,
+  "host_countries": [
+    "India"
+  ],
+  "format": "10 teams – Round Robin, Semi-finals, Final",
+  "total_matches": 48,
+  "completed_matches": 48,
+  "winner": "Australia",
+  "runner_up": "India",
+  "semi_finalists": [
+    "Australia",
+    "India",
+    "New Zealand",
+    "South Africa"
+  ],
+  "finalists": [
+    "Australia",
+    "India"
+  ],
+  "teams": [
+    "Afghanistan",
+    "Australia",
+    "Bangladesh",
+    "England",
+    "India",
+    "Netherlands",
+    "New Zealand",
+    "Pakistan",
+    "South Africa",
+    "Sri Lanka"
+  ],
+  "player_of_tournament": "Virat Kohli",
+  "top_run_scorer": {
+    "name": "V Kohli",
+    "runs": 710
+  },
+  "top_wicket_taker": {
+    "name": "Mohammed Shami",
+    "wickets": 24
+  },
+  "highest_individual_score": {
+    "name": "MR Marsh",
+    "runs": 177,
+    "against": "Bangladesh",
+    "match_stage": "Group Stage"
+  },
+  "team_standings": [
+    {
+      "team": "India",
+      "played": 11,
+      "won": 10,
+      "lost": 1,
+      "win_pct": 90.9
+    },
+    {
+      "team": "Australia",
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "win_pct": 81.8
+    },
+    {
+      "team": "South Africa",
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "win_pct": 70.0
+    },
+    {
+      "team": "New Zealand",
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "win_pct": 50.0
+    },
+    {
+      "team": "Afghanistan",
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "win_pct": 44.4
+    },
+    {
+      "team": "Pakistan",
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "win_pct": 44.4
+    },
+    {
+      "team": "England",
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "win_pct": 33.3
+    },
+    {
+      "team": "Bangladesh",
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "win_pct": 22.2
+    },
+    {
+      "team": "Netherlands",
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "win_pct": 22.2
+    },
+    {
+      "team": "Sri Lanka",
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "win_pct": 22.2
+    }
+  ],
+  "captains": {
+    "India": "Rohit Sharma",
+    "Australia": "Pat Cummins",
+    "South Africa": "Temba Bavuma",
+    "New Zealand": "Kane Williamson",
+    "Pakistan": "Babar Azam",
+    "England": "Jos Buttler",
+    "Sri Lanka": "Kusal Mendis",
+    "Bangladesh": "Shakib Al Hasan",
+    "Afghanistan": "Hashmatullah Shahidi",
+    "Netherlands": "Scott Edwards"
+  },
+  "team_performance": {
+    "Afghanistan": {
+      "matches": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "runs_scored": 2095,
+      "runs_conceded": 2176,
+      "wickets_taken": 61,
+      "wickets_lost": 61,
+      "highest_total": 291,
+      "lowest_total": 139,
+      "win_percentage": 44.4
+    },
+    "Australia": {
+      "matches": 11,
+      "wins": 9,
+      "losses": 2,
+      "no_results": 0,
+      "runs_scored": 3087,
+      "runs_conceded": 2801,
+      "wickets_taken": 93,
+      "wickets_lost": 82,
+      "highest_total": 399,
+      "lowest_total": 177,
+      "win_percentage": 81.8
+    },
+    "Bangladesh": {
+      "matches": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "runs_scored": 2053,
+      "runs_conceded": 2431,
+      "wickets_taken": 55,
+      "wickets_lost": 76,
+      "highest_total": 306,
+      "lowest_total": 142,
+      "win_percentage": 22.2
+    },
+    "England": {
+      "matches": 9,
+      "wins": 3,
+      "losses": 6,
+      "no_results": 0,
+      "runs_scored": 2245,
+      "runs_conceded": 2291,
+      "wickets_taken": 69,
+      "wickets_lost": 85,
+      "highest_total": 364,
+      "lowest_total": 129,
+      "win_percentage": 33.3
+    },
+    "India": {
+      "matches": 11,
+      "wins": 10,
+      "losses": 1,
+      "no_results": 0,
+      "runs_scored": 3160,
+      "runs_conceded": 2276,
+      "wickets_taken": 100,
+      "wickets_lost": 58,
+      "highest_total": 410,
+      "lowest_total": 192,
+      "win_percentage": 90.9
+    },
+    "Netherlands": {
+      "matches": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "runs_scored": 1862,
+      "runs_conceded": 2549,
+      "wickets_taken": 66,
+      "wickets_lost": 88,
+      "highest_total": 262,
+      "lowest_total": 90,
+      "win_percentage": 22.2
+    },
+    "New Zealand": {
+      "matches": 10,
+      "wins": 5,
+      "losses": 5,
+      "no_results": 0,
+      "runs_scored": 2864,
+      "runs_conceded": 2676,
+      "wickets_taken": 73,
+      "wickets_lost": 67,
+      "highest_total": 401,
+      "lowest_total": 167,
+      "win_percentage": 50.0
+    },
+    "Pakistan": {
+      "matches": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "runs_scored": 2328,
+      "runs_conceded": 2607,
+      "wickets_taken": 67,
+      "wickets_lost": 65,
+      "highest_total": 345,
+      "lowest_total": 191,
+      "win_percentage": 44.4
+    },
+    "South Africa": {
+      "matches": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "runs_scored": 2897,
+      "runs_conceded": 2373,
+      "wickets_taken": 89,
+      "wickets_lost": 72,
+      "highest_total": 428,
+      "lowest_total": 83,
+      "win_percentage": 70.0
+    },
+    "Sri Lanka": {
+      "matches": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "runs_scored": 2048,
+      "runs_conceded": 2459,
+      "wickets_taken": 57,
+      "wickets_lost": 76,
+      "highest_total": 344,
+      "lowest_total": 55,
+      "win_percentage": 22.2
+    }
+  },
+  "head_to_head": {
+    "Australia vs India": {
+      "matches": 2,
+      "wins": {
+        "Australia": 1,
+        "India": 1
+      },
+      "results": [
+        "Australia won by 6 wickets",
+        "India won by 6 wickets"
+      ]
+    },
+    "Afghanistan vs Australia": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 3 wickets"
+      ]
+    },
+    "Afghanistan vs Bangladesh": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 6 wickets"
+      ]
+    },
+    "Afghanistan vs England": {
+      "matches": 1,
+      "wins": {
+        "Afghanistan": 1
+      },
+      "results": [
+        "Afghanistan won by 69 runs"
+      ]
+    },
+    "Afghanistan vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 8 wickets"
+      ]
+    },
+    "Afghanistan vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "Afghanistan": 1
+      },
+      "results": [
+        "Afghanistan won by 7 wickets"
+      ]
+    },
+    "Afghanistan vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 149 runs"
+      ]
+    },
+    "Afghanistan vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Afghanistan": 1
+      },
+      "results": [
+        "Afghanistan won by 8 wickets"
+      ]
+    },
+    "Afghanistan vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 5 wickets"
+      ]
+    },
+    "Afghanistan vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Afghanistan": 1
+      },
+      "results": [
+        "Afghanistan won by 7 wickets"
+      ]
+    },
+    "Australia vs Bangladesh": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 8 wickets"
+      ]
+    },
+    "Australia vs England": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 33 runs"
+      ]
+    },
+    "Australia vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 309 runs"
+      ]
+    },
+    "Australia vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 5 runs"
+      ]
+    },
+    "Australia vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 62 runs"
+      ]
+    },
+    "Australia vs South Africa": {
+      "matches": 2,
+      "wins": {
+        "South Africa": 1,
+        "Australia": 1
+      },
+      "results": [
+        "South Africa won by 134 runs",
+        "Australia won by 3 wickets"
+      ]
+    },
+    "Australia vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Australia": 1
+      },
+      "results": [
+        "Australia won by 5 wickets"
+      ]
+    },
+    "Bangladesh vs England": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 137 runs"
+      ]
+    },
+    "Bangladesh vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 7 wickets"
+      ]
+    },
+    "Bangladesh vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "Netherlands": 1
+      },
+      "results": [
+        "Netherlands won by 87 runs"
+      ]
+    },
+    "Bangladesh vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 8 wickets"
+      ]
+    },
+    "Bangladesh vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 7 wickets"
+      ]
+    },
+    "Bangladesh vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 149 runs"
+      ]
+    },
+    "Bangladesh vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Bangladesh": 1
+      },
+      "results": [
+        "Bangladesh won by 3 wickets"
+      ]
+    },
+    "England vs India": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 100 runs"
+      ]
+    },
+    "England vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 160 runs"
+      ]
+    },
+    "England vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 9 wickets"
+      ]
+    },
+    "England vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "England": 1
+      },
+      "results": [
+        "England won by 93 runs"
+      ]
+    },
+    "England vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 229 runs"
+      ]
+    },
+    "England vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 8 wickets"
+      ]
+    },
+    "India vs Netherlands": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 160 runs"
+      ]
+    },
+    "India vs New Zealand": {
+      "matches": 2,
+      "wins": {
+        "India": 2
+      },
+      "results": [
+        "India won by 4 wickets",
+        "India won by 70 runs"
+      ]
+    },
+    "India vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 7 wickets"
+      ]
+    },
+    "India vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 243 runs"
+      ]
+    },
+    "India vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "India": 1
+      },
+      "results": [
+        "India won by 302 runs"
+      ]
+    },
+    "Netherlands vs New Zealand": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 99 runs"
+      ]
+    },
+    "Netherlands vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 81 runs"
+      ]
+    },
+    "Netherlands vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "Netherlands": 1
+      },
+      "results": [
+        "Netherlands won by 38 runs"
+      ]
+    },
+    "Netherlands vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Sri Lanka": 1
+      },
+      "results": [
+        "Sri Lanka won by 5 wickets"
+      ]
+    },
+    "New Zealand vs Pakistan": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 21 runs"
+      ]
+    },
+    "New Zealand vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 190 runs"
+      ]
+    },
+    "New Zealand vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "New Zealand": 1
+      },
+      "results": [
+        "New Zealand won by 5 wickets"
+      ]
+    },
+    "Pakistan vs South Africa": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 1 wickets"
+      ]
+    },
+    "Pakistan vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "Pakistan": 1
+      },
+      "results": [
+        "Pakistan won by 6 wickets"
+      ]
+    },
+    "South Africa vs Sri Lanka": {
+      "matches": 1,
+      "wins": {
+        "South Africa": 1
+      },
+      "results": [
+        "South Africa won by 102 runs"
+      ]
+    }
+  },
+  "captain_performance": {
+    "Rohit Sharma": {
+      "team": "India",
+      "matches_as_captain": 11,
+      "wins": 10,
+      "losses": 1,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 462,
+      "batting_innings": 8,
+      "win_percentage": 90.9
+    },
+    "Pat Cummins": {
+      "team": "Australia",
+      "matches_as_captain": 11,
+      "wins": 9,
+      "losses": 2,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 74,
+      "batting_innings": 3,
+      "win_percentage": 81.8
+    },
+    "Temba Bavuma": {
+      "team": "South Africa",
+      "matches_as_captain": 10,
+      "wins": 7,
+      "losses": 3,
+      "no_results": 0,
+      "toss_wins": 3,
+      "batting_runs": 98,
+      "batting_innings": 4,
+      "win_percentage": 70.0
+    },
+    "Kane Williamson": {
+      "team": "New Zealand",
+      "matches_as_captain": 10,
+      "wins": 5,
+      "losses": 5,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 256,
+      "batting_innings": 4,
+      "win_percentage": 50.0
+    },
+    "Babar Azam": {
+      "team": "Pakistan",
+      "matches_as_captain": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "toss_wins": 4,
+      "batting_runs": 213,
+      "batting_innings": 5,
+      "win_percentage": 44.4
+    },
+    "Jos Buttler": {
+      "team": "England",
+      "matches_as_captain": 9,
+      "wins": 3,
+      "losses": 6,
+      "no_results": 0,
+      "toss_wins": 7,
+      "batting_runs": 78,
+      "batting_innings": 3,
+      "win_percentage": 33.3
+    },
+    "Kusal Mendis": {
+      "team": "Sri Lanka",
+      "matches_as_captain": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "toss_wins": 4,
+      "batting_runs": 230,
+      "batting_innings": 6,
+      "win_percentage": 22.2
+    },
+    "Shakib Al Hasan": {
+      "team": "Bangladesh",
+      "matches_as_captain": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 310,
+      "batting_innings": 9,
+      "win_percentage": 22.2
+    },
+    "Hashmatullah Shahidi": {
+      "team": "Afghanistan",
+      "matches_as_captain": 9,
+      "wins": 4,
+      "losses": 5,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 0,
+      "batting_innings": 0,
+      "win_percentage": 44.4
+    },
+    "Scott Edwards": {
+      "team": "Netherlands",
+      "matches_as_captain": 9,
+      "wins": 2,
+      "losses": 7,
+      "no_results": 0,
+      "toss_wins": 5,
+      "batting_runs": 259,
+      "batting_innings": 7,
+      "win_percentage": 22.2
+    }
+  }
+}

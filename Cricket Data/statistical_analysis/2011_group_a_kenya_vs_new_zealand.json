@@ -1,0 +1,662 @@
+{
+  "match_info": {
+    "match_id": "c1d2e67d3757",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "date": "2011-02-20",
+    "teams": {
+      "team1": "Kenya",
+      "team2": "New Zealand"
+    },
+    "toss": {
+      "winner": "Kenya",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "New Zealand",
+      "margin": "10 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Jimmy Kamande",
+      "team2": "Daniel Vettori"
+    },
+    "player_of_match": "HK Bennett",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Kenya vs New Zealand (2011-02-20) at Chennai.\nKenya: 69 all out (23.5 ov)\n  HK Bennett: 4/16 (5.0 ov)\n  JDP Oram: 3/2 (2.5 ov)\n  TG Southee: 3/13 (6.0 ov)\nNew Zealand: 72/0 (8.0 ov)\n  MJ Guptill: 39* (32b, 5x4, 2x6)\nNew Zealand won by 10 wickets.\nPlayer of the Match: HK Bennett.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 141,
+    "total_wickets_fallen": 10,
+    "average_run_rate": 6.0,
+    "highest_individual_score": 39,
+    "best_bowling_figures": "4/16",
+    "total_sixes": 2,
+    "total_fours": 13
+  },
+  "innings_analysis": [
+    {
+      "team": "Kenya",
+      "total_runs": 69,
+      "total_wickets": 10,
+      "total_overs": 23.5,
+      "run_rate": 3.0,
+      "top_batters": [
+        {
+          "name": "RR Patel",
+          "runs": 16,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SR Waters",
+          "runs": 16,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "CO Obuya",
+          "runs": 14,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.68,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "AA Obanda",
+          "runs": 6,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SO Tikolo",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "HK Bennett",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 16,
+          "wickets": 4,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JDP Oram",
+          "overs": "2.5",
+          "maidens": 1,
+          "runs_conceded": 2,
+          "wickets": 3,
+          "economy": 0.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "TG Southee",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 13,
+          "wickets": 3,
+          "economy": 2.17,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "DL Vettori",
+          "overs": "6.0",
+          "maidens": 1,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NL McCullum",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 15,
+          "wickets": 0,
+          "economy": 3.75,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "AA Obanda",
+          "runs": 14,
+          "wickets": 1,
+          "overs": "6.6"
+        },
+        {
+          "player": "SR Waters",
+          "runs": 40,
+          "wickets": 2,
+          "overs": "11.6"
+        },
+        {
+          "player": "SO Tikolo",
+          "runs": 42,
+          "wickets": 3,
+          "overs": "13.2"
+        },
+        {
+          "player": "CO Obuya",
+          "runs": 44,
+          "wickets": 4,
+          "overs": "13.5"
+        },
+        {
+          "player": "MA Ouma",
+          "runs": 49,
+          "wickets": 5,
+          "overs": "15.3"
+        },
+        {
+          "player": "JK Kamande",
+          "runs": 59,
+          "wickets": 6,
+          "overs": "19.5"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 63,
+          "wickets": 7,
+          "overs": "21.3"
+        },
+        {
+          "player": "NN Odhiambo",
+          "runs": 68,
+          "wickets": 8,
+          "overs": "22.5"
+        },
+        {
+          "player": "SO Ngoche",
+          "runs": 68,
+          "wickets": 9,
+          "overs": "22.6"
+        },
+        {
+          "player": "E Otieno",
+          "runs": 69,
+          "wickets": 10,
+          "overs": "23.5"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 33,
+        "wickets": 1,
+        "run_rate": 3.3,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 40,
+        "extras": 4
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "total_runs": 72,
+      "total_wickets": 0,
+      "total_overs": 8.0,
+      "run_rate": 9.0,
+      "top_batters": [
+        {
+          "name": "MJ Guptill",
+          "runs": 39,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 121.88,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "BB McCullum",
+          "runs": 26,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 152.94,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NN Odhiambo",
+          "overs": "1.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 8.33,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "E Otieno",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 9.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JK Kamande",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 10.5,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "powerplay_stats": {
+        "overs": "8.0",
+        "balls": 48,
+        "runs": 72,
+        "wickets": 0,
+        "run_rate": 9.0,
+        "fours": 9,
+        "sixes": 2,
+        "dot_balls": 21,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "RR Patel": {
+      "batting": {
+        "runs": 16,
+        "balls": 23,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 69.57
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Waters": {
+      "batting": {
+        "runs": 16,
+        "balls": 42,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 38.1
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 14,
+        "balls": 19,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 73.68
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AA Obanda": {
+      "batting": {
+        "runs": 6,
+        "balls": 19,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 31.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SO Tikolo": {
+      "batting": {
+        "runs": 2,
+        "balls": 2,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "HK Bennett": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 4,
+        "economy": 3.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JDP Oram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.8333333333333335,
+        "maidens": 0,
+        "runs": 2,
+        "wickets": 3,
+        "economy": 0.71
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TG Southee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 3,
+        "economy": 2.17
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DL Vettori": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 0,
+        "economy": 2.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NL McCullum": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 0,
+        "economy": 3.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MJ Guptill": {
+      "batting": {
+        "runs": 39,
+        "balls": 32,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 121.88
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BB McCullum": {
+      "batting": {
+        "runs": 26,
+        "balls": 17,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 152.94
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NN Odhiambo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 5,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 0,
+        "economy": 8.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "E Otieno": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 0,
+        "economy": 9.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JK Kamande": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 10.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Kenya scored 69 in 23.5 overs at 3.0 RPO",
+    "vs New Zealand scored 72 in 8.0 overs at 9.0 RPO",
+    "Top batsman: MJ Guptill with 39 runs",
+    "Top bowler: HK Bennett with 4 wickets"
+  ]
+}

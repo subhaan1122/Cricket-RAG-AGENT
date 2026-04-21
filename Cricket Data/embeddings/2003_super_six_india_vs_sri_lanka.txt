@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2003
+Match: India vs Sri Lanka
+Stage: Super Six
+Date: 2003-03-10
+Venue: New Wanderers Stadium, Johannesburg, Johannesburg
+Captain India: Sourav Ganguly
+Captain Sri Lanka: Sanath Jayasuriya
+
+Match Summary:
+  2003 World Cup Super Six: India vs Sri Lanka (2003-03-10) at Johannesburg.
+
+India: 292/6 (50.0 ov)
+  SR Tendulkar: 97 (120b, 7x4, 1x6, SR 80.83)
+  V Sehwag: 66 (76b, 6x4, 3x6, SR 86.84)
+  SC Ganguly: 48 (53b, 2x4, 2x6, SR 90.57)
+  M Kaif: 19 (24b, 1x4, 0x6, SR 79.17)
+  R Dravid: 18 (12b, 2x4, 0x6, SR 150.0)
+  M Muralitharan: 3/46 (10.0 ov, Econ 4.6)
+  WPUJC Vaas: 2/34 (10.0 ov, Econ 3.4)
+  PA de Silva: 1/32 (6.0 ov, Econ 5.33)
+  RP Arnold: 0/30 (5.0 ov, Econ 6.0)
+  CRD Fernando: 0/61 (10.0 ov, Econ 6.1)
+  Extras: 23
+
+Sri Lanka: 109 all out (23.0 ov)
+  KC Sangakkara: 30 (33b, 4x4, 0x6, SR 90.91)
+  M Muralitharan: 16 (14b, 3x4, 0x6, SR 114.29)
+  CRD Fernando: 13 (10b, 2x4, 0x6, SR 130.0)
+  ST Jayasuriya: 12 (19b, 1x4, 0x6, SR 63.16)
+  WPUJC Vaas: 9 (15b, 1x4, 0x6, SR 60.0)
+  J Srinath: 4/35 (9.0 ov, Econ 3.89)
+  A Nehra: 4/35 (7.0 ov, Econ 5.0)
+  Z Khan: 2/33 (7.0 ov, Econ 4.71)
+  Extras: 21
+
+Batting Highlights:
+  Half-century: SR Tendulkar scored 97 off 120 balls (SR 80.83)
+  Half-century: V Sehwag scored 66 off 76 balls (SR 86.84)
+
+Bowling Highlights:
+  Key spell: M Muralitharan took 3/46
+  Economical spell: WPUJC Vaas conceded 34 runs in 10.0 overs (Econ 3.4)
+  Match-changing spell: J Srinath took 4/35
+  Match-changing spell: A Nehra took 4/35
+
+Captain Performance:
+  Sourav Ganguly (India): scored 48 off 53 balls
+  Sanath Jayasuriya (Sri Lanka): scored 12 off 19 balls
+
+Key Moments:
+  India lost 6 early wickets.
+  Sri Lanka lost 10 early wickets.
+  India scored aggressively in the powerplay (70 runs at 7.0 RPO).
+  Sri Lanka lost 5 wickets in the powerplay.
+
+Result: India won by 183 runs
+Toss: Sri Lanka won and chose to field
+Player of the Match: J Srinath

@@ -1,0 +1,811 @@
+{
+  "match_info": {
+    "match_id": "0746755f9209",
+    "world_cup_year": 2023,
+    "stage": "Group Stage",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "city": "Delhi",
+    "date": "2023-10-25",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Netherlands"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "309 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Pat Cummins",
+      "team2": "Scott Edwards"
+    },
+    "player_of_match": "GJ Maxwell",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2023 World Cup Group Stage: Australia vs Netherlands (2023-10-25) at Delhi.\nAustralia: 399/8 (50.0 ov)\n  GJ Maxwell: 106 (44b, 9x4, 8x6)\n  DA Warner: 104 (93b, 11x4, 3x6)\n  SPD Smith: 71 (68b, 9x4, 1x6)\n  LV van Beek: 4/74 (10.0 ov)\n  BFW de Leede: 2/115 (10.0 ov)\nNetherlands: 90 all out (21.0 ov)\n  A Zampa: 4/8 (3.0 ov)\n  MR Marsh: 2/19 (4.0 ov)\nAustralia won by 309 runs.\nPlayer of the Match: GJ Maxwell.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 489,
+    "total_wickets_fallen": 18,
+    "average_run_rate": 6.13,
+    "highest_individual_score": 106,
+    "best_bowling_figures": "4/8",
+    "total_sixes": 15,
+    "total_fours": 48
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 399,
+      "total_wickets": 8,
+      "total_overs": 50.0,
+      "run_rate": 7.98,
+      "top_batters": [
+        {
+          "name": "GJ Maxwell",
+          "runs": 106,
+          "balls": 44,
+          "fours": 9,
+          "sixes": 8,
+          "strike_rate": 240.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Warner",
+          "runs": 104,
+          "balls": 93,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 111.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SPD Smith",
+          "runs": 71,
+          "balls": 68,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 104.41,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "M Labuschagne",
+          "runs": 62,
+          "balls": 47,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 131.91,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "JP Inglis",
+          "runs": 14,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LV van Beek",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 4,
+          "economy": 7.4,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "BFW de Leede",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 115,
+          "wickets": 2,
+          "economy": 11.5,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "A Dutt",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 59,
+          "wickets": 1,
+          "economy": 8.43,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "CN Ackermann",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 0,
+          "economy": 4.75,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "PA van Meekeren",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 64,
+          "wickets": 0,
+          "economy": 6.4,
+          "wides": 3,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MR Marsh",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "3.5"
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 160,
+          "wickets": 2,
+          "overs": "23.3"
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 244,
+          "wickets": 3,
+          "overs": "36.1"
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 266,
+          "wickets": 4,
+          "overs": "38.6"
+        },
+        {
+          "player": "DA Warner",
+          "runs": 267,
+          "wickets": 5,
+          "overs": "39.1"
+        },
+        {
+          "player": "C Green",
+          "runs": 290,
+          "wickets": 6,
+          "overs": "42.2"
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 393,
+          "wickets": 7,
+          "overs": "49.3"
+        },
+        {
+          "player": "MA Starc",
+          "runs": 393,
+          "wickets": 8,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 66,
+        "wickets": 1,
+        "run_rate": 6.6,
+        "fours": 12,
+        "sixes": 0,
+        "dot_balls": 35,
+        "extras": 2
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 131,
+        "wickets": 3,
+        "run_rate": 13.1,
+        "fours": 12,
+        "sixes": 8,
+        "dot_balls": 16,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "total_runs": 90,
+      "total_wickets": 10,
+      "total_overs": 21.0,
+      "run_rate": 4.29,
+      "top_batters": [
+        {
+          "name": "Vikramjit Singh",
+          "runs": 25,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "AT Nidamanuru",
+          "runs": 14,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "SA Edwards",
+          "runs": 12,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "SA Engelbrecht",
+          "runs": 11,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "CN Ackermann",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "A Zampa",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 8,
+          "wickets": 4,
+          "economy": 2.67,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MR Marsh",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 2,
+          "economy": 4.75,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JR Hazlewood",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 1,
+          "economy": 4.5,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MA Starc",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 1,
+          "economy": 5.5,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP O'Dowd",
+          "runs": 28,
+          "wickets": 1,
+          "overs": "4.5"
+        },
+        {
+          "player": "Vikramjit Singh",
+          "runs": 37,
+          "wickets": 2,
+          "overs": "5.5"
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 47,
+          "wickets": 3,
+          "overs": "9.2"
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 53,
+          "wickets": 4,
+          "overs": "10.5"
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 62,
+          "wickets": 5,
+          "overs": "13.2"
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 84,
+          "wickets": 6,
+          "overs": "17.5"
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 86,
+          "wickets": 7,
+          "overs": "18.3"
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 86,
+          "wickets": 8,
+          "overs": "18.4"
+        },
+        {
+          "player": "A Dutt",
+          "runs": 90,
+          "wickets": 9,
+          "overs": "20.5"
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 90,
+          "wickets": 10,
+          "overs": "20.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 48,
+        "wickets": 3,
+        "run_rate": 4.8,
+        "fours": 10,
+        "sixes": 0,
+        "dot_balls": 45,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "0.0",
+        "balls": 0,
+        "runs": 0,
+        "wickets": 0,
+        "run_rate": 0.0,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 0,
+        "extras": 0
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "GJ Maxwell": {
+      "batting": {
+        "runs": 106,
+        "balls": 44,
+        "fours": 9,
+        "sixes": 8,
+        "strike_rate": 240.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DA Warner": {
+      "batting": {
+        "runs": 104,
+        "balls": 93,
+        "fours": 11,
+        "sixes": 3,
+        "strike_rate": 111.83
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SPD Smith": {
+      "batting": {
+        "runs": 71,
+        "balls": 68,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 104.41
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Labuschagne": {
+      "batting": {
+        "runs": 62,
+        "balls": 47,
+        "fours": 7,
+        "sixes": 2,
+        "strike_rate": 131.91
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JP Inglis": {
+      "batting": {
+        "runs": 14,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 116.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "LV van Beek": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 4,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BFW de Leede": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 115,
+        "wickets": 2,
+        "economy": 11.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Dutt": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 7.0,
+        "maidens": 0,
+        "runs": 59,
+        "wickets": 1,
+        "economy": 8.43
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CN Ackermann": {
+      "batting": {
+        "runs": 10,
+        "balls": 11,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 90.91
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 0,
+        "economy": 4.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PA van Meekeren": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 64,
+        "wickets": 0,
+        "economy": 6.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Vikramjit Singh": {
+      "batting": {
+        "runs": 25,
+        "balls": 25,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AT Nidamanuru": {
+      "batting": {
+        "runs": 14,
+        "balls": 18,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 77.78
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SA Edwards": {
+      "batting": {
+        "runs": 12,
+        "balls": 22,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SA Engelbrecht": {
+      "batting": {
+        "runs": 11,
+        "balls": 21,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 52.38
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Zampa": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 4,
+        "economy": 2.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MR Marsh": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 4.75
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "PJ Cummins": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 1,
+        "economy": 3.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JR Hazlewood": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MA Starc": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 399 in 50.0 overs at 7.98 RPO",
+    "vs Netherlands scored 90 in 21.0 overs at 4.29 RPO",
+    "Top batsman: GJ Maxwell with 106 runs",
+    "Top bowler: LV van Beek with 4 wickets"
+  ]
+}

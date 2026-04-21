@@ -1,0 +1,55 @@
+ICC Cricket World Cup 2007
+Match: Australia vs Ireland
+Stage: Super Eight
+Date: 2007-04-13
+Venue: Kensington Oval, Bridgetown, Barbados
+Captain Australia: Ricky Ponting
+Captain Ireland: Trent Johnston
+
+Match Summary:
+  2007 World Cup Super Eight: Australia vs Ireland (2007-04-13) at Barbados.
+
+Ireland: 91 all out (30.0 ov)
+  JF Mooney: 23 (44b, 2x4, 0x6, SR 52.27)
+  DT Johnston: 17 (25b, 2x4, 0x6, SR 68.0)
+  KJ O'Brien: 16 (25b, 3x4, 0x6, SR 64.0)
+  AR White: 6 (20b, 0x4, 0x6, SR 30.0)
+  WK McCallan: 5 (18b, 0x4, 0x6, SR 27.78)
+  GD McGrath: 3/17 (7.0 ov, Econ 2.43)
+  SW Tait: 3/39 (6.0 ov, Econ 6.5)
+  GB Hogg: 1/9 (6.0 ov, Econ 1.5)
+  A Symonds: 1/7 (3.0 ov, Econ 2.33)
+  SR Clark: 1/19 (8.0 ov, Econ 2.38)
+  Extras: 16
+
+Australia: 92/1 (12.2 ov)
+  AC Gilchrist: 34 (25b, 4x4, 0x6, SR 136.0)
+  MEK Hussey: 30 (41b, 3x4, 1x6, SR 73.17)
+  A Symonds: 15 (9b, 1x4, 1x6, SR 166.67)
+  DT Johnston: 1/18 (3.0 ov, Econ 6.0)
+  WK McCallan: 0/5 (1.0 ov, Econ 5.0)
+  WB Rankin: 0/24 (4.2 ov, Econ 5.54)
+  D Langford-Smith: 0/27 (3.0 ov, Econ 9.0)
+  JF Mooney: 0/14 (1.0 ov, Econ 14.0)
+  Extras: 13
+
+Batting Highlights:
+  Top scorer: AC Gilchrist with 34 runs
+
+Bowling Highlights:
+  Key spell: GD McGrath took 3/17
+  Key spell: SW Tait took 3/39
+  Economical spell: GB Hogg conceded 9 runs in 6.0 overs (Econ 1.5)
+  Economical spell: SR Clark conceded 19 runs in 8.0 overs (Econ 2.38)
+
+Captain Performance:
+  Trent Johnston (Ireland): scored 17 off 25 balls
+
+Key Moments:
+  Ireland lost 10 early wickets.
+  Ireland lost 4 wickets in the powerplay.
+  Australia scored aggressively in the powerplay (77 runs at 7.7 RPO).
+
+Result: Australia won by 9 wickets
+Toss: Australia won and chose to field
+Player of the Match: GD McGrath

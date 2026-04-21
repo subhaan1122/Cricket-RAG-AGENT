@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Australia vs Pakistan
+Stage: Group A
+Date: 2003-02-11
+Venue: New Wanderers Stadium, Johannesburg, Johannesburg
+Captain Australia: Ricky Ponting
+Captain Pakistan: Waqar Younis
+
+Match Summary:
+  2003 World Cup Group A: Australia vs Pakistan (2003-02-11) at Johannesburg.
+
+Australia: 310/8 (50.0 ov)
+  A Symonds: 143 (125b, 18x4, 2x6, SR 114.4)
+  RT Ponting: 53 (67b, 7x4, 0x6, SR 79.1)
+  ML Hayden: 27 (41b, 3x4, 0x6, SR 65.85)
+  IJ Harvey: 24 (19b, 3x4, 0x6, SR 126.32)
+  GB Hogg: 14 (22b, 0x4, 0x6, SR 63.64)
+  Wasim Akram: 3/64 (10.0 ov, Econ 6.4)
+  Shoaib Akhtar: 2/45 (10.0 ov, Econ 4.5)
+  Waqar Younis: 2/50 (8.3 ov, Econ 5.88)
+  Younis Khan: 0/36 (6.0 ov, Econ 6.0)
+  Shahid Afridi: 0/63 (9.3 ov, Econ 6.63)
+  Extras: 31
+
+Pakistan: 228 all out (44.3 ov)
+  Rashid Latif: 33 (23b, 1x4, 3x6, SR 143.48)
+  Wasim Akram: 33 (31b, 4x4, 1x6, SR 106.45)
+  Saleem Elahi: 30 (40b, 3x4, 0x6, SR 75.0)
+  Yousuf Youhana: 27 (37b, 4x4, 0x6, SR 72.97)
+  Abdul Razzaq: 25 (33b, 2x4, 0x6, SR 75.76)
+  IJ Harvey: 4/58 (9.3 ov, Econ 6.11)
+  GB Hogg: 3/54 (10.0 ov, Econ 5.4)
+  JN Gillespie: 1/28 (8.0 ov, Econ 3.5)
+  GD McGrath: 1/39 (10.0 ov, Econ 3.9)
+  B Lee: 1/37 (7.0 ov, Econ 5.29)
+  Extras: 27
+
+Batting Highlights:
+  Century: A Symonds scored 143 off 125 balls (SR 114.4, 18 fours, 2 sixes)
+  Half-century: RT Ponting scored 53 off 67 balls (SR 79.1)
+
+Bowling Highlights:
+  Key spell: Wasim Akram took 3/64
+  Match-changing spell: IJ Harvey took 4/58
+  Key spell: GB Hogg took 3/54
+  Economical spell: JN Gillespie conceded 28 runs in 8.0 overs (Econ 3.5)
+
+Captain Performance:
+  Ricky Ponting (Australia): scored 53 off 67 balls
+
+Key Moments:
+  Australia lost 8 early wickets.
+  Pakistan lost 10 early wickets.
+
+Result: Australia won by 82 runs
+Toss: Pakistan won and chose to field
+Player of the Match: A Symonds

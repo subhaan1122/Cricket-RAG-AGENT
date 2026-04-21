@@ -1,0 +1,789 @@
+{
+  "match_info": {
+    "match_id": "359d848c904d",
+    "world_cup_year": 2003,
+    "stage": "Group A",
+    "venue": "SuperSport Park, Centurion",
+    "city": "Centurion",
+    "date": "2003-03-01",
+    "teams": {
+      "team1": "Pakistan",
+      "team2": "India"
+    },
+    "toss": {
+      "winner": "Pakistan",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "6 wickets",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Waqar Younis",
+      "team2": "Sourav Ganguly"
+    },
+    "player_of_match": "SR Tendulkar",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2003 World Cup Group A: Pakistan vs India (2003-03-01) at Centurion.\nPakistan: 273/7 (50.0 ov)\n  Saeed Anwar: 101 (126b, 7x4, 0x6)\n  Younis Khan: 32 (36b, 2x4, 0x6)\n  Z Khan: 2/46 (10.0 ov)\n  A Nehra: 2/74 (10.0 ov)\nIndia: 276/4 (45.4 ov)\n  SR Tendulkar: 98 (75b, 12x4, 2x6)\n  Yuvraj Singh: 50* (53b, 6x4, 0x6)\n  R Dravid: 44* (76b, 2x4, 0x6)\n  Waqar Younis: 2/71 (8.4 ov)\nIndia won by 6 wickets.\nPlayer of the Match: SR Tendulkar.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 549,
+    "total_wickets_fallen": 11,
+    "average_run_rate": 5.79,
+    "highest_individual_score": 101,
+    "best_bowling_figures": "2/74",
+    "total_sixes": 3,
+    "total_fours": 43
+  },
+  "innings_analysis": [
+    {
+      "team": "Pakistan",
+      "total_runs": 273,
+      "total_wickets": 7,
+      "total_overs": 50.0,
+      "run_rate": 5.46,
+      "top_batters": [
+        {
+          "name": "Saeed Anwar",
+          "runs": 101,
+          "balls": 126,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 80.16,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "Younis Khan",
+          "runs": 32,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Rashid Latif",
+          "runs": 29,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "Yousuf Youhana",
+          "runs": 25,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 59.52,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Taufeeq Umar",
+          "runs": 22,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 4.6,
+          "wides": 5,
+          "no_balls": 5
+        },
+        {
+          "name": "A Nehra",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 74,
+          "wickets": 2,
+          "economy": 7.4,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "J Srinath",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 1,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "D Mongia",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 19,
+          "wickets": 1,
+          "economy": 6.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SC Ganguly",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 0,
+          "economy": 4.67,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "Taufeeq Umar",
+          "runs": 58,
+          "wickets": 1,
+          "overs": "10.5"
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 90,
+          "wickets": 2,
+          "overs": "20.6"
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 98,
+          "wickets": 3,
+          "overs": "21.6"
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 171,
+          "wickets": 4,
+          "overs": "36.1"
+        },
+        {
+          "player": "Saeed Anwar",
+          "runs": 195,
+          "wickets": 5,
+          "overs": "40.1"
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 208,
+          "wickets": 6,
+          "overs": "41.3"
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 256,
+          "wickets": 7,
+          "overs": "48.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 54,
+        "wickets": 0,
+        "run_rate": 5.4,
+        "fours": 5,
+        "sixes": 0,
+        "dot_balls": 38,
+        "extras": 11
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 78,
+        "wickets": 3,
+        "run_rate": 7.8,
+        "fours": 8,
+        "sixes": 0,
+        "dot_balls": 19,
+        "extras": 5
+      },
+      "partnerships": []
+    },
+    {
+      "team": "India",
+      "total_runs": 276,
+      "total_wickets": 4,
+      "total_overs": 45.4,
+      "run_rate": 6.13,
+      "top_batters": [
+        {
+          "name": "SR Tendulkar",
+          "runs": 98,
+          "balls": 75,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 130.67,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Yuvraj Singh",
+          "runs": 50,
+          "balls": 53,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 94.34,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "R Dravid",
+          "runs": 44,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "M Kaif",
+          "runs": 35,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "V Sehwag",
+          "runs": 21,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Waqar Younis",
+          "overs": "8.4",
+          "maidens": 0,
+          "runs_conceded": 71,
+          "wickets": 2,
+          "economy": 8.19,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "Shahid Afridi",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 45,
+          "wickets": 1,
+          "economy": 5.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 72,
+          "wickets": 1,
+          "economy": 7.2,
+          "wides": 7,
+          "no_balls": 0
+        },
+        {
+          "name": "Abdul Razzaq",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 1,
+          "no_balls": 2
+        },
+        {
+          "name": "Wasim Akram",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 0,
+          "economy": 4.8,
+          "wides": 1,
+          "no_balls": 3
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "V Sehwag",
+          "runs": 53,
+          "wickets": 1,
+          "overs": "5.4"
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 53,
+          "wickets": 2,
+          "overs": "5.5"
+        },
+        {
+          "player": "M Kaif",
+          "runs": 155,
+          "wickets": 3,
+          "overs": "21.4"
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 177,
+          "wickets": 4,
+          "overs": "27.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 88,
+        "wickets": 2,
+        "run_rate": 8.8,
+        "fours": 11,
+        "sixes": 3,
+        "dot_balls": 31,
+        "extras": 6
+      },
+      "death_overs_stats": {
+        "overs": "5.4",
+        "balls": 34,
+        "runs": 36,
+        "wickets": 0,
+        "run_rate": 6.35,
+        "fours": 3,
+        "sixes": 0,
+        "dot_balls": 15,
+        "extras": 6
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Saeed Anwar": {
+      "batting": {
+        "runs": 101,
+        "balls": 126,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 80.16
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Younis Khan": {
+      "batting": {
+        "runs": 32,
+        "balls": 36,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 88.89
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Rashid Latif": {
+      "batting": {
+        "runs": 29,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 116.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yousuf Youhana": {
+      "batting": {
+        "runs": 25,
+        "balls": 42,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 59.52
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Taufeeq Umar": {
+      "batting": {
+        "runs": 22,
+        "balls": 32,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 68.75
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 2,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "A Nehra": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 74,
+        "wickets": 2,
+        "economy": 7.4
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "J Srinath": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 1,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Mongia": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 1,
+        "economy": 6.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SC Ganguly": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 4.67
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Tendulkar": {
+      "batting": {
+        "runs": 98,
+        "balls": 75,
+        "fours": 12,
+        "sixes": 2,
+        "strike_rate": 130.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 50,
+        "balls": 53,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 94.34
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Dravid": {
+      "batting": {
+        "runs": 44,
+        "balls": 76,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 57.89
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "M Kaif": {
+      "batting": {
+        "runs": 35,
+        "balls": 60,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 58.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Sehwag": {
+      "batting": {
+        "runs": 21,
+        "balls": 14,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 150.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Waqar Younis": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.666666666666666,
+        "maidens": 0,
+        "runs": 71,
+        "wickets": 2,
+        "economy": 8.19
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shahid Afridi": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Shoaib Akhtar": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 72,
+        "wickets": 1,
+        "economy": 7.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Abdul Razzaq": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Wasim Akram": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 0,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Pakistan scored 273 in 50.0 overs at 5.46 RPO",
+    "vs India scored 276 in 45.4 overs at 6.13 RPO",
+    "Top batsman: Saeed Anwar with 101 runs",
+    "Top bowler: Z Khan with 2 wickets"
+  ]
+}

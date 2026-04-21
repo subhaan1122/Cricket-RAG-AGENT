@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2011
+Match: Kenya vs Pakistan
+Stage: Group A
+Date: 2011-02-23
+Venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+Captain Kenya: Jimmy Kamande
+Captain Pakistan: Shahid Afridi
+
+Match Summary:
+  2011 World Cup Group A: Kenya vs Pakistan (2011-02-23) at Hambantota.
+
+Pakistan: 317/7 (50.0 ov)
+  Umar Akmal: 71 (52b, 7x4, 1x6, SR 136.54)
+  Misbah-ul-Haq: 65 (69b, 1x4, 2x6, SR 94.2)
+  Kamran Akmal: 55 (67b, 4x4, 0x6, SR 82.09)
+  Younis Khan: 50 (67b, 1x4, 0x6, SR 74.63)
+  Mohammad Hafeez: 9 (20b, 1x4, 0x6, SR 45.0)
+  TM Odoyo: 3/41 (7.0 ov, Econ 5.86)
+  SO Ngoche: 1/46 (10.0 ov, Econ 4.6)
+  SO Tikolo: 1/44 (9.0 ov, Econ 4.89)
+  E Otieno: 1/49 (9.0 ov, Econ 5.44)
+  JK Kamande: 1/64 (7.0 ov, Econ 9.14)
+  Extras: 46
+
+Kenya: 112 all out (33.1 ov)
+  CO Obuya: 47 (58b, 3x4, 3x6, SR 81.03)
+  SR Waters: 17 (31b, 2x4, 0x6, SR 54.84)
+  MA Ouma: 16 (37b, 1x4, 0x6, SR 43.24)
+  SO Tikolo: 13 (33b, 1x4, 0x6, SR 39.39)
+  T Mishra: 6 (16b, 1x4, 0x6, SR 37.5)
+  Shahid Afridi: 5/16 (8.0 ov, Econ 2.0)
+  Umar Gul: 2/12 (4.1 ov, Econ 2.88)
+  Mohammad Hafeez: 1/26 (4.0 ov, Econ 6.5)
+  Shoaib Akhtar: 0/10 (5.0 ov, Econ 2.0)
+  Abdur Rehman: 0/18 (7.0 ov, Econ 2.57)
+  Extras: 11
+
+Batting Highlights:
+  Half-century: Umar Akmal scored 71 off 52 balls (SR 136.54)
+  Half-century: Misbah-ul-Haq scored 65 off 69 balls (SR 94.2)
+  Half-century: Kamran Akmal scored 55 off 67 balls (SR 82.09)
+  Half-century: Younis Khan scored 50 off 67 balls (SR 74.63)
+
+Bowling Highlights:
+  Key spell: TM Odoyo took 3/41
+  Match-changing spell: Shahid Afridi took 5/16
+  Economical spell: Shoaib Akhtar conceded 10 runs in 5.0 overs (Econ 2.0)
+  Economical spell: Abdur Rehman conceded 18 runs in 7.0 overs (Econ 2.57)
+
+Captain Performance:
+  Kenya captain: Jimmy Kamande
+  Pakistan captain: Shahid Afridi
+
+Key Moments:
+  Pakistan lost 7 early wickets.
+  Kenya lost 10 early wickets.
+  Pakistan exploded in the death overs (112 runs at 11.2 RPO).
+
+Result: Pakistan won by 205 runs
+Toss: Pakistan won and chose to bat
+Player of the Match: Umar Akmal

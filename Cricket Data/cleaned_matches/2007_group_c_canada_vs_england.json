@@ -1,0 +1,338 @@
+{
+  "match_id": "fc7a37966d7f",
+  "world_cup_year": 2007,
+  "stage": "Group C",
+  "venue": "Beausejour Stadium, Gros Islet",
+  "city": "St Lucia",
+  "date": "2007-03-18",
+  "teams": {
+    "team1": "Canada",
+    "team2": "England"
+  },
+  "toss": {
+    "winner": "Canada",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "England",
+    "margin": "51 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "John Davison",
+    "team2": "Michael Vaughan"
+  },
+  "player_of_match": "PD Collingwood",
+  "innings": [
+    {
+      "team": "England",
+      "runs": 279,
+      "wickets": 6,
+      "overs": 50.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "EC Joyce",
+          "runs": 66,
+          "balls": 103,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 64.08,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "PD Collingwood",
+          "runs": 62,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 129.17,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MP Vaughan",
+          "runs": 45,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.31,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RS Bopara",
+          "runs": 29,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 96.67,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "IR Bell",
+          "runs": 28,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "S Dhaniram",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 3,
+          "economy": 4.1,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AM Samad",
+          "overs": "5.1",
+          "maidens": 0,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 2
+        },
+        {
+          "name": "GR Codrington",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 70,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "AC Cummins",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 58,
+          "wickets": 1,
+          "economy": 8.29,
+          "wides": 7,
+          "no_balls": 3
+        },
+        {
+          "name": "JM Davison",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 32,
+          "wickets": 0,
+          "economy": 3.2,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MP Vaughan",
+          "runs": 101,
+          "wickets": 1,
+          "overs": "19.6"
+        },
+        {
+          "player": "IR Bell",
+          "runs": 153,
+          "wickets": 2,
+          "overs": "33.2"
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 160,
+          "wickets": 3,
+          "overs": "35.1"
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 161,
+          "wickets": 4,
+          "overs": "35.6"
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 242,
+          "wickets": 5,
+          "overs": "46.5"
+        },
+        {
+          "player": "JWM Dalrymple",
+          "runs": 245,
+          "wickets": 6,
+          "overs": "47.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Canada",
+      "runs": 228,
+      "wickets": 7,
+      "overs": 50.0,
+      "extras": 16,
+      "top_batters": [
+        {
+          "name": "AA Mulla",
+          "runs": 58,
+          "balls": 60,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.67,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "AM Samad",
+          "runs": 36,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 53.73,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "S Dhaniram",
+          "runs": 30,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "DR Chumney",
+          "runs": 27,
+          "balls": 51,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 52.94,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "JM Davison",
+          "runs": 21,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RS Bopara",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 43,
+          "wickets": 2,
+          "economy": 4.78,
+          "wides": 2,
+          "no_balls": 2
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 5.11,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "MS Panesar",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JM Anderson",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 4.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "PD Collingwood",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 0,
+          "economy": 4.56,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "GEF Barnett",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "1.3"
+        },
+        {
+          "player": "A Bagai",
+          "runs": 22,
+          "wickets": 2,
+          "overs": "5.1"
+        },
+        {
+          "player": "JM Davison",
+          "runs": 51,
+          "wickets": 3,
+          "overs": "10.3"
+        },
+        {
+          "player": "IS Billcliff",
+          "runs": 65,
+          "wickets": 4,
+          "overs": "16.6"
+        },
+        {
+          "player": "AA Mulla",
+          "runs": 161,
+          "wickets": 5,
+          "overs": "34.4"
+        },
+        {
+          "player": "AM Samad",
+          "runs": 161,
+          "wickets": 6,
+          "overs": "35.1"
+        },
+        {
+          "player": "S Dhaniram",
+          "runs": 217,
+          "wickets": 7,
+          "overs": "47.3"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_c_canada_vs_england.json",
+  "match_summary": "2007 World Cup Group C: Canada vs England (2007-03-18) at St Lucia.\nEngland: 279/6 (50.0 ov)\n  EC Joyce: 66 (103b, 4x4, 1x6)\n  PD Collingwood: 62* (48b, 4x4, 1x6)\n  MP Vaughan: 45 (64b, 7x4, 0x6)\n  S Dhaniram: 3/41 (10.0 ov)\nCanada: 228/7 (50.0 ov)\n  AA Mulla: 58 (60b, 7x4, 1x6)\n  AM Samad: 36 (67b, 1x4, 1x6)\n  S Dhaniram: 30 (33b, 3x4, 0x6)\n  RS Bopara: 2/43 (9.0 ov)\n  LE Plunkett: 2/46 (9.0 ov)\nEngland won by 51 runs.\nPlayer of the Match: PD Collingwood."
+}

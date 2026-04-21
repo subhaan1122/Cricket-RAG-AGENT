@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2023
+Match: India vs England
+Stage: Group Stage
+Date: 2023-10-29
+Venue: Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow, Lucknow
+Captain India: Rohit Sharma
+Captain England: Jos Buttler
+
+Match Summary:
+  2023 World Cup Group Stage: India vs England (2023-10-29) at Lucknow.
+
+India: 229/9 (50.0 ov)
+  RG Sharma: 87 (101b, 10x4, 3x6, SR 86.14)
+  SA Yadav: 49 (47b, 4x4, 1x6, SR 104.26)
+  KL Rahul: 39 (58b, 3x4, 0x6, SR 67.24)
+  JJ Bumrah: 16 (25b, 1x4, 0x6, SR 64.0)
+  Shubman Gill: 9 (13b, 1x4, 0x6, SR 69.23)
+  DJ Willey: 3/45 (10.0 ov, Econ 4.5)
+  AU Rashid: 2/35 (10.0 ov, Econ 3.5)
+  CR Woakes: 2/33 (9.0 ov, Econ 3.67)
+  MA Wood: 1/46 (9.0 ov, Econ 5.11)
+  MM Ali: 0/37 (8.0 ov, Econ 4.62)
+  Extras: 7
+
+England: 129 all out (34.5 ov)
+  LS Livingstone: 27 (46b, 2x4, 0x6, SR 58.7)
+  DJ Malan: 16 (17b, 2x4, 1x6, SR 94.12)
+  DJ Willey: 16 (17b, 0x4, 2x6, SR 94.12)
+  MM Ali: 15 (31b, 0x4, 0x6, SR 48.39)
+  JM Bairstow: 14 (23b, 2x4, 0x6, SR 60.87)
+  Mohammed Shami: 4/22 (7.0 ov, Econ 3.14)
+  JJ Bumrah: 3/32 (6.5 ov, Econ 4.68)
+  Kuldeep Yadav: 2/24 (8.0 ov, Econ 3.0)
+  RA Jadeja: 1/16 (7.0 ov, Econ 2.29)
+  Mohammed Siraj: 0/33 (6.0 ov, Econ 5.5)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: RG Sharma scored 87 off 101 balls (SR 86.14)
+
+Bowling Highlights:
+  Key spell: DJ Willey took 3/45
+  Economical spell: AU Rashid conceded 35 runs in 10.0 overs (Econ 3.5)
+  Match-changing spell: Mohammed Shami took 4/22
+  Key spell: JJ Bumrah took 3/32
+  Economical spell: Kuldeep Yadav conceded 24 runs in 8.0 overs (Econ 3.0)
+  Economical spell: RA Jadeja conceded 16 runs in 7.0 overs (Econ 2.29)
+
+Captain Performance:
+  Rohit Sharma (India): scored 87 off 101 balls
+
+Key Moments:
+  India lost 9 early wickets.
+  England lost 10 early wickets.
+  England lost 4 wickets in the powerplay.
+
+Result: India won by 100 runs
+Toss: England won and chose to field
+Player of the Match: RG Sharma

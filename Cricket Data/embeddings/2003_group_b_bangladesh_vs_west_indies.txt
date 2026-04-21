@@ -1,0 +1,49 @@
+ICC Cricket World Cup 2003
+Match: West Indies vs Bangladesh
+Stage: Group B
+Date: 2003-02-18
+Venue: Willowmoore Park, Benoni, Benoni
+Captain West Indies: Brian Lara
+Captain Bangladesh: Khaled Mashud
+
+Match Summary:
+  2003 World Cup Group B: West Indies vs Bangladesh (2003-02-18) at Benoni.
+
+West Indies: 244/9 (50.0 ov)
+  RL Powell: 50 (31b, 3x4, 4x6, SR 161.29)
+  BC Lara: 46 (76b, 5x4, 0x6, SR 60.53)
+  CL Hooper: 45 (58b, 0x4, 1x6, SR 77.59)
+  S Chanderpaul: 29 (53b, 3x4, 0x6, SR 54.72)
+  WW Hinds: 18 (39b, 3x4, 0x6, SR 46.15)
+  Manjural Islam: 3/62 (10.0 ov, Econ 6.2)
+  Ehsanul Haque: 2/34 (10.0 ov, Econ 3.4)
+  Khaled Mahmud: 2/48 (10.0 ov, Econ 4.8)
+  Alok Kapali: 1/3 (2.0 ov, Econ 1.5)
+  Mohammad Rafique: 0/44 (10.0 ov, Econ 4.4)
+  Extras: 27
+
+Bangladesh: 32/2 (8.1 ov)
+  Ehsanul Haque: 12 (24b, 2x4, 0x6, SR 50.0)
+  Mohammad Ashraful: 8 (4b, 1x4, 0x6, SR 200.0)
+  Al Sahariar: 5 (14b, 0x4, 0x6, SR 35.71)
+  Sanwar Hossain: 2 (7b, 0x4, 0x6, SR 28.57)
+  M Dillon: 1/13 (4.1 ov, Econ 3.12)
+  VC Drakes: 1/17 (4.0 ov, Econ 4.25)
+  Extras: 5
+
+Batting Highlights:
+  Half-century: RL Powell scored 50 off 31 balls (SR 161.29)
+
+Bowling Highlights:
+  Key spell: Manjural Islam took 3/62
+  Economical spell: Ehsanul Haque conceded 34 runs in 10.0 overs (Econ 3.4)
+
+Captain Performance:
+  Brian Lara (West Indies): scored 46 off 76 balls
+
+Key Moments:
+  West Indies lost 9 early wickets.
+
+Result: West Indies won by 103 runs
+Toss: Bangladesh won and chose to field
+Player of the Match: CH Gayle

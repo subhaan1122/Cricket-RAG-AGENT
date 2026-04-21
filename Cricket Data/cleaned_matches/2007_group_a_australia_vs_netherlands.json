@@ -1,0 +1,340 @@
+{
+  "match_id": "9379495c217e",
+  "world_cup_year": 2007,
+  "stage": "Group A",
+  "venue": "Warner Park, Basseterre",
+  "city": "St Kitts",
+  "date": "2007-03-18",
+  "teams": {
+    "team1": "Australia",
+    "team2": "Netherlands"
+  },
+  "toss": {
+    "winner": "Australia",
+    "decision": "bat"
+  },
+  "result": {
+    "winner": "Australia",
+    "margin": "229 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Ricky Ponting",
+    "team2": "Luuk van Troost"
+  },
+  "player_of_match": "BJ Hodge",
+  "innings": [
+    {
+      "team": "Australia",
+      "runs": 358,
+      "wickets": 5,
+      "overs": 50.0,
+      "extras": 19,
+      "top_batters": [
+        {
+          "name": "BJ Hodge",
+          "runs": 123,
+          "balls": 89,
+          "fours": 8,
+          "sixes": 7,
+          "strike_rate": 138.2,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "MJ Clarke",
+          "runs": 93,
+          "balls": 85,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 109.41,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "AC Gilchrist",
+          "runs": 57,
+          "balls": 64,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 89.06,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "ML Hayden",
+          "runs": 29,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 85.29,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 23,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 104.55,
+          "out": true,
+          "dismissal": "caught and bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "TBM de Leede",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 2,
+          "economy": 4.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "RN ten Doeschate",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 76,
+          "wickets": 2,
+          "economy": 7.6,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "PW Borren",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 89,
+          "wickets": 1,
+          "economy": 8.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MBS Jonkman",
+          "overs": "6.1",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 0,
+          "economy": 5.68,
+          "wides": 0,
+          "no_balls": 1
+        },
+        {
+          "name": "Adeel Raja",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 61,
+          "wickets": 0,
+          "economy": 7.79,
+          "wides": 0,
+          "no_balls": 1
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "ML Hayden",
+          "runs": 73,
+          "wickets": 1,
+          "overs": "11.5"
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 116,
+          "wickets": 2,
+          "overs": "19.4"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 116,
+          "wickets": 3,
+          "overs": "20.1"
+        },
+        {
+          "player": "BJ Hodge",
+          "runs": 320,
+          "wickets": 4,
+          "overs": "47.3"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 325,
+          "wickets": 5,
+          "overs": "48.4"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Netherlands",
+      "runs": 129,
+      "wickets": 10,
+      "overs": 26.5,
+      "extras": 12,
+      "top_batters": [
+        {
+          "name": "DLS van Bunge",
+          "runs": 33,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "DJ Reekers",
+          "runs": 25,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 131.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "PW Borren",
+          "runs": 24,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "TBM de Leede",
+          "runs": 14,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "B Zuiderent",
+          "runs": 9,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "GB Hogg",
+          "overs": "4.5",
+          "maidens": 0,
+          "runs_conceded": 27,
+          "wickets": 4,
+          "economy": 5.59,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "GD McGrath",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.12,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NW Bracken",
+          "overs": "7.0",
+          "maidens": 1,
+          "runs_conceded": 33,
+          "wickets": 2,
+          "economy": 4.71,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SW Tait",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 4.14,
+          "wides": 5,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "DJ Reekers",
+          "runs": 36,
+          "wickets": 1,
+          "overs": "6.3"
+        },
+        {
+          "player": "AN Kervezee",
+          "runs": 36,
+          "wickets": 2,
+          "overs": "6.5"
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 38,
+          "wickets": 3,
+          "overs": "7.5"
+        },
+        {
+          "player": "LP van Troost",
+          "runs": 40,
+          "wickets": 4,
+          "overs": "9.2"
+        },
+        {
+          "player": "B Zuiderent",
+          "runs": 46,
+          "wickets": 5,
+          "overs": "10.6"
+        },
+        {
+          "player": "TBM de Leede",
+          "runs": 87,
+          "wickets": 6,
+          "overs": "18.4"
+        },
+        {
+          "player": "DLS van Bunge",
+          "runs": 97,
+          "wickets": 7,
+          "overs": "19.4"
+        },
+        {
+          "player": "J Smits",
+          "runs": 106,
+          "wickets": 8,
+          "overs": "22.3"
+        },
+        {
+          "player": "PW Borren",
+          "runs": 129,
+          "wickets": 9,
+          "overs": "26.3"
+        },
+        {
+          "player": "MBS Jonkman",
+          "runs": 129,
+          "wickets": 10,
+          "overs": "26.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2007_group_a_australia_vs_netherlands.json",
+  "match_summary": "2007 World Cup Group A: Australia vs Netherlands (2007-03-18) at St Kitts.\nAustralia: 358/5 (50.0 ov)\n  BJ Hodge: 123 (89b, 8x4, 7x6)\n  MJ Clarke: 93* (85b, 6x4, 3x6)\n  AC Gilchrist: 57 (64b, 11x4, 0x6)\n  TBM de Leede: 2/40 (10.0 ov)\n  RN ten Doeschate: 2/76 (10.0 ov)\nNetherlands: 129 all out (26.5 ov)\n  DLS van Bunge: 33 (33b, 4x4, 1x6)\n  GB Hogg: 4/27 (4.5 ov)\n  GD McGrath: 2/33 (8.0 ov)\n  NW Bracken: 2/33 (7.0 ov)\nAustralia won by 229 runs.\nPlayer of the Match: BJ Hodge."
+}

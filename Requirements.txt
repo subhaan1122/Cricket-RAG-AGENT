@@ -1,0 +1,10 @@
+python-dotenv
+openai
+sentence-transformers
+faiss-cpu
+numpy
+httpx
+fastapi
+uvicorn[standard]
+pydantic
+rank-bm25

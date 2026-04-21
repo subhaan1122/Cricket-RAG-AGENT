@@ -1,0 +1,56 @@
+ICC Cricket World Cup 2023
+Match: Netherlands vs Bangladesh
+Stage: Group Stage
+Date: 2023-10-28
+Venue: Eden Gardens, Kolkata, Kolkata
+Captain Netherlands: Scott Edwards
+Captain Bangladesh: Shakib Al Hasan
+
+Match Summary:
+  2023 World Cup Group Stage: Netherlands vs Bangladesh (2023-10-28) at Kolkata.
+
+Netherlands: 229 all out (50.0 ov)
+  SA Edwards: 68 (89b, 6x4, 0x6, SR 76.4)
+  W Barresi: 41 (41b, 8x4, 0x6, SR 100.0)
+  SA Engelbrecht: 35 (61b, 3x4, 0x6, SR 57.38)
+  LV van Beek: 23 (16b, 2x4, 1x6, SR 143.75)
+  BFW de Leede: 17 (32b, 2x4, 0x6, SR 53.12)
+  Mustafizur Rahman: 2/36 (10.0 ov, Econ 3.6)
+  Taskin Ahmed: 2/43 (9.0 ov, Econ 4.78)
+  Shoriful Islam: 2/51 (10.0 ov, Econ 5.1)
+  Mahedi Hasan: 2/40 (7.0 ov, Econ 5.71)
+  Shakib Al Hasan: 1/37 (10.0 ov, Econ 3.7)
+  Extras: 12
+
+Bangladesh: 142 all out (42.2 ov)
+  Mehedi Hasan Miraz: 35 (40b, 5x4, 1x6, SR 87.5)
+  Mustafizur Rahman: 20 (35b, 2x4, 1x6, SR 57.14)
+  Mahmudullah: 20 (41b, 2x4, 0x6, SR 48.78)
+  Mahedi Hasan: 17 (38b, 1x4, 0x6, SR 44.74)
+  Tanzid Hasan: 15 (16b, 3x4, 0x6, SR 93.75)
+  PA van Meekeren: 4/23 (7.2 ov, Econ 3.14)
+  BFW de Leede: 2/25 (7.0 ov, Econ 3.57)
+  A Dutt: 1/26 (10.0 ov, Econ 2.6)
+  LV van Beek: 1/30 (9.0 ov, Econ 3.33)
+  CN Ackermann: 1/25 (7.0 ov, Econ 3.57)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: SA Edwards scored 68 off 89 balls (SR 76.4)
+
+Bowling Highlights:
+  Match-changing spell: PA van Meekeren took 4/23
+  Economical spell: A Dutt conceded 26 runs in 10.0 overs (Econ 2.6)
+  Economical spell: LV van Beek conceded 30 runs in 9.0 overs (Econ 3.33)
+
+Captain Performance:
+  Scott Edwards (Netherlands): scored 68 off 89 balls
+  Shakib Al Hasan (Bangladesh): scored 17 off 38 balls
+
+Key Moments:
+  Netherlands lost 10 early wickets.
+  Bangladesh lost 10 early wickets.
+
+Result: Netherlands won by 87 runs
+Toss: Netherlands won and chose to bat
+Player of the Match: PA van Meekeren

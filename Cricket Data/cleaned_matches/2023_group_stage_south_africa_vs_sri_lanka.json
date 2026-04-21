@@ -1,0 +1,350 @@
+{
+  "match_id": "ebecb671d3b9",
+  "world_cup_year": 2023,
+  "stage": "Group Stage",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "city": "Delhi",
+  "date": "2023-10-07",
+  "teams": {
+    "team1": "South Africa",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "Sri Lanka",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "South Africa",
+    "margin": "102 runs",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Temba Bavuma",
+    "team2": "Kusal Mendis"
+  },
+  "player_of_match": "AK Markram",
+  "innings": [
+    {
+      "team": "South Africa",
+      "runs": 428,
+      "wickets": 5,
+      "overs": 50.0,
+      "extras": 23,
+      "top_batters": [
+        {
+          "name": "HE van der Dussen",
+          "runs": 108,
+          "balls": 110,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 98.18,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "AK Markram",
+          "runs": 106,
+          "balls": 54,
+          "fours": 14,
+          "sixes": 3,
+          "strike_rate": 196.3,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "Q de Kock",
+          "runs": 100,
+          "balls": 84,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 119.05,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DA Miller",
+          "runs": 39,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 185.71,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "H Klaasen",
+          "runs": 32,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 160.0,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "D Madushanka",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 86,
+          "wickets": 2,
+          "economy": 8.6,
+          "wides": 3,
+          "no_balls": 1
+        },
+        {
+          "name": "DN Wellalage",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 81,
+          "wickets": 1,
+          "economy": 8.1,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CAK Rajitha",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 90,
+          "wickets": 1,
+          "economy": 9.0,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "M Pathirana",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 95,
+          "wickets": 1,
+          "economy": 9.5,
+          "wides": 5,
+          "no_balls": 0
+        },
+        {
+          "name": "MD Shanaka",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "T Bavuma",
+          "runs": 10,
+          "wickets": 1,
+          "overs": "1.4"
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 214,
+          "wickets": 2,
+          "overs": "30.4"
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 264,
+          "wickets": 3,
+          "overs": "37.1"
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 342,
+          "wickets": 4,
+          "overs": "43.1"
+        },
+        {
+          "player": "AK Markram",
+          "runs": 383,
+          "wickets": 5,
+          "overs": "47.1"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "Sri Lanka",
+      "runs": 326,
+      "wickets": 10,
+      "overs": 44.5,
+      "extras": 20,
+      "top_batters": [
+        {
+          "name": "KIC Asalanka",
+          "runs": 79,
+          "balls": 65,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 121.54,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BKG Mendis",
+          "runs": 76,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 8,
+          "strike_rate": 180.95,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MD Shanaka",
+          "runs": 68,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 109.68,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "CAK Rajitha",
+          "runs": 33,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 106.45,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "S Samarawickrama",
+          "runs": 23,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 121.05,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "G Coetzee",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 68,
+          "wickets": 3,
+          "economy": 7.56,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "KA Maharaj",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 62,
+          "wickets": 2,
+          "economy": 6.2,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "K Rabada",
+          "overs": "7.5",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 2,
+          "economy": 6.38,
+          "wides": 2,
+          "no_balls": 1
+        },
+        {
+          "name": "M Jansen",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 92,
+          "wickets": 2,
+          "economy": 9.2,
+          "wides": 3,
+          "no_balls": 0
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 6.12,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "P Nissanka",
+          "runs": 1,
+          "wickets": 1,
+          "overs": "1.1"
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 67,
+          "wickets": 2,
+          "overs": "7.5"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 109,
+          "wickets": 3,
+          "overs": "12.4"
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 111,
+          "wickets": 4,
+          "overs": "13.2"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 150,
+          "wickets": 5,
+          "overs": "20.1"
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 232,
+          "wickets": 6,
+          "overs": "31.6"
+        },
+        {
+          "player": "DN Wellalage",
+          "runs": 233,
+          "wickets": 7,
+          "overs": "32.2"
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 291,
+          "wickets": 8,
+          "overs": "39.4"
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 322,
+          "wickets": 9,
+          "overs": "43.4"
+        },
+        {
+          "player": "M Pathirana",
+          "runs": 326,
+          "wickets": 10,
+          "overs": "44.5"
+        }
+      ],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2023_group_stage_south_africa_vs_sri_lanka.json",
+  "match_summary": "2023 World Cup Group Stage: South Africa vs Sri Lanka (2023-10-07) at Delhi.\nSouth Africa: 428/5 (50.0 ov)\n  HE van der Dussen: 108 (110b, 13x4, 2x6)\n  AK Markram: 106 (54b, 14x4, 3x6)\n  Q de Kock: 100 (84b, 12x4, 3x6)\n  D Madushanka: 2/86 (10.0 ov)\nSri Lanka: 326 all out (44.5 ov)\n  KIC Asalanka: 79 (65b, 8x4, 4x6)\n  BKG Mendis: 76 (42b, 4x4, 8x6)\n  MD Shanaka: 68 (62b, 6x4, 3x6)\n  G Coetzee: 3/68 (9.0 ov)\n  KA Maharaj: 2/62 (10.0 ov)\n  K Rabada: 2/50 (7.5 ov)\nSouth Africa won by 102 runs.\nPlayer of the Match: AK Markram."
+}

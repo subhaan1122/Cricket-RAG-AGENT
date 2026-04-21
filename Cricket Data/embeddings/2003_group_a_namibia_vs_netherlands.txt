@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2003
+Match: Netherlands vs Namibia
+Stage: Group A
+Date: 2003-03-03
+Venue: Goodyear Park, Bloemfontein, Bloemfontein
+Captain Netherlands: Roland Lefebvre
+Captain Namibia: Deon Kotze
+
+Match Summary:
+  2003 World Cup Group A: Netherlands vs Namibia (2003-03-03) at Bloemfontein.
+
+Netherlands: 314/4 (50.0 ov)
+  KJJ van Noortwijk: 134 (129b, 11x4, 3x6, SR 103.88)
+  JF Kloppenburg: 121 (142b, 6x4, 4x6, SR 85.21)
+  LP van Troost: 16 (10b, 0x4, 1x6, SR 160.0)
+  E Schiferli: 10 (15b, 2x4, 0x6, SR 66.67)
+  B Zuiderent: 5 (7b, 0x4, 0x6, SR 71.43)
+  LJ Burger: 2/49 (10.0 ov, Econ 4.9)
+  G Snyman: 1/55 (10.0 ov, Econ 5.5)
+  RJ van Vuuren: 1/63 (10.0 ov, Econ 6.3)
+  AJ Burger: 0/18 (3.0 ov, Econ 6.0)
+  SF Burger: 0/35 (5.0 ov, Econ 7.0)
+  Extras: 28
+
+Namibia: 250 all out (46.5 ov)
+  GB Murgatroyd: 52 (62b, 4x4, 0x6, SR 83.87)
+  D Keulder: 52 (67b, 2x4, 0x6, SR 77.61)
+  AJ Burger: 41 (42b, 6x4, 0x6, SR 97.62)
+  M Karg: 41 (51b, 4x4, 1x6, SR 80.39)
+  DB Kotze: 25 (29b, 1x4, 0x6, SR 86.21)
+  JF Kloppenburg: 4/42 (10.0 ov, Econ 4.2)
+  Adeel Raja: 4/42 (8.5 ov, Econ 4.75)
+  TBM de Leede: 1/33 (8.0 ov, Econ 4.12)
+  HJC Mol: 1/39 (6.0 ov, Econ 6.5)
+  JJ Esmeijer: 0/43 (7.0 ov, Econ 6.14)
+  Extras: 8
+
+Batting Highlights:
+  Century: KJJ van Noortwijk scored 134 off 129 balls (SR 103.88, 11 fours, 3 sixes)
+  Century: JF Kloppenburg scored 121 off 142 balls (SR 85.21, 6 fours, 4 sixes)
+  Half-century: GB Murgatroyd scored 52 off 62 balls (SR 83.87)
+  Half-century: D Keulder scored 52 off 67 balls (SR 77.61)
+
+Bowling Highlights:
+  Match-changing spell: JF Kloppenburg took 4/42
+  Match-changing spell: Adeel Raja took 4/42
+
+Captain Performance:
+  Deon Kotze (Namibia): scored 25 off 29 balls
+
+Key Moments:
+  Netherlands lost 4 early wickets.
+  Namibia lost 10 early wickets.
+
+Result: Netherlands won by 64 runs
+Toss: Netherlands won and chose to bat
+Player of the Match: JF Kloppenburg

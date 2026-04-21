@@ -1,0 +1,58 @@
+ICC Cricket World Cup 2023
+Match: Australia vs England
+Stage: Group Stage
+Date: 2023-11-04
+Venue: Narendra Modi Stadium, Ahmedabad, Ahmedabad
+Captain Australia: Pat Cummins
+Captain England: Jos Buttler
+
+Match Summary:
+  2023 World Cup Group Stage: Australia vs England (2023-11-04) at Ahmedabad.
+
+Australia: 286 all out (49.3 ov)
+  M Labuschagne: 71 (83b, 7x4, 0x6, SR 85.54)
+  C Green: 47 (52b, 5x4, 0x6, SR 90.38)
+  SPD Smith: 44 (52b, 3x4, 0x6, SR 84.62)
+  MP Stoinis: 35 (32b, 3x4, 2x6, SR 109.38)
+  A Zampa: 29 (19b, 4x4, 0x6, SR 152.63)
+  CR Woakes: 4/54 (9.3 ov, Econ 5.68)
+  AU Rashid: 2/38 (10.0 ov, Econ 3.8)
+  MA Wood: 2/70 (10.0 ov, Econ 7.0)
+  DJ Willey: 1/48 (10.0 ov, Econ 4.8)
+  LS Livingstone: 1/42 (6.0 ov, Econ 7.0)
+  Extras: 10
+
+England: 253 all out (48.1 ov)
+  BA Stokes: 64 (90b, 2x4, 3x6, SR 71.11)
+  DJ Malan: 50 (64b, 4x4, 1x6, SR 78.12)
+  MM Ali: 42 (43b, 6x4, 0x6, SR 97.67)
+  CR Woakes: 32 (33b, 4x4, 1x6, SR 96.97)
+  AU Rashid: 20 (15b, 1x4, 1x6, SR 133.33)
+  A Zampa: 3/21 (10.0 ov, Econ 2.1)
+  PJ Cummins: 2/49 (10.0 ov, Econ 4.9)
+  JR Hazlewood: 2/49 (9.1 ov, Econ 5.35)
+  MA Starc: 2/66 (10.0 ov, Econ 6.6)
+  MP Stoinis: 1/34 (4.0 ov, Econ 8.5)
+  Extras: 14
+
+Batting Highlights:
+  Half-century: M Labuschagne scored 71 off 83 balls (SR 85.54)
+  Quickfire innings: A Zampa smashed 29 off 19 balls at SR 152.63
+  Half-century: BA Stokes scored 64 off 90 balls (SR 71.11)
+  Half-century: DJ Malan scored 50 off 64 balls (SR 78.12)
+
+Bowling Highlights:
+  Match-changing spell: CR Woakes took 4/54
+  Key spell: A Zampa took 3/21
+
+Captain Performance:
+  Australia captain: Pat Cummins
+  England captain: Jos Buttler
+
+Key Moments:
+  Australia lost 10 early wickets.
+  England lost 10 early wickets.
+
+Result: Australia won by 33 runs
+Toss: England won and chose to field
+Player of the Match: A Zampa

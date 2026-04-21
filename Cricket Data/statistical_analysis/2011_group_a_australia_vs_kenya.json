@@ -1,0 +1,735 @@
+{
+  "match_info": {
+    "match_id": "0e64a453b38b",
+    "world_cup_year": 2011,
+    "stage": "Group A",
+    "venue": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "date": "2011-03-13",
+    "teams": {
+      "team1": "Australia",
+      "team2": "Kenya"
+    },
+    "toss": {
+      "winner": "Australia",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "Australia",
+      "margin": "60 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "Ricky Ponting",
+      "team2": "Jimmy Kamande"
+    },
+    "player_of_match": "CO Obuya",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group A: Australia vs Kenya (2011-03-13) at Bangalore.\nAustralia: 324/6 (50.0 ov)\n  MJ Clarke: 93 (80b, 7x4, 1x6)\n  BJ Haddin: 65 (79b, 9x4, 1x6)\n  MEK Hussey: 54 (43b, 4x4, 0x6)\n  NN Odhiambo: 3/57 (10.0 ov)\n  JK Kamande: 2/46 (10.0 ov)\nKenya: 264/6 (50.0 ov)\n  CO Obuya: 98* (129b, 8x4, 3x6)\n  T Mishra: 72 (89b, 8x4, 1x6)\n  TM Odoyo: 35 (38b, 4x4, 1x6)\n  SW Tait: 2/49 (8.0 ov)\nAustralia won by 60 runs.\nPlayer of the Match: CO Obuya.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 588,
+    "total_wickets_fallen": 12,
+    "average_run_rate": 5.88,
+    "highest_individual_score": 98,
+    "best_bowling_figures": "3/57",
+    "total_sixes": 10,
+    "total_fours": 50
+  },
+  "innings_analysis": [
+    {
+      "team": "Australia",
+      "total_runs": 324,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 6.48,
+      "top_batters": [
+        {
+          "name": "MJ Clarke",
+          "runs": 93,
+          "balls": 80,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 116.25,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "BJ Haddin",
+          "runs": 65,
+          "balls": 79,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 82.28,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MEK Hussey",
+          "runs": 54,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 125.58,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RT Ponting",
+          "runs": 36,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "SR Watson",
+          "runs": 21,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 123.53,
+          "out": true,
+          "dismissal": "caught"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "NN Odhiambo",
+          "overs": "10.0",
+          "maidens": 1,
+          "runs_conceded": 57,
+          "wickets": 3,
+          "economy": 5.7,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "JK Kamande",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 4.6,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "CO Obuya",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 33,
+          "wickets": 1,
+          "economy": 8.25,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "TM Odoyo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 50,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "JO Ngoche",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 56,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Watson",
+          "runs": 38,
+          "wickets": 1,
+          "overs": "7.2"
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 127,
+          "wickets": 2,
+          "overs": "24.4"
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 131,
+          "wickets": 3,
+          "overs": "25.4"
+        },
+        {
+          "player": "CL White",
+          "runs": 143,
+          "wickets": 4,
+          "overs": "26.6"
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 257,
+          "wickets": 5,
+          "overs": "43.1"
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 304,
+          "wickets": 6,
+          "overs": "48.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 44,
+        "wickets": 1,
+        "run_rate": 4.4,
+        "fours": 7,
+        "sixes": 1,
+        "dot_balls": 43,
+        "extras": 1
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 93,
+        "wickets": 2,
+        "run_rate": 9.3,
+        "fours": 9,
+        "sixes": 1,
+        "dot_balls": 14,
+        "extras": 6
+      },
+      "partnerships": []
+    },
+    {
+      "team": "Kenya",
+      "total_runs": 264,
+      "total_wickets": 6,
+      "total_overs": 50.0,
+      "run_rate": 5.28,
+      "top_batters": [
+        {
+          "name": "CO Obuya",
+          "runs": 98,
+          "balls": 129,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 75.97,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "T Mishra",
+          "runs": 72,
+          "balls": 89,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 80.9,
+          "out": true,
+          "dismissal": "run out"
+        },
+        {
+          "name": "TM Odoyo",
+          "runs": 35,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 92.11,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "AA Obanda",
+          "runs": 14,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 140.0,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "DO Obuya",
+          "runs": 12,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true,
+          "dismissal": "run out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "SW Tait",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 2,
+          "economy": 6.12,
+          "wides": 5,
+          "no_balls": 2
+        },
+        {
+          "name": "B Lee",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 26,
+          "wickets": 1,
+          "economy": 3.25,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Clarke",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 21,
+          "wickets": 0,
+          "economy": 4.2,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "JJ Krejza",
+          "overs": "8.0",
+          "maidens": 0,
+          "runs_conceded": 36,
+          "wickets": 0,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "MG Johnson",
+          "overs": "8.0",
+          "maidens": 1,
+          "runs_conceded": 40,
+          "wickets": 0,
+          "economy": 5.0,
+          "wides": 2,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "MA Ouma",
+          "runs": 12,
+          "wickets": 1,
+          "overs": "2.5"
+        },
+        {
+          "player": "AA Obanda",
+          "runs": 21,
+          "wickets": 2,
+          "overs": "3.6"
+        },
+        {
+          "player": "DO Obuya",
+          "runs": 46,
+          "wickets": 3,
+          "overs": "9.4"
+        },
+        {
+          "player": "T Mishra",
+          "runs": 161,
+          "wickets": 4,
+          "overs": "35.3"
+        },
+        {
+          "player": "TM Odoyo",
+          "runs": 247,
+          "wickets": 5,
+          "overs": "47.3"
+        },
+        {
+          "player": "RR Patel",
+          "runs": 263,
+          "wickets": 6,
+          "overs": "49.4"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 3,
+        "run_rate": 4.6,
+        "fours": 3,
+        "sixes": 2,
+        "dot_balls": 43,
+        "extras": 7
+      },
+      "death_overs_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 80,
+        "wickets": 2,
+        "run_rate": 8.0,
+        "fours": 8,
+        "sixes": 3,
+        "dot_balls": 25,
+        "extras": 4
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "MJ Clarke": {
+      "batting": {
+        "runs": 93,
+        "balls": 80,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 116.25
+      },
+      "bowling": {
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 0,
+        "economy": 4.2
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "BJ Haddin": {
+      "batting": {
+        "runs": 65,
+        "balls": 79,
+        "fours": 9,
+        "sixes": 1,
+        "strike_rate": 82.28
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MEK Hussey": {
+      "batting": {
+        "runs": 54,
+        "balls": 43,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 125.58
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RT Ponting": {
+      "batting": {
+        "runs": 36,
+        "balls": 54,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SR Watson": {
+      "batting": {
+        "runs": 21,
+        "balls": 17,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 123.53
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "NN Odhiambo": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 57,
+        "wickets": 3,
+        "economy": 5.7
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JK Kamande": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 2,
+        "economy": 4.6
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "CO Obuya": {
+      "batting": {
+        "runs": 98,
+        "balls": 129,
+        "fours": 8,
+        "sixes": 3,
+        "strike_rate": 75.97
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 8.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "TM Odoyo": {
+      "batting": {
+        "runs": 35,
+        "balls": 38,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 92.11
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JO Ngoche": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 56,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "T Mishra": {
+      "batting": {
+        "runs": 72,
+        "balls": 89,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 80.9
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AA Obanda": {
+      "batting": {
+        "runs": 14,
+        "balls": 10,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 140.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DO Obuya": {
+      "batting": {
+        "runs": 12,
+        "balls": 16,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 75.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SW Tait": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 2,
+        "economy": 6.12
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "B Lee": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 3.25
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "JJ Krejza": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MG Johnson": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 8.0,
+        "maidens": 0,
+        "runs": 40,
+        "wickets": 0,
+        "economy": 5.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: Australia scored 324 in 50.0 overs at 6.48 RPO",
+    "vs Kenya scored 264 in 50.0 overs at 5.28 RPO",
+    "Top batsman: CO Obuya with 98 runs",
+    "Top bowler: NN Odhiambo with 3 wickets"
+  ]
+}

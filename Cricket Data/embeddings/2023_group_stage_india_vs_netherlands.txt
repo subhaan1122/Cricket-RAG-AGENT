@@ -1,0 +1,61 @@
+ICC Cricket World Cup 2023
+Match: India vs Netherlands
+Stage: Group Stage
+Date: 2023-11-12
+Venue: M Chinnaswamy Stadium, Bengaluru, Bengaluru
+Captain India: Rohit Sharma
+Captain Netherlands: Scott Edwards
+
+Match Summary:
+  2023 World Cup Group Stage: India vs Netherlands (2023-11-12) at Bengaluru.
+
+India: 410/4 (50.0 ov)
+  SS Iyer: 128 (94b, 10x4, 5x6, SR 136.17)
+  KL Rahul: 102 (64b, 11x4, 4x6, SR 159.38)
+  RG Sharma: 61 (54b, 8x4, 2x6, SR 112.96)
+  Shubman Gill: 51 (32b, 3x4, 4x6, SR 159.38)
+  V Kohli: 51 (56b, 5x4, 1x6, SR 91.07)
+  BFW de Leede: 2/82 (10.0 ov, Econ 8.2)
+  RE van der Merwe: 1/53 (10.0 ov, Econ 5.3)
+  PA van Meekeren: 1/90 (10.0 ov, Econ 9.0)
+  A Dutt: 0/52 (7.0 ov, Econ 7.43)
+  CN Ackermann: 0/25 (3.0 ov, Econ 8.33)
+  Extras: 15
+
+Netherlands: 250 all out (47.5 ov)
+  AT Nidamanuru: 54 (39b, 1x4, 6x6, SR 138.46)
+  SA Engelbrecht: 45 (80b, 4x4, 0x6, SR 56.25)
+  CN Ackermann: 35 (32b, 6x4, 0x6, SR 109.38)
+  MP O'Dowd: 30 (42b, 3x4, 1x6, SR 71.43)
+  SA Edwards: 17 (30b, 1x4, 0x6, SR 56.67)
+  JJ Bumrah: 2/33 (9.0 ov, Econ 3.67)
+  Kuldeep Yadav: 2/41 (10.0 ov, Econ 4.1)
+  Mohammed Siraj: 2/29 (6.0 ov, Econ 4.83)
+  RA Jadeja: 2/49 (9.0 ov, Econ 5.44)
+  V Kohli: 1/13 (3.0 ov, Econ 4.33)
+  Extras: 13
+
+Batting Highlights:
+  Century: SS Iyer scored 128 off 94 balls (SR 136.17, 10 fours, 5 sixes)
+  Century: KL Rahul scored 102 off 64 balls (SR 159.38, 11 fours, 4 sixes)
+  Half-century: RG Sharma scored 61 off 54 balls (SR 112.96)
+  Half-century: Shubman Gill scored 51 off 32 balls (SR 159.38)
+  Half-century: V Kohli scored 51 off 56 balls (SR 91.07)
+  Half-century: AT Nidamanuru scored 54 off 39 balls (SR 138.46)
+
+Bowling Highlights:
+  Best bowling: BFW de Leede with 2/82
+
+Captain Performance:
+  Rohit Sharma (India): scored 61 off 54 balls
+  Scott Edwards (Netherlands): scored 17 off 30 balls
+
+Key Moments:
+  India lost 4 early wickets.
+  Netherlands lost 10 early wickets.
+  India scored aggressively in the powerplay (91 runs at 9.1 RPO).
+  India exploded in the death overs (126 runs at 12.6 RPO).
+
+Result: India won by 160 runs
+Toss: India won and chose to bat
+Player of the Match: SS Iyer

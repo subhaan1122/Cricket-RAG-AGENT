@@ -1,0 +1,803 @@
+{
+  "match_info": {
+    "match_id": "af03271701a8",
+    "world_cup_year": 2011,
+    "stage": "Group B",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "date": "2011-03-20",
+    "teams": {
+      "team1": "India",
+      "team2": "West Indies"
+    },
+    "toss": {
+      "winner": "India",
+      "decision": "bat"
+    },
+    "result": {
+      "winner": "India",
+      "margin": "80 runs",
+      "method": "",
+      "result_type": "completed"
+    },
+    "captains": {
+      "team1": "MS Dhoni",
+      "team2": "Darren Sammy"
+    },
+    "player_of_match": "Yuvraj Singh",
+    "data_source": "ball_by_ball"
+  },
+  "match_summary": "2011 World Cup Group B: India vs West Indies (2011-03-20) at Chennai.\nIndia: 268 all out (49.1 ov)\n  Yuvraj Singh: 113 (123b, 10x4, 2x6)\n  V Kohli: 59 (76b, 5x4, 0x6)\n  R Rampaul: 5/51 (10.0 ov)\n  AD Russell: 2/46 (9.1 ov)\nWest Indies: 188 all out (43.0 ov)\n  DS Smith: 81 (97b, 7x4, 1x6)\n  RR Sarwan: 39 (68b, 3x4, 0x6)\n  Z Khan: 3/26 (6.0 ov)\n  R Ashwin: 2/41 (10.0 ov)\n  Yuvraj Singh: 2/18 (4.0 ov)\nIndia won by 80 runs.\nPlayer of the Match: Yuvraj Singh.",
+  "statistical_analysis": {
+    "match_type": "ODI",
+    "total_runs_scored": 456,
+    "total_wickets_fallen": 20,
+    "average_run_rate": 4.92,
+    "highest_individual_score": 113,
+    "best_bowling_figures": "5/51",
+    "total_sixes": 5,
+    "total_fours": 34
+  },
+  "innings_analysis": [
+    {
+      "team": "India",
+      "total_runs": 268,
+      "total_wickets": 10,
+      "total_overs": 49.1,
+      "run_rate": 5.47,
+      "top_batters": [
+        {
+          "name": "Yuvraj Singh",
+          "runs": 113,
+          "balls": 123,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 91.87,
+          "out": true,
+          "dismissal": "caught and bowled"
+        },
+        {
+          "name": "V Kohli",
+          "runs": 59,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.63,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "G Gambhir",
+          "runs": 22,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "MS Dhoni",
+          "runs": 22,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true,
+          "dismissal": "stumped"
+        },
+        {
+          "name": "YK Pathan",
+          "runs": 11,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true,
+          "dismissal": "bowled"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "R Rampaul",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 51,
+          "wickets": 5,
+          "economy": 5.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "AD Russell",
+          "overs": "9.1",
+          "maidens": 1,
+          "runs_conceded": 46,
+          "wickets": 2,
+          "economy": 5.02,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "D Bishoo",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 48,
+          "wickets": 1,
+          "economy": 4.8,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "KA Pollard",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 49,
+          "wickets": 1,
+          "economy": 4.9,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "DJG Sammy",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 5.83,
+          "wides": 1,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "SR Tendulkar",
+          "runs": 8,
+          "wickets": 1,
+          "overs": "0.6"
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 51,
+          "wickets": 2,
+          "overs": "8.3"
+        },
+        {
+          "player": "V Kohli",
+          "runs": 173,
+          "wickets": 3,
+          "overs": "32.2"
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 218,
+          "wickets": 4,
+          "overs": "41.4"
+        },
+        {
+          "player": "SK Raina",
+          "runs": 232,
+          "wickets": 5,
+          "overs": "43.5"
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 240,
+          "wickets": 6,
+          "overs": "44.6"
+        },
+        {
+          "player": "YK Pathan",
+          "runs": 251,
+          "wickets": 7,
+          "overs": "46.4"
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 259,
+          "wickets": 8,
+          "overs": "47.5"
+        },
+        {
+          "player": "Z Khan",
+          "runs": 267,
+          "wickets": 9,
+          "overs": "48.5"
+        },
+        {
+          "player": "MM Patel",
+          "runs": 268,
+          "wickets": 10,
+          "overs": "49.1"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 53,
+        "wickets": 2,
+        "run_rate": 5.3,
+        "fours": 6,
+        "sixes": 0,
+        "dot_balls": 36,
+        "extras": 9
+      },
+      "death_overs_stats": {
+        "overs": "9.1",
+        "balls": 55,
+        "runs": 56,
+        "wickets": 7,
+        "run_rate": 6.11,
+        "fours": 3,
+        "sixes": 1,
+        "dot_balls": 21,
+        "extras": 4
+      },
+      "partnerships": []
+    },
+    {
+      "team": "West Indies",
+      "total_runs": 188,
+      "total_wickets": 10,
+      "total_overs": 43.0,
+      "run_rate": 4.37,
+      "top_batters": [
+        {
+          "name": "DS Smith",
+          "runs": 81,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 83.51,
+          "out": true,
+          "dismissal": "bowled"
+        },
+        {
+          "name": "RR Sarwan",
+          "runs": 39,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.35,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "DM Bravo",
+          "runs": 22,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.86,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "KA Edwards",
+          "runs": 17,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true,
+          "dismissal": "lbw"
+        },
+        {
+          "name": "D Bishoo",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "Z Khan",
+          "overs": "6.0",
+          "maidens": 0,
+          "runs_conceded": 26,
+          "wickets": 3,
+          "economy": 4.33,
+          "wides": 2,
+          "no_balls": 0
+        },
+        {
+          "name": "R Ashwin",
+          "overs": "10.0",
+          "maidens": 0,
+          "runs_conceded": 41,
+          "wickets": 2,
+          "economy": 4.1,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "Yuvraj Singh",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 18,
+          "wickets": 2,
+          "economy": 4.5,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "Harbhajan Singh",
+          "overs": "9.0",
+          "maidens": 1,
+          "runs_conceded": 35,
+          "wickets": 1,
+          "economy": 3.89,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "SK Raina",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 12,
+          "wickets": 1,
+          "economy": 6.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "KA Edwards",
+          "runs": 34,
+          "wickets": 1,
+          "overs": "6.2"
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 91,
+          "wickets": 2,
+          "overs": "16.6"
+        },
+        {
+          "player": "DS Smith",
+          "runs": 154,
+          "wickets": 3,
+          "overs": "30.3"
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 157,
+          "wickets": 4,
+          "overs": "31.5"
+        },
+        {
+          "player": "DC Thomas",
+          "runs": 160,
+          "wickets": 5,
+          "overs": "34.2"
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 162,
+          "wickets": 6,
+          "overs": "35.3"
+        },
+        {
+          "player": "AD Russell",
+          "runs": 165,
+          "wickets": 7,
+          "overs": "36.6"
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 179,
+          "wickets": 8,
+          "overs": "39.6"
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 182,
+          "wickets": 9,
+          "overs": "41.1"
+        },
+        {
+          "player": "R Rampaul",
+          "runs": 188,
+          "wickets": 10,
+          "overs": "42.6"
+        }
+      ],
+      "powerplay_stats": {
+        "overs": "10.0",
+        "balls": 60,
+        "runs": 46,
+        "wickets": 1,
+        "run_rate": 4.6,
+        "fours": 4,
+        "sixes": 1,
+        "dot_balls": 35,
+        "extras": 3
+      },
+      "death_overs_stats": {
+        "overs": "3.0",
+        "balls": 18,
+        "runs": 9,
+        "wickets": 2,
+        "run_rate": 3.0,
+        "fours": 1,
+        "sixes": 0,
+        "dot_balls": 13,
+        "extras": 1
+      },
+      "partnerships": []
+    }
+  ],
+  "player_analysis": {
+    "Yuvraj Singh": {
+      "batting": {
+        "runs": 113,
+        "balls": 123,
+        "fours": 10,
+        "sixes": 2,
+        "strike_rate": 91.87
+      },
+      "bowling": {
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "V Kohli": {
+      "batting": {
+        "runs": 59,
+        "balls": 76,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 77.63
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "G Gambhir": {
+      "batting": {
+        "runs": 22,
+        "balls": 26,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 84.62
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "MS Dhoni": {
+      "batting": {
+        "runs": 22,
+        "balls": 30,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 73.33
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "YK Pathan": {
+      "batting": {
+        "runs": 11,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 110.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Rampaul": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 51,
+        "wickets": 5,
+        "economy": 5.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "AD Russell": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.166666666666666,
+        "maidens": 0,
+        "runs": 46,
+        "wickets": 2,
+        "economy": 5.02
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "D Bishoo": {
+      "batting": {
+        "runs": 6,
+        "balls": 11,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 54.55
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 48,
+        "wickets": 1,
+        "economy": 4.8
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Pollard": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 49,
+        "wickets": 1,
+        "economy": 4.9
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DJG Sammy": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 5.83
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DS Smith": {
+      "batting": {
+        "runs": 81,
+        "balls": 97,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 83.51
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "RR Sarwan": {
+      "batting": {
+        "runs": 39,
+        "balls": 68,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 57.35
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "DM Bravo": {
+      "batting": {
+        "runs": 22,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 75.86
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "KA Edwards": {
+      "batting": {
+        "runs": 17,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      "bowling": {
+        "overs": 0,
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "economy": 0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Z Khan": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 6.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 3,
+        "economy": 4.33
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "R Ashwin": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 10.0,
+        "maidens": 0,
+        "runs": 41,
+        "wickets": 2,
+        "economy": 4.1
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "Harbhajan Singh": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 9.0,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 3.89
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    },
+    "SK Raina": {
+      "batting": {
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0
+      },
+      "bowling": {
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "fielding": {
+        "catches": 0,
+        "run_outs": 0
+      }
+    }
+  },
+  "match_insights": [
+    "Team comparison: India scored 268 in 49.1 overs at 5.47 RPO",
+    "vs West Indies scored 188 in 43.0 overs at 4.37 RPO",
+    "Top batsman: Yuvraj Singh with 113 runs",
+    "Top bowler: R Rampaul with 5 wickets"
+  ]
+}

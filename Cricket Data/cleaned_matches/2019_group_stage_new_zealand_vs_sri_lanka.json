@@ -1,0 +1,289 @@
+{
+  "match_id": "229a239b1606",
+  "world_cup_year": 2019,
+  "stage": "Group Stage",
+  "venue": "Sophia Gardens",
+  "city": "Cardiff",
+  "date": "2019-06-01",
+  "teams": {
+    "team1": "New Zealand",
+    "team2": "Sri Lanka"
+  },
+  "toss": {
+    "winner": "New Zealand",
+    "decision": "field"
+  },
+  "result": {
+    "winner": "New Zealand",
+    "margin": "10 wickets",
+    "method": "",
+    "result_type": "completed"
+  },
+  "captains": {
+    "team1": "Kane Williamson",
+    "team2": "Dimuth Karunaratne"
+  },
+  "player_of_match": "MJ Henry",
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "runs": 136,
+      "wickets": 10,
+      "overs": 29.2,
+      "extras": 11,
+      "top_batters": [
+        {
+          "name": "FDM Karunaratne",
+          "runs": 52,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "MDKJ Perera",
+          "runs": 29,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 120.83,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "NLTC Perera",
+          "runs": 27,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 117.39,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "RAS Lakmal",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true,
+          "dismissal": "caught"
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true,
+          "dismissal": "lbw"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "LH Ferguson",
+          "overs": "6.2",
+          "maidens": 0,
+          "runs_conceded": 22,
+          "wickets": 3,
+          "economy": 3.47,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "7.0",
+          "maidens": 0,
+          "runs_conceded": 29,
+          "wickets": 3,
+          "economy": 4.14,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 5,
+          "wickets": 1,
+          "economy": 2.5,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "TA Boult",
+          "overs": "9.0",
+          "maidens": 0,
+          "runs_conceded": 44,
+          "wickets": 1,
+          "economy": 4.89,
+          "wides": 4,
+          "no_balls": 0
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "2.0",
+          "maidens": 0,
+          "runs_conceded": 14,
+          "wickets": 1,
+          "economy": 7.0,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 4,
+          "wickets": 1,
+          "overs": "0.2"
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 46,
+          "wickets": 2,
+          "overs": "8.1"
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 46,
+          "wickets": 3,
+          "overs": "8.2"
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 53,
+          "wickets": 4,
+          "overs": "11.5"
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 59,
+          "wickets": 5,
+          "overs": "14.4"
+        },
+        {
+          "player": "BMAJ Mendis",
+          "runs": 60,
+          "wickets": 6,
+          "overs": "15.2"
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 112,
+          "wickets": 7,
+          "overs": "23.4"
+        },
+        {
+          "player": "I Udana",
+          "runs": 114,
+          "wickets": 8,
+          "overs": "24.4"
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 130,
+          "wickets": 9,
+          "overs": "28.1"
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 136,
+          "wickets": 10,
+          "overs": "29.2"
+        }
+      ],
+      "partnerships": []
+    },
+    {
+      "team": "New Zealand",
+      "runs": 137,
+      "wickets": 0,
+      "overs": 16.1,
+      "extras": 6,
+      "top_batters": [
+        {
+          "name": "MJ Guptill",
+          "runs": 73,
+          "balls": 51,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 143.14,
+          "out": false,
+          "dismissal": "not out"
+        },
+        {
+          "name": "C Munro",
+          "runs": 58,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 123.4,
+          "out": false,
+          "dismissal": "not out"
+        }
+      ],
+      "top_bowlers": [
+        {
+          "name": "RAS Lakmal",
+          "overs": "4.0",
+          "maidens": 0,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 7.0,
+          "wides": 1,
+          "no_balls": 0
+        },
+        {
+          "name": "I Udana",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 24,
+          "wickets": 0,
+          "economy": 8.0,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "3.0",
+          "maidens": 0,
+          "runs_conceded": 25,
+          "wickets": 0,
+          "economy": 8.33,
+          "wides": 0,
+          "no_balls": 0
+        },
+        {
+          "name": "SL Malinga",
+          "overs": "5.0",
+          "maidens": 0,
+          "runs_conceded": 46,
+          "wickets": 0,
+          "economy": 9.2,
+          "wides": 1,
+          "no_balls": 1
+        },
+        {
+          "name": "BMAJ Mendis",
+          "overs": "1.1",
+          "maidens": 0,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "economy": 9.43,
+          "wides": 0,
+          "no_balls": 0
+        }
+      ],
+      "fall_of_wickets": [],
+      "partnerships": []
+    }
+  ],
+  "data_source": "ball_by_ball",
+  "original_file": "2019_group_stage_new_zealand_vs_sri_lanka.json",
+  "match_summary": "2019 World Cup Group Stage: New Zealand vs Sri Lanka (2019-06-01) at Cardiff.\nSri Lanka: 136 all out (29.2 ov)\n  FDM Karunaratne: 52* (84b, 4x4, 0x6)\n  LH Ferguson: 3/22 (6.2 ov)\n  MJ Henry: 3/29 (7.0 ov)\nNew Zealand: 137/0 (16.1 ov)\n  MJ Guptill: 73* (51b, 7x4, 2x6)\n  C Munro: 58* (47b, 6x4, 1x6)\nNew Zealand won by 10 wickets.\nPlayer of the Match: MJ Henry."
+}

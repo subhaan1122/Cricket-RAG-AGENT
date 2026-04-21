@@ -1,0 +1,25 @@
+# ICC Cricket World Cup Summary (2003-2023)
+
+## Winners by Year:
+- 2003: Australia (defeated India)
+- 2007: Australia (defeated Sri Lanka)
+- 2011: India (defeated Sri Lanka)
+- 2015: Australia (defeated New Zealand)
+- 2019: England (defeated New Zealand)
+- 2023: Australia (defeated India)
+
+## Runners-up by Year:
+- 2003: India
+- 2007: Sri Lanka
+- 2011: Sri Lanka
+- 2015: New Zealand
+- 2019: New Zealand
+- 2023: India
+
+## Host Nations:
+- 2003: South Africa, Zimbabwe, Kenya
+- 2007: West Indies
+- 2011: India, Sri Lanka, Bangladesh
+- 2015: Australia, New Zealand
+- 2019: England
+- 2023: India

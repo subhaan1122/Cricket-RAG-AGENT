@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2007
+Match: Bangladesh vs Bermuda
+Stage: Group B
+Date: 2007-03-25
+Venue: Queen's Park Oval, Port of Spain, Trinidad
+Captain Bangladesh: Habibul Bashar
+Captain Bermuda: Irving Romaine
+
+Match Summary:
+  2007 World Cup Group B: Bangladesh vs Bermuda (2007-03-25) at Trinidad.
+
+Bermuda: 94/9 (21.0 ov)
+  DA Minors: 23 (25b, 0x4, 1x6, SR 92.0)
+  OL Pitcher: 22 (47b, 1x4, 0x6, SR 46.81)
+  LOB Cann: 16 (6b, 2x4, 1x6, SR 266.67)
+  IH Romaine: 11 (21b, 2x4, 0x6, SR 52.38)
+  JJ Tucker: 9 (6b, 1x4, 0x6, SR 150.0)
+  Abdur Razzak: 3/20 (4.0 ov, Econ 5.0)
+  Mashrafe Mortaza: 2/8 (4.0 ov, Econ 2.0)
+  Shakib Al Hasan: 2/12 (3.0 ov, Econ 4.0)
+  Syed Rasel: 1/14 (5.0 ov, Econ 2.8)
+  Mohammad Rafique: 1/18 (4.0 ov, Econ 4.5)
+  Extras: 11
+
+Bangladesh: 96/3 (17.3 ov)
+  Mohammad Ashraful: 29 (32b, 2x4, 0x6, SR 90.62)
+  Shakib Al Hasan: 26 (35b, 2x4, 0x6, SR 74.29)
+  Shahriar Nafees: 12 (25b, 0x4, 1x6, SR 48.0)
+  Aftab Ahmed: 7 (14b, 1x4, 0x6, SR 50.0)
+  Tamim Iqbal: 1 (2b, 0x4, 0x6, SR 50.0)
+  S Mukuddem: 3/19 (5.0 ov, Econ 3.8)
+  JJ Tucker: 0/14 (3.0 ov, Econ 4.67)
+  RDM Leverock: 0/19 (3.3 ov, Econ 5.43)
+  KAD Hurdle: 0/25 (4.0 ov, Econ 6.25)
+  DCC Borden: 0/15 (2.0 ov, Econ 7.5)
+  Extras: 21
+
+Batting Highlights:
+  Top scorer: Mohammad Ashraful with 29 runs
+
+Bowling Highlights:
+  Key spell: Abdur Razzak took 3/20
+  Economical spell: Syed Rasel conceded 14 runs in 5.0 overs (Econ 2.8)
+  Key spell: S Mukuddem took 3/19
+
+Captain Performance:
+  Irving Romaine (Bermuda): scored 11 off 21 balls
+
+Key Moments:
+  Bermuda lost 9 early wickets.
+  Bangladesh lost 3 early wickets.
+  Bermuda lost 3 wickets in the powerplay.
+  Bangladesh lost 3 wickets in the powerplay.
+
+Result: Bangladesh won by 7 wickets (D/L)
+Toss: Bangladesh won and chose to field
+Player of the Match: Mohammad Ashraful

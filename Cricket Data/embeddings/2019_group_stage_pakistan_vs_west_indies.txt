@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2019
+Match: Pakistan vs West Indies
+Stage: Group Stage
+Date: 2019-05-31
+Venue: Trent Bridge, Nottingham
+Captain Pakistan: Sarfaraz Ahmed
+Captain West Indies: Jason Holder
+
+Match Summary:
+  2019 World Cup Group Stage: Pakistan vs West Indies (2019-05-31) at Nottingham.
+
+Pakistan: 105 all out (21.4 ov)
+  Fakhar Zaman: 22 (16b, 2x4, 1x6, SR 137.5)
+  Babar Azam: 22 (33b, 2x4, 0x6, SR 66.67)
+  Wahab Riaz: 18 (11b, 1x4, 2x6, SR 163.64)
+  Mohammad Hafeez: 16 (24b, 2x4, 0x6, SR 66.67)
+  Haris Sohail: 8 (11b, 1x4, 0x6, SR 72.73)
+  O Thomas: 4/27 (5.4 ov, Econ 4.76)
+  JO Holder: 3/42 (5.0 ov, Econ 8.4)
+  AD Russell: 2/4 (3.0 ov, Econ 1.33)
+  SS Cottrell: 1/18 (4.0 ov, Econ 4.5)
+  CR Brathwaite: 0/14 (4.0 ov, Econ 3.5)
+  Extras: 4
+
+West Indies: 108/3 (13.4 ov)
+  CH Gayle: 50 (34b, 6x4, 3x6, SR 147.06)
+  N Pooran: 34 (19b, 4x4, 2x6, SR 178.95)
+  SD Hope: 11 (17b, 1x4, 0x6, SR 64.71)
+  SO Hetmyer: 7 (8b, 0x4, 0x6, SR 87.5)
+  DM Bravo: 0 (4b, 0x4, 0x6, SR 0.0)
+  Mohammad Amir: 3/26 (6.0 ov, Econ 4.33)
+  Hasan Ali: 0/39 (4.0 ov, Econ 9.75)
+  Wahab Riaz: 0/40 (3.4 ov, Econ 10.91)
+  Extras: 6
+
+Batting Highlights:
+  Half-century: CH Gayle scored 50 off 34 balls (SR 147.06)
+  Quickfire innings: N Pooran smashed 34 off 19 balls at SR 178.95
+
+Bowling Highlights:
+  Match-changing spell: O Thomas took 4/27
+  Key spell: JO Holder took 3/42
+  Key spell: Mohammad Amir took 3/26
+
+Captain Performance:
+  Pakistan captain: Sarfaraz Ahmed
+  West Indies captain: Jason Holder
+
+Key Moments:
+  Pakistan lost 10 early wickets.
+  West Indies lost 3 early wickets.
+  Pakistan lost 3 wickets in the powerplay.
+  West Indies scored aggressively in the powerplay (71 runs at 7.1 RPO).
+
+Result: West Indies won by 7 wickets
+Toss: West Indies won and chose to field
+Player of the Match: O Thomas

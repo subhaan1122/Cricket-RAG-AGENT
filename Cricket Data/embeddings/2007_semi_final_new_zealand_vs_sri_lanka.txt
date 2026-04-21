@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2007
+Match: New Zealand vs Sri Lanka
+Stage: Semi-Final
+Date: 2007-04-24
+Venue: Sabina Park, Kingston, Jamaica
+Captain New Zealand: Stephen Fleming
+Captain Sri Lanka: Mahela Jayawardene
+
+Match Summary:
+  2007 World Cup Semi-Final: New Zealand vs Sri Lanka (2007-04-24) at Jamaica.
+
+Sri Lanka: 289/5 (50.0 ov)
+  DPMD Jayawardene: 115 (109b, 10x4, 3x6, SR 105.5)
+  WU Tharanga: 73 (74b, 9x4, 1x6, SR 98.65)
+  TM Dilshan: 30 (27b, 3x4, 0x6, SR 111.11)
+  LPC Silva: 21 (33b, 0x4, 1x6, SR 63.64)
+  KC Sangakkara: 18 (42b, 2x4, 0x6, SR 42.86)
+  JEC Franklin: 2/46 (9.0 ov, Econ 5.11)
+  DL Vettori: 1/51 (10.0 ov, Econ 5.1)
+  SE Bond: 1/59 (10.0 ov, Econ 5.9)
+  JDP Oram: 1/60 (10.0 ov, Econ 6.0)
+  JS Patel: 0/62 (10.0 ov, Econ 6.2)
+  Extras: 17
+
+New Zealand: 208 all out (41.4 ov)
+  PG Fulton: 46 (77b, 2x4, 1x6, SR 59.74)
+  SB Styris: 37 (38b, 2x4, 3x6, SR 97.37)
+  JS Patel: 34 (38b, 2x4, 1x6, SR 89.47)
+  JEC Franklin: 30 (38b, 2x4, 0x6, SR 78.95)
+  CD McMillan: 25 (20b, 1x4, 2x6, SR 125.0)
+  M Muralitharan: 4/31 (8.0 ov, Econ 3.88)
+  TM Dilshan: 2/22 (4.4 ov, Econ 4.71)
+  ST Jayasuriya: 2/57 (9.0 ov, Econ 6.33)
+  SL Malinga: 1/21 (7.0 ov, Econ 3.0)
+  WPUJC Vaas: 1/25 (8.0 ov, Econ 3.12)
+  Extras: 21
+
+Batting Highlights:
+  Century: DPMD Jayawardene scored 115 off 109 balls (SR 105.5, 10 fours, 3 sixes)
+  Half-century: WU Tharanga scored 73 off 74 balls (SR 98.65)
+
+Bowling Highlights:
+  Match-changing spell: M Muralitharan took 4/31
+  Economical spell: SL Malinga conceded 21 runs in 7.0 overs (Econ 3.0)
+  Economical spell: WPUJC Vaas conceded 25 runs in 8.0 overs (Econ 3.12)
+
+Captain Performance:
+  Mahela Jayawardene (Sri Lanka): scored 115 off 109 balls
+
+Key Moments:
+  Sri Lanka lost 5 early wickets.
+  New Zealand lost 10 early wickets.
+  Sri Lanka exploded in the death overs (102 runs at 10.2 RPO).
+
+Result: Sri Lanka won by 81 runs
+Toss: Sri Lanka won and chose to bat
+Player of the Match: DPMD Jayawardene

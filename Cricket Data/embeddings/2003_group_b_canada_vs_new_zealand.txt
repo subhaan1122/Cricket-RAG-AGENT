@@ -1,0 +1,62 @@
+ICC Cricket World Cup 2003
+Match: Canada vs New Zealand
+Stage: Group B
+Date: 2003-03-03
+Venue: Willowmoore Park, Benoni, Benoni
+Captain Canada: Joe Harris
+Captain New Zealand: Stephen Fleming
+
+Match Summary:
+  2003 World Cup Group B: Canada vs New Zealand (2003-03-03) at Benoni.
+
+Canada: 196 all out (47.0 ov)
+  JM Davison: 75 (62b, 9x4, 4x6, SR 120.97)
+  JV Harris: 26 (39b, 3x4, 0x6, SR 66.67)
+  A Patel: 25 (29b, 3x4, 0x6, SR 86.21)
+  NA de Groot: 17 (49b, 3x4, 0x6, SR 34.69)
+  AM Samad: 12 (20b, 2x4, 0x6, SR 60.0)
+  JDP Oram: 4/52 (10.0 ov, Econ 5.2)
+  SE Bond: 3/29 (10.0 ov, Econ 2.9)
+  SB Styris: 2/23 (4.0 ov, Econ 5.75)
+  CZ Harris: 1/19 (7.0 ov, Econ 2.71)
+  DL Vettori: 0/34 (10.0 ov, Econ 3.4)
+  Extras: 14
+
+New Zealand: 197/5 (23.0 ov)
+  SB Styris: 54 (38b, 4x4, 2x6, SR 142.11)
+  CZ Harris: 38 (29b, 4x4, 0x6, SR 131.03)
+  AR Adams: 36 (20b, 3x4, 3x6, SR 180.0)
+  CL Cairns: 31 (28b, 2x4, 1x6, SR 110.71)
+  CD McMillan: 14 (13b, 3x4, 0x6, SR 107.69)
+  JM Davison: 3/61 (10.0 ov, Econ 6.1)
+  BB Seebaran: 1/61 (7.0 ov, Econ 8.71)
+  N Ifill: 0/7 (1.0 ov, Econ 7.0)
+  A Patel: 0/32 (3.0 ov, Econ 10.67)
+  A Codrington: 0/33 (2.0 ov, Econ 16.5)
+  Extras: 8
+
+Batting Highlights:
+  Half-century: JM Davison scored 75 off 62 balls (SR 120.97)
+  Half-century: SB Styris scored 54 off 38 balls (SR 142.11)
+  Quickfire innings: AR Adams smashed 36 off 20 balls at SR 180.0
+
+Bowling Highlights:
+  Match-changing spell: JDP Oram took 4/52
+  Key spell: SE Bond took 3/29
+  Economical spell: CZ Harris conceded 19 runs in 7.0 overs (Econ 2.71)
+  Economical spell: DL Vettori conceded 34 runs in 10.0 overs (Econ 3.4)
+  Key spell: JM Davison took 3/61
+
+Captain Performance:
+  Joe Harris (Canada): scored 26 off 39 balls
+  Joe Harris (Canada): bowled 7.0 overs, 1/0
+
+Key Moments:
+  Canada lost 10 early wickets.
+  New Zealand lost 5 early wickets.
+  New Zealand scored aggressively in the powerplay (89 runs at 8.9 RPO).
+  New Zealand lost 3 wickets in the powerplay.
+
+Result: New Zealand won by 5 wickets
+Toss: New Zealand won and chose to field
+Player of the Match: JM Davison

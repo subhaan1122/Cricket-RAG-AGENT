@@ -1,0 +1,57 @@
+ICC Cricket World Cup 2015
+Match: South Africa vs United Arab Emirates
+Stage: Group B
+Date: 2015-03-12
+Venue: Westpac Stadium, Wellington
+Captain South Africa: AB de Villiers
+Captain United Arab Emirates: Mohammad Tauqir
+
+Match Summary:
+  2015 World Cup Group B: South Africa vs United Arab Emirates (2015-03-12) at Wellington.
+
+South Africa: 341/6 (50.0 ov)
+  AB de Villiers: 99 (82b, 6x4, 4x6, SR 120.73)
+  F Behardien: 64 (31b, 5x4, 3x6, SR 206.45)
+  DA Miller: 49 (48b, 2x4, 0x6, SR 102.08)
+  RR Rossouw: 43 (49b, 8x4, 0x6, SR 87.76)
+  Q de Kock: 26 (45b, 2x4, 0x6, SR 57.78)
+  Mohammad Naveed: 3/63 (10.0 ov, Econ 6.3)
+  Mohammad Tauqir: 1/47 (10.0 ov, Econ 4.7)
+  Kamran Shazad: 1/59 (8.0 ov, Econ 7.38)
+  Amjad Javed: 1/87 (10.0 ov, Econ 8.7)
+  Shaiman Anwar: 0/4 (0.4 ov, Econ 6.0)
+  Extras: 15
+
+United Arab Emirates: 195/9 (47.3 ov)
+  SP Patil: 57 (100b, 5x4, 0x6, SR 57.0)
+  Shaiman Anwar: 39 (64b, 5x4, 0x6, SR 60.94)
+  Amjad Ali: 21 (36b, 3x4, 0x6, SR 58.33)
+  Mohammad Naveed: 17 (15b, 2x4, 1x6, SR 113.33)
+  Khurram Khan: 12 (17b, 2x4, 0x6, SR 70.59)
+  M Morkel: 2/23 (10.0 ov, Econ 2.3)
+  VD Philander: 2/34 (8.3 ov, Econ 4.0)
+  AB de Villiers: 2/15 (3.0 ov, Econ 5.0)
+  JP Duminy: 1/12 (3.0 ov, Econ 4.0)
+  Imran Tahir: 1/40 (10.0 ov, Econ 4.0)
+  Extras: 29
+
+Batting Highlights:
+  Half-century: AB de Villiers scored 99 off 82 balls (SR 120.73)
+  Half-century: F Behardien scored 64 off 31 balls (SR 206.45)
+  Half-century: SP Patil scored 57 off 100 balls (SR 57.0)
+
+Bowling Highlights:
+  Key spell: Mohammad Naveed took 3/63
+  Economical spell: M Morkel conceded 23 runs in 10.0 overs (Econ 2.3)
+
+Captain Performance:
+  AB de Villiers (South Africa): scored 99 off 82 balls
+
+Key Moments:
+  South Africa lost 6 early wickets.
+  United Arab Emirates lost 9 early wickets.
+  South Africa exploded in the death overs (101 runs at 10.1 RPO).
+
+Result: South Africa won by 146 runs
+Toss: United Arab Emirates won and chose to field
+Player of the Match: AB de Villiers

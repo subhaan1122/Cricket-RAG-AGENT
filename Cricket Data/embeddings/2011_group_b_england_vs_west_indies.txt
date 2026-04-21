@@ -1,0 +1,59 @@
+ICC Cricket World Cup 2011
+Match: England vs West Indies
+Stage: Group B
+Date: 2011-03-17
+Venue: MA Chidambaram Stadium, Chepauk, Chennai
+Captain England: Andrew Strauss
+Captain West Indies: Darren Sammy
+
+Match Summary:
+  2011 World Cup Group B: England vs West Indies (2011-03-17) at Chennai.
+
+England: 243 all out (48.4 ov)
+  IJL Trott: 47 (38b, 7x4, 0x6, SR 123.68)
+  LJ Wright: 44 (57b, 5x4, 0x6, SR 77.19)
+  AJ Strauss: 31 (39b, 3x4, 1x6, SR 79.49)
+  IR Bell: 27 (48b, 1x4, 0x6, SR 56.25)
+  MJ Prior: 21 (21b, 3x4, 0x6, SR 100.0)
+  AD Russell: 4/49 (8.0 ov, Econ 6.12)
+  D Bishoo: 3/34 (10.0 ov, Econ 3.4)
+  KAJ Roach: 2/34 (9.4 ov, Econ 3.52)
+  KA Pollard: 0/37 (8.0 ov, Econ 4.62)
+  SJ Benn: 0/56 (10.0 ov, Econ 5.6)
+  Extras: 22
+
+West Indies: 225 all out (44.4 ov)
+  AD Russell: 49 (46b, 2x4, 3x6, SR 106.52)
+  CH Gayle: 43 (21b, 8x4, 1x6, SR 204.76)
+  DJG Sammy: 41 (29b, 2x4, 3x6, SR 141.38)
+  RR Sarwan: 31 (68b, 3x4, 0x6, SR 45.59)
+  KA Pollard: 24 (27b, 1x4, 2x6, SR 88.89)
+  JC Tredwell: 4/48 (10.0 ov, Econ 4.8)
+  GP Swann: 3/36 (10.0 ov, Econ 3.6)
+  RS Bopara: 2/22 (8.4 ov, Econ 2.54)
+  LJ Wright: 0/18 (4.0 ov, Econ 4.5)
+  TT Bresnan: 0/46 (7.0 ov, Econ 6.57)
+  Extras: 11
+
+Batting Highlights:
+  Quickfire innings: CH Gayle smashed 43 off 21 balls at SR 204.76
+
+Bowling Highlights:
+  Match-changing spell: AD Russell took 4/49
+  Key spell: D Bishoo took 3/34
+  Match-changing spell: JC Tredwell took 4/48
+  Key spell: GP Swann took 3/36
+  Economical spell: RS Bopara conceded 22 runs in 8.4 overs (Econ 2.54)
+
+Captain Performance:
+  Andrew Strauss (England): scored 31 off 39 balls
+  Darren Sammy (West Indies): scored 41 off 29 balls
+
+Key Moments:
+  England lost 10 early wickets.
+  West Indies lost 10 early wickets.
+  West Indies scored aggressively in the powerplay (78 runs at 7.8 RPO).
+
+Result: England won by 18 runs
+Toss: England won and chose to bat
+Player of the Match: JC Tredwell
