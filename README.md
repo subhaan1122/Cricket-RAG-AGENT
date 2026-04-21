@@ -185,7 +185,7 @@ Cricket-World-Cup-RAG-Assistant/
 - "Compare Virat Kohli and Ricky Ponting's World Cup records"
 - "What happened in the 2003 World Cup final?"
 - "Tell me about the biggest upsets in World Cup history"
-- "Who scored the most centuries across all World Cups?"
+- "Who scored the most centuries across all World Cups?" 
 - "Describe the 2007 World Cup Super Eight format"
 - "What was MS Dhoni's World Cup career like?"
 - "Which bowler had the best economy rate in 2015?"
@@ -220,5 +220,6 @@ This project uses cricket data from public ICC sources. AI responses generated u
 python server.py
 # Then open http://localhost:8000
 ```
-#   C r i c k e t - R A G - A G E N T  
+#   C r i c k e t - R A G - A G E N T 
+ 
  
